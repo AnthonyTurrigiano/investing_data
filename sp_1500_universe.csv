@@ -1,0 +1,1504 @@
+Name,Ticker,Sector,Industry,Status
+NVIDIA CORP,NVDA,Technology,Semiconductors,ok
+APPLE INC,AAPL,Technology,Consumer Electronics,ok
+MICROSOFT CORP,MSFT,Technology,Software - Infrastructure,ok
+AMAZON.COM INC,AMZN,Consumer Cyclical,Internet Retail,ok
+ALPHABET INC CL A,GOOGL,Communication Services,Internet Content & Information,ok
+BROADCOM INC,AVGO,Technology,Semiconductors,ok
+ALPHABET INC CL C,GOOG,Communication Services,Internet Content & Information,ok
+META PLATFORMS INC CLASS A,META,Communication Services,Internet Content & Information,ok
+TESLA INC,TSLA,Consumer Cyclical,Auto Manufacturers,ok
+MICRON TECHNOLOGY INC,MU,Technology,Semiconductors,ok
+ELI LILLY + CO,LLY,Healthcare,Drug Manufacturers - General,ok
+BERKSHIRE HATHAWAY INC CL B,BRK-B,Financial Services,Insurance - Diversified,ok
+JPMORGAN CHASE + CO,JPM,Financial Services,Banks - Diversified,ok
+ADVANCED MICRO DEVICES,AMD,Technology,Semiconductors,ok
+JOHNSON + JOHNSON,JNJ,Healthcare,Drug Manufacturers - General,ok
+INTEL CORP,INTC,Technology,Semiconductors,ok
+VISA INC CLASS A SHARES,V,Financial Services,Credit Services,ok
+EXXONMOBIL HOLDINGS CORP,XOM,Energy,Oil & Gas Integrated,ok
+APPLIED MATERIALS INC,AMAT,Technology,Semiconductor Equipment & Materials,ok
+LAM RESEARCH CORP,LRCX,Technology,Semiconductor Equipment & Materials,ok
+WALMART INC,WMT,Consumer Defensive,Discount Stores,ok
+CISCO SYSTEMS INC,CSCO,Technology,Communication Equipment,ok
+CATERPILLAR INC,CAT,Industrials,Farm & Heavy Construction Machinery,ok
+ABBVIE INC,ABBV,Healthcare,Drug Manufacturers - General,ok
+MASTERCARD INC   A,MA,Financial Services,Credit Services,ok
+COSTCO WHOLESALE CORP,COST,Consumer Defensive,Discount Stores,ok
+UNITEDHEALTH GROUP INC,UNH,Healthcare,Healthcare Plans,ok
+GENERAL ELECTRIC,GE,Industrials,Aerospace & Defense,ok
+BANK OF AMERICA CORP,BAC,Financial Services,Banks - Diversified,ok
+HOME DEPOT INC,HD,Consumer Cyclical,Home Improvement Retail,ok
+KLA CORP,KLAC,Technology,Semiconductor Equipment & Materials,ok
+PROCTER + GAMBLE CO/THE,PG,Consumer Defensive,Household & Personal Products,ok
+COCA COLA CO/THE,KO,Consumer Defensive,Beverages - Non-Alcoholic,ok
+CHEVRON CORP,CVX,Energy,Oil & Gas Integrated,ok
+NETFLIX INC,NFLX,Communication Services,Entertainment,ok
+MERCK + CO. INC.,MRK,Healthcare,Drug Manufacturers - General,ok
+GE VERNOVA INC,GEV,Industrials,Specialty Industrial Machinery,ok
+GOLDMAN SACHS GROUP INC,GS,Financial Services,Capital Markets,ok
+SANDISK CORP,SNDK,Technology,Computer Hardware,ok
+PALANTIR TECHNOLOGIES INC A,PLTR,Technology,Software - Infrastructure,ok
+PALO ALTO NETWORKS INC,PANW,Technology,Software - Infrastructure,ok
+PHILIP MORRIS INTERNATIONAL,PM,Consumer Defensive,Tobacco,ok
+TEXAS INSTRUMENTS INC,TXN,Technology,Semiconductors,ok
+INTL BUSINESS MACHINES CORP,IBM,Technology,Information Technology Services,ok
+WELLS FARGO + CO,WFC,Financial Services,Banks - Diversified,ok
+RTX CORP,RTX,Industrials,Aerospace & Defense,ok
+MORGAN STANLEY,MS,Financial Services,Capital Markets,ok
+LINDE PLC,LIN,Basic Materials,Specialty Chemicals,ok
+ORACLE CORP,ORCL,Technology,Software - Infrastructure,ok
+CITIGROUP INC,C,Financial Services,Banks - Diversified,ok
+MARVELL TECHNOLOGY INC,MRVL,Technology,Semiconductors,ok
+AMPHENOL CORP CL A,APH,Technology,Electronic Components,ok
+WESTERN DIGITAL CORP,WDC,Technology,Computer Hardware,ok
+SEAGATE TECHNOLOGY HOLDINGS,STX,Technology,Computer Hardware,ok
+CROWDSTRIKE HOLDINGS INC   A,CRWD,Technology,Software - Infrastructure,ok
+AMGEN INC,AMGN,Healthcare,Drug Manufacturers - General,ok
+PEPSICO INC,PEP,Consumer Defensive,Beverages - Non-Alcoholic,ok
+MCDONALD S CORP,MCD,Consumer Cyclical,Restaurants,ok
+QUALCOMM INC,QCOM,Technology,Semiconductors,ok
+THERMO FISHER SCIENTIFIC INC,TMO,Healthcare,Diagnostics & Research,ok
+ANALOG DEVICES INC,ADI,Technology,Semiconductors,ok
+AMERICAN EXPRESS CO,AXP,Financial Services,Credit Services,ok
+NEXTERA ENERGY INC,NEE,Utilities,Utilities - Regulated Electric,ok
+CORNING INC,GLW,Technology,Electronic Components,ok
+VERIZON COMMUNICATIONS INC,VZ,Communication Services,Telecom Services,ok
+ARISTA NETWORKS INC,ANET,Technology,Computer Hardware,ok
+BOEING CO/THE,BA,Industrials,Aerospace & Defense,ok
+TJX COMPANIES INC,TJX,Consumer Cyclical,Apparel Retail,ok
+UNION PACIFIC CORP,UNP,Industrials,Railroads,ok
+WALT DISNEY CO/THE,DIS,Communication Services,Entertainment,ok
+ABBOTT LABORATORIES,ABT,Healthcare,Medical Devices,ok
+EATON CORP PLC,ETN,Industrials,Specialty Industrial Machinery,ok
+GILEAD SCIENCES INC,GILD,Healthcare,Drug Manufacturers - General,ok
+WELLTOWER INC,WELL,Real Estate,REIT - Healthcare Facilities,ok
+SCHWAB (CHARLES) CORP,SCHW,Financial Services,Capital Markets,ok
+DEERE + CO,DE,Industrials,Farm & Heavy Construction Machinery,ok
+APPLOVIN CORP CLASS A,APP,Communication Services,Advertising Agencies,ok
+UBER TECHNOLOGIES INC,UBER,Technology,Software - Application,ok
+AT+T INC,T,Communication Services,Telecom Services,ok
+INTUITIVE SURGICAL INC,ISRG,Healthcare,Medical Instruments & Supplies,ok
+BLACKROCK INC,BLK,Financial Services,Asset Management,ok
+BOOKING HOLDINGS INC,BKNG,Consumer Cyclical,Travel Services,ok
+PFIZER INC,PFE,Healthcare,Drug Manufacturers - General,ok
+CVS HEALTH CORP,CVS,Healthcare,Healthcare Plans,ok
+PROGRESSIVE CORP,PGR,Financial Services,Insurance - Property & Casualty,ok
+SALESFORCE INC,CRM,Technology,Software - Application,ok
+PROLOGIS INC,PLD,Real Estate,REIT - Industrial,ok
+CHUBB LTD,CB,Financial Services,Insurance - Property & Casualty,ok
+CONOCOPHILLIPS,COP,Energy,Oil & Gas E&P,ok
+S+P GLOBAL INC,SPGI,Financial Services,Financial Data & Stock Exchanges,ok
+CAPITAL ONE FINANCIAL CORP,COF,Financial Services,Credit Services,ok
+LOWE S COS INC,LOW,Consumer Cyclical,Home Improvement Retail,ok
+VERTEX PHARMACEUTICALS INC,VRTX,Healthcare,Biotechnology,ok
+DELL TECHNOLOGIES  C,DELL,Technology,Computer Hardware,ok
+DANAHER CORP,DHR,Healthcare,Diagnostics & Research,ok
+VERTIV HOLDINGS CO A,VRT,Industrials,Electrical Equipment & Parts,ok
+PARKER HANNIFIN CORP,PH,Industrials,Specialty Industrial Machinery,ok
+ALTRIA GROUP INC,MO,Consumer Defensive,Tobacco,ok
+STARBUCKS CORP,SBUX,Consumer Cyclical,Restaurants,ok
+BRISTOL MYERS SQUIBB CO,BMY,Healthcare,Drug Manufacturers - General,ok
+STRYKER CORP,SYK,Healthcare,Medical Devices,ok
+TRANE TECHNOLOGIES PLC,TT,Industrials,Building Products & Equipment,ok
+HOWMET AEROSPACE INC,HWM,Industrials,Aerospace & Defense,ok
+SOUTHERN CO/THE,SO,Utilities,Utilities - Regulated Electric,ok
+SERVICENOW INC,NOW,Technology,Software - Application,ok
+LOCKHEED MARTIN CORP,LMT,Industrials,Aerospace & Defense,ok
+CADENCE DESIGN SYS INC,CDNS,Technology,Software - Application,ok
+MEDTRONIC PLC,MDT,Healthcare,Medical Devices,ok
+BANK OF NEW YORK MELLON CORP,BNY,Financial Services,Banks - Diversified,ok
+QUANTA SERVICES INC,PWR,Industrials,Engineering & Construction,ok
+DUKE ENERGY CORP,DUK,Utilities,Utilities - Regulated Electric,ok
+NEWMONT CORP,NEM,Basic Materials,Gold,ok
+PNC FINANCIAL SERVICES GROUP,PNC,Financial Services,Banks - Regional,ok
+FORTINET INC,FTNT,Technology,Software - Infrastructure,ok
+EQUINIX INC,EQIX,Real Estate,REIT - Specialty,ok
+US BANCORP,USB,Financial Services,Banks - Regional,ok
+MCKESSON CORP,MCK,Healthcare,Medical Distribution,ok
+CUMMINS INC,CMI,Industrials,Specialty Industrial Machinery,ok
+AUTOMATIC DATA PROCESSING,ADP,Technology,Software - Application,ok
+ELEVANCE HEALTH INC,ELV,Healthcare,Healthcare Plans,ok
+WILLIAMS COS INC,WMB,Energy,Oil & Gas Midstream,ok
+GENERAL DYNAMICS CORP,GD,Industrials,Aerospace & Defense,ok
+CSX CORP,CSX,Industrials,Railroads,ok
+BLACKSTONE INC,BX,Financial Services,Asset Management,ok
+JOHNSON CONTROLS INTERNATION,JCI,Industrials,Building Products & Equipment,ok
+FREEPORT MCMORAN INC,FCX,Basic Materials,Copper,ok
+DATADOG INC   CLASS A,DDOG,Technology,Software - Application,ok
+ADOBE INC,ADBE,Technology,Software - Application,ok
+CME GROUP INC,CME,Financial Services,Financial Data & Stock Exchanges,ok
+ROBINHOOD MARKETS INC   A,HOOD,Financial Services,Capital Markets,ok
+MARSH + MCLENNAN COS,MRSH,Financial Services,Insurance Brokers,ok
+WASTE MANAGEMENT INC,WM,Industrials,Waste Management,ok
+SYNOPSYS INC,SNPS,Technology,Software - Infrastructure,ok
+3M CO,MMM,Industrials,Conglomerates,ok
+COMCAST CORP CLASS A,CMCSA,Communication Services,Telecom Services,ok
+UNITED PARCEL SERVICE CL B,UPS,Industrials,Integrated Freight & Logistics,ok
+T MOBILE US INC,TMUS,Communication Services,Telecom Services,ok
+ACCENTURE PLC CL A,ACN,Technology,Information Technology Services,ok
+SHERWIN WILLIAMS CO/THE,SHW,Basic Materials,Specialty Chemicals,ok
+MARRIOTT INTERNATIONAL  CL A,MAR,Consumer Cyclical,Lodging,ok
+VALERO ENERGY CORP,VLO,Energy,Oil & Gas Refining & Marketing,ok
+ROYAL CARIBBEAN CRUISES LTD,RCL,Consumer Cyclical,Travel Services,ok
+EMERSON ELECTRIC CO,EMR,Industrials,Specialty Industrial Machinery,ok
+MONDELEZ INTERNATIONAL INC A,MDLZ,Consumer Defensive,Confectioners,ok
+MARATHON PETROLEUM CORP,MPC,Energy,Oil & Gas Refining & Marketing,ok
+COLGATE PALMOLIVE CO,CL,Consumer Defensive,Household & Personal Products,ok
+HILTON WORLDWIDE HOLDINGS IN,HLT,Consumer Cyclical,Lodging,ok
+O REILLY AUTOMOTIVE INC,ORLY,Consumer Cyclical,Auto Parts,ok
+AMERICAN TOWER CORP,AMT,Real Estate,REIT - Specialty,ok
+INTUIT INC,INTU,Technology,Software - Application,ok
+CONSTELLATION ENERGY,CEG,Utilities,Utilities - Independent Power Producers,ok
+THE CIGNA GROUP,CI,Healthcare,Healthcare Plans,ok
+ILLINOIS TOOL WORKS,ITW,Industrials,Specialty Industrial Machinery,ok
+MOODY S CORP,MCO,Financial Services,Financial Data & Stock Exchanges,ok
+AON PLC CLASS A,AON,Financial Services,Insurance Brokers,ok
+TRANSDIGM GROUP INC,TDG,Industrials,Aerospace & Defense,ok
+HONEYWELL AEROSPACE INC,HONA,Industrials,Aerospace & Defense,ok
+AMERICAN ELECTRIC POWER,AEP,Utilities,Utilities - Regulated Electric,ok
+ECOLAB INC,ECL,Basic Materials,Specialty Chemicals,ok
+HONEYWELL INTERNATIONAL INC,HON,Industrials,Conglomerates,ok
+INTERCONTINENTAL EXCHANGE IN,ICE,Financial Services,Financial Data & Stock Exchanges,ok
+DOORDASH INC   A,DASH,Consumer Cyclical,Internet Retail,ok
+NORFOLK SOUTHERN CORP,NSC,Industrials,Railroads,ok
+AIR PRODUCTS + CHEMICALS INC,APD,Basic Materials,Specialty Chemicals,ok
+CRH PLC,CRH,Basic Materials,Building Materials,ok
+COHERENT CORP,COHR,Technology,Scientific & Technical Instruments,ok
+GENERAL MOTORS CO,GM,Consumer Cyclical,Auto Manufacturers,ok
+NXP SEMICONDUCTORS NV,NXPI,Technology,Semiconductors,ok
+PHILLIPS 66,PSX,Energy,Oil & Gas Refining & Marketing,ok
+TRAVELERS COS INC/THE,TRV,Financial Services,Insurance - Property & Casualty,ok
+MOTOROLA SOLUTIONS INC,MSI,Technology,Communication Equipment,ok
+SIMON PROPERTY GROUP INC,SPG,Real Estate,REIT - Retail,ok
+EOG RESOURCES INC,EOG,Energy,Oil & Gas E&P,ok
+TERADYNE INC,TER,Technology,Semiconductor Equipment & Materials,ok
+MONSTER BEVERAGE CORP,MNST,Consumer Defensive,Beverages - Non-Alcoholic,ok
+NORTHROP GRUMMAN CORP,NOC,Industrials,Aerospace & Defense,ok
+UNITED RENTALS INC,URI,Industrials,Rental & Leasing Services,ok
+ROSS STORES INC,ROST,Consumer Cyclical,Apparel Retail,ok
+FEDEX CORP,FDX,Industrials,Integrated Freight & Logistics,ok
+WARNER BROS DISCOVERY INC,WBD,Communication Services,Entertainment,ok
+SLB LTD,SLB,Energy,Oil & Gas Equipment & Services,ok
+MONOLITHIC POWER SYSTEMS INC,MPWR,Technology,Semiconductors,ok
+BOSTON SCIENTIFIC CORP,BSX,Healthcare,Medical Devices,ok
+TRUIST FINANCIAL CORP,TFC,Financial Services,Banks - Regional,ok
+PACCAR INC,PCAR,Industrials,Farm & Heavy Construction Machinery,ok
+COMFORT SYSTEMS USA INC,FIX,Industrials,Engineering & Construction,ok
+KKR + CO INC,KKR,Financial Services,Asset Management,ok
+KINDER MORGAN INC,KMI,Energy,Oil & Gas Midstream,ok
+CIENA CORP,CIEN,Technology,Communication Equipment,ok
+REGENERON PHARMACEUTICALS,REGN,Healthcare,Biotechnology,ok
+ALLSTATE CORP,ALL,Financial Services,Insurance - Property & Casualty,ok
+ARTHUR J GALLAGHER + CO,AJG,Financial Services,Insurance Brokers,ok
+DELTA AIR LINES INC,DAL,Industrials,Airlines,ok
+TE CONNECTIVITY PLC,TEL,Technology,Electronic Components,ok
+SEMPRA,SRE,Utilities,Utilities - Diversified,ok
+AIRBNB INC CLASS A,ABNB,Consumer Cyclical,Travel Services,ok
+HCA HEALTHCARE INC,HCA,Healthcare,Medical Care Facilities,ok
+CINTAS CORP,CTAS,Industrials,Specialty Business Services,ok
+HEWLETT PACKARD ENTERPRISE,HPE,Technology,Communication Equipment,ok
+CARRIER GLOBAL CORP,CARR,Industrials,Building Products & Equipment,ok
+DOMINION ENERGY INC,D,Utilities,Utilities - Regulated Electric,ok
+TARGET CORP,TGT,Consumer Defensive,Discount Stores,ok
+WW GRAINGER INC,GWW,Industrials,Industrial Distribution,ok
+CENCORA INC,COR,Healthcare,Medical Distribution,ok
+KEYSIGHT TECHNOLOGIES IN,KEYS,Technology,Scientific & Technical Instruments,ok
+FASTENAL CO,FAST,Industrials,Industrial Distribution,ok
+LUMENTUM HOLDINGS INC,LITE,Technology,Communication Equipment,ok
+AMETEK INC,AME,Industrials,Specialty Industrial Machinery,ok
+CORTEVA INC,CTVA,Basic Materials,Agricultural Inputs,ok
+FLEX LTD,FLEX,Technology,Electronic Components,ok
+TARGA RESOURCES CORP,TRGP,Energy,Oil & Gas Midstream,ok
+DIGITAL REALTY TRUST INC,DLR,Real Estate,REIT - Specialty,ok
+AFLAC INC,AFL,Financial Services,Insurance - Life,ok
+FORD MOTOR CO,F,Consumer Cyclical,Auto Manufacturers,ok
+CARDINAL HEALTH INC,CAH,Healthcare,Medical Distribution,ok
+L3HARRIS TECHNOLOGIES INC,LHX,Industrials,Aerospace & Defense,ok
+APOLLO GLOBAL MANAGEMENT INC,APO,Financial Services,Asset Management,ok
+AUTOZONE INC,AZO,Consumer Cyclical,Auto Parts,ok
+BAKER HUGHES CO,BKR,Energy,Oil & Gas Equipment & Services,ok
+REALTY INCOME CORP,O,Real Estate,REIT - Retail,ok
+PUBLIC STORAGE,PSA,Real Estate,REIT - Industrial,ok
+ROCKWELL AUTOMATION INC,ROK,Industrials,Specialty Industrial Machinery,ok
+EDWARDS LIFESCIENCES CORP,EW,Healthcare,Medical Devices,ok
+NIKE INC  CL B,NKE,Consumer Cyclical,Footwear & Accessories,ok
+FIFTH THIRD BANCORP,FITB,Financial Services,Banks - Regional,ok
+ONEOK INC,OKE,Energy,Oil & Gas Midstream,ok
+NUCOR CORP,NUE,Basic Materials,Steel,ok
+VISTRA CORP,VST,Utilities,Utilities - Independent Power Producers,ok
+STATE STREET CORP,STT,Financial Services,Asset Management,ok
+MICROCHIP TECHNOLOGY INC,MCHP,Technology,Semiconductors,ok
+EBAY INC,EBAY,Consumer Cyclical,Internet Retail,ok
+ENTERGY CORP,ETR,Utilities,Utilities - Regulated Electric,ok
+CARVANA CO,CVNA,Consumer Cyclical,Auto & Truck Dealerships,ok
+HUMANA INC,HUM,Healthcare,Healthcare Plans,ok
+EXELON CORP,EXC,Utilities,Utilities - Regulated Electric,ok
+METLIFE INC,MET,Financial Services,Insurance - Life,ok
+YUM  BRANDS INC,YUM,Consumer Cyclical,Restaurants,ok
+KEURIG DR PEPPER INC,KDP,Consumer Defensive,Beverages - Non-Alcoholic,ok
+ELECTRONIC ARTS INC,EA,Communication Services,Electronic Gaming & Multimedia,ok
+XCEL ENERGY INC,XEL,Utilities,Utilities - Regulated Electric,ok
+DEVON ENERGY CORP,DVN,Energy,Oil & Gas E&P,ok
+CHIPOTLE MEXICAN GRILL INC,CMG,Consumer Cyclical,Restaurants,ok
+AUTODESK INC,ADSK,Technology,Software - Application,ok
+BLOCK INC,XYZ,Technology,Software - Infrastructure,ok
+AXON ENTERPRISE INC,AXON,Industrials,Aerospace & Defense,ok
+WABTEC CORP,WAB,Industrials,Railroads,ok
+REPUBLIC SERVICES INC,RSG,Industrials,Waste Management,ok
+VENTAS INC,VTR,Real Estate,REIT - Healthcare Facilities,ok
+UNITED AIRLINES HOLDINGS INC,UAL,Industrials,Airlines,ok
+IDEXX LABORATORIES INC,IDXX,Healthcare,Diagnostics & Research,ok
+AMERIPRISE FINANCIAL INC,AMP,Financial Services,Asset Management,ok
+MSCI INC,MSCI,Financial Services,Financial Data & Stock Exchanges,ok
+PUBLIC SERVICE ENTERPRISE GP,PEG,Utilities,Utilities - Regulated Electric,ok
+TAKE TWO INTERACTIVE SOFTWRE,TTWO,Communication Services,Electronic Gaming & Multimedia,ok
+INTERACTIVE BROKERS GRO CL A,IBKR,Financial Services,Capital Markets,ok
+DR HORTON INC,DHI,Consumer Cyclical,Residential Construction,ok
+OLD DOMINION FREIGHT LINE,ODFL,Industrials,Trucking,ok
+AMERICAN INTERNATIONAL GROUP,AIG,Financial Services,Insurance - Diversified,ok
+JABIL INC,JBL,Technology,Electronic Components,ok
+CBRE GROUP INC   A,CBRE,Real Estate,Real Estate Services,ok
+BECTON DICKINSON AND CO,BDX,Healthcare,Medical Instruments & Supplies,ok
+AGILENT TECHNOLOGIES INC,A,Healthcare,Diagnostics & Research,ok
+CONSOLIDATED EDISON INC,ED,Utilities,Utilities - Regulated Electric,ok
+VULCAN MATERIALS CO,VMC,Basic Materials,Building Materials,ok
+KIMBERLY CLARK CORP,KMB,Consumer Defensive,Household & Personal Products,ok
+SYSCO CORP,SYY,Consumer Defensive,Food Distribution,ok
+KENVUE INC,KVUE,Consumer Defensive,Household & Personal Products,ok
+WATERS CORP,WAT,Healthcare,Diagnostics & Research,ok
+HARTFORD INSURANCE GROUP INC,HIG,Financial Services,Insurance - Diversified,ok
+WEC ENERGY GROUP INC,WEC,Utilities,Utilities - Regulated Electric,ok
+PAYPAL HOLDINGS INC,PYPL,Financial Services,Credit Services,ok
+MARTIN MARIETTA MATERIALS,MLM,Basic Materials,Building Materials,ok
+GARMIN LTD,GRMN,Technology,Scientific & Technical Instruments,ok
+PRUDENTIAL FINANCIAL INC,PRU,Financial Services,Insurance - Life,ok
+CARNIVAL CORP LTD,CCL,Consumer Cyclical,Travel Services,ok
+COINBASE GLOBAL INC  CLASS A,COIN,Financial Services,Financial Data & Stock Exchanges,ok
+M + T BANK CORP,MTB,Financial Services,Banks - Regional,ok
+IRON MOUNTAIN INC,IRM,Real Estate,REIT - Specialty,ok
+ARCHER DANIELS MIDLAND CO,ADM,Consumer Defensive,Farm Products,ok
+P G + E CORP,PCG,Utilities,Utilities - Regulated Electric,ok
+HUNTINGTON BANCSHARES INC,HBAN,Financial Services,Banks - Regional,ok
+NASDAQ INC,NDAQ,Financial Services,Financial Data & Stock Exchanges,ok
+ON SEMICONDUCTOR,ON,Technology,Semiconductors,ok
+EMCOR GROUP INC,EME,Industrials,Engineering & Construction,ok
+IQVIA HOLDINGS INC,IQV,Healthcare,Diagnostics & Research,ok
+CROWN CASTLE INC,CCI,Real Estate,REIT - Specialty,ok
+CENTENE CORP,CNC,Healthcare,Healthcare Plans,ok
+ROPER TECHNOLOGIES INC,ROP,Technology,Software - Application,ok
+QNITY ELECTRONICS INC,Q,Technology,Semiconductor Equipment & Materials,ok
+PAYCHEX INC,PAYX,Technology,Software - Application,ok
+ARCH CAPITAL GROUP LTD,ACGL,Financial Services,Insurance - Diversified,ok
+OCCIDENTAL PETROLEUM CORP,OXY,Energy,Oil & Gas E&P,ok
+TWILIO INC   A,TWLO,Technology,Software - Infrastructure,ok
+DTE ENERGY COMPANY,DTE,Utilities,Utilities - Regulated Electric,ok
+NORTHERN TRUST CORP,NTRS,Financial Services,Asset Management,ok
+BIOGEN INC,BIIB,Healthcare,Drug Manufacturers - General,ok
+GE HEALTHCARE TECHNOLOGY,GEHC,Healthcare,Medical Devices,ok
+EXTRA SPACE STORAGE INC,EXR,Real Estate,REIT - Industrial,ok
+TELEDYNE TECHNOLOGIES INC,TDY,Technology,Scientific & Technical Instruments,ok
+CARPENTER TECHNOLOGY,CRS,Industrials,Metal Fabrication,ok
+DIAMONDBACK ENERGY INC,FANG,Energy,Oil & Gas E&P,ok
+NETAPP INC,NTAP,Technology,Software - Infrastructure,ok
+FAIR ISAAC CORP,FICO,Technology,Software - Application,ok
+EQT CORP,EQT,Energy,Oil & Gas E&P,ok
+RESMED INC,RMD,Healthcare,Medical Instruments & Supplies,ok
+KROGER CO,KR,Consumer Defensive,Grocery Stores,ok
+ILLUMINA INC,ILMN,Healthcare,Diagnostics & Research,ok
+EXPEDIA GROUP INC,EXPE,Consumer Cyclical,Travel Services,ok
+ZOETIS INC,ZTS,Healthcare,Drug Manufacturers - Specialty & Generic,ok
+CURTISS WRIGHT CORP,CW,Industrials,Aerospace & Defense,ok
+PPG INDUSTRIES INC,PPG,Basic Materials,Specialty Chemicals,ok
+CINCINNATI FINANCIAL CORP,CINF,Financial Services,Insurance - Property & Casualty,ok
+CENTERPOINT ENERGY INC,CNP,Utilities,Utilities - Regulated Electric,ok
+AMEREN CORPORATION,AEE,Utilities,Utilities - Regulated Electric,ok
+XYLEM INC,XYL,Industrials,Specialty Industrial Machinery,ok
+DOVER CORP,DOV,Industrials,Specialty Industrial Machinery,ok
+CITIZENS FINANCIAL GROUP,CFG,Financial Services,Banks - Regional,ok
+STEEL DYNAMICS INC,STLD,Basic Materials,Steel,ok
+EDISON INTERNATIONAL,EIX,Utilities,Utilities - Regulated Electric,ok
+WORKDAY INC CLASS A,WDAY,Technology,Software - Application,ok
+FISERV INC,FISV,Technology,Information Technology Services,ok
+INGERSOLL RAND INC,IR,Industrials,Specialty Industrial Machinery,ok
+VEEVA SYSTEMS INC CLASS A,VEEV,Healthcare,Health Information Services,ok
+WEST PHARMACEUTICAL SERVICES,WST,Healthcare,Medical Instruments & Supplies,ok
+TAPESTRY INC,TPR,Consumer Cyclical,Luxury Goods,ok
+TECHNIPFMC PLC,FTI,Energy,Oil & Gas Equipment & Services,ok
+PPL CORP,PPL,Utilities,Utilities - Regulated Electric,ok
+CBOE GLOBAL MARKETS INC,CBOE,Financial Services,Financial Data & Stock Exchanges,ok
+VICI PROPERTIES INC,VICI,Real Estate,REIT - Diversified,ok
+NRG ENERGY INC,NRG,Utilities,Utilities - Independent Power Producers,ok
+HUBBELL INC,HUBB,Industrials,Electrical Equipment & Parts,ok
+DEXCOM INC,DXCM,Healthcare,Medical Devices,ok
+LIVE NATION ENTERTAINMENT IN,LYV,Communication Services,Entertainment,ok
+CASEY S GENERAL STORES INC,CASY,Consumer Cyclical,Specialty Retail,ok
+METTLER TOLEDO INTERNATIONAL,MTD,Healthcare,Diagnostics & Research,ok
+HERSHEY CO/THE,HSY,Consumer Defensive,Confectioners,ok
+AVALONBAY COMMUNITIES INC,AVB,Real Estate,REIT - Residential,ok
+RAYMOND JAMES FINANCIAL INC,RJF,Financial Services,Asset Management,ok
+T ROWE PRICE GROUP INC,TROW,Financial Services,Asset Management,ok
+ATMOS ENERGY CORP,ATO,Utilities,Utilities - Regulated Gas,ok
+NVENT ELECTRIC PLC,NVT,Industrials,Electrical Equipment & Parts,ok
+AMERICAN WATER WORKS CO INC,AWK,Utilities,Utilities - Regulated Water,ok
+OTIS WORLDWIDE CORP,OTIS,Industrials,Specialty Industrial Machinery,ok
+WILLIAMS SONOMA INC,WSM,Consumer Cyclical,Specialty Retail,ok
+REGIONS FINANCIAL CORP,RF,Financial Services,Banks - Regional,ok
+DOLLAR GENERAL CORP,DG,Consumer Defensive,Discount Stores,ok
+ATI INC,ATI,Industrials,Metal Fabrication,ok
+HALLIBURTON CO,HAL,Energy,Oil & Gas Equipment & Services,ok
+WILLIS TOWERS WATSON PLC,WTW,Financial Services,Insurance Brokers,ok
+COPART INC,CPRT,Industrials,Specialty Business Services,ok
+FIRST SOLAR INC,FSLR,Technology,Solar,ok
+ENTEGRIS INC,ENTG,Technology,Semiconductor Equipment & Materials,ok
+EVERSOURCE ENERGY,ES,Utilities,Utilities - Regulated Electric,ok
+WOODWARD INC,WWD,Industrials,Aerospace & Defense,ok
+UNITED THERAPEUTICS CORP,UTHR,Healthcare,Drug Manufacturers - Specialty & Generic,ok
+PULTEGROUP INC,PHM,Consumer Cyclical,Residential Construction,ok
+FIRSTENERGY CORP,FE,Utilities,Utilities - Regulated Electric,ok
+DARDEN RESTAURANTS INC,DRI,Consumer Cyclical,Restaurants,ok
+XPO INC,XPO,Industrials,Trucking,ok
+LABCORP HOLDINGS INC,LH,Healthcare,Diagnostics & Research,ok
+QUEST DIAGNOSTICS INC,DGX,Healthcare,Diagnostics & Research,ok
+MODERNA INC,MRNA,Healthcare,Biotechnology,ok
+CHURCH + DWIGHT CO INC,CHD,Consumer Defensive,Household & Personal Products,ok
+SOUTHWEST AIRLINES CO,LUV,Industrials,Airlines,ok
+EQUITY RESIDENTIAL,EQR,Real Estate,REIT - Residential,ok
+SYNCHRONY FINANCIAL,SYF,Financial Services,Credit Services,ok
+ARES MANAGEMENT CORP   A,ARES,Financial Services,Asset Management,ok
+MASTEC INC,MTZ,Industrials,Engineering & Construction,ok
+EVERPURE INC A,P,Technology,Computer Hardware,ok
+TEXAS PACIFIC LAND CORP,TPL,Energy,Oil & Gas E&P,ok
+OKTA INC,OKTA,Technology,Software - Infrastructure,ok
+SMURFIT WESTROCK PLC,SW,Consumer Cyclical,Packaging & Containers,ok
+MKS INC,MKSI,Technology,Scientific & Technical Instruments,ok
+CORPAY INC,CPAY,Technology,Software - Infrastructure,ok
+C.H. ROBINSON WORLDWIDE INC,CHRW,Industrials,Integrated Freight & Logistics,ok
+KEYCORP,KEY,Financial Services,Banks - Regional,ok
+PACKAGING CORP OF AMERICA,PKG,Consumer Cyclical,Packaging & Containers,ok
+SNAP ON INC,SNA,Industrials,Tools & Accessories,ok
+CMS ENERGY CORP,CMS,Utilities,Utilities - Regulated Electric,ok
+VERISK ANALYTICS INC,VRSK,Industrials,Consulting Services,ok
+FIDELITY NATIONAL INFO SERV,FIS,Technology,Information Technology Services,ok
+US FOODS HOLDING CORP,USFD,Consumer Defensive,Food Distribution,ok
+F5 INC,FFIV,Technology,Software - Infrastructure,ok
+DOLLAR TREE INC,DLTR,Consumer Defensive,Discount Stores,ok
+STERIS PLC,STE,Healthcare,Medical Devices,ok
+RB GLOBAL INC,RBA,Industrials,Specialty Business Services,ok
+COGNIZANT TECH SOLUTIONS A,CTSH,Technology,Information Technology Services,ok
+KRAFT HEINZ CO/THE,KHC,Consumer Defensive,Packaged Foods,ok
+BURLINGTON STORES INC,BURL,Consumer Cyclical,Apparel Retail,ok
+AMCOR PLC,AMCR,Consumer Cyclical,Packaging & Containers,ok
+TD SYNNEX CORP,SNX,Technology,Electronics & Computer Distribution,ok
+INTL FLAVORS + FRAGRANCES,IFF,Basic Materials,Specialty Chemicals,ok
+VERALTO CORP,VLTO,Industrials,Pollution & Treatment Controls,ok
+EXPEDITORS INTL WASH INC,EXPD,Industrials,Integrated Freight & Logistics,ok
+INTERNATIONAL PAPER CO,IP,Consumer Cyclical,Packaging & Containers,ok
+LATTICE SEMICONDUCTOR CORP,LSCC,Technology,Semiconductors,ok
+GENERAL MILLS INC,GIS,Consumer Defensive,Packaged Foods,ok
+DUPONT DE NEMOURS INC,DD,Basic Materials,Specialty Chemicals,ok
+EVERGY INC,EVRG,Utilities,Utilities - Regulated Electric,ok
+SBA COMMUNICATIONS CORP,SBAC,Real Estate,REIT - Specialty,ok
+EQUIFAX INC,EFX,Industrials,Consulting Services,ok
+VERISIGN INC,VRSN,Technology,Software - Infrastructure,ok
+BROWN + BROWN INC,BRO,Financial Services,Insurance Brokers,ok
+VIATRIS INC,VTRS,Healthcare,Drug Manufacturers - Specialty & Generic,ok
+HP INC,HPQ,Technology,Computer Hardware,ok
+OMNICOM GROUP,OMC,Communication Services,Advertising Agencies,ok
+PRINCIPAL FINANCIAL GROUP,PFG,Financial Services,Asset Management,ok
+ALLIANT ENERGY CORP,LNT,Utilities,Utilities - Regulated Electric,ok
+DOW INC,DOW,Basic Materials,Chemicals,ok
+LENNAR CORP W/D,LEN,Consumer Cyclical,Residential Construction,ok
+LENNOX INTERNATIONAL INC,LII,Industrials,Building Products & Equipment,ok
+ULTA BEAUTY INC,ULTA,Consumer Cyclical,Specialty Retail,ok
+ESTEE LAUDER COMPANIES CL A,EL,Consumer Defensive,Household & Personal Products,ok
+HUNT (JB) TRANSPRT SVCS INC,JBHT,Industrials,Integrated Freight & Logistics,ok
+NISOURCE INC,NI,Utilities,Utilities - Regulated Gas,ok
+FABRINET,FN,Technology,Electronic Components,ok
+ESSEX PROPERTY TRUST INC,ESS,Real Estate,REIT - Residential,ok
+CDW CORP/DE,CDW,Technology,Information Technology Services,ok
+TTM TECHNOLOGIES,TTMI,Technology,Electronic Components,ok
+EAST WEST BANCORP INC,EWBC,Financial Services,Banks - Regional,ok
+WR BERKLEY CORP,WRB,Financial Services,Insurance - Property & Casualty,ok
+RBC BEARINGS INC,RBC,Industrials,Tools & Accessories,ok
+RELIANCE INC,RS,Basic Materials,Steel,ok
+MACOM TECHNOLOGY SOLUTIONS H,MTSI,Technology,Semiconductors,ok
+ROKU INC,ROKU,Communication Services,Entertainment,ok
+EXPAND ENERGY CORP,EXE,Energy,Oil & Gas E&P,ok
+CONSTELLATION BRANDS INC A,STZ,Consumer Defensive,Beverages - Brewers,ok
+BWX TECHNOLOGIES INC,BWXT,Industrials,Aerospace & Defense,ok
+TRACTOR SUPPLY COMPANY,TSCO,Consumer Cyclical,Specialty Retail,ok
+WEYERHAEUSER CO,WY,Real Estate,REIT - Specialty,ok
+PERFORMANCE FOOD GROUP CO,PFGC,Consumer Defensive,Food Distribution,ok
+INVITATION HOMES INC,INVH,Real Estate,REIT - Residential,ok
+ZIMMER BIOMET HOLDINGS INC,ZBH,Healthcare,Medical Devices,ok
+IDEX CORP,IEX,Industrials,Specialty Industrial Machinery,ok
+TYSON FOODS INC CL A,TSN,Consumer Defensive,Farm Products,ok
+LOEWS CORP,L,Financial Services,Insurance - Property & Casualty,ok
+AKAMAI TECHNOLOGIES INC,AKAM,Technology,Software - Infrastructure,ok
+KIMCO REALTY CORP,KIM,Real Estate,REIT - Retail,ok
+INCYTE CORP,INCY,Healthcare,Biotechnology,ok
+GENERAC HOLDINGS INC,GNRC,Industrials,Specialty Industrial Machinery,ok
+GENUINE PARTS CO,GPC,Consumer Cyclical,Auto Parts,ok
+DICK S SPORTING GOODS INC,DKS,Consumer Cyclical,Specialty Retail,ok
+COEUR MINING INC,CDE,Basic Materials,Gold,ok
+FORTIVE CORP,FTV,Technology,Scientific & Technical Instruments,ok
+BROADRIDGE FINANCIAL SOLUTIO,BR,Technology,Information Technology Services,ok
+ITT INC,ITT,Industrials,Specialty Industrial Machinery,ok
+HOST HOTELS + RESORTS INC,HST,Real Estate,REIT - Hotel & Motel,ok
+MID AMERICA APARTMENT COMM,MAA,Real Estate,REIT - Residential,ok
+ALBEMARLE CORP,ALB,Basic Materials,Specialty Chemicals,ok
+TALEN ENERGY CORP,TLN,Utilities,Utilities - Independent Power Producers,ok
+NVR INC,NVR,Consumer Cyclical,Residential Construction,ok
+JACOBS SOLUTIONS INC,J,Industrials,Engineering & Construction,ok
+RALPH LAUREN CORP,RL,Consumer Cyclical,Apparel Manufacturing,ok
+FEDEX FREIGHT HOLDING CO,FDXF,Industrials,Integrated Freight & Logistics,ok
+ONTO INNOVATION INC,ONTO,Technology,Semiconductor Equipment & Materials,ok
+NEUROCRINE BIOSCIENCES INC,NBIX,Healthcare,Drug Manufacturers - Specialty & Generic,ok
+JONES LANG LASALLE INC,JLL,Real Estate,Real Estate Services,ok
+CF INDUSTRIES HOLDINGS INC,CF,Basic Materials,Agricultural Inputs,ok
+REGAL REXNORD CORP,RRX,Industrials,Specialty Industrial Machinery,ok
+ROYAL GOLD INC,RGLD,Basic Materials,Gold,ok
+BUNGE GLOBAL SA,BG,Consumer Defensive,Farm Products,ok
+BALL CORP,BALL,Consumer Cyclical,Packaging & Containers,ok
+BEST BUY CO INC,BBY,Consumer Cyclical,Specialty Retail,ok
+LINCOLN ELECTRIC HOLDINGS,LECO,Industrials,Tools & Accessories,ok
+NORDSON CORP,NDSN,Industrials,Specialty Industrial Machinery,ok
+GLOBE LIFE INC,GL,Financial Services,Insurance - Life,ok
+PINNACLE FINANCIAL PARTNERS,PNFP,Financial Services,Banks - Regional,ok
+EVEREST GROUP LTD,EG,Financial Services,Insurance - Reinsurance,ok
+GEN DIGITAL INC,GEN,Technology,Software - Infrastructure,ok
+TENET HEALTHCARE CORP,THC,Healthcare,Medical Care Facilities,ok
+WP CAREY INC,WPC,Real Estate,REIT - Diversified,ok
+GLOBAL PAYMENTS INC,GPN,Industrials,Specialty Business Services,ok
+API GROUP CORP,APG,Industrials,Engineering & Construction,ok
+DECKERS OUTDOOR CORP,DECK,Consumer Cyclical,Footwear & Accessories,ok
+DYCOM INDUSTRIES INC,DY,Industrials,Engineering & Construction,ok
+ARAMARK,ARMK,Industrials,Specialty Business Services,ok
+RPM INTERNATIONAL INC,RPM,Basic Materials,Specialty Chemicals,ok
+SOMNIGROUP INTERNATIONAL INC,SGI,Consumer Cyclical,"Furnishings, Fixtures & Appliances",ok
+NEXTPOWER INC CL A,NXT,Technology,Solar,ok
+WESCO INTERNATIONAL INC,WCC,Industrials,Industrial Distribution,ok
+HEALTHPEAK PROPERTIES INC,DOC,Real Estate,REIT - Healthcare Facilities,ok
+RAMBUS INC,RMBS,Technology,Semiconductors,ok
+STANLEY BLACK + DECKER INC,SWK,Industrials,Tools & Accessories,ok
+PTC INC,PTC,Technology,Software - Application,ok
+REVVITY INC,RVTY,Healthcare,Diagnostics & Research,ok
+TRANSUNION,TRU,Financial Services,Financial Data & Stock Exchanges,ok
+MASCO CORP,MAS,Industrials,Building Products & Equipment,ok
+CLEAN HARBORS INC,CLH,Industrials,Waste Management,ok
+ASSURANT INC,AIZ,Financial Services,Insurance - Property & Casualty,ok
+REINSURANCE GROUP OF AMERICA,RGA,Financial Services,Insurance - Reinsurance,ok
+TEXTRON INC,TXT,Industrials,Aerospace & Defense,ok
+ZEBRA TECHNOLOGIES CORP CL A,ZBRA,Technology,Communication Equipment,ok
+EXELIXIS INC,EXEL,Healthcare,Biotechnology,ok
+LAMAR ADVERTISING CO A,LAMR,Real Estate,REIT - Specialty,ok
+EQUITABLE HOLDINGS INC,EQH,Financial Services,Asset Management,ok
+WEBSTER FINANCIAL CORP,WBS,Financial Services,Banks - Regional,ok
+COOPER COS INC/THE,COO,Healthcare,Medical Instruments & Supplies,ok
+LEIDOS HOLDINGS INC,LDOS,Technology,Information Technology Services,ok
+MOLINA HEALTHCARE INC,MOH,Healthcare,Healthcare Plans,ok
+DT MIDSTREAM INC,DTM,Energy,Oil & Gas Midstream,ok
+JAZZ PHARMACEUTICALS PLC,JAZZ,Healthcare,Biotechnology,ok
+TOLL BROTHERS INC,TOL,Consumer Cyclical,Residential Construction,ok
+NUTANIX INC   A,NTNX,Technology,Software - Infrastructure,ok
+LYONDELLBASELL INDU CL A,LYB,Basic Materials,Specialty Chemicals,ok
+APPLIED INDUSTRIAL TECH INC,AIT,Industrials,Industrial Distribution,ok
+OWENS CORNING,OC,Industrials,Building Products & Equipment,ok
+CROWN HOLDINGS INC,CCK,Consumer Cyclical,Packaging & Containers,ok
+LULULEMON ATHLETICA INC,LULU,Consumer Cyclical,Apparel Retail,ok
+KNIGHT SWIFT TRANSPORTATION,KNX,Industrials,Trucking,ok
+OVINTIV INC,OVV,Energy,Oil & Gas E&P,ok
+AVERY DENNISON CORP,AVY,Consumer Cyclical,Packaging & Containers,ok
+REGENCY CENTERS CORP,REG,Real Estate,REIT - Retail,ok
+TRIMBLE INC,TRMB,Technology,Scientific & Technical Instruments,ok
+RENAISSANCERE HOLDINGS LTD,RNR,Financial Services,Insurance - Reinsurance,ok
+MCCORMICK + CO NON VTG SHRS,MKC,Consumer Defensive,Packaged Foods,ok
+ADVANCED ENERGY INDUSTRIES,AEIS,Industrials,Electrical Equipment & Parts,ok
+WATSCO INC,WSO,Industrials,Industrial Distribution,ok
+MUELLER INDUSTRIES INC,MLI,Industrials,Metal Fabrication,ok
+TOAST INC CLASS A,TOST,Technology,Software - Infrastructure,ok
+ALIGN TECHNOLOGY INC,ALGN,Healthcare,Medical Instruments & Supplies,ok
+SANMINA CORP,SANM,Technology,Electronic Components,ok
+PERMIAN RESOURCES CORP CL A,PR,Energy,Oil & Gas E&P,ok
+APTIV PLC,APTV,Consumer Cyclical,Auto Parts,ok
+MEDPACE HOLDINGS INC,MEDP,Healthcare,Diagnostics & Research,ok
+SUPER MICRO COMPUTER INC,SMCI,Technology,Computer Hardware,ok
+FIRST HORIZON CORP,FHN,Financial Services,Banks - Regional,ok
+CARLISLE COS INC,CSL,Industrials,Building Products & Equipment,ok
+PENTAIR PLC,PNR,Industrials,Specialty Industrial Machinery,ok
+LAS VEGAS SANDS CORP,LVS,Consumer Cyclical,Resorts & Casinos,ok
+SOLSTICE ADV MATERIALS INC,SOLS,Basic Materials,Specialty Chemicals,ok
+ALLEGION PLC,ALLE,Industrials,Security & Protection Services,ok
+GODADDY INC   CLASS A,GDDY,Technology,Software - Infrastructure,ok
+EVERCORE INC   A,EVR,Financial Services,Capital Markets,ok
+COGNEX CORP,CGNX,Technology,Scientific & Technical Instruments,ok
+TEXAS ROADHOUSE INC,TXRH,Consumer Cyclical,Restaurants,ok
+GRACO INC,GGG,Industrials,Specialty Industrial Machinery,ok
+ALLY FINANCIAL INC,ALLY,Financial Services,Credit Services,ok
+MOOG INC CLASS A,MOG-A,Industrials,Aerospace & Defense,ok
+TYLER TECHNOLOGIES INC,TYL,Technology,Software - Application,ok
+PINNACLE WEST CAPITAL,PNW,Utilities,Utilities - Regulated Electric,ok
+FIDELITY NATIONAL FINANCIAL,FNF,Financial Services,Insurance - Specialty,ok
+ROIVANT SCIENCES LTD,ROIV,Healthcare,Biotechnology,ok
+UDR INC,UDR,Real Estate,REIT - Residential,ok
+JM SMUCKER CO/THE,SJM,Consumer Defensive,Packaged Foods,ok
+COSTAR GROUP INC,CSGP,Real Estate,Real Estate Services,ok
+CHARTER COMMUNICATIONS INC A,CHTR,Communication Services,Telecom Services,ok
+HUNTINGTON INGALLS INDUSTRIE,HII,Industrials,Aerospace & Defense,ok
+ROLLINS INC,ROL,Consumer Cyclical,Personal Services,ok
+CAMDEN PROPERTY TRUST,CPT,Real Estate,REIT - Residential,ok
+CLOROX COMPANY,CLX,Consumer Defensive,Household & Personal Products,ok
+RYDER SYSTEM INC,R,Industrials,Rental & Leasing Services,ok
+ELANCO ANIMAL HEALTH INC,ELAN,Healthcare,Drug Manufacturers - Specialty & Generic,ok
+LITTELFUSE INC,LFUS,Technology,Electronic Components,ok
+EQUITY LIFESTYLE PROPERTIES,ELS,Real Estate,REIT - Residential,ok
+GAMING AND LEISURE PROPERTIE,GLPI,Real Estate,REIT - Specialty,ok
+PINTEREST INC  CLASS A,PINS,Communication Services,Internet Content & Information,ok
+SAIA INC,SAIA,Industrials,Trucking,ok
+ARROW ELECTRONICS INC,ARW,Technology,Electronics & Computer Distribution,ok
+PENUMBRA INC,PEN,Healthcare,Medical Devices,ok
+OMEGA HEALTHCARE INVESTORS,OHI,Real Estate,REIT - Healthcare Facilities,ok
+INSULET CORP,PODD,Healthcare,Medical Devices,ok
+UNUM GROUP,UNM,Financial Services,Insurance - Life,ok
+AMERICAN AIRLINES GROUP INC,AAL,Industrials,Airlines,ok
+ACUITY INC,AYI,Industrials,Electrical Equipment & Parts,ok
+FORMFACTOR INC,FORM,Technology,Semiconductor Equipment & Materials,ok
+CHARLES RIVER LABORATORIES,CRL,Healthcare,Diagnostics & Research,ok
+BJ S WHOLESALE CLUB HOLDINGS,BJ,Consumer Defensive,Discount Stores,ok
+SERVICE CORP INTERNATIONAL,SCI,Consumer Cyclical,Personal Services,ok
+APA CORP,APA,Energy,Oil & Gas E&P,ok
+BORGWARNER INC,BWA,Consumer Cyclical,Auto Parts,ok
+STIFEL FINANCIAL CORP,SF,Financial Services,Capital Markets,ok
+ZIONS BANCORP NA,ZION,Financial Services,Banks - Regional,ok
+BIO TECHNE CORP,TECH,Healthcare,Biotechnology,ok
+DYNATRACE INC,DT,Technology,Software - Application,ok
+DONALDSON CO INC,DCI,Industrials,Specialty Industrial Machinery,ok
+BAXTER INTERNATIONAL INC,BAX,Healthcare,Medical Instruments & Supplies,ok
+HF SINCLAIR CORP,DINO,Energy,Oil & Gas Refining & Marketing,ok
+WATTS WATER TECHNOLOGIES A,WTS,Industrials,Specialty Industrial Machinery,ok
+BIOMARIN PHARMACEUTICAL INC,BMRN,Healthcare,Biotechnology,ok
+SOLVENTUM CORP,SOLV,Healthcare,Medical Instruments & Supplies,ok
+JACK HENRY + ASSOCIATES INC,JKHY,Technology,Information Technology Services,ok
+ANNALY CAPITAL MANAGEMENT IN,NLY,Real Estate,REIT - Mortgage,ok
+VIAVI SOLUTIONS INC,VIAV,Technology,Communication Equipment,ok
+SKYWORKS SOLUTIONS INC,SWKS,Technology,Semiconductors,ok
+AMERICAN HOMES 4 RENT  A,AMH,Real Estate,REIT - Residential,ok
+HASBRO INC,HAS,Consumer Cyclical,Leisure,ok
+NEW YORK TIMES CO A,NYT,Communication Services,Publishing,ok
+GUIDEWIRE SOFTWARE INC,GWRE,Technology,Software - Application,ok
+CRANE CO,CR,Industrials,Specialty Industrial Machinery,ok
+INVESCO LTD,IVZ,Financial Services,Asset Management,ok
+SPX TECHNOLOGIES INC,SPXC,Industrials,Building Products & Equipment,ok
+ARGAN INC,AGX,Industrials,Engineering & Construction,ok
+SHARKNINJA INC,SN,Consumer Cyclical,"Furnishings, Fixtures & Appliances",ok
+GARTNER INC,IT,Technology,Information Technology Services,ok
+FOX CORP   CLASS A,FOXA,Communication Services,Entertainment,ok
+SITIME CORP,SITM,Technology,Semiconductors,ok
+MATCH GROUP INC,MTCH,Communication Services,Internet Content & Information,ok
+ENCOMPASS HEALTH CORP,EHC,Healthcare,Medical Care Facilities,ok
+TORO CO,TTC,Industrials,Tools & Accessories,ok
+BUILDERS FIRSTSOURCE INC,BLDR,Industrials,Building Products & Equipment,ok
+FIVE BELOW,FIVE,Consumer Cyclical,Specialty Retail,ok
+HECLA MINING CO,HL,Basic Materials,Other Precious Metals & Mining,ok
+GAMESTOP CORP CLASS A,GME,Consumer Cyclical,Specialty Retail,ok
+ELEMENT SOLUTIONS INC,ESI,Basic Materials,Specialty Chemicals,ok
+NEWS CORP   CLASS A,NWSA,Communication Services,Entertainment,ok
+TKO GROUP HOLDINGS INC,TKO,Communication Services,Entertainment,ok
+VOYA FINANCIAL INC,VOYA,Financial Services,Financial Conglomerates,ok
+KRATOS DEFENSE + SECURITY,KTOS,Industrials,Aerospace & Defense,ok
+PRIMERICA INC,PRI,Financial Services,Insurance - Life,ok
+SEMTECH CORP,SMTC,Technology,Semiconductors,ok
+HALOZYME THERAPEUTICS INC,HALO,Healthcare,Biotechnology,ok
+ANTERO RESOURCES CORP,AR,Energy,Oil & Gas E&P,ok
+ADVANCED DRAINAGE SYSTEMS IN,WMS,Industrials,Building Products & Equipment,ok
+AES CORP,AES,Utilities,Utilities - Diversified,ok
+SOUTHSTATE BANK CORP,SSB,Financial Services,Banks - Regional,ok
+AMERICAN FINANCIAL GROUP INC,AFG,Financial Services,Insurance - Property & Casualty,ok
+CACI INTERNATIONAL INC  CL A,CACI,Technology,Information Technology Services,ok
+FLOWSERVE CORP,FLS,Industrials,Specialty Industrial Machinery,ok
+OGE ENERGY CORP,OGE,Utilities,Utilities - Regulated Electric,ok
+OSHKOSH CORP,OSK,Industrials,Farm & Heavy Construction Machinery,ok
+BXP INC,BXP,Real Estate,REIT - Office,ok
+RANGE RESOURCES CORP,RRC,Energy,Oil & Gas E&P,ok
+FRANKLIN RESOURCES INC,BEN,Financial Services,Asset Management,ok
+TIMKEN CO,TKR,Industrials,Tools & Accessories,ok
+KRYSTAL BIOTECH INC,KRYS,Healthcare,Biotechnology,ok
+CYTOKINETICS INC,CYTK,Healthcare,Biotechnology,ok
+ECHOSTAR CORP A,ECHO,Communication Services,Telecom Services,ok
+WYNN RESORTS LTD,WYNN,Consumer Cyclical,Resorts & Casinos,ok
+ENERSYS,ENS,Industrials,Electrical Equipment & Parts,ok
+MURPHY USA INC,MUSA,Consumer Cyclical,Specialty Retail,ok
+ESCO TECHNOLOGIES INC,ESE,Technology,Scientific & Technical Instruments,ok
+FACTSET RESEARCH SYSTEMS INC,FDS,Financial Services,Financial Data & Stock Exchanges,ok
+DOCUSIGN INC,DOCU,Technology,Software - Application,ok
+AMERICAN HEALTHCARE REIT INC,AHR,Real Estate,REIT - Healthcare Facilities,ok
+BRIXMOR PROPERTY GROUP INC,BRX,Real Estate,REIT - Retail,ok
+COLUMBIA BANKING SYSTEM INC,COLB,Financial Services,Banks - Regional,ok
+DARLING INGREDIENTS INC,DAR,Consumer Defensive,Packaged Foods,ok
+AECOM,ACM,Industrials,Engineering & Construction,ok
+CARLYLE GROUP INC/THE,CG,Financial Services,Asset Management,ok
+FIRSTCASH HOLDINGS INC,FCFS,Financial Services,Credit Services,ok
+WINTRUST FINANCIAL CORP,WTFC,Financial Services,Banks - Regional,ok
+MANHATTAN ASSOCIATES INC,MANH,Technology,Software - Application,ok
+CULLEN/FROST BANKERS INC,CFR,Financial Services,Banks - Regional,ok
+DUTCH BROS INC CLASS A,BROS,Consumer Cyclical,Restaurants,ok
+CUBESMART,CUBE,Real Estate,REIT - Industrial,ok
+BRIGHTSPRING HEALTH SERVICES,BTSG,Healthcare,Health Information Services,ok
+CORCEPT THERAPEUTICS INC,CORT,Healthcare,Biotechnology,ok
+SEI INVESTMENTS COMPANY,SEIC,Financial Services,Asset Management,ok
+POWELL INDUSTRIES INC,POWL,Industrials,Electrical Equipment & Parts,ok
+NORWEGIAN CRUISE LINE HOLDIN,NCLH,Consumer Cyclical,Travel Services,ok
+VALMONT INDUSTRIES,VMI,Industrials,Conglomerates,ok
+ENSIGN GROUP INC/THE,ENSG,Healthcare,Medical Care Facilities,ok
+FEDERAL REALTY INVS TRUST,FRT,Real Estate,REIT - Retail,ok
+AUTOLIV INC,ALV,Consumer Cyclical,Auto Parts,ok
+HYATT HOTELS CORP   CL A,H,Consumer Cyclical,Lodging,ok
+ESSENTIAL UTILITIES INC,WTRG,Utilities,Utilities - Regulated Water,ok
+QORVO INC,QRVO,Technology,Semiconductors,ok
+PLEXUS CORP,PLXS,Technology,Electronic Components,ok
+ALCOA CORP,AA,Basic Materials,Aluminum,ok
+SIMPSON MANUFACTURING CO INC,SSD,Basic Materials,Lumber & Wood Production,ok
+EASTGROUP PROPERTIES INC,EGP,Real Estate,REIT - Industrial,ok
+JEFFERIES FINANCIAL GROUP IN,JEF,Financial Services,Capital Markets,ok
+ALKERMES PLC,ALKS,Healthcare,Drug Manufacturers - Specialty & Generic,ok
+CNH INDUSTRIAL NV,CNH,Industrials,Farm & Heavy Construction Machinery,ok
+INTERDIGITAL INC,IDCC,Technology,Software - Application,ok
+FLUOR CORP,FLR,Industrials,Engineering & Construction,ok
+CIRRUS LOGIC INC,CRUS,Technology,Semiconductors,ok
+AMKOR TECHNOLOGY INC,AMKR,Technology,Semiconductor Equipment & Materials,ok
+TRADE DESK INC/THE  CLASS A,TTD,Communication Services,Advertising Agencies,ok
+CARMAX INC,KMX,Consumer Cyclical,Auto & Truck Dealerships,ok
+COCA COLA CONSOLIDATED INC,COKE,Consumer Defensive,Beverages - Non-Alcoholic,ok
+AVNET INC,AVT,Technology,Electronics & Computer Distribution,ok
+LITHIA MOTORS INC,LAD,Consumer Cyclical,Auto & Truck Dealerships,ok
+UNIVERSAL HEALTH SERVICES B,UHS,Healthcare,Medical Care Facilities,ok
+HEXCEL CORP,HXL,Industrials,Aerospace & Defense,ok
+GLOBUS MEDICAL INC   A,GMED,Healthcare,Medical Devices,ok
+POOL CORP,POOL,Industrials,Industrial Distribution,ok
+NNN REIT INC,NNN,Real Estate,REIT - Retail,ok
+DOMINO S PIZZA INC,DPZ,Consumer Cyclical,Restaurants,ok
+ALEXANDRIA REAL ESTATE EQUIT,ARE,Real Estate,REIT - Office,ok
+KULICKE + SOFFA INDUSTRIES,KLIC,Technology,Semiconductor Equipment & Materials,ok
+ARROWHEAD PHARMACEUTICALS IN,ARWR,Healthcare,Biotechnology,ok
+FIRST INDUSTRIAL REALTY TR,FR,Real Estate,REIT - Industrial,ok
+WESTERN ALLIANCE BANCORP,WAL,Financial Services,Banks - Regional,ok
+OLD REPUBLIC INTL CORP,ORI,Financial Services,Insurance - Property & Casualty,ok
+RALLIANT CORP,RAL,Technology,Electronic Components,ok
+TETRA TECH INC,TTEK,Industrials,Engineering & Construction,ok
+MAXLINEAR INC,MXL,Technology,Semiconductors,ok
+SPROUTS FARMERS MARKET INC,SFM,Consumer Defensive,Grocery Stores,ok
+APTARGROUP INC,ATR,Healthcare,Medical Instruments & Supplies,ok
+EASTMAN CHEMICAL CO,EMN,Basic Materials,Specialty Chemicals,ok
+COMMERCE BANCSHARES INC,CBSH,Financial Services,Banks - Regional,ok
+AGREE REALTY CORP,ADC,Real Estate,REIT - Retail,ok
+FEDERAL SIGNAL CORP,FSS,Industrials,Farm & Heavy Construction Machinery,ok
+CHART INDUSTRIES INC,GTLS,Industrials,Specialty Industrial Machinery,ok
+OLD NATIONAL BANCORP,ONB,Financial Services,Banks - Regional,ok
+LANDSTAR SYSTEM INC,LSTR,Industrials,Integrated Freight & Logistics,ok
+MGIC INVESTMENT CORP,MTG,Financial Services,Insurance - Specialty,ok
+EVERUS CONSTRUCTION GROUP,ECG,Industrials,Engineering & Construction,ok
+HANOVER INSURANCE GROUP INC/,THG,Financial Services,Insurance - Property & Casualty,ok
+TAYLOR MORRISON HOME CORP,TMHC,Consumer Cyclical,Residential Construction,ok
+MGM RESORTS INTERNATIONAL,MGM,Consumer Cyclical,Resorts & Casinos,ok
+IDACORP INC,IDA,Utilities,Utilities - Regulated Electric,ok
+AXALTA COATING SYSTEMS LTD,AXTA,Basic Materials,Specialty Chemicals,ok
+GRANITE CONSTRUCTION INC,GVA,Industrials,Engineering & Construction,ok
+DIGITALOCEAN HOLDINGS INC,DOCN,Technology,Software - Infrastructure,ok
+SMITH (A.O.) CORP,AOS,Industrials,Specialty Industrial Machinery,ok
+COREBRIDGE FINANCIAL INC,CRBG,Financial Services,Asset Management,ok
+PROSPERITY BANCSHARES INC,PB,Financial Services,Banks - Regional,ok
+FIRST AMERICAN FINANCIAL,FAF,Financial Services,Insurance - Specialty,ok
+EAGLE MATERIALS INC,EXP,Basic Materials,Building Materials,ok
+MYR GROUP INC/DELAWARE,MYRG,Industrials,Engineering & Construction,ok
+RYMAN HOSPITALITY PROPERTIES,RHP,Real Estate,REIT - Hotel & Motel,ok
+PROTAGONIST THERAPEUTICS INC,PTGX,Healthcare,Biotechnology,ok
+MOLSON COORS BEVERAGE CO   B,TAP,Consumer Defensive,Beverages - Brewers,ok
+KIRBY CORP,KEX,Industrials,Marine Shipping,ok
+LEAR CORP,LEA,Consumer Cyclical,Auto Parts,ok
+COMMERCIAL METALS CO,CMC,Industrials,Metal Fabrication,ok
+CHEMED CORP,CHE,Healthcare,Medical Care Facilities,ok
+LANTHEUS HOLDINGS INC,LNTH,Healthcare,Drug Manufacturers - Specialty & Generic,ok
+MOSAIC CO/THE,MOS,Basic Materials,Agricultural Inputs,ok
+MAPLEBEAR INC,CART,Consumer Cyclical,Internet Retail,ok
+FOX CORP   CLASS B,FOX,Communication Services,Entertainment,ok
+HOULIHAN LOKEY INC,HLI,Financial Services,Capital Markets,ok
+UL SOLUTIONS INC   CLASS A,ULS,Industrials,Specialty Business Services,ok
+LKQ CORP,LKQ,Consumer Cyclical,Auto Parts,ok
+STONEX GROUP INC,SNEX,Financial Services,Capital Markets,ok
+LIQUIDIA CORP,LQDA,Healthcare,Drug Manufacturers - Specialty & Generic,ok
+UGI CORP,UGI,Utilities,Utilities - Regulated Gas,ok
+KINSALE CAPITAL GROUP INC,KNSL,Financial Services,Insurance - Property & Casualty,ok
+AGCO CORP,AGCO,Industrials,Farm & Heavy Construction Machinery,ok
+HEALTHEQUITY INC,HQY,Healthcare,Health Information Services,ok
+HIMS + HERS HEALTH INC,HIMS,Healthcare,Drug Manufacturers - Specialty & Generic,ok
+IRIDIUM COMMUNICATIONS INC,IRDM,Communication Services,Telecom Services,ok
+COMMVAULT SYSTEMS INC,CVLT,Technology,Software - Application,ok
+HORMEL FOODS CORP,HRL,Consumer Defensive,Packaged Foods,ok
+NOV INC,NOV,Energy,Oil & Gas Equipment & Services,ok
+MACY S INC,M,Consumer Cyclical,Department Stores,ok
+SENSATA TECHNOLOGIES HOLDING,ST,Technology,Scientific & Technical Instruments,ok
+LUMEN TECHNOLOGIES INC,LUMN,Communication Services,Telecom Services,ok
+REXFORD INDUSTRIAL REALTY IN,REXR,Real Estate,REIT - Industrial,ok
+AFFILIATED MANAGERS GROUP,AMG,Financial Services,Asset Management,ok
+ARMSTRONG WORLD INDUSTRIES,AWI,Industrials,Building Products & Equipment,ok
+MATSON INC,MATX,Industrials,Marine Shipping,ok
+BRINKER INTERNATIONAL INC,EAT,Consumer Cyclical,Restaurants,ok
+VICOR CORP,VICR,Technology,Electronic Components,ok
+MIDDLEBY CORP,MIDD,Industrials,Specialty Industrial Machinery,ok
+MOHAWK INDUSTRIES INC,MHK,Consumer Cyclical,"Furnishings, Fixtures & Appliances",ok
+SILICON LABORATORIES INC,SLAB,Technology,Semiconductors,ok
+STAG INDUSTRIAL INC,STAG,Real Estate,REIT - Industrial,ok
+CONAGRA BRANDS INC,CAG,Consumer Defensive,Packaged Foods,ok
+HANCOCK WHITNEY CORP,HWC,Financial Services,Banks - Regional,ok
+MADISON SQUARE GARDEN SPORTS,MSGS,Communication Services,Entertainment,ok
+NATIONAL FUEL GAS CO,NFG,Energy,Oil & Gas Integrated,ok
+CHORD ENERGY CORP,CHRD,Energy,Oil & Gas E&P,ok
+WYNDHAM HOTELS + RESORTS INC,WH,Consumer Cyclical,Lodging,ok
+ANTERO MIDSTREAM CORP,AM,Energy,Oil & Gas Midstream,ok
+ENPRO INC,NPO,Industrials,Specialty Industrial Machinery,ok
+HENRY SCHEIN INC,HSIC,Healthcare,Medical Distribution,ok
+ARCOSA INC,ACA,Industrials,Engineering & Construction,ok
+HEALTHCARE REALTY TRUST INC,HR,Real Estate,REIT - Healthcare Facilities,ok
+AAON INC,AAON,Industrials,Building Products & Equipment,ok
+AVANTOR INC,AVTR,Healthcare,Medical Instruments & Supplies,ok
+VISHAY INTERTECHNOLOGY INC,VSH,Technology,Semiconductors,ok
+CNO FINANCIAL GROUP INC,CNO,Financial Services,Insurance - Life,ok
+FORTUNE BRANDS INNOVATIONS I,FBIN,Industrials,Building Products & Equipment,ok
+ENOVA INTERNATIONAL INC,ENVA,Financial Services,Credit Services,ok
+ESSENT GROUP LTD,ESNT,Financial Services,Insurance - Specialty,ok
+JBT MAREL CORP,JBTM,Industrials,Specialty Industrial Machinery,ok
+LAMB WESTON HOLDINGS INC,LW,Consumer Defensive,Packaged Foods,ok
+ERIE INDEMNITY COMPANY CL A,ERIE,Financial Services,Insurance Brokers,ok
+TERRENO REALTY CORP,TRNO,Real Estate,REIT - Industrial,ok
+REPLIGEN CORP,RGEN,Healthcare,Medical Instruments & Supplies,ok
+FNB CORP,FNB,Financial Services,Banks - Regional,ok
+VORNADO REALTY TRUST,VNO,Real Estate,REIT - Office,ok
+CAVA GROUP INC,CAVA,Consumer Cyclical,Restaurants,ok
+MERCURY SYSTEMS INC,MRCY,Industrials,Aerospace & Defense,ok
+JACKSON FINANCIAL INC A,JXN,Financial Services,Insurance - Life,ok
+CAVCO INDUSTRIES INC,CVCO,Consumer Cyclical,Residential Construction,ok
+TRAVEL   LEISURE CO,TNL,Consumer Cyclical,Travel Services,ok
+ALASKA AIR GROUP INC,ALK,Industrials,Airlines,ok
+FRONTDOOR INC,FTDR,Consumer Cyclical,Personal Services,ok
+EASTERN BANKSHARES INC,EBC,Financial Services,Banks - Regional,ok
+LINCOLN NATIONAL CORP,LNC,Financial Services,Insurance - Life,ok
+PAYCOM SOFTWARE INC,PAYC,Technology,Software - Application,ok
+PTC THERAPEUTICS INC,PTCT,Healthcare,Biotechnology,ok
+FLOOR + DECOR HOLDINGS INC A,FND,Consumer Cyclical,Home Improvement Retail,ok
+INGREDION INC,INGR,Consumer Defensive,Packaged Foods,ok
+CAESARS ENTERTAINMENT INC,CZR,Consumer Cyclical,Resorts & Casinos,ok
+MOBILITY GLOBAL INC,MBGL,Technology,Information Technology Services,ok
+ENPHASE ENERGY INC,ENPH,Technology,Solar,ok
+KITE REALTY GROUP TRUST,KRG,Real Estate,REIT - Retail,ok
+BANK OZK,OZK,Financial Services,Banks - Regional,ok
+SM ENERGY CO,SM,Energy,Oil & Gas E&P,ok
+LAZARD INC,LAZ,Financial Services,Capital Markets,ok
+WEX INC,WEX,Technology,Software - Infrastructure,ok
+BRUKER CORP,BRKR,Healthcare,Medical Devices,ok
+CHURCHILL DOWNS INC,CHDN,Consumer Cyclical,Gambling,ok
+BOOZ ALLEN HAMILTON HOLDINGS,BAH,Industrials,Consulting Services,ok
+ACI WORLDWIDE INC,ACIW,Technology,Software - Infrastructure,ok
+GLAUKOS CORP,GKOS,Healthcare,Medical Devices,ok
+GXO LOGISTICS INC,GXO,Industrials,Integrated Freight & Logistics,ok
+COVISTA INC,CVSA,Consumer Defensive,Education & Training Services,ok
+VICTORIA S SECRET + CO,VSXY,Consumer Cyclical,Apparel Retail,ok
+RAYONIER INC,RYN,Real Estate,REIT - Specialty,ok
+VALLEY NATIONAL BANCORP,VLY,Financial Services,Banks - Regional,ok
+ACM RESEARCH INC CLASS A,ACMR,Technology,Semiconductor Equipment & Materials,ok
+IES HOLDINGS INC,IESC,Industrials,Engineering & Construction,ok
+GENTEX CORP,GNTX,Consumer Cyclical,Auto Parts,ok
+TELEFLEX INC,TFX,Healthcare,Medical Instruments & Supplies,ok
+CORE + MAIN INC CLASS A,CNM,Industrials,Industrial Distribution,ok
+RADIAN GROUP INC,RDN,Financial Services,Insurance - Specialty,ok
+MSA SAFETY INC,MSA,Industrials,Security & Protection Services,ok
+CASELLA WASTE SYSTEMS INC A,CWST,Industrials,Waste Management,ok
+UMB FINANCIAL CORP,UMBF,Financial Services,Banks - Regional,ok
+NEWMARKET CORP,NEU,Basic Materials,Specialty Chemicals,ok
+WEATHERFORD INTERNATIONAL PL,WFRD,Energy,Oil & Gas Equipment & Services,ok
+SCIENCE APPLICATIONS INTE,SAIC,Technology,Information Technology Services,ok
+AXCELIS TECHNOLOGIES INC,ACLS,Technology,Semiconductor Equipment & Materials,ok
+MERITAGE HOMES CORP,MTH,Consumer Cyclical,Residential Construction,ok
+NEXSTAR MEDIA GROUP INC,NXST,Communication Services,Broadcasting,ok
+SLM CORP,SLM,Financial Services,Credit Services,ok
+GATX CORP,GATX,Industrials,Rental & Leasing Services,ok
+SONOCO PRODUCTS CO,SON,Consumer Cyclical,Packaging & Containers,ok
+MSC INDUSTRIAL DIRECT CO A,MSM,Industrials,Industrial Distribution,ok
+TREX COMPANY INC,TREX,Industrials,Building Products & Equipment,ok
+H+R BLOCK INC,HRB,Consumer Cyclical,Personal Services,ok
+CHAMPION HOMES INC,SKY,Consumer Cyclical,Residential Construction,ok
+NOVANTA INC,NOVT,Technology,Scientific & Technical Instruments,ok
+MACERICH CO/THE,MAC,Real Estate,REIT - Retail,ok
+BRUNSWICK CORP,BC,Consumer Cyclical,Recreational Vehicles,ok
+FIRST BANCORP PUERTO RICO,FBP,Financial Services,Banks - Regional,ok
+AXOS FINANCIAL INC,AX,Financial Services,Banks - Regional,ok
+SELECTIVE INSURANCE GROUP,SIGI,Financial Services,Insurance - Property & Casualty,ok
+UNITED BANKSHARES INC,UBSI,Financial Services,Banks - Regional,ok
+ALBERTSONS COS INC   CLASS A,ACI,Consumer Defensive,Grocery Stores,ok
+BIO RAD LABORATORIES A,BIO,Healthcare,Medical Devices,ok
+UFP INDUSTRIES INC,UFPI,Basic Materials,Lumber & Wood Production,ok
+SIRIUS XM HOLDINGS INC,SIRI,Communication Services,Entertainment,ok
+VIASAT INC,VSAT,Technology,Communication Equipment,ok
+DAVITA INC,DVA,Healthcare,Medical Care Facilities,ok
+WESBANCO INC,WSBC,Financial Services,Banks - Regional,ok
+ZURN ELKAY WATER SOLUTIONS C,ZWS,Industrials,Pollution & Treatment Controls,ok
+VF CORP,VFC,Consumer Cyclical,Apparel Manufacturing,ok
+MATADOR RESOURCES CO,MTDR,Energy,Oil & Gas E&P,ok
+AEROVIRONMENT INC,AVAV,Industrials,Aerospace & Defense,ok
+SENSIENT TECHNOLOGIES CORP,SXT,Basic Materials,Specialty Chemicals,ok
+BALCHEM CORP,BCPC,Basic Materials,Specialty Chemicals,ok
+ESAB CORP,ESAB,Industrials,Metal Fabrication,ok
+ORMAT TECHNOLOGIES INC,ORA,Utilities,Utilities - Renewable,ok
+PBF ENERGY INC CLASS A,PBF,Energy,Oil & Gas Refining & Marketing,ok
+STANDEX INTERNATIONAL CORP,SXI,Industrials,Specialty Industrial Machinery,ok
+WINGSTOP INC,WING,Consumer Cyclical,Restaurants,ok
+CNX RESOURCES CORP,CNX,Energy,Oil & Gas E&P,ok
+BATH + BODY WORKS INC,BBWI,Consumer Cyclical,Specialty Retail,ok
+KB HOME,KBH,Consumer Cyclical,Residential Construction,ok
+GATES INDUSTRIAL CORP PLC,GTES,Industrials,Specialty Industrial Machinery,ok
+VALVOLINE INC,VVV,Consumer Cyclical,Auto & Truck Dealerships,ok
+AMERIS BANCORP,ABCB,Financial Services,Banks - Regional,ok
+TEXAS CAPITAL BANCSHARES INC,TCBI,Financial Services,Banks - Regional,ok
+VAIL RESORTS INC,MTN,Consumer Cyclical,Resorts & Casinos,ok
+ETSY INC,ETSY,Consumer Cyclical,Internet Retail,ok
+NEW JERSEY RESOURCES CORP,NJR,Utilities,Utilities - Regulated Gas,ok
+STARWOOD PROPERTY TRUST INC,STWD,Real Estate,REIT - Mortgage,ok
+RLI CORP,RLI,Financial Services,Insurance - Property & Casualty,ok
+AUTONATION INC,AN,Consumer Cyclical,Auto & Truck Dealerships,ok
+LOUISIANA PACIFIC CORP,LPX,Industrials,Building Products & Equipment,ok
+INSTALLED BUILDING PRODUCTS,IBP,Consumer Cyclical,Residential Construction,ok
+ULTRA CLEAN HOLDINGS INC,UCTT,Technology,Semiconductor Equipment & Materials,ok
+FEDERATED HERMES INC,FHI,Financial Services,Asset Management,ok
+TEREX CORP,TEX,Industrials,Farm & Heavy Construction Machinery,ok
+MUELLER WATER PRODUCTS INC A,MWA,Industrials,Specialty Industrial Machinery,ok
+GLACIER BANCORP INC,GBCI,Financial Services,Banks - Regional,ok
+WILLSCOT HOLDINGS CORP,WSC,Industrials,Rental & Leasing Services,ok
+OPENLANE INC,OPLN,Consumer Cyclical,Auto & Truck Dealerships,ok
+ASSOCIATED BANC CORP,ASB,Financial Services,Banks - Regional,ok_v2
+NICOLET BANKSHARES INC,NIC,Financial Services,Banks - Regional,ok_v2
+INDIVIOR PHARMACEUTICALS INC,INDV,Healthcare,Drug Manufacturers - Specialty & Generic,ok_v2
+CABOT CORP,CBT,Basic Materials,Specialty Chemicals,ok_v2
+PHILLIPS EDISON + COMPANY IN,PECO,Real Estate,REIT - Retail,ok_v2
+AAR CORP,AIR,Industrials,Aerospace & Defense,ok_v2
+PRIMORIS SERVICES CORP,PRIM,Industrials,Engineering & Construction,ok_v2
+FIRST FINL BANKSHARES INC,FFIN,Financial Services,Banks - Regional,ok_v2
+EPAM SYSTEMS INC,EPAM,Technology,Information Technology Services,ok_v2
+BRINK S CO/THE,BCO,Industrials,Security & Protection Services,ok_v2
+LIGAND PHARMACEUTICALS,LGND,Healthcare,Biotechnology,ok_v2
+SKYWEST INC,SKYW,Industrials,Airlines,ok
+THE CAMPBELL S COMPANY,CPB,Consumer Defensive,Packaged Foods,ok
+KBR INC,KBR,Industrials,Engineering & Construction,ok
+GENPACT LTD,G,Technology,Information Technology Services,ok
+MATERION CORP,MTRN,Basic Materials,Other Industrial Metals & Mining,ok
+RUSH STREET INTERACTIVE INC,RSI,Consumer Cyclical,Gambling,ok
+BELDEN INC,BDC,Technology,Communication Equipment,ok
+MATTEL INC,MAT,Consumer Cyclical,Leisure,ok
+SYNAPTICS INC,SYNA,Technology,Semiconductors,ok
+FTI CONSULTING INC,FCN,Industrials,Consulting Services,ok
+TXNM ENERGY INC,TXNM,Utilities,Utilities - Regulated Electric,ok
+PORTLAND GENERAL ELECTRIC CO,POR,Utilities,Utilities - Regulated Electric,ok
+UIPATH INC   CLASS A,PATH,Technology,Software - Infrastructure,ok
+HOME BANCSHARES INC,HOMB,Financial Services,Banks - Regional,ok
+CELSIUS HOLDINGS INC,CELH,Consumer Defensive,Beverages - Non-Alcoholic,ok
+SOUTHWEST GAS HOLDINGS INC,SWX,Utilities,Utilities - Regulated Gas,ok
+BROWN FORMAN CORP CLASS B,BF-B,Consumer Defensive,Beverages - Wineries & Distilleries,ok
+ALLEGRO MICROSYSTEMS INC,ALGM,Technology,Semiconductors,ok
+BLACK HILLS CORP,BKH,Utilities,Utilities - Regulated Gas,ok
+CATHAY GENERAL BANCORP,CATY,Financial Services,Banks - Regional,ok
+MP MATERIALS CORP,MP,Basic Materials,Other Industrial Metals & Mining,ok
+CLEVELAND CLIFFS INC,CLF,Basic Materials,Steel,ok
+TG THERAPEUTICS INC,TGTX,Healthcare,Biotechnology,ok
+AZZ INC,AZZ,Industrials,Specialty Business Services,ok
+QUALYS INC,QLYS,Technology,Software - Infrastructure,ok
+COUSINS PROPERTIES INC,CUZ,Real Estate,REIT - Office,ok
+ABERCROMBIE + FITCH CO CL A,ANF,Consumer Cyclical,Apparel Retail,ok
+MURPHY OIL CORP,MUR,Energy,Oil & Gas E&P,ok
+VERACYTE INC,VCYT,Healthcare,Diagnostics & Research,ok
+MAGNOLIA OIL + GAS CORP   A,MGY,Energy,Oil & Gas E&P,ok
+URBAN OUTFITTERS INC,URBN,Consumer Cyclical,Apparel Retail,ok
+RESIDEO TECHNOLOGIES INC,REZI,Industrials,Industrial Distribution,ok
+BENTLEY SYSTEMS INC CLASS B,BSY,Technology,Software - Application,ok
+CELANESE CORP,CE,Basic Materials,Chemicals,ok
+POST HOLDINGS INC,POST,Consumer Defensive,Packaged Foods,ok
+NOBLE CORP PLC,NE,Energy,Oil & Gas Drilling,ok
+PLANET FITNESS INC   CL A,PLNT,Consumer Cyclical,Leisure,ok
+CARETRUST REIT INC,CTRE,Real Estate,REIT - Healthcare Facilities,ok
+BREAD FINANCIAL HOLDINGS INC,BFH,Financial Services,Credit Services,ok
+PVH CORP,PVH,Consumer Cyclical,Apparel Manufacturing,ok
+WARBY PARKER INC CLASS A,WRBY,Healthcare,Medical Instruments & Supplies,ok
+MOELIS + CO   CLASS A,MC,Financial Services,Capital Markets,ok
+GRIFFON CORP,GFF,Industrials,Building Products & Equipment,ok
+EXLSERVICE HOLDINGS INC,EXLS,Technology,Information Technology Services,ok
+GRAND CANYON EDUCATION INC,LOPE,Consumer Defensive,Education & Training Services,ok
+BRADY CORPORATION   CL A,BRC,Industrials,Security & Protection Services,ok
+MARKETAXESS HOLDINGS INC,MKTX,Financial Services,Capital Markets,ok
+GENWORTH FINANCIAL INC,GNW,Financial Services,Insurance - Life,ok
+PAYLOCITY HOLDING CORP,PCTY,Technology,Software - Application,ok
+VALARIS LTD,VAL,Energy,Oil & Gas Drilling,ok
+RUSH ENTERPRISES INC CL A,RUSHA,Consumer Cyclical,Auto & Truck Dealerships,ok
+ELF BEAUTY INC,ELF,Consumer Defensive,Household & Personal Products,ok
+DUOLINGO,DUOL,Technology,Software - Application,ok
+LIVANOVA PLC,LIVN,Healthcare,Medical Devices,ok
+BADGER METER INC,BMI,Technology,Scientific & Technical Instruments,ok
+ENVISTA HOLDINGS CORP,NVST,Healthcare,Medical Instruments & Supplies,ok
+CORE NATURAL RESOURCES INC,CNR,Energy,Thermal Coal,ok
+KNIFE RIVER CORP,KNF,Basic Materials,Building Materials,ok
+MORNINGSTAR INC,MORN,Financial Services,Financial Data & Stock Exchanges,ok
+ASSURED GUARANTY LTD,AGO,Financial Services,Insurance - Specialty,ok
+FRANKLIN ELECTRIC CO INC,FELE,Industrials,Specialty Industrial Machinery,ok
+INTERNATIONAL BANCSHARES CRP,IBOC,Financial Services,Banks - Regional,ok
+EPR PROPERTIES,EPR,Real Estate,REIT - Specialty,ok
+CROCS INC,CROX,Consumer Cyclical,Footwear & Accessories,ok
+SABRA HEALTH CARE REIT INC,SBRA,Real Estate,REIT - Healthcare Facilities,ok
+COPT DEFENSE PROPERTIES,CDP,Real Estate,REIT - Office,ok
+SIGNET JEWELERS LTD,SIG,Consumer Cyclical,Luxury Goods,ok
+BANKUNITED INC,BKU,Financial Services,Banks - Regional,ok
+ARCHROCK INC,AROC,Energy,Oil & Gas Equipment & Services,ok
+INVENTRUST PROPERTIES CORP,IVT,Real Estate,REIT - Retail,ok
+PRICESMART INC,PSMT,Consumer Defensive,Discount Stores,ok
+POWER INTEGRATIONS INC,POWI,Technology,Semiconductors,ok
+MDU RESOURCES GROUP INC,MDU,Utilities,Utilities - Regulated Gas,ok
+STANDARDAERO INC,SARO,Industrials,Aerospace & Defense,ok
+PIPER SANDLER COS,PIPR,Financial Services,Capital Markets,ok
+GEO GROUP INC/THE,GEO,Industrials,Security & Protection Services,ok
+OLLIE S BARGAIN OUTLET HOLDI,OLLI,Consumer Defensive,Discount Stores,ok
+BGC GROUP INC A,BGC,Financial Services,Capital Markets,ok
+ONE GAS INC,OGS,Utilities,Utilities - Regulated Gas,ok
+SERVISFIRST BANCSHARES INC,SFBS,Financial Services,Banks - Regional,ok
+HA SUSTAINABLE INFRASTRUCTUR,HASI,Financial Services,Asset Management,ok
+CORECIVIC INC,CXW,Industrials,Security & Protection Services,ok
+FULTON FINANCIAL CORP,FULT,Financial Services,Banks - Regional,ok
+SPIRE INC,SR,Utilities,Utilities - Regulated Gas,ok
+ADVANCE AUTO PARTS INC,AAP,Consumer Cyclical,Auto Parts,ok
+VONTIER CORP,VNT,Technology,Scientific & Technical Instruments,ok
+WSFS FINANCIAL CORP,WSFS,Financial Services,Banks - Regional,ok
+INDEPENDENCE REALTY TRUST IN,IRT,Real Estate,REIT - Residential,ok
+RYAN SPECIALTY HOLDINGS INC,RYAN,Financial Services,Insurance - Specialty,ok
+TANGER INC,SKT,Real Estate,REIT - Retail,ok
+GROUP 1 AUTOMOTIVE INC,GPI,Consumer Cyclical,Auto & Truck Dealerships,ok
+OCEANEERING INTL INC,OII,Energy,Oil & Gas Equipment & Services,ok
+DAVE INC,DAVE,Technology,Software - Application,ok
+THOR INDUSTRIES INC,THO,Consumer Cyclical,Recreational Vehicles,ok
+DIODES INC,DIOD,Technology,Semiconductors,ok
+EXTREME NETWORKS INC,EXTR,Technology,Communication Equipment,ok
+UNIFIRST CORP/MA,UNF,Industrials,Specialty Business Services,ok
+BRIGHT HORIZONS FAMILY SOLUT,BFAM,Consumer Cyclical,Personal Services,ok
+DORMAN PRODUCTS INC,DORM,Consumer Cyclical,Auto Parts,ok
+MILLROSE PROPERTIES W/I,MRP,Real Estate,REIT - Residential,ok
+PENSKE AUTOMOTIVE GROUP INC,PAG,Consumer Cyclical,Auto & Truck Dealerships,ok
+KILROY REALTY CORP,KRC,Real Estate,REIT - Office,ok
+GAP INC/THE,GAP,Consumer Cyclical,Apparel Retail,ok
+VICTORY CAPITAL HOLDING   A,VCTR,Financial Services,Asset Management,ok
+ACADEMY SPORTS + OUTDOORS IN,ASO,Consumer Cyclical,Specialty Retail,ok
+HILTON GRAND VACATIONS INC,HGV,Consumer Cyclical,Resorts & Casinos,ok
+FIRST HAWAIIAN INC,FHB,Financial Services,Banks - Regional,ok
+ATMUS FILTRATION TECHNOLOGIE,ATMU,Consumer Cyclical,Auto Parts,ok
+BOX INC   CLASS A,BOX,Technology,Software - Infrastructure,ok
+WARNER MUSIC GROUP CORP CL A,WMG,Communication Services,Entertainment,ok
+KONTOOR BRANDS INC,KTB,Consumer Cyclical,Apparel Manufacturing,ok
+ARCBEST CORP,ARCB,Industrials,Trucking,ok
+NORTHWESTERN ENERGY GROUP IN,NWE,Utilities,Utilities - Regulated Electric,ok
+CLEARWAY ENERGY INC C,CWEN,Utilities,Utilities - Renewable,ok
+DANA INC,DAN,Consumer Cyclical,Auto Parts,ok
+YETI HOLDINGS INC,YETI,Consumer Cyclical,Leisure,ok
+TELEPHONE AND DATA SYSTEMS,TDS,Communication Services,Telecom Services,ok
+REMITLY GLOBAL INC,RELY,Technology,Software - Infrastructure,ok
+BROADSTONE NET LEASE INC,BNL,Real Estate,REIT - Diversified,ok
+DROPBOX INC CLASS A,DBX,Technology,Software - Infrastructure,ok
+IPG PHOTONICS CORP,IPGP,Technology,Semiconductor Equipment & Materials,ok
+OTTER TAIL CORP,OTTR,Industrials,Conglomerates,ok
+LIBERTY ENERGY INC,LBRT,Energy,Oil & Gas Equipment & Services,ok
+EURONET WORLDWIDE INC,EEFT,Technology,Software - Infrastructure,ok
+KNOWLES CORP,KN,Technology,Electronic Components,ok
+CVB FINANCIAL CORP,CVBF,Financial Services,Banks - Regional,ok
+ALIGNMENT HEALTHCARE INC,ALHC,Healthcare,Healthcare Plans,ok
+CLEANSPARK INC,CLSK,Financial Services,Capital Markets,ok
+OPTION CARE HEALTH INC,OPCH,Healthcare,Medical Care Facilities,ok
+OUTFRONT MEDIA INC,OUT,Real Estate,REIT - Specialty,ok
+SILGAN HOLDINGS INC,SLGN,Consumer Cyclical,Packaging & Containers,ok
+POLARIS INC,PII,Consumer Cyclical,Recreational Vehicles,ok
+PHINIA INC,PHIN,Consumer Cyclical,Auto Parts,ok
+ROBERT HALF INC,RHI,Industrials,Staffing & Employment Services,ok
+UFP TECHNOLOGIES INC,UFPT,Healthcare,Medical Devices,ok
+ESSENTIAL PROPERTIES REALTY,EPRT,Real Estate,REIT - Retail,ok
+STRIDE INC,LRN,Consumer Defensive,Education & Training Services,ok
+ASBURY AUTOMOTIVE GROUP,ABG,Consumer Cyclical,Auto & Truck Dealerships,ok
+VERSANT MEDIA GROUP INC,VSNT,Communication Services,Entertainment,ok
+SL GREEN REALTY CORP,SLG,Real Estate,REIT - Office,ok
+KADANT INC,KAI,Industrials,Specialty Industrial Machinery,ok
+CREDIT ACCEPTANCE CORP,CACC,Financial Services,Credit Services,ok
+UNIVERSAL DISPLAY CORP,OLED,Technology,Electronic Components,ok
+HAEMONETICS CORP/MASS,HAE,Healthcare,Medical Devices,ok
+BILL HOLDINGS INC,BILL,Technology,Software - Application,ok
+KORN FERRY,KFY,Industrials,Staffing & Employment Services,ok
+COMMUNITY FINANCIAL SYSTEM I,CBU,Financial Services,Banks - Regional,ok
+TERADATA CORP,TDC,Technology,Software - Infrastructure,ok
+PJT PARTNERS INC   A,PJT,Financial Services,Capital Markets,ok
+M/I HOMES INC,MHO,Consumer Cyclical,Residential Construction,ok
+VEECO INSTRUMENTS INC,VECO,Technology,Semiconductor Equipment & Materials,ok
+CINEMARK HOLDINGS INC,CNK,Communication Services,Entertainment,ok
+NATL HEALTH INVESTORS INC,NHI,Real Estate,REIT - Healthcare Facilities,ok
+ASHLAND INC,ASH,Basic Materials,Specialty Chemicals,ok
+FLAGSTAR BANK NA,FLG,Financial Services,Banks - Regional,ok
+MERIT MEDICAL SYSTEMS INC,MMSI,Healthcare,Medical Instruments & Supplies,ok
+MARRIOTT VACATIONS WORLD,VAC,Consumer Cyclical,Resorts & Casinos,ok
+BOOT BARN HOLDINGS INC,BOOT,Consumer Cyclical,Apparel Retail,ok
+NEWS CORP   CLASS B,NWS,Communication Services,Entertainment,ok
+ATLANTIC UNION BANKSHARES CO,AUB,Financial Services,Banks - Regional,ok
+APPLE HOSPITALITY REIT INC,APLE,Real Estate,REIT - Hotel & Motel,ok
+CSW INDUSTRIALS INC,CSW,Industrials,Specialty Industrial Machinery,ok
+FIRST INTERSTATE BANCSYS A,FIBK,Financial Services,Banks - Regional,ok
+APPFOLIO INC   A,APPF,Technology,Software - Application,ok
+BANK OF HAWAII CORP,BOH,Financial Services,Banks - Regional,ok
+ITRON INC,ITRI,Technology,Scientific & Technical Instruments,ok
+OSI SYSTEMS INC,OSIS,Technology,Electronic Components,ok
+WD 40 CO,WDFC,Basic Materials,Specialty Chemicals,ok
+BRIGHTHOUSE FINANCIAL INC,BHF,Financial Services,Insurance - Life,ok
+NATIONAL STORAGE AFFILIATES,NSA,Real Estate,REIT - Industrial,ok
+HELMERICH + PAYNE,HP,Energy,Oil & Gas Drilling,ok
+FRESHPET INC,FRPT,Consumer Defensive,Packaged Foods,ok
+CHEWY INC   CLASS A,CHWY,Consumer Cyclical,Internet Retail,ok
+ORGANON + CO,OGN,Healthcare,Drug Manufacturers - General,ok
+CHEESECAKE FACTORY INC/THE,CAKE,Consumer Cyclical,Restaurants,ok
+CALIFORNIA RESOURCES CORP,CRC,Energy,Oil & Gas E&P,ok
+INSIGHT ENTERPRISES INC,NSIT,Technology,Electronics & Computer Distribution,ok
+MIRION TECHNOLOGIES INC,MIR,Industrials,Specialty Industrial Machinery,ok
+MAXIMUS INC,MMS,Industrials,Specialty Business Services,ok
+ADT INC,ADT,Industrials,Security & Protection Services,ok
+BANCORP INC/THE,TBBK,Financial Services,Banks - Regional,ok
+PARK HOTELS + RESORTS INC,PK,Real Estate,REIT - Hotel & Motel,ok
+INDEPENDENT BANK CORP/MA,INDB,Financial Services,Banks - Regional,ok
+HIGHWOODS PROPERTIES INC,HIW,Real Estate,REIT - Office,ok
+GRAPHIC PACKAGING HOLDING CO,GPK,Consumer Cyclical,Packaging & Containers,ok
+BENCHMARK ELECTRONICS INC,BHE,Technology,Electronic Components,ok
+ACUSHNET HOLDINGS CORP,GOLF,Consumer Cyclical,Leisure,ok
+STEVEN MADDEN LTD,SHOO,Consumer Cyclical,Footwear & Accessories,ok
+CHEMOURS CO/THE,CC,Basic Materials,Specialty Chemicals,ok
+PEOPLE INC,PPLI,Communication Services,Internet Content & Information,ok
+TIDEWATER INC,TDW,Energy,Oil & Gas Equipment & Services,ok
+PENN ENTERTAINMENT INC,PENN,Consumer Cyclical,Resorts & Casinos,ok
+MARA HOLDINGS INC,MARA,Financial Services,Capital Markets,ok
+CACTUS INC   A,WHD,Energy,Oil & Gas Equipment & Services,ok
+SHIFT4 PAYMENTS INC CLASS A,FOUR,Technology,Software - Infrastructure,ok
+CLEAR SECURE INC  CLASS A,YOU,Technology,Software - Application,ok
+DOLBY LABORATORIES INC CL A,DLB,Industrials,Specialty Business Services,ok
+ADEIA INC,ADEA,Technology,Software - Application,ok
+UNITED COMMUNITY BANKS/GA,UCB,Financial Services,Banks - Regional,ok
+INTERNATIONAL SEAWAYS INC,INSW,Energy,Oil & Gas Midstream,ok
+H.B. FULLER CO.,FUL,Basic Materials,Specialty Chemicals,ok
+WESTERN UNION CO,WU,Financial Services,Credit Services,ok
+FIRST FINANCIAL BANCORP,FFBC,Financial Services,Banks - Regional,ok
+CATALYST PHARMACEUTICALS INC,CPRX,Healthcare,Biotechnology,ok
+KAISER ALUMINUM CORP,KALU,Basic Materials,Aluminum,ok
+WARRIOR MET COAL INC,HCC,Basic Materials,Coking Coal,ok
+RINGCENTRAL INC CLASS A,RNG,Technology,Software - Application,ok
+TRUSTMARK CORP,TRMK,Financial Services,Banks - Regional,ok
+CHOICE HOTELS INTL INC,CHH,Consumer Cyclical,Lodging,ok
+Q2 HOLDINGS INC,QTWO,Technology,Software - Application,ok
+PAR PACIFIC HOLDINGS INC,PARR,Energy,Oil & Gas Refining & Marketing,ok
+ACADIA PHARMACEUTICALS INC,ACAD,Healthcare,Biotechnology,ok
+NETSCOUT SYSTEMS INC,NTCT,Technology,Software - Infrastructure,ok
+CARGURUS INC,CARG,Consumer Cyclical,Auto & Truck Dealerships,ok
+GRAHAM HOLDINGS CO CLASS B,GHC,Industrials,Conglomerates,ok
+BOYD GAMING CORP,BYD,Consumer Cyclical,Resorts & Casinos,ok
+RED ROCK RESORTS INC CLASS A,RRR,Consumer Cyclical,Resorts & Casinos,ok
+HARLEY DAVIDSON INC,HOG,Consumer Cyclical,Recreational Vehicles,ok
+CAL MAINE FOODS INC,CALM,Consumer Defensive,Farm Products,ok
+AVIENT CORP,AVNT,Basic Materials,Specialty Chemicals,ok
+AMENTUM HOLDINGS INC,AMTM,Industrials,Specialty Business Services,ok
+MERCURY GENERAL CORP,MCY,Financial Services,Insurance - Property & Casualty,ok
+INTEGER HOLDINGS CORP,ITGR,Healthcare,Medical Devices,ok
+KODIAK GAS SERVICES INC,KGS,Energy,Oil & Gas Equipment & Services,ok
+VERSIGENT PLC,VGNT,Consumer Cyclical,Auto Parts,ok
+VIPER ENERGY INC CL A,VNOM,Energy,Oil & Gas Midstream,ok
+WAFD INC,WAFD,Financial Services,Banks - Regional,ok
+EXPONENT INC,EXPO,Industrials,Engineering & Construction,ok
+PITNEY BOWES INC,PBI,Industrials,Integrated Freight & Logistics,ok
+VITA COCO CO INC/THE,COCO,Consumer Defensive,Beverages - Non-Alcoholic,ok
+SOLAREDGE TECHNOLOGIES INC,SEDG,Technology,Solar,ok
+NCR ATLEOS CORP,NATL,Technology,Software - Application,ok
+PATHWARD FINANCIAL INC,CASH,Financial Services,Banks - Regional,ok
+AMERICAN STATES WATER CO,AWR,Utilities,Utilities - Regulated Water,ok
+ENCORE CAPITAL GROUP INC,ECPG,Financial Services,Credit Services,ok
+LXP INDUSTRIAL TRUST,LXP,Real Estate,REIT - Industrial,ok
+NATIONAL HEALTHCARE CORP,NHC,Healthcare,Medical Care Facilities,ok
+HUB GROUP INC CL A,HUBG,Industrials,Integrated Freight & Logistics,ok
+PALOMAR HOLDINGS INC,PLMR,Financial Services,Insurance - Property & Casualty,ok
+HAWKINS INC,HWKN,Basic Materials,Specialty Chemicals,ok
+BLACKSTONE MORTGAGE TRU CL A,BXMT,Real Estate,REIT - Mortgage,ok
+BOISE CASCADE CO,BCC,Basic Materials,Lumber & Wood Production,ok
+AVISTA CORP,AVA,Utilities,Utilities - Diversified,ok
+SEZZLE INC,SEZL,Financial Services,Credit Services,ok
+RXO INC,RXO,Industrials,Trucking,ok
+SCOTTS MIRACLE GRO CO,SMG,Basic Materials,Agricultural Inputs,ok
+MGE ENERGY INC,MGEE,Utilities,Utilities - Regulated Electric,ok
+COHU INC,COHU,Technology,Semiconductor Equipment & Materials,ok
+VISTEON CORP,VC,Consumer Cyclical,Auto Parts,ok
+ABM INDUSTRIES INC,ABM,Industrials,Specialty Business Services,ok
+UNITED STATES LIME + MINERAL,USLM,Basic Materials,Building Materials,ok
+RADNET INC,RDNT,Healthcare,Diagnostics & Research,ok
+DIEBOLD NIXDORF INC,DBD,Technology,Software - Application,ok
+INGEVITY CORP,NGVT,Basic Materials,Specialty Chemicals,ok
+AMNEAL PHARMACEUTICALS INC,AMRX,Healthcare,Drug Manufacturers - Specialty & Generic,ok
+SUNRUN INC,RUN,Technology,Solar,ok
+ONESPAWORLD HOLDINGS LTD,OSW,Consumer Cyclical,Leisure,ok
+ACADIA HEALTHCARE CO INC,ACHC,Healthcare,Medical Care Facilities,ok
+LCI INDUSTRIES,LCII,Consumer Cyclical,Recreational Vehicles,ok
+TRINITY INDUSTRIES INC,TRN,Industrials,Railroads,ok
+KENNAMETAL INC,KMT,Industrials,Tools & Accessories,ok
+AMERICAN EAGLE OUTFITTERS,AEO,Consumer Cyclical,Apparel Retail,ok
+CONCENTRA GROUP HOLDINGS PAR,CON,Healthcare,Medical Care Facilities,ok
+HAMILTON LANE INC CLASS A,HLNE,Financial Services,Asset Management,ok
+PATTERSON UTI ENERGY INC,PTEN,Energy,Oil & Gas Drilling,ok
+AVIS BUDGET GROUP INC,CAR,Industrials,Rental & Leasing Services,ok
+ICU MEDICAL INC,ICUI,Healthcare,Medical Instruments & Supplies,ok
+PARK NATIONAL CORP,PRK,Financial Services,Banks - Regional,ok
+PEGASYSTEMS INC,PEGA,Technology,Software - Application,ok
+BANC OF CALIFORNIA INC,BANC,Financial Services,Banks - Regional,ok
+SIMMONS FIRST NATL CORP CL A,SFNC,Financial Services,Banks - Regional,ok
+URBAN EDGE PROPERTIES,UE,Real Estate,REIT - Retail,ok
+CUSTOMERS BANCORP INC,CUBI,Financial Services,Banks - Regional,ok
+RENASANT CORP,RNST,Financial Services,Banks - Regional,ok
+DIAMONDROCK HOSPITALITY CO,DRH,Real Estate,REIT - Hotel & Motel,ok
+ROGERS CORP,ROG,Technology,Electronic Components,ok
+CALIFORNIA WATER SERVICE GRP,CWT,Utilities,Utilities - Regulated Water,ok
+NMI HOLDINGS INC,NMIH,Financial Services,Insurance - Specialty,ok
+DOXIMITY INC CLASS A,DOCS,Healthcare,Health Information Services,ok
+DXP ENTERPRISES INC,DXPE,Industrials,Industrial Distribution,ok
+PRIVIA HEALTH GROUP INC,PRVA,Healthcare,Health Information Services,ok
+SUPERNUS PHARMACEUTICALS INC,SUPN,Healthcare,Drug Manufacturers - Specialty & Generic,ok
+UNITED NATURAL FOODS INC,UNFI,Consumer Defensive,Food Distribution,ok
+RH,RH,Consumer Cyclical,Specialty Retail,ok
+IMPINJ INC,PI,Technology,Semiconductors,ok
+EPLUS INC,PLUS,Technology,Software - Application,ok
+MEDICAL PROPERTIES TRUST INC,MPT,Real Estate,REIT - Healthcare Facilities,ok
+CRANE NXT CO,CXT,Industrials,Specialty Industrial Machinery,ok
+VIRTU FINANCIAL INC CLASS A,VIRT,Financial,Capital Markets,ok
+BEACON FINANCIAL CORP,BBT,Financial,Banks - Regional,ok
+LIVERAMP HOLDINGS INC,RAMP,Technology,Software - Infrastructure,ok
+PEABODY ENERGY CORP,BTU,Energy,Thermal Coal,ok
+N B T BANCORP INC,NBTB,Financial,Banks - Regional,ok
+WERNER ENTERPRISES INC,WERN,Industrials,Trucking,ok
+WESTLAKE CORP,WLK,Basic Materials,Specialty Chemicals,ok
+PATRICK INDUSTRIES INC,PATK,Consumer Cyclical,Recreational Vehicles,ok
+PRESTIGE CONSUMER HEALTHCARE,PBH,Healthcare,Drug Manufacturers - Specialty & Generic,ok
+CURBLINE PROPERTIES CORP,CURB,Real Estate,REIT - Retail,ok
+MINERALS TECHNOLOGIES INC,MTX,Basic Materials,Specialty Chemicals,ok
+PROGYNY INC,PGNY,Healthcare,Healthcare Plans,ok
+WAYSTAR HOLDING CORP,WAY,Healthcare,Health Information Services,ok
+DENTSPLY SIRONA INC,XRAY,Healthcare,Medical Instruments & Supplies,ok
+PENGUIN SOLUTIONS INC,PENG,Technology,Information Technology Services,ok
+A10 NETWORKS INC,ATEN,Technology,Software - Infrastructure,ok
+CUSHMAN + WAKEFIELD LTD,CWK,Real Estate,Real Estate Services,ok
+PEBBLEBROOK HOTEL TRUST,PEB,Real Estate,REIT - Hotel & Motel,ok
+OLIN CORP,OLN,Basic Materials,Chemicals,ok
+INTERFACE INC,TILE,Consumer Cyclical,"Furnishings, Fixtures & Appliances",ok
+OFG BANCORP,OFG,Financial,Banks - Regional,ok
+ARTISAN PARTNERS ASSET MA  A,APAM,Financial,Asset Management,ok
+PELOTON INTERACTIVE INC A,PTON,Consumer Cyclical,Leisure,ok
+SUNSTONE HOTEL INVESTORS INC,SHO,Real Estate,REIT - Hotel & Motel,ok
+ICHOR HOLDINGS LTD,ICHR,Technology,Semiconductor Equipment & Materials,ok
+UNIVERSAL TECHNICAL INSTITUT,UTI,Consumer Defensive,Education & Training Services,ok
+PERDOCEO EDUCATION CORP,PRDO,Consumer Defensive,Education & Training Services,ok
+ALBANY INTL CORP CL A,AIN,Consumer Cyclical,Textile Manufacturing,ok
+GULFPORT ENERGY CORP,GPOR,Energy,Oil & Gas E&P,ok
+PEDIATRIX MEDICAL GROUP INC,MD,Healthcare,Medical Care Facilities,ok
+XENIA HOTELS + RESORTS INC,XHR,Real Estate,REIT - Hotel & Motel,ok
+DIGI INTERNATIONAL INC,DGII,Technology,Communication Equipment,ok
+NEWELL BRANDS INC,NWL,Consumer Defensive,Household & Personal Products,ok
+WILEY (JOHN) + SONS CLASS A,WLY,Communication Services,Publishing,ok
+HILLTOP HOLDINGS INC,HTH,Financial,Financial Conglomerates,ok
+HAWAIIAN ELECTRIC INDS,HE,Utilities,Utilities - Regulated Electric,ok
+CITY HOLDING CO,CHCO,Financial,Banks - Regional,ok
+KYNDRYL HOLDINGS INC,KD,Technology,Information Technology Services,ok
+QUAKER CHEMICAL CORPORATION,KWR,Basic Materials,Specialty Chemicals,ok
+WHIRLPOOL CORP,WHR,Consumer Cyclical,"Furnishings, Fixtures & Appliances",ok
+TRANSMEDICS GROUP INC,TMDX,Healthcare,Medical Devices,ok
+H2O AMERICA,HTO,Utilities,Utilities - Regulated Water,ok
+PROTO LABS INC,PRLB,Industrials,Metal Fabrication,ok
+HAYWARD HOLDINGS INC,HAYW,Industrials,Electrical Equipment & Parts,ok
+ENERPAC TOOL GROUP CORP,EPAC,Industrials,Specialty Industrial Machinery,ok
+MASTERBRAND INC,MBC,Consumer Cyclical,"Furnishings, Fixtures & Appliances",ok
+LIFESTANCE HEALTH GROUP INC,LFST,Healthcare,Medical Care Facilities,ok
+STEPSTONE GROUP INC CLASS A,STEP,Financial,Asset Management,ok
+INNOSPEC INC,IOSP,Basic Materials,Specialty Chemicals,ok
+ZIFF DAVIS INC,ZD,Communication Services,Advertising Agencies,ok
+CHESAPEAKE UTILITIES CORP,CPK,Utilities,Utilities - Regulated Gas,ok
+CAPRI HOLDINGS LTD,CPRI,Consumer Cyclical,Luxury Goods,ok
+ANDERSONS INC/THE,ANDE,Consumer Defensive,Food Distribution,ok
+CHEFS  WAREHOUSE INC/THE,CHEF,Consumer Defensive,Food Distribution,ok
+CENTURY ALUMINUM COMPANY,CENX,Basic Materials,Aluminum,ok
+BANNER CORPORATION,BANR,Financial,Banks - Regional,ok
+VERICEL CORP,VCEL,Healthcare,Biotechnology,ok
+FIRST COMMONWEALTH FINL CORP,FCF,Financial,Banks - Regional,ok
+CENTRAL GARDEN AND PET CO A,CENTA,Consumer Defensive,Packaged Foods,ok
+WISDOMTREE INC,WT,Financial,Asset Management,ok
+CALIX INC,CALX,Technology,Software - Infrastructure,ok
+PDF SOLUTIONS INC,PDFS,Technology,Software - Application,ok
+WORLD KINECT CORP,WKC,Energy,Oil & Gas Refining & Marketing,ok
+HORACE MANN EDUCATORS,HMN,Financial,Insurance - Property & Casualty,ok
+ALARM.COM HOLDINGS INC,ALRM,Technology,Software - Application,ok
+MANPOWERGROUP INC,MAN,Industrials,Staffing & Employment Services,ok
+KOHLS CORP,KSS,Consumer Cyclical,Department Stores,ok
+SIRIUSPOINT LTD,SPNT,Financial,Insurance - Reinsurance,ok
+VIRTUS INVESTMENT PARTNERS,VRTS,Financial,Asset Management,ok
+CTS CORP,CTS,Technology,Electronic Components,ok
+SHAKE SHACK INC   CLASS A,SHAK,Consumer Cyclical,Restaurants,ok
+GREEN BRICK PARTNERS INC,GRBK,Consumer Cyclical,Residential Construction,ok
+COHEN + STEERS INC,CNS,Financial,Asset Management,ok
+ACADIAN ASSET MANAGEMENT INC,AAMI,Financial,Asset Management,ok
+STRATEGIC EDUCATION INC,STRA,Consumer Defensive,Education & Training Services,ok
+DOUGLAS EMMETT INC,DEI,Real Estate,REIT - Office,ok
+ST JOE CO/THE,JOE,Real Estate,Real Estate - Diversified,ok
+CALLAWAY GOLF COMPANY,CALY,Consumer Cyclical,Leisure,ok
+COLUMBIA SPORTSWEAR CO,COLM,Consumer Cyclical,Apparel Manufacturing,ok
+HARMONIC INC,HLIT,Technology,Communication Equipment,ok
+NETSTREIT CORP,NTST,Real Estate,REIT - Retail,ok
+ALPHA METALLURGICAL RESOURCE,AMR,Basic Materials,Coking Coal,ok
+PARAMOUNT SKYDANCE CL B,PSKY,Communication Services,Entertainment,ok
+ACADIA REALTY TRUST,AKR,Real Estate,REIT - Retail,ok
+SPS COMMERCE INC,SPSC,Technology,Software - Application,ok
+BANCFIRST CORP,BANF,Financial,Banks - Regional,ok
+AGILYSYS INC,AGYS,Technology,Software - Application,ok
+BOSTON BEER COMPANY INC A,SAM,Consumer Defensive,Beverages - Brewers,ok
+PHOTRONICS INC,PLAB,Technology,Semiconductor Equipment & Materials,ok
+S + T BANCORP INC,STBA,Financial,Banks - Regional,ok
+SOTERA HEALTH CO,SHC,Healthcare,Diagnostics & Research,ok
+MONARCH CASINO + RESORT INC,MCRI,Consumer Cyclical,Resorts & Casinos,ok
+PROVIDENT FINANCIAL SERVICES,PFS,Financial,Banks - Regional,ok
+INTERPARFUMS INC,IPAR,Consumer Defensive,Household & Personal Products,ok
+ALAMO GROUP INC,ALG,Industrials,Farm & Heavy Construction Machinery,ok
+NATIONAL PRESTO INDS INC,NPK,Industrials,Aerospace & Defense,ok
+EZCORP INC CL A,EZPW,Financial,Credit Services,ok
+VESTIS CORP,VSTS,Industrials,Rental & Leasing Services,ok
+FOUR CORNERS PROPERTY TRUST,FCPT,Real Estate,REIT - Retail,ok
+WORTHINGTON ENTERPRISES INC,WOR,Industrials,Metal Fabrication,ok
+HNI CORP,HNI,Consumer Cyclical,"Furnishings, Fixtures & Appliances",ok
+HEALTHCARE SERVICES GROUP,HCSG,Healthcare,Medical Care Facilities,ok
+LA Z BOY INC,LZB,Consumer Cyclical,"Furnishings, Fixtures & Appliances",ok
+MARZETTI COMPANY/THE,MZTI,Consumer Defensive,Packaged Foods,ok
+ALLEGIANT TRAVEL CO,ALGT,Industrials,Airlines,ok
+PARSONS CORP,PSN,Technology,Information Technology Services,ok
+NEOGENOMICS INC,NEO,Healthcare,Diagnostics & Research,ok
+HOPE BANCORP INC,HOPE,Financial,Banks - Regional,ok
+PROGRESS SOFTWARE CORP,PRGS,Technology,Software - Infrastructure,ok
+KINETIK HOLDINGS INC,KNTK,Energy,Oil & Gas Midstream,ok
+DXC TECHNOLOGY CO,DXC,Technology,Information Technology Services,ok
+GOODYEAR TIRE + RUBBER CO,GT,Consumer Cyclical,Auto Parts,ok
+SONIC AUTOMOTIVE INC CLASS A,SAH,Consumer Cyclical,Auto & Truck Dealerships,ok
+JETBLUE AIRWAYS CORP,JBLU,Industrials,Airlines,ok
+SALLY BEAUTY HOLDINGS INC,SBH,Consumer Cyclical,Specialty Retail,ok
+NORTHWEST BANCSHARES INC,NWBI,Financial,Banks - Regional,ok
+EVERTEC INC,EVTC,Technology,Software - Infrastructure,ok
+CARTER S INC,CRI,Consumer Cyclical,Apparel Retail,ok
+CRESCENT ENERGY INC A,CRGY,Energy,Oil & Gas E&P,ok
+SEACOAST BANKING CORP/FL,SBCF,Financial,Banks - Regional,ok
+BJ S RESTAURANTS INC,BJRI,Consumer Cyclical,Restaurants,ok
+SAREPTA THERAPEUTICS INC,SRPT,Healthcare,Biotechnology,ok
+SONOS INC,SONO,Technology,Consumer Electronics,ok
+DREAM FINDERS HOMES INC   A,DFH,Consumer Cyclical,Residential Construction,ok
+NEOGEN CORP,NEOG,Healthcare,Medical Devices,ok
+NORTHWEST NATURAL HOLDING CO,NWN,Utilities,Utilities - Regulated Gas,ok
+EMPLOYERS HOLDINGS INC,EIG,Financial,Insurance - Specialty,ok
+LAKELAND FINANCIAL CORP,LKFN,Financial,Banks - Regional,ok
+FORTREA HOLDINGS INC,FTRE,Healthcare,Biotechnology,ok
+NATIONAL BANK HOLD CL A,NBHC,Financial,Banks - Regional,ok
+WALKER + DUNLOP INC,WD,Financial,Mortgage Finance,ok
+G III APPAREL GROUP LTD,GIII,Consumer Cyclical,Apparel Manufacturing,ok
+SCANSOURCE INC,SCSC,Technology,Electronics & Computer Distribution,ok
+KEMPER CORP,KMPR,Financial,Insurance - Property & Casualty,ok
+OMNICELL INC,OMCL,Healthcare,Health Information Services,ok
+LEMAITRE VASCULAR INC,LMAT,Healthcare,Medical Instruments & Supplies,ok
+LTC PROPERTIES INC,LTC,Real Estate,REIT - Healthcare Facilities,ok
+ADIENT PLC,ADNT,Consumer Cyclical,Auto Parts,ok
+JBG SMITH PROPERTIES,JBGS,Real Estate,REIT - Diversified,ok
+WENDY S CO/THE,WEN,Consumer Cyclical,Restaurants,ok
+INNOVATIVE INDUSTRIAL PROPER,IIPR,Real Estate,REIT - Industrial,ok
+CENTURY COMMUNITIES INC,CCS,Real Estate,Real Estate - Development,ok
+PREFERRED BANK/LOS ANGELES,PFBC,Financial,Banks - Regional,ok
+STEWART INFORMATION SERVICES,STC,Financial,Insurance - Property & Casualty,ok
+LEGGETT + PLATT INC,LEG,Consumer Cyclical,"Furnishings, Fixtures & Appliances",ok
+GREENBRIER COMPANIES INC,GBX,Industrials,Railroads,ok
+FLOWERS FOODS INC,FLO,Consumer Defensive,Packaged Foods,ok
+ADDUS HOMECARE CORP,ADUS,Healthcare,Medical Care Facilities,ok
+YELP INC,YELP,Communication Services,Internet Content & Information,ok
+NATIONAL VISION HOLDINGS INC,EYE,Consumer Cyclical,Specialty Retail,ok
+SCHOLASTIC CORP,SCHL,Communication Services,Publishing,ok
+AZENTA INC,AZTA,Healthcare,Medical Instruments & Supplies,ok
+TRIUMPH FINANCIAL INC,TFIN,Financial,Banks - Regional,ok
+ADMA BIOLOGICS INC,ADMA,Healthcare,Biotechnology,ok
+PAYONEER GLOBAL INC,PAYO,Technology,Software - Infrastructure,ok
+LINDSAY CORP,LNN,Industrials,Farm & Heavy Construction Machinery,ok
+INSPERITY INC,NSP,Industrials,Staffing & Employment Services,ok
+FIRST ADVANTAGE CORP,FA,Industrials,Specialty Business Services,ok
+EDGEWELL PERSONAL CARE CO,EPC,Consumer Defensive,Household & Personal Products,ok
+O I GLASS INC,OI,Consumer Cyclical,Packaging & Containers,ok
+BLACKLINE INC,BL,Technology,Software - Application,ok
+REYNOLDS CONSUMER PRODUCTS I,REYN,Consumer Cyclical,Packaging & Containers,ok
+ARCUS BIOSCIENCES INC,RCUS,Healthcare,Biotechnology,ok
+BLACKBAUD INC,BLKB,Technology,Software - Application,ok
+GIBRALTAR INDUSTRIES INC,ROCK,Industrials,Building Products & Equipment,ok
+TENNANT CO,TNC,Industrials,Specialty Industrial Machinery,ok
+DOUBLEVERIFY HOLDINGS INC,DV,Communication Services,Advertising Agencies,ok
+MERCHANTS BANCORP/IN,MBIN,Financial,Banks - Regional,ok
+PERRIGO CO PLC,PRGO,Healthcare,Drug Manufacturers - Specialty & Generic,ok
+AMN HEALTHCARE SERVICES INC,AMN,Healthcare,Medical Care Facilities,ok
+DIME COMMERCIAL BANCSHARES I,DCOM,Financial,Banks - Regional,ok
+PILGRIM S PRIDE CORP,PPC,Consumer Defensive,Packaged Foods,ok
+CORVEL CORP,CRVL,Financial,Insurance Brokers,ok
+WESTAMERICA BANCORPORATION,WABC,Financial,Banks - Regional,ok
+GREIF INC CL A,GEF,Consumer Cyclical,Packaging & Containers,ok
+DONNELLEY FINANCIAL SOLUTION,DFIN,Technology,Software - Application,ok
+FMC CORP,FMC,Basic Materials,Agricultural Inputs,ok
+TRIPADVISOR INC,TRIP,Consumer Cyclical,Travel Services,ok
+UNITI GROUP INC,UNIT,Real Estate,REIT - Specialty,ok
+MILLERKNOLL INC,MLKN,Consumer Cyclical,"Furnishings, Fixtures & Appliances",ok
+SCHNEIDER NATIONAL INC CL B,SNDR,Industrials,Trucking,ok
+INNOVIVA INC,INVA,Healthcare,Biotechnology,ok
+UNITED PARKS + RESORTS INC,PRKS,Consumer Cyclical,Leisure,ok
+COMSTOCK RESOURCES INC,CRK,Energy,Oil & Gas E&P,ok
+ENACT HOLDINGS INC,ACT,Financial,Insurance - Specialty,ok
+NAPCO SECURITY TECHNOLOGIES,NSSC,Industrials,Security & Protection Services,ok
+GETTY REALTY CORP,GTY,Real Estate,REIT - Retail,ok
+FB FINANCIAL CORP,FBK,Financial,Banks - Regional,ok
+UNDER ARMOUR INC CLASS A,UAA,Consumer Cyclical,Apparel Manufacturing,ok
+NORTHERN OIL AND GAS INC,NOG,Energy,Oil & Gas E&P,ok
+PAPA JOHN S INTL INC,PZZA,Consumer Cyclical,Restaurants,ok
+ENERGIZER HOLDINGS INC,ENR,Industrials,Electrical Equipment & Parts,ok
+WOLVERINE WORLD WIDE INC,WWW,Consumer Cyclical,Footwear & Accessories,ok
+HCI GROUP INC,HCI,Financial,Insurance - Property & Casualty,ok
+CENTRAL PACIFIC FINANCIAL CO,CPF,Financial,Banks - Regional,ok
+APOGEE ENTERPRISES INC,APOG,Industrials,Building Products & Equipment,ok
+STAAR SURGICAL CO,STAA,Healthcare,Medical Instruments & Supplies,ok
+ASTEC INDUSTRIES INC,ASTE,Industrials,Farm & Heavy Construction Machinery,ok
+CRACKER BARREL OLD COUNTRY,CBRL,Consumer Cyclical,Restaurants,ok
+GOOSEHEAD INSURANCE INC  A,GSHD,Financial,Insurance Brokers,ok
+INTEGRA LIFESCIENCES HOLDING,IART,Healthcare,Medical Devices,ok
+SYLVAMO CORP,SLVM,Basic Materials,Paper & Paper Products,ok
+AMERICAN ASSETS TRUST INC,AAT,Real Estate,REIT - Diversified,ok
+TOMPKINS FINANCIAL CORP,TMP,Financial,Banks - Regional,ok
+SAFETY INSURANCE GROUP INC,SAFT,Financial,Insurance - Property & Casualty,ok
+DELUXE CORP,DLX,Industrials,Conglomerates,ok
+BUCKLE INC/THE,BKE,Consumer Cyclical,Apparel Retail,ok
+UNDER ARMOUR INC CLASS C,UA,Consumer Cyclical,Apparel Manufacturing,ok
+HELIX ENERGY SOLUTIONS GROUP,HLX,Energy,Oil & Gas Equipment & Services,ok
+AVANOS MEDICAL INC,AVNS,Healthcare,Medical Devices,ok
+UPWORK INC,UPWK,Communication Services,Internet Content & Information,ok
+PROG HOLDINGS INC,PRG,Industrials,Rental & Leasing Services,ok
+DORIAN LPG LTD,LPG,Energy,Oil & Gas Midstream,ok
+WINMARK CORP,WINA,Consumer Cyclical,Specialty Retail,ok
+ASTRANA HEALTH INC,ASTH,Healthcare,Medical Care Facilities,ok
+SIMPLY GOOD FOODS CO/THE,SMPL,Consumer Defensive,Packaged Foods,ok
+SOUTHSIDE BANCSHARES INC,SBSI,Financial,Banks - Regional,ok
+J + J SNACK FOODS CORP,JJSF,Consumer Defensive,Packaged Foods,ok
+INSPIRE MEDICAL SYSTEMS INC,INSP,Healthcare,Medical Devices,ok
+NCR VOYIX CORP,VYX,Technology,Information Technology Services,ok
+BRISTOW GROUP INC,VTOL,Energy,Oil & Gas Equipment & Services,ok
+PACIRA BIOSCIENCES INC,PCRX,Healthcare,Drug Manufacturers - Specialty & Generic,ok
+CAPITOL FEDERAL FINANCIAL IN,CFFN,Financial,Banks - Regional,ok
+PENNYMAC MORTGAGE INVESTMENT,PMT,Real Estate,REIT - Mortgage,ok
+WORTHINGTON STEEL INC,WS,Basic Materials,Steel,ok
+HANMI FINANCIAL CORPORATION,HAFC,Financial,Banks - Regional,ok
+QUIDELORTHO CORP,QDEL,Healthcare,Medical Devices,ok
+GENTHERM INC,THRM,Consumer Cyclical,Auto Parts,ok
+ARLO TECHNOLOGIES INC,ARLO,Industrials,Building Products & Equipment,ok
+CONCENTRIX CORP,CNXC,Technology,Information Technology Services,ok
+SIX FLAGS ENTERTAINMENT CORP,FUN,Consumer Cyclical,Leisure,ok
+FIRST BANCORP/NC,FBNC,Financial,Banks - Regional,ok
+TRUSTCO BANK CORP NY,TRST,Financial,Banks - Regional,ok
+DNOW INC,DNOW,Industrials,Industrial Distribution,ok
+ADAPTHEALTH CORP,AHCO,Healthcare,Medical Devices,ok
+U.S. PHYSICAL THERAPY INC,USPH,Healthcare,Medical Care Facilities,ok
+LIQUIDITY SERVICES INC,LQDT,Consumer Cyclical,Internet Retail,ok
+UNIVERSAL CORP/VA,UVV,Consumer Defensive,Tobacco,ok
+WINNEBAGO INDUSTRIES,WGO,Consumer Cyclical,Recreational Vehicles,ok
+F+G ANNUITIES + LIFE INC,FG,Financial,Insurance - Life,ok
+HERITAGE FINANCIAL CORP,HFWA,Financial,Banks - Regional,ok
+ALPHA + OMEGA SEMICONDUCTOR,AOSL,Technology,Semiconductors,ok
+ARBOR REALTY TRUST INC,ABR,Real Estate,REIT - Mortgage,ok
+MARTEN TRANSPORT LTD,MRTN,Industrials,Trucking,ok
+LGI HOMES INC,LGIH,Consumer Cyclical,Residential Construction,ok
+GLOBAL NET LEASE INC,GNL,Real Estate,REIT - Diversified,ok
+TANDEM DIABETES CARE INC,TNDM,Healthcare,Medical Devices,ok
+PC CONNECTION INC,CNXN,Technology,Electronics & Computer Distribution,ok
+EAGLE BANCORP INC,EGBN,Financial,Banks - Regional,ok
+CONMED CORP,CNMD,Healthcare,Medical Devices,ok
+STEPAN CO,SCL,Basic Materials,Specialty Chemicals,ok
+ATLAS ENERGY SOLUTIONS INC,AESI,Energy,Oil & Gas Equipment & Services,ok
+PURSUIT ATTRACTIONS AND HOSP,PRSU,Consumer Cyclical,Travel Services,ok
+HARMONY BIOSCIENCES HOLDINGS,HRMY,Healthcare,Biotechnology,ok
+MIDDLESEX WATER CO,MSEX,Utilities,Utilities - Regulated Water,ok
+TWO HARBORS INVESTMENT CORP,TWO,Real Estate,REIT - Mortgage,ok
+HEALTHSTREAM INC,HSTM,Healthcare,Health Information Services,ok
+UNITED FIRE GROUP INC,UFCS,Financial,Insurance - Property & Casualty,ok
+DEL MONTE CORP,DMC,Consumer Defensive,Farm Products,ok
+XENCOR INC,XNCR,Healthcare,Biotechnology,ok
+SCHRODINGER INC,SDGR,Healthcare,Health Information Services,ok
+BIOLIFE SOLUTIONS INC,BLFS,Healthcare,Medical Instruments & Supplies,ok
+MATTHEWS INTL CORP CLASS A,MATW,Industrials,Conglomerates,ok
+NATIONAL BEVERAGE CORP,FIZZ,Consumer Defensive,Beverages - Non-Alcoholic,ok
+EVERFORTH INC,EFOR,Technology,Information Technology Services,ok
+ARTIVION INC,AORT,Healthcare,Medical Devices,ok
+UPBOUND GROUP INC,UPBD,Technology,Software - Application,ok
+CVR ENERGY INC,CVI,Energy,Oil & Gas Refining & Marketing,ok
+INNOVEX INTERNATIONAL INC,INVX,Energy,Oil & Gas Equipment & Services,ok
+MARCUS + MILLICHAP INC,MMI,Real Estate,Real Estate Services,ok
+WHITESTONE REIT,WSR,Real Estate,REIT - Retail,ok
+TRUPANION INC,TRUP,Financial,Insurance - Property & Casualty,ok
+ENOVIS CORP,ENOV,Healthcare,Medical Devices,ok
+ADAMAS TRUST INC,ADAM,Real Estate,REIT - Mortgage,ok
+TOOTSIE ROLL INDS,TR,Consumer Defensive,Confectioners,ok
+ZOOMINFO TECHNOLOGIES INC,GTM,Technology,Software - Application,ok
+UNITIL CORP,UTL,Utilities,Utilities - Diversified,ok
+GROCERY OUTLET HOLDING CORP,GO,Consumer Defensive,Grocery Stores,ok
+KOPPERS HOLDINGS INC,KOP,Basic Materials,Specialty Chemicals,ok
+HEARTLAND EXPRESS INC,HTLD,Industrials,Trucking,ok
+QUINSTREET INC,QNST,Communication Services,Advertising Agencies,ok
+LEGALZOOMCOM INC,LZ,Industrials,Specialty Business Services,ok
+VIR BIOTECHNOLOGY INC,VIR,Healthcare,Biotechnology,ok
+ELLINGTON FINANCIAL INC,EFC,Real Estate,REIT - Mortgage,ok
+CERTARA INC,CERT,Healthcare,Health Information Services,ok
+AMPHASTAR PHARMACEUTICALS IN,AMPH,Healthcare,Drug Manufacturers - Specialty & Generic,ok
+SHENANDOAH TELECOMMUNICATION,SHEN,Communication Services,Telecom Services,ok
+COTY INC CL A,COTY,Consumer Defensive,Household & Personal Products,ok
+EASTERLY GOVERNMENT PROPERTI,DEA,Real Estate,REIT - Office,ok
+FOX FACTORY HOLDING CORP,FOXF,Consumer Cyclical,Auto Parts,ok
+SABRE CORP,SABR,Technology,Software - Infrastructure,ok
+SAUL CENTERS INC,BFS,Real Estate,REIT - Retail,ok
+QUANEX BUILDING PRODUCTS,NX,Industrials,Building Products & Equipment,ok
+MARINEMAX INC,HZO,Consumer Cyclical,Specialty Retail,ok
+COGENT COMMUNICATIONS HOLDIN,CCOI,Communication Services,Telecom Services,ok
+CENTRAL GARDEN + PET CO,CENT,Consumer Defensive,Packaged Foods,ok
+VERRA MOBILITY CORP,VRRM,Technology,Information Technology Services,ok
+STANDARD MOTOR PRODS,SMP,Consumer Cyclical,Auto Parts,ok
+TALOS ENERGY INC,TALO,Energy,Oil & Gas E&P,ok
+XPEL INC,XPEL,Consumer Cyclical,Auto Parts,ok
+AMERISAFE INC,AMSF,Financial,Insurance - Specialty,ok
+SPRINKLR INC A,CXM,Technology,Software - Application,ok
+JOHN B. SANFILIPPO + SON INC,JBSS,Consumer Defensive,Packaged Foods,ok
+REDWOOD TRUST INC,RWT,Real Estate,REIT - Mortgage,ok
+PHIBRO ANIMAL HEALTH CORP A,PAHC,Healthcare,Drug Manufacturers - Specialty & Generic,ok
+DAUCH CORPORATION,DCH,Consumer Cyclical,Auto Parts,ok
+SAFEHOLD INC,SAFE,Real Estate,REIT - Diversified,ok
+NAVIENT CORP,NAVI,Financial,Credit Services,ok
+ANI PHARMACEUTICALS INC,ANIP,Healthcare,Drug Manufacturers - Specialty & Generic,ok
+NEXPOINT RESIDENTIAL,NXRT,Real Estate,REIT - Residential,ok
+REX AMERICAN RESOURCES CORP,REX,Basic Materials,Chemicals,ok
+CENTERSPACE,CSR,Real Estate,REIT - Residential,ok
+METALLUS INC,MTUS,Basic Materials,Steel,ok
+AGNT INC,AGNT,Real Estate,Real Estate Services,ok
+RPC INC,RES,Energy,Oil & Gas Equipment & Services,ok
+ARMOUR RESIDENTIAL REIT INC,ARR,Real Estate,REIT - Mortgage,ok
+COLLEGIUM PHARMACEUTICAL INC,COLL,Healthcare,Drug Manufacturers - Specialty & Generic,ok
+FRANKLIN BSP REALTY TRUST IN,FBRT,Real Estate,REIT - Mortgage,ok
+HERTZ GLOBAL HLDGS INC,HTZ,Industrials,Rental & Leasing Services,ok
+CORSAIR GAMING INC,CRSR,Technology,Computer Hardware,ok
+N ABLE INC,NABL,Technology,Information Technology Services,ok
+SHUTTERSTOCK INC,SSTK,Communication Services,Internet Content & Information,ok
+VSE CORP,VSEC,Industrials,Aerospace & Defense,ok
+LIFE TIME GROUP HOLDINGS INC,LTH,Consumer Cyclical,Leisure,ok
+LYFT INC A,LYFT,Technology,Software - Application,ok
+SPHERE ENTERTAINMENT CO,SPHR,Communication Services,Entertainment,ok
+LAUREATE EDUCATION INC,LAUR,Consumer Defensive,Education & Training Services,ok
+RITHM CAPITAL CORP,RITM,Real Estate,REIT - Mortgage,ok
+LIFE360 INC,LIF,Technology,Software - Application,ok
