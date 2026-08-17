@@ -1,0 +1,78 @@
+﻿Stock Name,Code,Sector
+Micro Advanced Micro Devices,XAMD0,Information Technology
+Micro Alphabet,XGOOG,Information Technology
+Micro Amazon.com,XAMZN,Consumer Discretionary
+Micro Apple,XAAPL,Information Technology
+Micro Bank of America,XBAC0,Information Technology
+Micro Boeing,XBA00,Communication Services
+Micro Broadcom,XAVGO,Information Technology
+Micro Cisco Systems,XCSCO,Communication Services
+Micro Exxon Mobil,XXOM0,Energy
+Micro Intel Corp,XINTC,Information Technology
+Micro JPMorgan Chase,XJPM0,Communication Services
+Micro Meta Platforms,XMETA,Information Technology
+Micro Micron Technology,XMU00,Consumer Discretionary
+Micro Microsoft,XMSFT,Information Technology
+Micro Netflix,XNFLX,Communication Services
+Micro Newmont,XNEM0,Information Technology
+Micro NVIDIA,XNVDA,Information Technology
+Micro Palantir Technologies,XPLTR,Information Technology
+Micro Pfizer,XPFE0,Healthcare
+Micro SpaceX,XSPCX,Communication Services
+Micro Tesla,XTSLA,Consumer Discretionary
+Micro Walmart,XWMT0,Consumer Staples
+Standard NVIDIA,SNVDA,Information Technology
+Standard Microsoft,SMSFT,Information Technology
+Standard Bank of America,SBAC0,Financials
+Standard Apple,SAAPL,Information Technology
+Standard Netflix,SNFLX,Communication Services
+Standard Amazon.com,SAMZN,Consumer Discretionary
+Standard Intel Corp,SINTC,Information Technology
+Standard Alphabet,SGOOG,Communication Services
+Standard Exxon Mobil,SXOM0,Energy
+Standard Meta Platforms,SMETA,Communication Services
+Standard SpaceX,SSPCX,Communication Services
+Standard Micron Technology,SMU00,Information Technology
+Standard Newmont,SNEM0,Materials
+Standard Home Depot,SHD00,Consumer Discretionary
+Standard JPMorgan Chase,SJPM0,Financials
+Standard Palantir Technologies,SPLTR,Information Technology
+Standard Walmart,SWMT0,Consumer Staples
+Standard Cisco Systems,SCSCO,Information Technology
+Standard Chevron,SCVX0,Energy
+Standard Verizon Communications,SVZ00,Communication Services
+Standard Visa,SV000,Financials
+Standard Tesla,STSLA,Consumer Discretionary
+Standard Applied Materials,SAMAT,Information Technology
+Standard Oracle,SORCL,Information Technology
+Standard Starbucks,SSBUX,Consumer Discretionary
+Standard AbbVie,SABBV,Healthcare
+Standard Adobe,SADBE,Information Technology
+Standard Advanced Micro Devices,SAMD0,Information Technology
+Standard Amgen,SAMGN,Healthcare
+Standard Berkshire Hathaway,SBRKB,Financials
+Standard Boeing,SBA00,Industrials
+Standard Booking Holdings,SBKNG,Consumer Discretionary
+Standard Broadcom,SAVGO,Information Technology
+Standard Caterpillar,SCAT0,Industrials
+Standard Coca-Cola,SKO00,Consumer Staples
+Standard Comcast,SCMCS,Communication Services
+Standard ConocoPhillips,SCOP0,Energy
+Standard Costco Wholesale,SCOST,Consumer Staples
+Standard Eli Lilly,SLLY0,Healthcare
+Standard International Business Machine,SIBM0,Information Technology
+Standard Johnson & Johnson,SJNJ0,Healthcare
+Standard Lockheed Martin,SLMT0,Industrials
+Standard Mastercard,SMA00,Financials
+Standard McDonald's,SMCD0,Consumer Discretionary
+Standard Merck,SMRK0,Healthcare
+Standard Palo Alto Networks,SPANW,Information Technology
+Standard PepsiCo,SPEP0,Consumer Staples
+Standard Pfizer,SPFE0,Healthcare
+Standard Procter & Gamble,SPG00,Consumer Staples
+Standard Prologis,SPLD0,Real Estate
+Standard QUALCOMM,SQCOM,Information Technology
+Standard Salesforce,SCRM0,Information Technology
+Standard Texas Instruments,STXN0,Information Technology
+Standard UnitedHealth Group,SUNH0,Healthcare
+Standard Walt Disney,SDIS0,Communication Services
