@@ -1,4 +1,4 @@
-﻿Ticker,Name,Dividend Frequency
+﻿AAPW,Roundhill AAPL WeeklyPay ETF,Weekly
 ABLS,Abacus FCF Small Cap Leaders ETF,Quarterly
 ABNY,YieldMax ABNB Option Income Strategy ETF,Monthly
 AIPI,REX AI Equity Premium Income ETF,Monthly
@@ -60,6 +60,7 @@ BNOV,Innovator U.S. Equity Buffer ETF - November,Annual / None (Buffer)
 BOCT,Innovator U.S. Equity Buffer ETF - October,Annual / None (Buffer)
 BPI,Grayscale Bitcoin Premium Income ETF,Twice Per Month
 BRKC,YieldMax BRK.B Option Income Strategy ETF,Annual / None (Buffer)
+BRKW,Roundhill BRKB WeeklyPay ETF,Weekly
 BSEP,Innovator U.S. Equity Buffer ETF - September,Annual / None (Buffer)
 BSTP,Innovator Buffer Step-Up Strategy ETF,Annual / None (Buffer)
 BTCC,Grayscale Bitcoin Covered Call ETF,Monthly
@@ -72,11 +73,13 @@ BUFM,AB Moderate Buffer ETF,Annual / None (Buffer)
 BUFT,FT Vest Buffered Allocation Defensive ETF,Annual / None (Buffer)
 BUYW,Main BuyWrite ETF,Annual / None (Buffer)
 CDPI,Columbia High Dividend Premium Income ETF,Monthly
+CEFD,ETRACS Monthly Pay 1.5X Leveraged Closed-End Fund Index ETN,Monthly
 CEPI,REX Crypto Equity Premium Income ETF,Weekly
 CHPY,YieldMax Semiconductor Portfolio Option Income ETF,Weekly
 CLM,Cornerstone Strategic Investment Fund Inc,Monthly
 COIW,Roundhill COIN WeeklyPay ETF,Weekly
 CONY,YieldMax COIN Option Income Strategy ETF,Weekly
+COSW,Roundhill COST WeeklyPay ETF,Weekly
 COYY,GraniteShares YieldBOOST COIN ETF,Weekly
 CRCO,YieldMax CRCL Option Income Strategy ETF,Weekly
 CRSH,YieldMax Short TSLA Option Income Strategy ETF,Weekly
@@ -208,6 +211,7 @@ GJAN,FT Vest U.S. Equity Moderate Buffer ETF - Jan,Annual / None (Buffer)
 GJUL,FT Vest U.S. Equity Moderate Buffer ETF - July,Annual / None (Buffer)
 GJUN,FT Vest U.S. Equity Moderate Buffer ETF - June,Annual / None (Buffer)
 GLDI,"UBS AG ETRACS Gold Shares Covered Call ETNs due February 2, 2033",Monthly
+GLDW,Roundhill Gold WeeklyPay ETF,Weekly
 GMAR,FT Vest U.S. Equity Moderate Buffer ETF - March,Annual / None (Buffer)
 GMAY,FT Vest U.S. Equity Moderate Buffer ETF - May,Annual / None (Buffer)
 GMEY,YieldMax GME Option Income Strategy ETF,Weekly
@@ -345,9 +349,11 @@ METW,Roundhill META WeeklyPay ETF,Weekly
 MLPD,Global X MLP & Energy Infrastructure Covered Call ETF,Monthly
 MLPI,NEOS MLP & Energy Infrastructure High Income ETF,Monthly
 MORT,VanEck Mortgage REIT Income ETF,Quarterly
+MQQQ,Tradr 2X Long Innovation 100 Monthly ETF,Monthly
 MRCP,PGIM S&P 500 Buffer 12 ETF - March,Monthly
 MRNY,YieldMax MRNA Option Income Strategy ETF,Weekly
 MSFO,YieldMax MSFT Option Income Strategy ETF,Weekly
+MSFW,Roundhill MSFT WeeklyPay ETF,Weekly
 MSFY,Kurv Yield Premium Strategy Microsoft (MSFT) ETF,Monthly
 MST,Defiance Leveraged Long Income MSTR ETF,Weekly
 MSTW,Roundhill MSTR WeeklyPay ETF,Weekly
@@ -355,6 +361,7 @@ MSTY,YieldMax MSTR Option Income Strategy ETF,Weekly
 MTYY,GraniteShares YieldBOOST MSTR ETF,Weekly
 MUD,Direxion Daily MU Bear 1X ETF,Quarterly
 MUYY,GraniteShares YieldBOOST MU ETF,Weekly
+MVRL,ETRACS Monthly Pay 1.5X Leveraged Mortgage REIT ETN,Monthly
 NAPR,Innovator Growth-100 Power Buffer ETF - April,Annual / None (Buffer)
 NAUG,Innovator Growth-100 Power Buffer ETF - August,Annual / None (Buffer)
 NBFR,Innovator Nasdaq-100 Managed 10 Buffer ETF,Annual / None (Buffer)
@@ -423,6 +430,7 @@ PDI,PIMCO Dynamic Income Fund,Monthly
 PEY,Invesco High Yield Equity Dividend Achievers ETF,Monthly
 PFEB,Innovator U.S. Equity Power Buffer ETF - February,Annual / None (Buffer)
 PFFA,Virtus InfraCap U.S. Preferred Stock ETF,Monthly
+PFFL,ETRACSA 2xMonthlyA PayA LeveragedA PreferredA StockA IndexA ETN,Monthly
 PJAN,Innovator U.S. Equity Power Buffer ETF - January,Annual / None (Buffer)
 PJUL,Innovator U.S. Equity Power Buffer ETF - July,Annual / None (Buffer)
 PJUN,Innovator U.S. Equity Power Buffer ETF - June,Annual / None (Buffer)
@@ -543,6 +551,7 @@ SLVO,"UBS AG ETRACS Silver Shares Covered Call ETNs due April 21, 2033 ETP 2022-
 SLVY,FT Vest Silver Strategy & Target Income ETF,Monthly
 SMAY,FT Vest U.S. Small Cap Moderate Buffer ETF - May,Annual / None (Buffer)
 SMCY,YieldMax SMCI Option Income Strategy ETF,Weekly
+SMHB,UBS ETRACS Monthly Pay 2xLeveraged US Small Cap High Div ETN,Monthly
 SMRF,ALPS Nautilus SMR Nuclear & Technology ETF,Monthly
 SMYY,GraniteShares YieldBOOST SMCI ETF,Weekly
 SNOV,FT Vest U.S. Small Cap Moderate Buffer ETF - November,Annual / None (Buffer)
@@ -573,6 +582,7 @@ TENJ,iShares Large Cap 10% Target Buffer Jun ETF,Annual / None (Buffer)
 TENM,iShares Large Cap 10% Target Buffer Mar ETF,Annual / None (Buffer)
 TFJL,Innovator 20+ Year Treasury Bond 5 Floor ETF - July,Annual / None (Buffer)
 TGIF,SoFi Weekly Income ETF,Weekly
+Ticker,Name,Dividend Frequency
 TJUN,FT Vest Emerging Markets Buffer ETF June,Annual / None (Buffer)
 TLA,GraniteShares Autocallable TSLA ETF,Monthly
 TLTI,NEOS Enhanced Income 20+ Year Treasury Bond ETF,Monthly
@@ -595,6 +605,7 @@ TSLW,Roundhill TSLA WeeklyPay ETF,Weekly
 TSLY,YieldMax TSLA Option Income Strategy ETF,Weekly
 TSMY,YieldMax TSM Option Income Strategy ETF,Weekly
 TSPY,TappAlpha S&P 500 Growth & Daily Income ETF,Monthly
+TSYW,Roundhill Treasury Bond WeeklyPay ETF,Weekly
 TSYY,GraniteShares YieldBOOST TSLA ETF,Weekly
 TWOX,iShares Large Cap Accelerated Outcome ETF,Monthly
 TYLG,Global X Information Technology Covered Call & Growth ETF,Monthly
@@ -610,6 +621,7 @@ ULTI,REX IncomeMax Option Strategy ETF,Weekly
 ULTY,YieldMax Ultra Option Income Strategy ETF,Weekly
 UMAR,Innovator U.S. Equity Ultra Buffer ETF - March,Annual / None (Buffer)
 UMAY,Innovator U.S. Equity Ultra Buffer ETF - May,Annual / None (Buffer)
+UNHW,Roundhill UNH WeeklyPay ETF,Weekly
 UNOV,Innovator U.S. Equity Ultra Buffer ETF - November,Annual / None (Buffer)
 UOCT,Innovator U.S. Equity Ultra Buffer ETF - October,Annual / None (Buffer)
 URAA,Direxion Daily Uranium Industry Bull 2X ETF,Quarterly
@@ -621,6 +633,7 @@ UYG,ProShares Ultra Financials,Quarterly
 VPC,Virtus Private Credit Strategy ETF,Quarterly
 WDTE,Defiance S&P 500 Weekly Distribution ETF,Monthly
 WEEI,Westwood Salient Enhanced Energy Income ETF,Weekly
+WEEK,Roundhill Weekly T-Bill ETF,Weekly
 WEEL,Peerless Option Income Wheel ETF,Quarterly
 WKLY,SoFi Weekly Dividend ETF (WKLY),Weekly
 WMTI,REX WMT Growth & Income ETF,Monthly
