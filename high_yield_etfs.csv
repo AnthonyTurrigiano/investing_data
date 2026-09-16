@@ -1,624 +1,697 @@
-﻿Ticker
-AAPY
-ABNY
-AIPI
-AIYY
-AMDY
-AMYY
-AMZP
-AMZY
-ANV
-APLY
-APRD
-APRH
-APRJ
-APRP
-APRQ
-APRT
-APRW
-APRZ
-ARIA
-ARLI
-ARLU
-AUGP
-AUGT
-AUGU
-AUGW
-AUGZ
-BABO
-BAGY
-BALQ
-BALT
-BAPR
-BAUG
-BCCC
-BDEC
-BFEB
-BGLD
-BIGY
-BITY
-BJAN
-BJUL
-BJUN
-BMAR
-BMAY
-BNDI
-BNOV
-BOCT
-BPI
-BRKC
-BSEP
-BSTP
-BTCC
-BTCI
-BUFC
-BUFG
-BUFI
-BUFM
-BUFT
-BUYW
-CDPI
-CEPI
-CLM
-CONY
-COYY
-CRCO
-CRSH
-CSHI
-CVNY
-CVRD
-DAPR
-DAUG
-DDDD
-DDEC
-DDFA
-DDFD
-DDFF
-DDFJ
-DDFL
-DDFM
-DDFN
-DDFO
-DDFS
-DDFY
-DDNQ
-DDSQ
-DDTA
-DDTD
-DDTF
-DDTJ
-DDTL
-DDTM
-DDTN
-DDTO
-DDTS
-DDTY
-DECP
-DECT
-DECU
-DECW
-DECZ
-DFEB
-DFII
-DGOC
-DGRW
-DHDG
-DIA
-DIPS
-DISO
-DIVO
-DIVP
-DJAN
-DJIA
-DJUL
-DJUN
-DLAG
-DLFE
-DLN
-DLNV
-DMAR
-DMAY
-DNOV
-DOCT
-DRAY
-DRMY
-DSEP
-DYLG
-EALT
-EAPR
-EBUF
-ECC
-EDGQ
-EDGX
-EGGY
-EHCC
-EHY
-EIPI
-EJAN
-EJUL
-EOCT
-ETCO
-ETHI
-ETTY
-FAPR
-FAUG
-FBY
-FDEC
-FEAT
-FEBP
-FEBT
-FEBU
-FEBW
-FEBZ
-FEPI
-FFEB
-FHDG
-FIAT
-FJAN
-FJUL
-FJUN
-FLAO
-FLJJ
-FMAR
-FMAY
-FNOV
-FOCT
-FSEP
-FTHI
-FTQI
-FYEE
-FYLG
-GAPR
-GAUG
-GBXA
-GBXB
-GBXC
-GDEC
-GDXY
-GEEQ
-GFEB
-GJAN
-GJUL
-GJUN
-GLDI
-GMAR
-GMAY
-GMEY
-GNOV
-GOCT
-GOF
-GOOP
-GOOY
-GPIQ
-GPIX
-GPTY
-GRNI
-GSEP
-HAKY
-HEMI
-HIGH
-HIYY
-HJAN
-HOCT
-HOOY
-HOYY
-HYBI
-HYGM
-HYGW
-HYTI
-IAPR
-IAUG
-IAUI
-IBFR
-IBUF
-ICOI
-IDEC
-IDVO
-IFEB
-IFLR
-IGLD
-IINC
-IJAN
-IJUL
-IJUN
-IMAR
-IMAY
-IMST
-INOV
-IOCT
-IOYY
-IQQQ
-ISEP
-ISPY
-ITWO
-IVVB
-IVVM
-IVVW
-IWMI
-IWMW
-IWMY
-IYRI
-JAND
-JANH
-JANI
-JANJ
-JANP
-JANQ
-JANT
-JANU
-JANW
-JANZ
-JEPI
-JEPQ
-JEPY
-JHDG
-JNEU
-JPMO
-JPMY
-JPO
-JULD
-JULH
-JULJ
-JULP
-JULQ
-JULT
-JULU
-JULW
-JULZ
-JUNP
-JUNT
-JUNW
-JUNZ
-KAPR
-KAUG
-KBFR
-KDEC
-KFEB
-KGLD
-KJAN
-KJUL
-KJUN
-KLIP
-KMAR
-KMAY
-KNG
-KNOV
-KOCT
-KSEP
-KSLV
-KWIN
-LAPR
-LFGY
-LJAN
-LJUL
-LOCT
-LQDM
-LQDW
-LQTI
-LTTI
-MAAY
-MAGY
-MARO
-MART
-MARU
-MARW
-MARZ
-MAYP
-MAYT
-MAYU
-MAYW
-MAYZ
-MDST
-MLPD
-MLPI
-MRCP
-MRNY
-MSFO
-MSFY
-MSTY
-MUYY
-NAPR
-NAUG
-NBFR
-NDEC
-NEHI
-NFEB
-NFLP
-NFLY
-NIHI
-NJAN
-NJUL
-NJUN
-NLSI
-NMAR
-NMAY
-NNOV
-NOCT
-NOVP
-NOVZ
-NSEP
-NUGY
-NVBT
-NVBU
-NVBW
-NVDY
-NVII
-NVIT
-NVYY
-OARK
-OCTD
-OCTH
-OCTJ
-OCTP
-OCTQ
-OCTT
-OCTU
-OCTW
-OCTZ
-ODTE
-OEI
-OMAH
-OXLC
-PAPR
-PAUG
-PBAP
-PBAU
-PBDE
-PBFB
-PBJA
-PBJL
-PBJN
-PBMR
-PBMY
-PBNV
-PBOC
-PBP
-PBSE
-PCOV
-PDEC
-PDI
-PEY
-PFEB
-PFFA
-PJAN
-PJUL
-PJUN
-PLTY
-PMAP
-PMAR
-PMAU
-PMAY
-PMDE
-PMFB
-PMJA
-PMJL
-PMJN
-PMMR
-PMMY
-PMNV
-PMSE
-PNOV
-POCT
-PQAP
-PQJA
-PQJL
-PQOC
-PSCJ
-PSCQ
-PSCW
-PSCX
-PSEP
-PSFD
-PSFF
-PSFJ
-PSFM
-PSFO
-PSMD
-PSMJ
-PSMO
-PSMR
-PSTP
-PUTW
-PYPY
-QBIF
-QBIV
-QBKF
-QBKV
-QBQF
-QBQV
-QBSF
-QBSV
-QBUF
-QCAP
-QCJA
-QCJL
-QCOC
-QDEC
-QDTE
-QDTY
-QDVO
-QJUN
-QMAG
-QMAR
-QMFE
-QMMY
-QMNV
-QQI
-QQQH
-QQQI
-QQQT
-QQQY
-QSPT
-QYLD
-QYLG
-RBLY
-RBUF
-RDTE
-RDTY
-RDYY
-RECI
-RNTY
-ROCQ
-ROCY
-RSDE
-RSJN
-RSMR
-RSSE
-RTYY
-RYLD
-RYLG
-SAUG
-SDTY
-SEMY
-SEPI
-SEPP
-SEPT
-SEPU
-SEPW
-SEPZ
-SFEB
-SFYI
-SIXD
-SIXF
-SIXJ
-SIXO
-SIXP
-SIXZ
-SLJY
-SLTY
-SLVO
-SLVY
-SMAY
-SMCY
-SMRF
-SMYY
-SNOV
-SNOY
-SOLM
-SOXY
-SPHD
-SPUT
-SPYH
-SPYI
-SPYT
-SQMX
-SQY
-SRHR
-STEN
-SVOL
-TBJL
-TDAQ
-TDEC
-TEND
-TENJ
-TENM
-TFJL
-TGIF
-TJUN
-TLA
-TLTI
-TLTP
-TLTW
-TLTX
-TMAR
-TMGN
-TOCT
-TPRY
-TQQY
-TSEP
-TSII
-TSLP
-TSLY
-TSMY
-TSPY
-TSYY
-TWOX
-TYLG
-UAPR
-UAUG
-UDEC
-UFEB
-UJAN
-UJUL
-UJUN
-ULTI
-ULTY
-UMAR
-UMAY
-UNOV
-UOCT
-USEP
-USOI
-USOY
-WEEI
-WKLY
-WMTI
-WNTR
-WTPI
-XAPR
-XAUG
-XBAP
-XBCI
-XBFR
-XBJA
-XBJL
-XBOC
-XBTY
-XDAP
-XDEC
-XDJA
-XDJL
-XDSQ
-XDTE
-XFEB
-XIDE
-XIJN
-XIMR
-XISE
-XJAN
-XJUL
-XJUN
-XLBI
-XLEI
-XLFI
-XLII
-XLKI
-XLRI
-XLSI
-XLUI
-XLVI
-XLYI
-XMAR
-XMAY
-XNOV
-XOCT
-XOMO
-XQQI
-XRPM
-XSEP
-XSPI
-XTAP
-XTJA
-XTJL
-XTOC
-XV
-XYLD
-XYLG
-XYZY
-YBIT
-YBST
-YBTC
-YDEC
-YETH
-YJUN
-YLDW
-YLDY
-YMAG
-YMAR
-YMAX
-YQQQ
-YSBY
-YSEP
-YSPC
-YSPY
-ZALT
+﻿Ticker,Name,Dividend Frequency
+ABLS,Abacus FCF Small Cap Leaders ETF,Quarterly
+ABNY,YieldMax ABNB Option Income Strategy ETF,Monthly
+AIPI,REX AI Equity Premium Income ETF,Monthly
+AIYY,YieldMax AI Option Income Strategy ETF,Weekly
+AMDD,Direxion Daily AMD Bear 1X ETF,Quarterly
+AMDW,Roundhill AMD WeeklyPay ETF,Weekly
+AMDY,YieldMax AMD Option Income Strategy ETF,Weekly
+AMYY,GraniteShares YieldBOOST AMD ETF,Weekly
+AMZP,Kurv Yield Prem Strategy Amazon ETF,Monthly
+AMZW,Roundhill AMZN WeeklyPay ETF,Weekly
+AMZY,YieldMax AMZN Option Income Strategy ETF,Weekly
+ANV,GraniteShares Autocallable NVDA ETF,Monthly
+APLY,YieldMax AAPL Option Income Strategy ETF,Monthly
+APRD,Innovator Premium Income 10 Barrier ETF - April,Annual / None (Buffer)
+APRH,Innovator Premium Income 20 Barrier ETF - April,Annual / None (Buffer)
+APRJ,Innovator Premium Income 30 Barrier ETF - April,Annual / None (Buffer)
+APRP,PGIM S&P 500 Buffer 12 ETF - April,Annual / None (Buffer)
+APRQ,Innovator Premium Income 40 Barrier ETF - April,Annual / None (Buffer)
+APRT,AllianzIM U.S. Equity Buffer10 Apr ETF,Annual / None (Buffer)
+APRW,AllianzIM U.S. Equity Buffer20 Apr ETF,Annual / None (Buffer)
+APRZ,TrueShares Structured Outcome (April) ETF,Annual / None (Buffer)
+ARIA,ARIA Opportunities ETF,Monthly
+ARLI,AllianzIM International Equity Buffer15 Uncapped Apr ETF,Annual / None (Buffer)
+ARLU,AllianzIM U.S. Equity Buffer15 Uncapped Apr ETF,Annual / None (Buffer)
+ARMW,Roundhill ARM WeeklyPay ETF,Weekly
+AUGP,PGIM S&P 500 Buffer 12 ETF - August,Annual / None (Buffer)
+AUGT,AllianzIM U.S. Equity Buffer10 Aug ETF,Annual / None (Buffer)
+AUGU,AllianzIM U.S. Equity Buffer15 Uncapped Aug ETF,Annual / None (Buffer)
+AUGW,AllianzIM U.S. Equity Buffer20 Aug ETF,Annual / None (Buffer)
+AUGZ,TrueShares Structured Outcome (August) ETF,Annual / None (Buffer)
+AVGW,Roundhill AVGO WeeklyPay ETF,Weekly
+AVL,Direxion Daily AVGO Bull 2X,Quarterly
+AZYY,GraniteShares YieldBoost AMZN ETF,Weekly
+BABO,YieldMax BABA Option Income Strategy ETF,Weekly
+BABW,Roundhill BABA WeeklyPay ETF,Weekly
+BAGY,Amplify Bitcoin Max Income Covered Call ETF,Monthly
+BALQ,iShares Nasdaq Premium Income Active ETF,Annual / None (Buffer)
+BALT,Innovator Defined Wealth Shield ETF,Annual / None (Buffer)
+BAPR,Innovator U.S. Equity Buffer ETF - April,Annual / None (Buffer)
+BAUG,Innovator U.S. Equity Buffer ETF - August,Annual / None (Buffer)
+BBYY,GraniteShares YieldBOOST BABA ETF,Weekly
+BCCC,Global X Bitcoin Covered Call ETF,Weekly
+BDCX,ETRACS Quarterly Pay 1.5x Leveraged MarketVector BDC Liquid Index ETN,Quarterly
+BDCZ,ETRACS MarketVector Business Development Companies Liquid Index ETN,Quarterly
+BDEC,Innovator U.S. Equity Buffer ETF - December,Annual / None (Buffer)
+BFEB,Innovator U.S. Equity Buffer ETF - February,Annual / None (Buffer)
+BGLD,FT Vest Gold Strategy Quarterly Buffer ETF,Annual / None (Buffer)
+BIGY,YieldMax Target 12 Big 50 Option Income ETF,Monthly
+BITY,Amplify Bitcoin 2% Monthly Option Income ETF,Monthly
+BIZD,VanEck BDC Income ETF,Quarterly
+BJAN,Innovator U.S. Equity Buffer ETF - January,Annual / None (Buffer)
+BJUL,Innovator U.S. Equity Buffer ETF - July,Annual / None (Buffer)
+BJUN,Innovator U.S. Equity Buffer ETF - June,Annual / None (Buffer)
+BLOX,Nicholas Crypto Income ETF,Weekly
+BMAR,Innovator U.S. Equity Buffer ETF - March,Annual / None (Buffer)
+BMAY,Innovator U.S. Equity Buffer ETF - May,Annual / None (Buffer)
+BNDI,NEOS Enhanced Income Aggregate Bond ETF,Monthly
+BNOV,Innovator U.S. Equity Buffer ETF - November,Annual / None (Buffer)
+BOCT,Innovator U.S. Equity Buffer ETF - October,Annual / None (Buffer)
+BPI,Grayscale Bitcoin Premium Income ETF,Twice Per Month
+BRKC,YieldMax BRK.B Option Income Strategy ETF,Annual / None (Buffer)
+BSEP,Innovator U.S. Equity Buffer ETF - September,Annual / None (Buffer)
+BSTP,Innovator Buffer Step-Up Strategy ETF,Annual / None (Buffer)
+BTCC,Grayscale Bitcoin Covered Call ETF,Monthly
+BTCI,NEOS Bitcoin High Income ETF,Monthly
+BTF,CoinShares Bitcoin and Ether,Quarterly
+BUFC,AB Conservative Buffer ETF,Annual / None (Buffer)
+BUFG,FT Vest Buffered Allocation Growth ETF,Annual / None (Buffer)
+BUFI,AB International Buffer ETF Intl Buffer ETF,Annual / None (Buffer)
+BUFM,AB Moderate Buffer ETF,Annual / None (Buffer)
+BUFT,FT Vest Buffered Allocation Defensive ETF,Annual / None (Buffer)
+BUYW,Main BuyWrite ETF,Annual / None (Buffer)
+CDPI,Columbia High Dividend Premium Income ETF,Monthly
+CEPI,REX Crypto Equity Premium Income ETF,Weekly
+CHPY,YieldMax Semiconductor Portfolio Option Income ETF,Weekly
+CLM,Cornerstone Strategic Investment Fund Inc,Monthly
+COIW,Roundhill COIN WeeklyPay ETF,Weekly
+CONY,YieldMax COIN Option Income Strategy ETF,Weekly
+COYY,GraniteShares YieldBOOST COIN ETF,Weekly
+CRCO,YieldMax CRCL Option Income Strategy ETF,Weekly
+CRSH,YieldMax Short TSLA Option Income Strategy ETF,Weekly
+CRY,GraniteShares YieldBOOST CRCL ETF,Weekly
+CSHI,NEOS Enhanced Income 1-3 Month T-Bill ETF,Monthly
+CVNY,YieldMax CVNA Option Income Strategy ETF,Weekly
+CVRD,Madison Covered Call ETF,Monthly
+CWY,GraniteShares YieldBOOST CRWV ETF,Weekly
+DAPR,FT Vest U.S. Equity Deep Buffer ETF - April,Annual / None (Buffer)
+DAUG,FT Vest U.S. Equity Deep Buffer ETF - August,Annual / None (Buffer)
+DDDD,YieldMax U.S. Stocks Target Double Distribution ETF,Annual / None (Buffer)
+DDEC,FT Vest US Equity Deep Buffer ETF - December,Annual / None (Buffer)
+DDFA,Innovator Equity Dual Directional 15 Buffer ETF - April,Annual / None (Buffer)
+DDFD,Innovator Equity Dual Directional 15 Buffer ETF - December,Annual / None (Buffer)
+DDFF,Innovator Equity Dual Directional 15 Buffer ETF - February,Annual / None (Buffer)
+DDFJ,Innovator Equity Dual Directional 15 Buffer ETF - January,Annual / None (Buffer)
+DDFL,Innovator Equity Dual Directional 15 Buffer ETF - July Trust Units,Annual / None (Buffer)
+DDFM,Innovator Equity Dual Directional 15 Buffer ETF - March,Annual / None (Buffer)
+DDFN,Innovator Equity Dual Directional 15 Buffer ETF - November,Annual / None (Buffer)
+DDFO,Innovator Equity Dual Directional 15 Buffer ETF - October,Annual / None (Buffer)
+DDFS,Innovator Equity Dual Directional 15 Buffer ETF - September,Annual / None (Buffer)
+DDFY,Innovator Equity Dual Directional 15 Buffer ETF - May,Annual / None (Buffer)
+DDNQ,Innovator Growth-100 Dual Directional 5 Buffer ETF - Quarterly,Annual / None (Buffer)
+DDSQ,Innovator Equity Dual Directional 5 Buffer ETF - Quarterly,Annual / None (Buffer)
+DDTA,Innovator Equity Dual Directional 10 Buffer ETF - April,Annual / None (Buffer)
+DDTD,Innovator Equity Dual Directional 10 Buffer ETF - December,Annual / None (Buffer)
+DDTF,Innovator Equity Dual Directional 10 Buffer ETF - February,Annual / None (Buffer)
+DDTJ,Innovator Equity Dual Directional 10 Buffer ETF - January,Annual / None (Buffer)
+DDTL,Innovator Equity Dual Directional 10 Buffer ETF - July,Annual / None (Buffer)
+DDTM,Innovator Equity Dual Directional 10 Buffer ETF - March,Annual / None (Buffer)
+DDTN,Innovator Equity Dual Directional 10 Buffer ETF - November,Annual / None (Buffer)
+DDTO,Innovator Equity Dual Directional 10 Buffer ETF - October,Annual / None (Buffer)
+DDTS,Innovator Equity Dual Directional 10 Buffer ETF - September,Annual / None (Buffer)
+DDTY,Innovator Equity Dual Directional 10 Buffer ETF - MAY,Annual / None (Buffer)
+DECP,PGIM S&P 500 Buffer 12 ETF - December,Annual / None (Buffer)
+DECT,AllianzIM U.S. Equity Buffer10 Dec ETF,Annual / None (Buffer)
+DECU,AllianzIM U.S. Equity Buffer15 Uncapped Dec ETF,Annual / None (Buffer)
+DECW,AllianzIM U.S. Equity Buffer20 Dec ETF,Annual / None (Buffer)
+DECZ,TrueShares Structured Outcome (December) ETF,Annual / None (Buffer)
+DFEB,FT Vest U.S. Equity Deep Buffer ETF - February,Annual / None (Buffer)
+DFEN,Direxion Daily Aerospace & Defense Bull 3X ETF,Quarterly
+DFII,FT Vest Bitcoin Strategy & Target Income ETF,Monthly
+DGOC,FT Vest U.S. Equity Buffer & Digital Return ETF - October,Quarterly
+DGRW,WisdomTree U.S. Quality Dividend Growth Fund,Monthly
+DHDG,FT Vest U.S. Equity Quarterly 2.5 to 15 Buffer ETF,Annual / None (Buffer)
+DIA,Spdr Dow Jones Industrial Average ETF Trust,Monthly
+DIPS,YieldMax Short NVDA Option Income Strategy ETF,Weekly
+DISO,YieldMax DIS Option Income Strategy ETF,Monthly
+DIVO,Amplify CWP Enhanced Dividend Income ETF,Monthly
+DIVP,Cullen Enhanced Equity Income ETF,Monthly
+DJAN,FT Vest US Equity Deep Buffer ETF - January,Annual / None (Buffer)
+DJIA,Global X Dow 30 Covered Call ETF,Monthly
+DJUL,FT Vest U.S. Equity Deep Buffer ETF - July,Annual / None (Buffer)
+DJUN,FT Vest U.S. Equity Deep Buffer ETF - June,Annual / None (Buffer)
+DLAG,FT Vest U.S. Equity Dual Directional Buffer ETF - August,Annual / None (Buffer)
+DLFE,FT Vest U.S. Equity Dual Directional Buffer ETF - February,Annual / None (Buffer)
+DLN,WisdomTree U.S. LargeCap Dividend Fund,Monthly
+DLNV,FT Vest U.S. Equity Dual Directional Buffer ETF - November,Annual / None (Buffer)
+DMAR,FT Vest US Equity Deep Buffer ETF - March,Annual / None (Buffer)
+DMAY,FT Vest U.S. Equity Deep Buffer ETF - May,Annual / None (Buffer)
+DNOV,FT Vest U.S. Equity Deep Buffer ETF - November,Annual / None (Buffer)
+DOCT,FT Vest U.S. Equity Deep Buffer ETF - October,Annual / None (Buffer)
+DRAY,YieldMax DKNG Option Income Strategy ETF,Weekly
+DRMY,XFUNDS Memory Income ETF,Monthly
+DSEP,FT Vest U.S. Equity Deep Buffer ETF - September,Annual / None (Buffer)
+DUSL,Direxion Daily Industrials Bull 3X ETF,Quarterly
+DVDN,Kingsbarn Dividend Opportunity ETF,Quarterly
+DYLG,Global X Dow 30 Covered Call & Growth ETF,Monthly
+EALT,Innovator U.S. Equity 5 to 15 Buffer ETF - Quarterly,Annual / None (Buffer)
+EAPR,Innovator Emerging Markets Power Buffer ETF - April,Annual / None (Buffer)
+EBUF,Innovator Emerging Markets 10 Buffer ETF - Quarterly Trust Units,Annual / None (Buffer)
+ECC,Eagle Point Credit Company,Monthly
+EDGQ,Global X Nasdaq-100 Income Edge ETF,Annual / None (Buffer)
+EDGX,Global X U.S. 500 Income Edge ETF,Annual / None (Buffer)
+EGGY,NestYield Dynamic Income ETF,Monthly
+EHCC,Global X Ethereum Covered Call ETF,Annual / None (Buffer)
+EHY,Amplify Ethereum Max Income Covered Call ETF,Monthly
+EIPI,FT Energy Income Partners Enhanced Income ETF,Monthly
+EJAN,Innovator Emerging Markets Power Buffer ETF January,Annual / None (Buffer)
+EJUL,Innovator Emerging Markets Power Buffer ETF - July,Annual / None (Buffer)
+ELIL,Direxion Daily LLY Bull 2X ETF,Quarterly
+EOCT,Innovator Emerging Markets Power Buffer ETF - October,Annual / None (Buffer)
+ETCO,Grayscale Ethereum Covered Call ETF,Twice Per Month
+ETHI,Defiance Leveraged Long Income Ethereum ETF,Monthly
+ETTY,Amplify Ethereum 3% Monthly Option Income ETF,Monthly
+FAAR,First Trust Alternative Absolute Return Strategy ETF,Quarterly
+FAPR,FT Vest U.S. Equity Buffer ETF - April,Annual / None (Buffer)
+FAUG,FT Vest U.S. Equity Buffer ETF - August,Annual / None (Buffer)
+FBY,YieldMax META Option Income Strategy ETF,Weekly
+FBYY,GraniteShares YieldBOOST META ETF,Weekly
+FDEC,FT Vest US Equity Buffer ETF - December,Annual / None (Buffer)
+FEAT,YieldMax Dorsey Wright Featured 5 Income ETF,Annual / None (Buffer)
+FEBP,PGIM S&P 500 Buffer 12 ETF - February,Annual / None (Buffer)
+FEBT,AllianzIM U.S. Equity Buffer10 Feb ETF,Annual / None (Buffer)
+FEBU,AllianzIM U.S. Equity Buffer15 Uncapped Feb ETF,Annual / None (Buffer)
+FEBW,AllianzIM U.S. Equity Buffer20 Feb ETF,Annual / None (Buffer)
+FEBZ,TrueShares Structured Outcome (February) ETF,Annual / None (Buffer)
+FEPI,REX FANG & Innovation Equity Premium Income ETF,Monthly
+FFEB,FT Vest U.S. Equity Buffer Fund - February,Annual / None (Buffer)
+FHDG,FT Vest U.S. Equity Quarterly Dynamic Buffer ETF,Annual / None (Buffer)
+FIAT,YieldMax Short COIN Option Income Strategy ETF,Weekly
+FJAN,FT Vest US Equity Buffer ETF - January,Annual / None (Buffer)
+FJUL,FT Vest U.S. Equity Buffer ETF - July,Annual / None (Buffer)
+FJUN,FT Vest U.S. Equity Buffer ETF - June,Annual / None (Buffer)
+FLAO,AllianzIM U.S. Equity 6 Month Floor5 Apr/Oct ETF,Annual / None (Buffer)
+FLJJ,AllianzIM U.S. Equity 6 Month Floor5 Jan/Jul ETF,Annual / None (Buffer)
+FMAR,FT Vest US Equity Buffer ETF - March,Annual / None (Buffer)
+FMAY,FT Vest U.S. Equity Buffer Fund - May,Annual / None (Buffer)
+FNGG,Direxion Daily NYSE FANG+ Bull 2X ETF,Quarterly
+FNOV,FT Vest U.S. Equity Buffer ETF - November,Annual / None (Buffer)
+FOCT,FT Vest U.S. Equity Buffer ETF - October,Annual / None (Buffer)
+FSEP,FT Vest U.S. Equity Buffer ETF - September,Annual / None (Buffer)
+FTGC,First Trust Global Tactical Commodity Strategy Fund,Quarterly
+FTHI,First Trust BuyWrite Income ETF,Monthly
+FTQI,First Trust Nasdaq BuyWrite Income ETF,Monthly
+FYEE,Fidelity Yield Enhanced Equity ETF,Monthly
+FYLG,Global X Financials Covered Call & Growth ETF,Monthly
+GAPR,FT Vest U.S. Equity Moderate Buffer Fund - Apr,Annual / None (Buffer)
+GAUG,FT Vest U.S. Equity Moderate Buffer ETF - August,Annual / None (Buffer)
+GBXA,Goldman Sachs U.S. Large Cap Buffer 1 ETF,Annual / None (Buffer)
+GBXB,Goldman Sachs U.S. Large Cap Buffer 2 ETF,Annual / None (Buffer)
+GBXC,Goldman Sachs U.S. Large Cap Buffer 3 ETF,Annual / None (Buffer)
+GDEC,FT Vest U.S. Equity Moderate Buffer ETF - December,Annual / None (Buffer)
+GDXW,Roundhill Gold Miners WeeklyPay ETF,Weekly
+GDXY,YieldMax Gold Miners Option Income Strategy ETF,Weekly
+GEEQ,Guggenheim Enhanced Equity Income ETF,Monthly
+GFEB,FT Vest US Equity Moderate Buffer ETF February,Annual / None (Buffer)
+GJAN,FT Vest U.S. Equity Moderate Buffer ETF - Jan,Annual / None (Buffer)
+GJUL,FT Vest U.S. Equity Moderate Buffer ETF - July,Annual / None (Buffer)
+GJUN,FT Vest U.S. Equity Moderate Buffer ETF - June,Annual / None (Buffer)
+GLDI,"UBS AG ETRACS Gold Shares Covered Call ETNs due February 2, 2033",Monthly
+GMAR,FT Vest U.S. Equity Moderate Buffer ETF - March,Annual / None (Buffer)
+GMAY,FT Vest U.S. Equity Moderate Buffer ETF - May,Annual / None (Buffer)
+GMEY,YieldMax GME Option Income Strategy ETF,Weekly
+GNOV,FT Vest U.S. Equity Moderate Buffer ETF -November,Annual / None (Buffer)
+GOCT,FT Vest U.S. Equity Moderate Buffer ETF - October,Annual / None (Buffer)
+GOF,Guggenheim Strategic Opportunities Fund,Monthly
+GOLI,Defiance Gold Enhanced Options Income ETF,Weekly
+GOOP,Kurv Yield Premium Strategy Google (GOOGL) ETF,Monthly
+GOOW,Roundhill GOOGL WeeklyPay ETF,Weekly
+GOOY,YieldMax GOOGL Option Income Strategy ETF,Weekly
+GPIQ,Goldman Sachs Nasdaq-100 Premium Income ETF,Monthly
+GPIX,Goldman Sachs S&P 500 Premium Income ETF,Monthly
+GPTY,YieldMax AI & Tech Portfolio Option Income ETF,Monthly
+GRNI,Fundstrat Granny Shots US Large Cap & Income ETF,Monthly
+GSEP,FT Vest U.S. Equity Moderate Buffer ETF - September,Annual / None (Buffer)
+HAKY,Amplify HACK Cybersecurity Covered Call ETF,Monthly
+HEMI,Hartford Equity Premium Income ETF,Monthly
+HIGH,Simplify Enhanced Income ETF,Monthly
+HIYY,YieldMax HIMS Option Income Strategy ETF,Weekly
+HJAN,Innovator Premium Income 9 Buffer ETF - January,Annual / None (Buffer)
+HMYY,GraniteShares YieldBoost HIMS ETF,Weekly
+HOCT,Innovator Premium Income 9 Buffer ETF - October,Annual / None (Buffer)
+HOOW,Roundhill HOOD WeeklyPay ETF,Weekly
+HOOY,YieldMax HOOD Option Income Strategy ETF,Weekly
+HOYY,GraniteShares YieldBOOST HOOD ETF,Weekly
+HYBI,NEOS Enhanced Income Credit Select ETF,Monthly
+HYGM,Amplify HYG High Yield 10% Target Income ETF,Monthly
+HYGW,iShares High Yield Corporate Bond BuyWrite Strategy ETF,Monthly
+HYTI,FT Vest High Yield & Target Income ETF,Monthly
+IAPR,Innovator International Developed Power Buffer ETF - April,Annual / None (Buffer)
+IAUG,Innovator International Developed Power Buffer ETF August,Annual / None (Buffer)
+IAUI,NEOS Gold High Income ETF,Annual / None (Buffer)
+IBFR,Innovator International Developed Managed 10 Buffer ETF,Annual / None (Buffer)
+IBUF,Innovator International Developed 10 Buffer ETF - Quarterly,Annual / None (Buffer)
+ICOI,Bitwise COIN Option Income Strategy ETF,Monthly
+IDEC,Innovator International Developed Power Buffer ETF December,Annual / None (Buffer)
+IDVO,Amplify CWP International Enhanced Dividend Income ETF,Monthly
+IFEB,Innovator International Developed Power Buffer ETF February,Annual / None (Buffer)
+IFLR,Innovator International Developed Managed Floor ETF,Annual / None (Buffer)
+IGLD,FT Vest Gold Strategy Target Income ETF,Monthly
+IINC,Alki Consolidated Income ETF,Monthly
+IJAN,Innovator International Developed Power Buffer ETF - January,Annual / None (Buffer)
+IJUL,Innovator International Developed Power Buffer ETF - July,Annual / None (Buffer)
+IJUN,Innovator International Developed Power Buffer ETF- June,Annual / None (Buffer)
+IMAR,Innovator International Developed Power Buffer ETF March,Annual / None (Buffer)
+IMAY,Innovator International Developed Power Buffer ETF - May,Annual / None (Buffer)
+IMST,Bitwise MSTR Option Income Strategy ETF,Monthly
+INEQ,Columbia International Equity Income ETF,Quarterly
+INOV,Innovator International Developed Power Buffer ETF November,Annual / None (Buffer)
+IOCT,Innovator International Developed Power Buffer ETF - October,Annual / None (Buffer)
+IOYY,GraniteShares YieldBOOST IONQ ETF,Weekly
+IQQQ,ProShares Nasdaq-100 High Income ETF,Monthly
+ISEP,Innovator International Developed Power Buffer ETF - September,Annual / None (Buffer)
+ISPY,ProShares S&P 500 High Income ETF,Monthly
+ITWO,ProShares Russell 2000 High Income ETF,Annual / None (Buffer)
+IVVB,iShares Large Cap Deep Quarterly Laddered ETF,Annual / None (Buffer)
+IVVM,iShares Large Cap Moderate Quarterly Laddered ETF,Annual / None (Buffer)
+IVVW,iShares S&P 500 BuyWrite ETF,Annual / None (Buffer)
+IWMI,NEOS Russell 2000 High Income ETF,Monthly
+IWMW,iShares Russell 2000 BuyWrite ETF,Weekly
+IWMY,Defiance R2000 Weekly Distribution ETF,Monthly
+IYRI,NEOS Real Estate High Income ETF,Monthly
+JAND,Innovator Premium Income 10 Barrier ETF - January,Annual / None (Buffer)
+JANH,Innovator Premium Income 20 Barrier ETF - January,Annual / None (Buffer)
+JANI,AllianzIM International Equity Buffer15 Uncapped Jan ETF,Annual / None (Buffer)
+JANJ,Innovator Premium Income 30 Barrier ETF - January,Annual / None (Buffer)
+JANP,PGIM S&P 500 Buffer 12 ETF - January,Annual / None (Buffer)
+JANQ,Innovator Premium Income 40 Barrier ETF - January,Annual / None (Buffer)
+JANT,AllianzIM U.S. Equity Buffer10 Jan ETF,Annual / None (Buffer)
+JANU,AllianzIM U.S. Equity Buffer15 Uncapped Jan ETF,Annual / None (Buffer)
+JANW,AllianzIM U.S. Equity Buffer20 Jan ETF,Annual / None (Buffer)
+JANZ,TrueShares Structured Outcome (January) ETF,Annual / None (Buffer)
+JDST,Direxion Daily Junior Gold Miners Index Bear 2X ETF,Quarterly
+JEPI,JPMorgan Equity Premium Income ETF,Monthly
+JEPQ,JPMorgan NASDAQ Equity Premium Income ETF,Monthly
+JHDG,John Hancock Hedged Equity ETF,Annual / None (Buffer)
+JNEU,AllianzIM U.S. Equity Buffer15 Uncapped June ETF,Annual / None (Buffer)
+JPMO,YieldMax JPM Option Income Strategy ETF,Monthly
+JPMY,,Monthly
+JPO,YieldMax JP Option Income Strategy ETF,Annual / None (Buffer)
+JULD,Innovator Premium Income 10 Barrier ETF - July,Annual / None (Buffer)
+JULH,Innovator Premium Income 20 Barrier ETF - July,Annual / None (Buffer)
+JULJ,Innovator Premium Income 30 Barrier ETF - July,Annual / None (Buffer)
+JULP,PGIM S&P 500 Buffer 12 ETF - July,Annual / None (Buffer)
+JULQ,Innovator Premium Income 40 Barrier ETF - July,Annual / None (Buffer)
+JULT,AllianzIM U.S. Equity Buffer10 Jul ETF,Annual / None (Buffer)
+JULU,AllianzIM U.S. Equity Buffer15 Uncapped Jul ETF,Annual / None (Buffer)
+JULW,AllianzIM U.S. Equity Buffer20 Jul ETF,Annual / None (Buffer)
+JULZ,TrueShares Structured Outcome (July) ETF,Annual / None (Buffer)
+JUNP,PGIM S&P 500 Buffer 12 ETF - June,Annual / None (Buffer)
+JUNT,AllianzIM U.S. Equity Buffer10 Jun ETF,Annual / None (Buffer)
+JUNW,AllianzIM U.S. Equity Buffer20 Jun ETF,Annual / None (Buffer)
+JUNZ,TrueShares Structured Outcome (June) ETF,Annual / None (Buffer)
+KAPR,Innovator U.S. Small Cap Power Buffer ETF - April,Annual / None (Buffer)
+KAUG,Innovator US Small Cap Power Buffer ETF - August,Annual / None (Buffer)
+KBFR,Innovator U.S. Small Cap Managed 10 Buffer ETF,Annual / None (Buffer)
+KDEC,Innovator U.S. Small Cap Power Buffer ETF - December,Annual / None (Buffer)
+KFEB,Innovator U.S. Small Cap Power Buffer ETF - February,Annual / None (Buffer)
+KGLD,Kurv Gold Enhanced Income ETF,Monthly
+KJAN,Innovator U.S. Small Cap Power Buffer ETF - January,Annual / None (Buffer)
+KJUL,Innovator U.S. Small Cap Power Buffer ETF - July,Annual / None (Buffer)
+KJUN,Innovator U.S. Small Cap Power Buffer ETF - June,Annual / None (Buffer)
+KLIP,KraneShares KWEB Covered Call Strategy ETF,Monthly
+KMAR,Innovator U.S. Small Cap Power Buffer ETF - March,Annual / None (Buffer)
+KMAY,Innovator U.S. Small Cap Power Buffer ETF - May,Annual / None (Buffer)
+KNG,FT Vest S&P 500 Dividend Aristocrats Target Income ETF,Monthly
+KNOV,Innovator U.S. Small Cap Power Buffer ETF - November,Annual / None (Buffer)
+KOCT,Innovator U.S. Small Cap Power Buffer ETF - October,Annual / None (Buffer)
+KSEP,Innovator U.S. Small Cap Power Buffer ETF - September,Annual / None (Buffer)
+KSLV,Kurv Silver Enhanced Income ETF,Monthly
+KWIN,KraneShares Wahed Alternative Income Index ETF,Annual / None (Buffer)
+LAPR,Innovator Premium Income 15 Buffer ETF - April,Annual / None (Buffer)
+LFGY,YieldMax Crypto Industry & Tech Portfolio Option Income ETF,Weekly
+LJAN,Innovator Premium Income 15 Buffer ETF - January,Annual / None (Buffer)
+LJUL,Innovator Premium Income 15 Buffer ETF - July,Annual / None (Buffer)
+LOCT,Innovator Premium Income 15 Buffer ETF - October,Annual / None (Buffer)
+LQDM,Amplify LQD Investment Grade 12% Target Income ETF,Monthly
+LQDW,iShares Investment Grade Corporate Bond BuyWrite Strategy ETF,Monthly
+LQTI,FT Vest Investment Grade & Target Income ETF,Monthly
+LTTI,FT Vest 20+ Year Treasury & Target Income ETF,Monthly
+MAAY,GraniteShares YieldBOOST MARA ETF,Weekly
+MAGY,Roundhill Magnificent Seven Covered Call ETF,Monthly
+MARO,YieldMax MARA Option Income Strategy ETF,Weekly
+MART,AllianzIM U.S. Equity Buffer10 Mar ETF,Annual / None (Buffer)
+MARU,AllianzIM U.S. Equity Buffer15 Uncapped Mar ETF,Annual / None (Buffer)
+MARW,AllianzIM U.S. Equity Buffer20 Mar ETF,Annual / None (Buffer)
+MARZ,TrueShares Structured Outcome (March) ETF,Annual / None (Buffer)
+MAYP,PGIM S&P 500 Buffer 12 ETF - May,Annual / None (Buffer)
+MAYT,AllianzIM U.S. Equity Buffer10 May ETF,Annual / None (Buffer)
+MAYU,AllianzIM U.S. Equity Buffer15 Uncapped May ETF,Annual / None (Buffer)
+MAYW,AllianzIM U.S. Equity Buffer20 May ETF,Annual / None (Buffer)
+MAYZ,TrueShares Structured Outcome (May) ETF,Annual / None (Buffer)
+MDST,Westwood Salient Enhanced Midstream Income ETF,Monthly
+METW,Roundhill META WeeklyPay ETF,Weekly
+MLPD,Global X MLP & Energy Infrastructure Covered Call ETF,Monthly
+MLPI,NEOS MLP & Energy Infrastructure High Income ETF,Monthly
+MORT,VanEck Mortgage REIT Income ETF,Quarterly
+MRCP,PGIM S&P 500 Buffer 12 ETF - March,Monthly
+MRNY,YieldMax MRNA Option Income Strategy ETF,Weekly
+MSFO,YieldMax MSFT Option Income Strategy ETF,Weekly
+MSFY,Kurv Yield Premium Strategy Microsoft (MSFT) ETF,Monthly
+MST,Defiance Leveraged Long Income MSTR ETF,Weekly
+MSTW,Roundhill MSTR WeeklyPay ETF,Weekly
+MSTY,YieldMax MSTR Option Income Strategy ETF,Weekly
+MTYY,GraniteShares YieldBOOST MSTR ETF,Weekly
+MUD,Direxion Daily MU Bear 1X ETF,Quarterly
+MUYY,GraniteShares YieldBOOST MU ETF,Weekly
+NAPR,Innovator Growth-100 Power Buffer ETF - April,Annual / None (Buffer)
+NAUG,Innovator Growth-100 Power Buffer ETF - August,Annual / None (Buffer)
+NBFR,Innovator Nasdaq-100 Managed 10 Buffer ETF,Annual / None (Buffer)
+NDEC,Innovator Growth-100 Power Buffer ETF - December,Annual / None (Buffer)
+NEHI,NEOS Ethereum High Income ETF,Monthly
+NFEB,Innovator Growth-100 Power Buffer ETF - February,Annual / None (Buffer)
+NFLP,Kurv Yield Prem Stratgey Netflix ETF,Monthly
+NFLW,Roundhill NFLX WeeklyPay ETF,Weekly
+NFLY,YieldMax NFLX Option Income Strategy ETF,Weekly
+NFXL,Direxion Daily NFLX Bull 2X ETF,Quarterly
+NIHI,NEOS MSCI EAFE High Income ETF,Monthly
+NJAN,Innovator Growth-100 Power Buffer ETF - January,Annual / None (Buffer)
+NJUL,Innovator Growth-100 Power Buffer ETF - July,Annual / None (Buffer)
+NJUN,Innovator Growth-100 Power Buffer ETF - June,Annual / None (Buffer)
+NLSI,NEOS Long/Short Equity Income ETF,Monthly
+NMAR,Innovator Growth-100 Power Buffer ETF - March,Annual / None (Buffer)
+NMAY,Innovator Growth-100 Power Buffer ETF - May,Annual / None (Buffer)
+NNOV,Innovator Growth-100 Power Buffer ETF - November,Annual / None (Buffer)
+NOCT,Innovator Growth-100 Power Buffer ETF- October,Annual / None (Buffer)
+NOVP,PGIM S&P 500 Buffer 12 ETF - November,Annual / None (Buffer)
+NOVZ,TrueShares Structured Outcome (November) ETF,Annual / None (Buffer)
+NSEP,Innovator Growth-100 Power Buffer ETF - September,Annual / None (Buffer)
+NUGY,GraniteShares YieldBOOST Gold Miners ETF,Weekly
+NVBT,AllianzIM U.S. Equity Buffer10 Nov ETF,Monthly
+NVBU,AllianzIM U.S. Equity Buffer15 Uncapped Nov ETF,Monthly
+NVBW,AllianzIM U.S. Equity Buffer20 Nov ETF,Weekly
+NVDW,Roundhill NVDA WeeklyPay ETF,Weekly
+NVDY,YieldMax NVDA Option Income Strategy ETF,Weekly
+NVII,REX NVDA Growth & Income ETF,Weekly
+NVIT,YieldMax NVDA Performance & Distribution Target 25 ETF,Monthly
+NVYY,GraniteShares YieldBOOST NVDA ETF,Weekly
+OARK,YieldMax Innovation Option Income Strategy ETF,Weekly
+OCIO,ClearShares OCIO ETF,Quarterly
+OCTD,Innovator Premium Income 10 Barrier ETF - October,Annual / None (Buffer)
+OCTH,Innovator Premium Income 20 Barrier ETF - October,Annual / None (Buffer)
+OCTJ,Innovator Premium Income 30 Barrier ETF - October,Annual / None (Buffer)
+OCTP,PGIM S&P 500 Buffer 12 ETF - October,Annual / None (Buffer)
+OCTQ,Innovator Premium Income 40 Barrier ETF - October,Annual / None (Buffer)
+OCTT,AllianzIM U.S. Equity Buffer10 Oct ETF,Annual / None (Buffer)
+OCTU,AllianzIM U.S. Equity Buffer15 Uncapped Oct ETF,Annual / None (Buffer)
+OCTW,AllianzIM U.S. Equity Buffer20 Oct ETF,Annual / None (Buffer)
+OCTZ,TrueShares Structured Outcome (October) ETF,Annual / None (Buffer)
+ODTE,VegaShares SPX NDX RTY Premium Income ETF,Weekly
+OEI,Optimized Equity Income ETF,Monthly
+OMAH,VistaShares Target 15 Berkshire Select Income ETF,Monthly
+OXLC,Oxford Lane Capital Corp,Monthly
+PAPR,Innovator U.S. Equity Power Buffer ETF - April,Annual / None (Buffer)
+PAUG,Innovator U.S. Equity Power Buffer ETF - August,Annual / None (Buffer)
+PBAP,PGIM S&P 500 Buffer 20 ETF - April,Annual / None (Buffer)
+PBAU,PGIM S&P 500 Buffer 20 ETF - August,Annual / None (Buffer)
+PBDC,Putnam BDC Income ETF,Quarterly
+PBDE,PGIM S&P 500 Buffer 20 ETF - December,Annual / None (Buffer)
+PBFB,PGIM S&P 500 Buffer 20 ETF - February,Annual / None (Buffer)
+PBJA,PGIM S&P 500 Buffer 20 ETF - January,Annual / None (Buffer)
+PBJL,PGIM S&P 500 Buffer 20 ETF - July,Annual / None (Buffer)
+PBJN,PGIM S&P 500 Buffer 20 ETF - June,Annual / None (Buffer)
+PBMR,PGIM S&P 500 Buffer 20 ETF - March,Annual / None (Buffer)
+PBMY,PGIM S&P 500 Buffer 20 ETF - May,Annual / None (Buffer)
+PBNV,PGIM S&P 500 Buffer 20 ETF - November,Annual / None (Buffer)
+PBOC,PGIM S&P 500 Buffer 20 ETF - October,Annual / None (Buffer)
+PBP,Invesco S&P 500 BuyWrite ETF,Quarterly
+PBSE,PGIM S&P 500 Buffer 20 ETF - September,Annual / None (Buffer)
+PCOV,Principal Equity Premium Income ETF,Monthly
+PDEC,Innovator U.S. Equity Power Buffer ETF - December,Annual / None (Buffer)
+PDI,PIMCO Dynamic Income Fund,Monthly
+PEY,Invesco High Yield Equity Dividend Achievers ETF,Monthly
+PFEB,Innovator U.S. Equity Power Buffer ETF - February,Annual / None (Buffer)
+PFFA,Virtus InfraCap U.S. Preferred Stock ETF,Monthly
+PJAN,Innovator U.S. Equity Power Buffer ETF - January,Annual / None (Buffer)
+PJUL,Innovator U.S. Equity Power Buffer ETF - July,Annual / None (Buffer)
+PJUN,Innovator U.S. Equity Power Buffer ETF - June,Annual / None (Buffer)
+PLTU,Direxion Daily PLTR Bull 2X,Quarterly
+PLTW,Roundhill PLTR WeeklyPay ETF,Weekly
+PLTY,YieldMax PLTR Option Income Strategy ETF,Weekly
+PLYY,GraniteShares YieldBOOST PLTR ETF,Weekly
+PMAP,PGIM S&P 500 Max Buffer ETF - April,Annual / None (Buffer)
+PMAR,Innovator U.S. Equity Power Buffer ETF - March,Annual / None (Buffer)
+PMAU,PGIM S&P 500 Max Buffer ETF - August,Annual / None (Buffer)
+PMAY,Innovator U.S. Equity Power Buffer ETF - May,Annual / None (Buffer)
+PMDE,PGIM S&P 500 Max Buffer ETF - December,Annual / None (Buffer)
+PMFB,PGIM S&P 500 Max Buffer ETF - February,Annual / None (Buffer)
+PMJA,PGIM S&P 500 Max Buffer ETF - January,Annual / None (Buffer)
+PMJL,PGIM S&P 500 Max Buffer ETF - July,Annual / None (Buffer)
+PMJN,PGIM S&P 500 Max Buffer ETF - June,Annual / None (Buffer)
+PMMR,PGIM S&P 500 Max Buffer ETF March,Annual / None (Buffer)
+PMMY,PGIM S&P 500 Max Buffer ETF - May,Annual / None (Buffer)
+PMNV,PGIM S&P 500 Max Buffer ETF - November,Annual / None (Buffer)
+PMSE,PGIM S&P 500 Max Buffer ETF - September,Annual / None (Buffer)
+PNOV,Innovator U.S. Equity Power Buffer ETF - November,Annual / None (Buffer)
+POCT,Innovator U.S. Equity Power Buffer ETF - October,Annual / None (Buffer)
+PQAP,PGIM Nasdaq-100 Buffer 12 ETF - April,Annual / None (Buffer)
+PQJA,PGIM Nasdaq-100 Buffer 12 ETF - January,Annual / None (Buffer)
+PQJL,PGIM Nasdaq-100 Buffer 12 ETF - July,Annual / None (Buffer)
+PQOC,PGIM Nasdaq-100 Buffer 12 ETF - October,Annual / None (Buffer)
+PSCJ,Pacer Swan SOS Conservative (July) ETF,Annual / None (Buffer)
+PSCQ,Pacer Swan SOS Conservative (October) ETF,Annual / None (Buffer)
+PSCW,Pacer Swan SOS Conservative (April) ETF,Annual / None (Buffer)
+PSCX,Pacer Swan SOS Conservative (January) ETF,Annual / None (Buffer)
+PSEP,Innovator U.S. Equity Power Buffer ETF - September,Annual / None (Buffer)
+PSFD,Pacer Swan SOS Flex (January) ETF,Annual / None (Buffer)
+PSFF,Pacer Swan SOS Fund of Funds ETF,Annual / None (Buffer)
+PSFJ,Pacer Swan SOS Flex (July) ETF,Annual / None (Buffer)
+PSFM,Pacer Swan SOS Flex (April) ETF,Annual / None (Buffer)
+PSFO,Pacer Swan SOS Flex (October) ETF,Annual / None (Buffer)
+PSMD,Pacer Swan SOS Moderate (January) ETF,Annual / None (Buffer)
+PSMJ,Pacer Swan SOS Moderate (July) ETF,Annual / None (Buffer)
+PSMO,Pacer Swan SOS Moderate (October) ETF,Annual / None (Buffer)
+PSMR,Pacer Swan SOS Moderate (April) ETF,Annual / None (Buffer)
+PSTP,Innovator Power Buffer Step-Up Strategy ETF,Annual / None (Buffer)
+PUTW,WisdomTree PutWrite Strategy Fund,Monthly
+PYPY,YieldMax PYPL Option Income Strategy ETF,Weekly
+QBIF,AllianzIM International Equity Buffer15 ETF,Annual / None (Buffer)
+QBIV,AllianzIM International Equity Buffer5 ETF,Annual / None (Buffer)
+QBKF,AllianzIM U.S. Small Cap Buffer15 ETF,Annual / None (Buffer)
+QBKV,AllianzIM U.S. Small Cap Buffer5 ETF,Annual / None (Buffer)
+QBQF,AllianzIM Growth-100 Buffer15 ETF,Annual / None (Buffer)
+QBQV,AllianzIM Growth-100 Buffer5 ETF,Annual / None (Buffer)
+QBSF,AllianzIM U.S. Equity Buffer15 ETF,Annual / None (Buffer)
+QBSV,AllianzIM U.S Equity Buffer5 ETF,Annual / None (Buffer)
+QBUF,Innovator Nasdaq-100 10 Buffer ETF Quarterly,Annual / None (Buffer)
+QBY,GraniteShares YieldBoost QBTS ETF,Weekly
+QCAP,FT Vest Nasdaq-100 Conservative Buffer ETF - April,Annual / None (Buffer)
+QCJA,FT Vest Nasdaq-100 Conservative Buffer ETF - January,Annual / None (Buffer)
+QCJL,FT Vest Nasdaq-100 Conservative Buffer ETF - July,Annual / None (Buffer)
+QCOC,FT Vest Nasdaq-100 Conservative Buffer ETF - October,Annual / None (Buffer)
+QDEC,FT Vest Nasdaq-100 Buffer ETF - December,Annual / None (Buffer)
+QDTE,Roundhill Nasdaq-100 0DTE Covered Call ETF Strategy ETF,Weekly
+QDTY,YieldMax Nasdaq 100 0DTE Covered Call Strategy ETF,Weekly
+QDVO,Amplify CWP Growth & Income ETF,Monthly
+QJUN,FT Vest Nasdaq-100 Buffer ETF - June,Annual / None (Buffer)
+QLDY,Defiance Nasdaq 100 LightningSpread Income ETF,Weekly
+QMAG,FT Vest Nasdaq-100 Moderate Buffer ETF - August,Monthly
+QMAR,FT Vest Nasdaq-100 Buffer ETF - March,Annual / None (Buffer)
+QMFE,FT Vest Nasdaq-100 Moderate Buffer ETF-February,Annual / None (Buffer)
+QMMY,FT Vest Nasdaq-100 Moderate Buffer ETF - May,Monthly
+QMNV,FT Vest Nasdaq-100 Moderate Buffer ETF - November,Annual / None (Buffer)
+QQQH,NEOS Nasdaq-100 Hedged Equity Income ETF,Monthly
+QQQI,NEOS Nasdaq 100 High Income ETF,Monthly
+QQQT,Defiance Nasdaq 100 Income Target ETF,Monthly
+QQQU,Direxion Daily Magnificent 7 Bull 2X ETF,Quarterly
+QQQY,Defiance Nasdaq 100 Weekly Distribution ETF,Monthly
+QSPT,FT Vest Nasdaq-100 Buffer ETF - September,Annual / None (Buffer)
+QXQ,SGI Enhanced Nasdaq 100 ETF,Quarterly
+QYLD,Global X NASDAQ 100 Covered Call ETF,Monthly
+QYLG,Global X Nasdaq 100 Covered Call & Growth ETF,Monthly
+RBLY,YieldMax RBLX Option Income Strategy ETF,Weekly
+RBUF,Innovator U.S. Small Cap 10 Buffer ETF - Quarterly,Annual / None (Buffer)
+RDTE,Roundhill Russell 2000 0DTE Covered Call Strategy ETF,Weekly
+RDTY,YieldMax R2000 0DTE Covered Strategy ETF,Weekly
+RDYY,YieldMax RDDT Option Income Strategy ETF,Weekly
+RECI,Columbia Research Enhanced Core Premium Income ETF,Monthly
+REM,iShares Mortgage Real Estate ETF,Quarterly
+REW,ProShares UltraShort Technology,Quarterly
+RGYY,GraniteShares YieldBoost RGTI ETF,Weekly
+RNTY,YieldMax Target 12 Real Estate Option Income ETF,Weekly
+ROCQ,JPMorgan Nasdaq Equity Premium Yield ETF,Monthly
+ROCY,JPMorgan Equity Premium Yield ETF,Monthly
+RSDE,FT Vest U.S. Equity Equal Weight Buffer ETF - December,Annual / None (Buffer)
+RSJN,FT Vest U.S. Equity Equal Weight Buffer ETF - June,Annual / None (Buffer)
+RSMR,FT Vest U.S. Equity Equal Weight Buffer ETF - March,Annual / None (Buffer)
+RSSE,FT Vest U.S. Equity Equal Weight Buffer ETF - September,Annual / None (Buffer)
+RTYY,GraniteShares YieldBoost RIOT ETF,Weekly
+RYLD,Global X Russell 2000 Covered Call ETF,Monthly
+RYLG,Global X Russell 2000 Covered Call & Growth ETF,Monthly
+SAUG,FT Vest U.S. Small Cap Moderate Buffer ETF - August,Annual / None (Buffer)
+SDTY,YieldMax S&P 500 0DTE Covered Call Strategy ETF,Weekly
+SEMY,GraniteShares YieldBOOST Semiconductor ETF,Weekly
+SEPI,Shelton Equity Premium Income ETF,Annual / None (Buffer)
+SEPP,PGIM S&P 500 Buffer 12 ETF - September,Annual / None (Buffer)
+SEPT,AllianzIM U.S. Equity Buffer10 Sep ETF,Annual / None (Buffer)
+SEPU,AllianzIM U.S. Equity Buffer15 Uncapped Sep ETF,Annual / None (Buffer)
+SEPW,AllianzIM U.S. Equity Buffer20 Sep ETF,Annual / None (Buffer)
+SEPZ,TrueShares Structured Outcome September ETF,Annual / None (Buffer)
+SFEB,FT Vest U.S. Small Cap Moderate Buffer ETF - February,Annual / None (Buffer)
+SFYI,SoFi Social 50 Income ETF,Monthly
+SHPU,Direxion Daily SHOP Bull 2X,Quarterly
+SIXD,AllianzIM U.S. Equity 6 Month Buffer10 Jun/Dec ETF,Annual / None (Buffer)
+SIXF,AllianzIM U.S. Equity 6 Month Buffer10 Feb/Aug ETF,Annual / None (Buffer)
+SIXJ,AllianzIM U.S. Equity 6 Month Buffer10 Jan/Jul ETF,Annual / None (Buffer)
+SIXO,AllianzIM U.S. Equity 6 Month Buffer10 Apr/Oct ETF,Annual / None (Buffer)
+SIXP,AllianzIM U.S. Equity 6 Month Buffer10 Mar/Sep ETF,Annual / None (Buffer)
+SIXZ,AllianzIM U.S. Equity 6 Month Buffer10 May/Nov ETF,Annual / None (Buffer)
+SLJY,Amplify SILJ Junior Silver Miners Covered Call ETF,Monthly
+SLTY,YieldMax Ultra Short Option Income Strategy ETF,Weekly
+SLVO,"UBS AG ETRACS Silver Shares Covered Call ETNs due April 21, 2033 ETP 2022-21.04.33 on CS NQ Slv FLS106 Pr",Monthly
+SLVY,FT Vest Silver Strategy & Target Income ETF,Monthly
+SMAY,FT Vest U.S. Small Cap Moderate Buffer ETF - May,Annual / None (Buffer)
+SMCY,YieldMax SMCI Option Income Strategy ETF,Weekly
+SMRF,ALPS Nautilus SMR Nuclear & Technology ETF,Monthly
+SMYY,GraniteShares YieldBOOST SMCI ETF,Weekly
+SNOV,FT Vest U.S. Small Cap Moderate Buffer ETF - November,Annual / None (Buffer)
+SNOY,YieldMax SNOW Option Income Strategy ETF,Weekly
+SNTH,MRP SynthEquity ETF,Quarterly
+SOLM,Amplify Solana 3% Monthly Option Income ETF,Monthly
+SOXS,Direxion Daily Semiconductor Bear 3X ETF,Quarterly
+SOXY,YieldMax Target 12 Semiconductor Option Income ETF,Monthly
+SPHD,Invesco S&P 500 High Dividend Low Volatility ETF,Monthly
+SPUT,Innovator Equity Premium Income - Daily PutWrite ETF,Monthly
+SPYH,NEOS S&P 500 Hedged Equity Income ETF,Monthly
+SPYI,NEOS S&P 500 High Income ETF,Monthly
+SPYT,Defiance S&P 500 Target Income ETF,Monthly
+SQMX,FT Vest U.S. Equity Quarterly Max Buffer ETF,Monthly
+SQQQ,ProShares UltraPro Short QQQ,Quarterly
+SQY,YieldMax SQ Option Income Strategy ETF,Monthly
+SRHR,SRH REIT Covered Call ETF,Monthly
+SSG,Proshares Ultrashort Semiconductors,Quarterly
+STEN,iShares Large Cap 10% Target Buffer Sep ETF,Monthly
+SURI,Simplify Propel Opportunities ETF,Quarterly
+SVOL,Simplify Volatility Premium ETF,Monthly
+TBJL,Innovator 20+ Year Treasury Bond 9 Buffer ETF - July,Annual / None (Buffer)
+TDAQ,TappAlpha Innovation 100 Growth & Daily Income ETF,Annual / None (Buffer)
+TDEC,FT Vest Emerging Markets Buffer ETF - December,Annual / None (Buffer)
+TECS,Direxion Daily Technology Bear 3X ETF,Quarterly
+TEND,iShares Large Cap 10% Target Buffer Dec ETF,Annual / None (Buffer)
+TENJ,iShares Large Cap 10% Target Buffer Jun ETF,Annual / None (Buffer)
+TENM,iShares Large Cap 10% Target Buffer Mar ETF,Annual / None (Buffer)
+TFJL,Innovator 20+ Year Treasury Bond 5 Floor ETF - July,Annual / None (Buffer)
+TGIF,SoFi Weekly Income ETF,Weekly
+TJUN,FT Vest Emerging Markets Buffer ETF June,Annual / None (Buffer)
+TLA,GraniteShares Autocallable TSLA ETF,Monthly
+TLTI,NEOS Enhanced Income 20+ Year Treasury Bond ETF,Monthly
+TLTP,Amplify TLT U.S. Treasury 12% Option Income ETF,Monthly
+TLTW,iShares 20+ Year Treasury Bond BuyWrite Strategy ETF,Monthly
+TLTX,Global X Treasury Bond Enhanced Income ETF,Monthly
+TMAR,FT Vest Emerging Markets Buffer ETF - March,Annual / None (Buffer)
+TMGN,TappAlpha Cboe Magnificent 10 Growth & Daily Income ETF,Monthly
+TMH,Toyota Motor Corporation ADRhedged,Quarterly
+TOCT,Innovator Equity Defined Protection ETF - 2 Yr to October 2027,Annual / None (Buffer)
+TOPW,Roundhill Top WeeklyPay ETF,Weekly
+TPRY,VistaShares Target 15 TEPRTantrum Contrarian Distribution ETF,Monthly
+TQQY,GraniteShares YieldBOOST QQQ ETF,Weekly
+TSEP,FT Vest Emerging Market Buffer ETF - September,Annual / None (Buffer)
+TSII,REX TSLA Growth & Income ETF,Weekly
+TSLI,ProShares Ultra TSLA ETF,Quarterly
+TSLL,Direxion Daily TSLA Bull 2X ETF,Quarterly
+TSLP,Kurv Yield Prem Strategy Tesla ETF,Monthly
+TSLW,Roundhill TSLA WeeklyPay ETF,Weekly
+TSLY,YieldMax TSLA Option Income Strategy ETF,Weekly
+TSMY,YieldMax TSM Option Income Strategy ETF,Weekly
+TSPY,TappAlpha S&P 500 Growth & Daily Income ETF,Monthly
+TSYY,GraniteShares YieldBOOST TSLA ETF,Weekly
+TWOX,iShares Large Cap Accelerated Outcome ETF,Monthly
+TYLG,Global X Information Technology Covered Call & Growth ETF,Monthly
+UAPR,Innovator U.S. Equity Ultra Buffer ETF - April,Annual / None (Buffer)
+UAUG,Innovator U.S. Equity Ultra Buffer ETF - August,Annual / None (Buffer)
+UBEW,Roundhill UBER WeeklyPay ETF,Weekly
+UDEC,Innovator U.S. Equity Ultra Buffer ETF - December,Annual / None (Buffer)
+UFEB,Innovator U.S. Equity Ultra Buffer ETF - February,Annual / None (Buffer)
+UJAN,Innovator U.S. Equity Ultra Buffer ETF - January,Annual / None (Buffer)
+UJUL,Innovator U.S. Equity Ultra Buffer ETF - July,Annual / None (Buffer)
+UJUN,Innovator U.S. Equity Ultra Buffer ETF - June,Annual / None (Buffer)
+ULTI,REX IncomeMax Option Strategy ETF,Weekly
+ULTY,YieldMax Ultra Option Income Strategy ETF,Weekly
+UMAR,Innovator U.S. Equity Ultra Buffer ETF - March,Annual / None (Buffer)
+UMAY,Innovator U.S. Equity Ultra Buffer ETF - May,Annual / None (Buffer)
+UNOV,Innovator U.S. Equity Ultra Buffer ETF - November,Annual / None (Buffer)
+UOCT,Innovator U.S. Equity Ultra Buffer ETF - October,Annual / None (Buffer)
+URAA,Direxion Daily Uranium Industry Bull 2X ETF,Quarterly
+USEP,Innovator U.S. Equity Ultra Buffer ETF - September,Annual / None (Buffer)
+USG,USCF Gold Strategy Plus Income Fund ETF,Quarterly
+USOI,"UBS AG ETRACS Crude Oil Shares Covered Call ETNs due April 24, 2037",Monthly
+USOY,Defiance Oil Enhanced Options Income ETF,Weekly
+UYG,ProShares Ultra Financials,Quarterly
+VPC,Virtus Private Credit Strategy ETF,Quarterly
+WDTE,Defiance S&P 500 Weekly Distribution ETF,Monthly
+WEEI,Westwood Salient Enhanced Energy Income ETF,Weekly
+WEEL,Peerless Option Income Wheel ETF,Quarterly
+WKLY,SoFi Weekly Dividend ETF (WKLY),Weekly
+WMTI,REX WMT Growth & Income ETF,Monthly
+WNTR,YieldMax MSTR Short Option Income Strategy ETF,Weekly
+WTPI,WisdomTree Equity Premium Income Fund,Monthly
+XAPR,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - April,Annual / None (Buffer)
+XAUG,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - August,Annual / None (Buffer)
+XBAP,Innovator U.S. Equity Accelerated 9 Buffer ETF - April,Annual / None (Buffer)
+XBCI,NEOS Boosted Bitcoin High Income ETF,Monthly
+XBFR,Innovator Equity Managed 10 Buffer ETF,Annual / None (Buffer)
+XBJA,Innovator U.S. Equity Accelerated 9 Buffer ETF - January,Annual / None (Buffer)
+XBJL,Innovator U.S. Equity Accelerated 9 Buffer ETF - July,Annual / None (Buffer)
+XBOC,Innovator U.S. Equity Accelerated 9 Buffer ETF - October,Annual / None (Buffer)
+XBTY,GraniteShares YieldBOOST Bitcoin ETF,Weekly
+XC,WisdomTree True Emerging Markets Fund,Quarterly
+XDAP,Innovator US Equity Accelerated ETF,Annual / None (Buffer)
+XDEC,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - December,Annual / None (Buffer)
+XDJA,Innovator U.S. Equity Accelerated ETF - January,Annual / None (Buffer)
+XDJL,Innovator U.S. Equity Accelerated ETF - July,Annual / None (Buffer)
+XDSQ,Innovator US Equity Accelerated ETF,Annual / None (Buffer)
+XDTE,Roundhill S&P 500 0DTE Covered Call Strategy ETF,Weekly
+XFEB,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - February,Annual / None (Buffer)
+XIDE,FT Vest U.S. Equity Buffer & Premium Income ETF - December,Annual / None (Buffer)
+XIJN,FT Vest U.S. Equity Buffer & Premium Income ETF - June,Annual / None (Buffer)
+XIMR,FT Vest U.S. Equity Buffer & Premium Income ETF - March,Annual / None (Buffer)
+XISE,FT Vest U.S. Equity Buffer & Premium Income ETF - September,Annual / None (Buffer)
+XJAN,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - January,Annual / None (Buffer)
+XJUL,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - July,Annual / None (Buffer)
+XJUN,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - June,Annual / None (Buffer)
+XLBI,State Street Materials Select Sector SPDR Premium Income ETF,Monthly
+XLEI,State Street Energy Select Sector SPDR Premium Income ETF,Monthly
+XLFI,State Street Financial Select Sector SPDR Premium Income ETF,Monthly
+XLII,State Street Industrial Select Sector SPDR Premium Income ETF,Monthly
+XLKI,State Street Technology Select Sector SPDR Premium Income ETF,Monthly
+XLRI,State Street Real Estate Select Sector SPDR Premium Income ETF,Monthly
+XLSI,State Street Consumer Staples Select Sector SPDR Premium Income ETF,Monthly
+XLUI,State Street Utilities Select Sector SPDR Premium Income ETF,Monthly
+XLVI,State Street Health Care Select Sector SPDR Premium Income ETF,Monthly
+XLYI,SPDR Consumer Disc Premium Income,Monthly
+XMAR,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - March,Annual / None (Buffer)
+XMAY,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - May,Annual / None (Buffer)
+XNOV,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - November,Annual / None (Buffer)
+XOCT,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - October,Annual / None (Buffer)
+XOMO,YieldMax XOM Option Income Strategy ETF,Monthly
+XQQI,NEOS Boosted Nasdaq-100 High Income ETF,Monthly
+XRPM,Amplify XRP 3% Monthly Premium Income ETF,Monthly
+XSEP,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - September,Annual / None (Buffer)
+XSPI,NEOS Boosted S&P 500 High Income ETF,Monthly
+XTAP,Innovator U.S. Equity Accelerated Plus ETF,Annual / None (Buffer)
+XTJA,Innovator U.S. Equity Accelerated Plus ETF - January,Annual / None (Buffer)
+XTJL,Innovator U.S. Equity Accelerated Plus ETF - July,Annual / None (Buffer)
+XTOC,Innovator U.S. Equity Accelerated Plus ETF - October,Annual / None (Buffer)
+XV,Simplify Target 15 Distribution ETF,Monthly
+XYLD,Global X S&P 500 Covered Call ETF,Monthly
+XYLG,Global X S&P 500 Covered Call & Growth ETF,Monthly
+XYZY,YieldMax XYZ Option Income Strategy ETF,Weekly
+YBIT,YieldMax Bitcoin Option Income Strategy ETF,Weekly
+YBST,GraniteShares YieldBoost Single Stock Universe ETF,Weekly
+YBTC,Roundhill Bitcoin Covered Call Strategy ETF,Weekly
+YBTY,GraniteShares YieldBoost TopYielders ETF,Weekly
+YDEC,FT Vest International Equity Moderate Buffer ETF - December,Annual / None (Buffer)
+YETH,Roundhill Ether Covered Call Strategy ETF,Weekly
+YJUN,FT Vest International Equity Moderate Buffer ETF - June,Annual / None (Buffer)
+YLDW,Westwood Enhanced Income Opportunity ETF,Monthly
+YLDY,Horizon High Income ETF,Monthly
+YMAG,YieldMax Magnificent 7 Fund of Option Income ETFs,Weekly
+YMAR,FT Vest International Equity Moderate Buffer,Annual / None (Buffer)
+YMAX,YieldMax Universe Fund of Option Income ETFs,Weekly
+YQQQ,YieldMax Short N100 Option Income Strategy ETF,Monthly
+YSBY,GraniteShares YieldBOOST SPY ETF,Monthly
+YSEP,GraniteShares YieldBOOST SPY ETF,Annual / None (Buffer)
+YSPC,YieldMax SPCX Option Income Strategy ETF,Monthly
+YSPY,GraniteShares YieldBOOST SPY ETF,Weekly
+ZALT,Innovator U.S. Equity 10 Buffer ETF - Quarterly,Annual / None (Buffer)
