@@ -1,4 +1,5 @@
-﻿AAPW,Roundhill AAPL WeeklyPay ETF,Weekly
+﻿Ticker,Name,Dividend Frequency
+AAPW,Roundhill AAPL WeeklyPay ETF,Weekly
 ABLS,Abacus FCF Small Cap Leaders ETF,Quarterly
 ABNY,YieldMax ABNB Option Income Strategy ETF,Monthly
 AIPI,REX AI Equity Premium Income ETF,Monthly
@@ -582,7 +583,6 @@ TENJ,iShares Large Cap 10% Target Buffer Jun ETF,Annual / None (Buffer)
 TENM,iShares Large Cap 10% Target Buffer Mar ETF,Annual / None (Buffer)
 TFJL,Innovator 20+ Year Treasury Bond 5 Floor ETF - July,Annual / None (Buffer)
 TGIF,SoFi Weekly Income ETF,Weekly
-Ticker,Name,Dividend Frequency
 TJUN,FT Vest Emerging Markets Buffer ETF June,Annual / None (Buffer)
 TLA,GraniteShares Autocallable TSLA ETF,Monthly
 TLTI,NEOS Enhanced Income 20+ Year Treasury Bond ETF,Monthly
