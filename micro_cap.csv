@@ -1,1190 +1,1190 @@
-,Ticker,Company,Sector,Industry,Country
-0,AACB,Artius II Acquisition Inc,Financial,Shell Companies,USA
-1,AACP,Apogee Acquisition Corp,Financial,Shell Companies,USA
-2,AARD,Aardvark Therapeutics Inc,Healthcare,Biotechnology,USA
-3,ABOS,Acumen Pharmaceuticals Inc,Healthcare,Biotechnology,USA
-4,ACB,Aurora Cannabis Inc,Healthcare,Drug Manufacturers - Specialty & Generic,Canada
-5,ACET,Adicet Bio Inc,Healthcare,Biotechnology,USA
-6,ACGC,ACP Holdings Acquisition Corp,Financial,Shell Companies,USA
-7,ACH,Accendra Health Inc,Healthcare,Medical Distribution,USA
-8,ACIU,AC Immune SA,Healthcare,Biotechnology,Switzerland
-9,ACNT,Ascent Industries Co,Basic Materials,Chemicals,USA
-10,ACOG,Alpha Cognition Inc,Healthcare,Biotechnology,USA
-11,ACR,ACRES Commercial Realty Corp,Real Estate,REIT - Mortgage,USA
-12,ACRE,Ares Commercial Real Estate Corp,Real Estate,REIT - Mortgage,USA
-13,ACRV,Acrivon Therapeutics Inc,Healthcare,Biotechnology,USA
-14,ACU,Acme United Corp,Consumer Defensive,Household & Personal Products,USA
-15,ACV,Virtus Diversified Income & Convertible Fund,Financial,Closed-End Fund - Equity,USA
-16,ADAC,American Drive Acquisition Co,Financial,Shell Companies,USA
-17,ADAG,Adagene Inc ADR,Healthcare,Biotechnology,China
-18,ADCT,Adc Therapeutics SA,Healthcare,Drug Manufacturers - Specialty & Generic,Switzerland
-19,AEC,Anfield Energy Inc,Energy,Uranium,Canada
-20,AEI,Alset Inc,Real Estate,Real Estate - Development,USA
-21,AENT,Alliance Entertainment Holding Corp,Communication Services,Entertainment,USA
-22,AESP,Aeon Acquisition I Corp,Financial,Shell Companies,USA
-23,AEYE,AudioEye Inc,Technology,Software - Application,USA
-24,AFCG,Advanced Flower Capital Inc,Financial,Asset Management,USA
-25,AFRI,Forafric Global PLC,Consumer Defensive,Farm Products,United Kingdom
-26,AGPU,Axe Compute Inc,Technology,Software - Infrastructure,USA
-27,AIB,AIB Data Centers Inc,Technology,Software - Infrastructure,USA
-28,AIFC,AI Financial Corp,Technology,Software - Infrastructure,USA
-29,AIFU,AIFU Inc,Financial,Insurance Brokers,China
-30,AIIA,AI Infrastructure Acquisition Corp,Financial,Shell Companies,USA
-31,AIIO,Robo.ai Inc,Consumer Cyclical,Auto Manufacturers,United Arab Emirates
-32,AIRG,Airgain Inc,Technology,Communication Equipment,USA
-33,AIRO,AIRO Group Holdings Inc,Industrials,Aerospace & Defense,USA
-34,AIRS,Airsculpt Technologies Inc,Healthcare,Medical Care Facilities,USA
-35,AIRT,Air T Inc,Industrials,Conglomerates,USA
-36,AISP,Airship AI Holdings Inc,Technology,Software - Infrastructure,USA
-37,AIXC,AIxCrypto Holdings Inc,Technology,Software - Infrastructure,USA
-38,AKA,a.k.a. Brands Holding Corp,Consumer Cyclical,Apparel Retail,USA
-39,AKBA,Akebia Therapeutics Inc,Healthcare,Drug Manufacturers - Specialty & Generic,USA
-40,ALCO,Alico Inc,Consumer Defensive,Farm Products,USA
-41,ALDX,Aldeyra Therapeutics Inc,Healthcare,Biotechnology,USA
-42,ALEC,Alector Inc,Healthcare,Biotechnology,USA
-43,ALF,Centurion Acquisition Corp,Financial,Shell Companies,USA
-44,ALIS,Calisa Acquisition Corp,Financial,Shell Companies,USA
-45,ALOT,AstroNova Inc,Technology,Computer Hardware,USA
-46,ALPX,Alpex Acquisition Corp,Financial,Shell Companies,USA
-47,ALTG,Alta Equipment Group Inc,Industrials,Rental & Leasing Services,USA
-48,ALXO,Alx Oncology Holdings Inc,Healthcare,Biotechnology,USA
-49,AMACU,AMR Resources Acquisition Corp,Financial,Shell Companies,Cayman Islands
-50,AMAN,Amanat Acquisition Corp,Financial,Shell Companies,USA
-51,AMBR,Amber International Holding Ltd ADR,Financial,Asset Management,Singapore
-52,AMCI,AMC Robotics Corp,Technology,Computer Hardware,USA
-53,AMPG,Amplitech Group Inc,Technology,Communication Equipment,USA
-54,AMPY,Amplify Energy Corp,Energy,Oil & Gas E&P,USA
-55,AMRN,Amarin Corp ADR,Healthcare,Drug Manufacturers - General,Ireland
-56,AMTX,Aemetis Inc,Basic Materials,Specialty Chemicals,USA
-57,AMWL,American Well Corp,Healthcare,Health Information Services,USA
-58,ANGI,Angi Inc,Communication Services,Internet Content & Information,USA
-59,ANIK,Anika Therapeutics Inc,Healthcare,Drug Manufacturers - Specialty & Generic,USA
-60,ANIX,Anixa Biosciences Inc,Healthcare,Biotechnology,USA
-61,ANNA,AleAnna Inc,Energy,Oil & Gas E&P,USA
-62,ANPA,Rich Sparkle Holdings Ltd,Industrials,Specialty Business Services,Hong Kong
-63,ANTA,Antalpha Platform Holding Co,Financial,Credit Services,Singapore
-64,ANTX,AN2 Therapeutics Inc,Healthcare,Biotechnology,USA
-65,ANVS,Annovis Bio Inc,Healthcare,Biotechnology,USA
-66,AOMR,Angel Oak Mortgage REIT Inc,Real Estate,REIT - Mortgage,USA
-67,AOUT,American Outdoor Brands Inc,Consumer Cyclical,Leisure,USA
-68,AP,Ampco-Pittsburgh Corp,Industrials,Metal Fabrication,USA
-69,APAC,StoneBridge Acquisition II Corp,Financial,Shell Companies,USA
-70,APLM,Apollomics Inc,Healthcare,Biotechnology,USA
-71,APMC,Ampercap Acquisition Co,Financial,Shell Companies,USA
-72,APT,Alpha Pro Tech Ltd,Industrials,Building Products & Equipment,Canada
-73,APUR,Aperture AC,Financial,Shell Companies,USA
-74,APYX,Apyx Medical Corp,Healthcare,Medical Devices,USA
-75,ARBE,Arbe Robotics Ltd,Technology,Scientific & Technical Instruments,Israel
-76,ARCL,ARC Group Acquisition I Corp,Financial,Shell Companies,USA
-77,ARCT,Arcturus Therapeutics Holdings Inc,Healthcare,Biotechnology,USA
-78,ARDC,Ares Dynamic Credit Allocation Fund Inc,Financial,Closed-End Fund - Debt,USA
-79,AREC,American Resources Corp,Industrials,Waste Management,USA
-80,ARL,American Realty Investors Inc,Real Estate,Real Estate Services,USA
-81,ARMP,Armata Pharmaceuticals Inc,Healthcare,Biotechnology,USA
-82,ARQ,Arq Inc,Industrials,Pollution & Treatment Controls,USA
-83,ASLE,AerSale Corp,Industrials,Airports & Air Services,USA
-84,ASPS,Altisource Portfolio Solutions SA,Real Estate,Real Estate Services,Luxembourg
-85,ASRV,Ameriserv Financial Inc,Financial,Banks - Regional,USA
-86,ASUR,Asure Software Inc,Technology,Software - Application,USA
-87,ASYS,Amtech Systems Inc,Technology,Semiconductor Equipment & Materials,USA
-88,ATGL,Alpha Technology Group Ltd,Technology,Software - Infrastructure,Hong Kong
-89,ATHE,Alterity Therapeutics Ltd ADR,Healthcare,Biotechnology,Australia
-90,ATLO,Ames National Corp,Financial,Banks - Regional,USA
-91,ATLX,Atlas Lithium Corp,Basic Materials,Other Industrial Metals & Mining,Brazil
-92,ATOM,Atomera Inc,Technology,Semiconductor Equipment & Materials,USA
-93,ATRA,Atara Biotherapeutics Inc,Healthcare,Biotechnology,USA
-94,ATYR,Atyr Pharma Inc,Healthcare,Biotechnology,USA
-95,AUBN,Auburn National Bancorp Inc,Financial,Banks - Regional,USA
-96,AUC,ATIF Holdings Ltd,Financial,Capital Markets,USA
-97,AUDC,Audiocodes,Technology,Communication Equipment,Israel
-98,AURE,Aurelion Inc,Financial,Capital Markets,Hong Kong
-99,AVD,American Vanguard Corp,Basic Materials,Agricultural Inputs,USA
-100,AVNW,Aviat Networks Inc,Technology,Communication Equipment,USA
-101,AVXL,Anavex Life Sciences Corp,Healthcare,Biotechnology,USA
-102,AXIN,Axiom Intelligence Acquisition Corp 1,Financial,Shell Companies,United Kingdom
-103,AXR,AMREP Corp,Real Estate,Real Estate - Development,USA
-104,AZI,Autozi Internet Technology (Global) Ltd,Consumer Cyclical,Auto & Truck Dealerships,China
-105,BACC,Blue Acquisition Corp,Financial,Shell Companies,USA
-106,BAER,Bridger Aerospace Group Holdings Inc,Industrials,Security & Protection Services,USA
-107,BAFN,BayFirst Financial Corp,Financial,Banks - Regional,USA
-108,BANX,ArrowMark Financial Corp,Financial,Closed-End Fund - Debt,USA
-109,BARK,BARK Inc,Consumer Cyclical,Specialty Retail,USA
-110,BATL,Battalion Oil Corp,Energy,Oil & Gas E&P,USA
-111,BCAR,D. Boral ARC Acquisition I Corp,Financial,Shell Companies,USA
-112,BCBP,BCB Bancorp Inc (NJ),Financial,Banks - Regional,USA
-113,BCIC,BCP Investment Corp,Financial,Asset Management,USA
-114,BCV,Bancroft Fund Ltd,Financial,Closed-End Fund - Debt,USA
-115,BCYC,Bicycle Therapeutics Plc ADR,Healthcare,Biotechnology,United Kingdom
-116,BDL,Flanigan's Enterprises Inc,Consumer Cyclical,Restaurants,USA
-117,BDSX,Biodesix Inc,Healthcare,Diagnostics & Research,USA
-118,BDTX,Black Diamond Therapeutics Inc,Healthcare,Biotechnology,USA
-119,BEBE,TGE Value Creative Solutions Corp,Financial,Shell Companies,France
-120,BEEP,Mobile Infrastructure Corp,Industrials,Infrastructure Operations,USA
-121,BETR,Better Home & Finance Holding Co,Financial,Mortgage Finance,USA
-122,BGH,Barings Global Short Duration High Yield Fund,Financial,Closed-End Fund - Debt,USA
-123,BGIN,Bgin Blockchain Ltd,Technology,Computer Hardware,Singapore
-124,BGM,BGM Group Ltd,Healthcare,Drug Manufacturers - Specialty & Generic,China
-125,BGS,B&G Foods Inc,Consumer Defensive,Packaged Foods,USA
-126,BGSF,BGSF Inc,Industrials,Staffing & Employment Services,USA
-127,BGX,Blackstone Long-Short Credit Income Fund,Financial,Closed-End Fund - Debt,USA
-128,BHAV,Bhav Acquisition Corp,Financial,Shell Companies,USA
-129,BHM,Bluerock Homes Trust Inc,Real Estate,REIT - Residential,USA
-130,BHR,Braemar Hotels & Resorts Inc,Real Estate,REIT - Hotel & Motel,USA
-131,BHST,BioHarvest Sciences Inc,Consumer Defensive,Packaged Foods,Canada
-132,BID,Tribeca Strategic Acquisition Corp,Financial,Shell Companies,USA
-133,BIII,Black Spade Acquisition III Co,Financial,Shell Companies,Hong Kong
-134,BKTI,BK Technologies Corp,Technology,Communication Equipment,USA
-135,BLNK,Blink Charging Co,Industrials,Engineering & Construction,USA
-136,BLRK,Bluerock Acquisition Corp,Financial,Shell Companies,USA
-137,BMEA,Biomea Fusion Inc,Healthcare,Biotechnology,USA
-138,BMHL,Bluemount Holdings Ltd,Financial,Capital Markets,Hong Kong
-139,BMN,BlackRock 2037 Municipal Target Term Trust,Financial,Closed-End Fund - Debt,USA
-140,BNAI,Brand Engagement Network Inc,Technology,Software - Infrastructure,USA
-141,BNC,CEA Industries Inc,Industrials,Farm & Heavy Construction Machinery,USA
-142,BNR,Burning Rock Biotech Ltd ADR,Healthcare,Diagnostics & Research,China
-143,BOF,BranchOut Food Inc,Consumer Defensive,Packaged Foods,USA
-144,BOLD,Boundless Bio Inc,Healthcare,Biotechnology,USA
-145,BOOM,DMC Global Inc,Industrials,Conglomerates,USA
-146,BOTJ,Bank of the James Financial Group Inc,Financial,Banks - Regional,USA
-147,BPAC,Blueport Acquisition Ltd,Financial,Shell Companies,USA
-148,BPRN,Princeton Bancorp Inc,Financial,Banks - Regional,USA
-149,BRCC,BRC Inc,Consumer Defensive,Packaged Foods,USA
-150,BREZ,Breeze Acquisition Corp II,Financial,Shell Companies,USA
-151,BRID,Bridgford Foods Corp,Consumer Defensive,Packaged Foods,USA
-152,BRKH,Burtech Acquisition Corp II,Financial,Shell Companies,USA
-153,BRLT,Brilliant Earth Group Inc,Consumer Cyclical,Luxury Goods,USA
-154,BRR,ProCap Financial Inc,Financial,Capital Markets,USA
-155,BRT,BRT Apartments Corp,Real Estate,REIT - Residential,USA
-156,BSBK,Bogota Financial Corp,Financial,Banks - Regional,USA
-157,BSEM,BioStem Technologies Inc,Healthcare,Biotechnology,USA
-158,BSET,Bassett Furniture Industries Inc,Consumer Cyclical,"Furnishings, Fixtures & Appliances",USA
-159,BSIN,Big Sky Industrial Inc,Energy,Oil & Gas E&P,USA
-160,BSL,Blackstone Senior Floating Rate 2027 Term Fund,Financial,Closed-End Fund - Debt,USA
-161,BTCS,BTCS Inc,Financial,Capital Markets,USA
-162,BUDA,Buda Juice Inc,Consumer Defensive,Beverages - Non-Alcoholic,USA
-163,BVC,BitVentures Ltd,Technology,Software - Application,Hong Kong
-164,BVFL,BV Financial Inc,Financial,Banks - Regional,USA
-165,BWEN,Broadwind Inc,Industrials,Specialty Industrial Machinery,USA
-166,BWG,BrandywineGLOBAL - Global Income Opportunities Fund Inc,Financial,Closed-End Fund - Debt,USA
-167,BWIV,Blue Water Acquisition Corp IV,Financial,Shell Companies,USA
-168,BYFC,Broadway Financial Corp,Financial,Banks - Regional,USA
-169,BYND,Beyond Meat Inc,Consumer Defensive,Packaged Foods,USA
-170,BYRN,Byrna Technologies Inc,Industrials,Aerospace & Defense,USA
-171,BZAI,Blaize Holdings Inc,Technology,Software - Application,USA
-172,BZFD,BuzzFeed Inc,Communication Services,Internet Content & Information,USA
-173,BZUN,Baozun Inc ADR,Consumer Cyclical,Internet Retail,China
-174,CAAS,China Automotive Systems Inc,Consumer Cyclical,Auto Parts,China
-175,CABO,Cable One Inc,Communication Services,Telecom Services,USA
-176,CAF,Morgan Stanley China A Share Fund Inc,Financial,Closed-End Fund - Foreign,USA
-177,CAN,Canaan Inc ADR,Technology,Computer Hardware,Singapore
-178,CANG,Cango Inc,Financial,Capital Markets,China
-179,CAPN,Cayson Acquisition Corp,Financial,Shell Companies,USA
-180,CAQ,Cambridge Acquisition Corp,Financial,Shell Companies,USA
-181,CATLU,Catalyst Acquisition Corp,Financial,Shell Companies,USA
-182,CATO,Cato Corp,Consumer Cyclical,Apparel Retail,USA
-183,CBAT,CBAK Energy Technology Ltd,Industrials,Electrical Equipment & Parts,China
-184,CBFV,CB Financial Services Inc,Financial,Banks - Regional,USA
-185,CBUS,Cibus Inc,Healthcare,Biotechnology,USA
-186,CCAQ,Collective Acquisition Corp,Financial,Shell Companies,USA
-187,CCIF,Carlyle Credit Income Fund,Financial,Closed-End Fund - Debt,USA
-188,CCLD,CareCloud Inc,Healthcare,Health Information Services,USA
-189,CD,Chaince Digital Holdings Inc,Financial,Capital Markets,USA
-190,CDXS,Codexis Inc,Healthcare,Biotechnology,USA
-191,CDZI,Cadiz Inc,Utilities,Utilities - Regulated Water,USA
-192,CEE,Central and Eastern Europe Fund Inc,Financial,Closed-End Fund - Foreign,USA
-193,CEPL,Capstone Energy+ Inc,Industrials,Specialty Industrial Machinery,USA
-194,CEPO,Cantor Equity Partners I Inc,Financial,Shell Companies,USA
-195,CEPS,Cantor Equity Partners VI Inc,Financial,Shell Companies,USA
-196,CEV,Eaton Vance California Municipal Income Trust,Financial,Closed-End Fund - Debt,USA
-197,CFBK,CF Bankshares Inc,Financial,Banks - Regional,USA
-198,CFFI,C & F Financial Corp,Financial,Banks - Regional,USA
-199,CGCFU,Cartesian Growth Corp IV,Financial,Shell Companies,USA
-200,CGEN,Compugen Ltd,Healthcare,Biotechnology,Israel
-201,CGO,Calamos Global Total Return Fund,Financial,Closed-End Fund - Equity,USA
-202,CGTX,Cognition Therapeutics Inc,Healthcare,Biotechnology,USA
-203,CHAR,Charlton Aria Acquisition Corp,Financial,Shell Companies,USA
-204,CHCI,Comstock Holding Co Inc,Real Estate,Real Estate Services,USA
-205,CHEC,Chenghe Acquisition III Co,Financial,Shell Companies,Singapore
-206,CHGG,Chegg Inc,Consumer Defensive,Education & Training Services,USA
-207,CHMI,Cherry Hill Mortgage Investment Corp,Real Estate,REIT - Mortgage,USA
-208,CHPG,ChampionsGate Acquisition Corp,Financial,Shell Companies,USA
-209,CHPT,ChargePoint Holdings Inc,Consumer Cyclical,Specialty Retail,USA
-210,CHRS,Coherus Oncology Inc,Healthcare,Biotechnology,USA
-211,CIA,Citizens Inc,Financial,Insurance - Life,USA
-212,CIGL,Concorde International Group Ltd,Industrials,Security & Protection Services,Singapore
-213,CIK,Credit Suisse Asset Management Income Fund Inc,Financial,Closed-End Fund - Debt,USA
-214,CING,Cingulate Inc,Healthcare,Biotechnology,USA
-215,CIRC,Circle8 Group Inc,Industrials,Staffing & Employment Services,USA
-216,CITR,CitroTech Inc,Basic Materials,Specialty Chemicals,USA
-217,CLAR,Clarus Corp,Consumer Cyclical,Leisure,USA
-218,CLLS,Cellectis ADR,Healthcare,Biotechnology,France
-219,CLNN,Clene Inc,Healthcare,Biotechnology,USA
-220,CLPR,Clipper Realty Inc,Real Estate,REIT - Residential,USA
-221,CLST,Catalyst Bancorp Inc,Financial,Banks - Regional,USA
-222,CMRC,Commerce.com Inc,Technology,Software - Application,USA
-223,CMT,Core Molding Technologies,Basic Materials,Specialty Chemicals,USA
-224,CMTG,Claros Mortgage Trust Inc,Real Estate,REIT - Mortgage,USA
-225,CMTV,Community Bancorp Inc Vermont,Financial,Banks - Regional,USA
-226,CNCK,Coincheck Group NV,Financial,Capital Markets,Netherlands
-227,CNDT,Conduent Inc,Technology,Information Technology Services,USA
-228,CNTB,Connect Biopharma Holdings Ltd,Healthcare,Biotechnology,USA
-229,CNTN,Canton Strategic Holdings Inc,Healthcare,Biotechnology,USA
-230,CNVS,Cineverse Corp,Communication Services,Entertainment,USA
-231,CNXU,Conexeu Sciences Inc,Healthcare,Biotechnology,USA
-232,COCH,Envoy Medical Inc,Healthcare,Medical Devices,USA
-233,CODA,Coda Octopus Group Inc,Industrials,Aerospace & Defense,USA
-234,COE,51 Talk Online Education Group ADR,Consumer Defensive,Education & Training Services,Singapore
-235,COOK,Traeger Inc,Consumer Cyclical,"Furnishings, Fixtures & Appliances",USA
-236,COPL,Copley Acquisition Corp,Financial,Shell Companies,Hong Kong
-237,COYA,Coya Therapeutics Inc,Healthcare,Biotechnology,USA
-238,CPBI,Central Plains Bancshares Inc,Financial,Banks - Regional,USA
-239,CPHC,Canterbury Park Holding Corp,Consumer Cyclical,Resorts & Casinos,USA
-240,CPIX,Cumberland Pharmaceuticals Inc,Healthcare,Drug Manufacturers - Specialty & Generic,USA
-241,CPSH,CPS Technologies Corp,Technology,Electronic Components,USA
-242,CPSS,Consumer Portfolio Service Inc,Financial,Credit Services,USA
-243,CPZ,Calamos Long/Short Equity & Dynamic Income Trust,Financial,Closed-End Fund - Equity,USA
-244,CRAC,Crown Reserve Acquisition Corp I,Financial,Shell Companies,Cayman Islands
-245,CRBP,Corbus Pharmaceuticals Holdings Inc,Healthcare,Biotechnology,USA
-246,CRBU,Caribou Biosciences Inc,Healthcare,Biotechnology,USA
-247,CRDF,Cardiff Oncology Inc,Healthcare,Biotechnology,USA
-248,CRDL,Cardiol Therapeutics Inc,Healthcare,Drug Manufacturers - Specialty & Generic,Canada
-249,CRGO,Freightos Ltd,Industrials,Integrated Freight & Logistics,Israel
-250,CRNT,Ceragon Networks Ltd,Technology,Communication Equipment,Israel
-251,CRT,Cross Timbers Royalty Trust,Energy,Oil & Gas E&P,USA
-252,CSBR,Champions Oncology Inc,Healthcare,Biotechnology,USA
-253,CSPI,CSP Inc,Technology,Information Technology Services,USA
-254,CSTE,Caesarstone Ltd,Industrials,Building Products & Equipment,Israel
-255,CTAA,ClearThink 1 Acquisition Corp,Financial,Shell Companies,USA
-256,CTM,Castellum Inc,Technology,Information Technology Services,USA
-257,CTOR,Citius Oncology Inc,Healthcare,Drug Manufacturers - Specialty & Generic,USA
-258,CTW,CTW,Communication Services,Electronic Gaming & Multimedia,Japan
-259,CUB,Lionheart Holdings,Financial,Shell Companies,USA
-260,CUE,Cue Biopharma Inc,Healthcare,Biotechnology,USA
-261,CURI,CuriosityStream Inc,Communication Services,Broadcasting,USA
-262,CURV,Torrid Holdings Inc,Consumer Cyclical,Apparel Retail,USA
-263,CVGI,Commercial Vehicle Group Inc,Consumer Cyclical,Auto Parts,USA
-264,CVRX,CVRx Inc,Healthcare,Medical Devices,USA
-265,CVU,CPI Aerostructures Inc,Industrials,Aerospace & Defense,USA
-266,CVV,CVD Equipment Corp,Industrials,Specialty Industrial Machinery,USA
-267,CXDO,Crexendo Inc,Communication Services,Telecom Services,USA
-268,CYPH,Cypherpunk Technologies Inc,Healthcare,Biotechnology,USA
-269,CZWI,Citizens Community Bancorp Inc MD,Financial,Banks - Regional,USA
-270,DAAQ,Digital Asset Acquisition Corp,Financial,Shell Companies,USA
-271,DAVA,Endava plc ADR,Technology,Software - Infrastructure,United Kingdom
-272,DBI,Designer Brands Inc,Consumer Cyclical,Footwear & Accessories,USA
-273,DBL,DoubleLine Opportunistic Credit Fund,Financial,Closed-End Fund - Debt,USA
-274,DCGO,DocGo Inc,Healthcare,Medical Care Facilities,USA
-275,DEFT,DeFi Technologies Inc,Financial,Capital Markets,Canada
-276,DERM,Journey Medical Corp,Healthcare,Drug Manufacturers - Specialty & Generic,USA
-277,DFDV,DeFi Development Corp,Financial,Asset Management,USA
-278,DGAC,Disciplined Growth Acquisition Corp,Financial,Shell Companies,USA
-279,DH,Definitive Healthcare Corp,Healthcare,Health Information Services,USA
-280,DHF,BNY Mellon High Yield Strategies Fund,Financial,Closed-End Fund - Debt,USA
-281,DHX,DHI Group Inc,Technology,Software - Application,USA
-282,DHY,Credit Suisse High Yield Credit Fund,Financial,Closed-End Fund - Debt,USA
-283,DIBS,1stdibs.com Inc,Communication Services,Internet Content & Information,USA
-284,DIT,Amcon Distributing Company,Consumer Defensive,Food Distribution,USA
-285,DLHC,DLH Holdings Corp,Industrials,Specialty Business Services,USA
-286,DLNG,Dynagas LNG Partners LP,Energy,Oil & Gas Midstream,Greece
-287,DLTH,Duluth Holdings Inc,Consumer Cyclical,Apparel Retail,USA
-288,DMA,Destra Multi-Alternative Fund,Financial,Closed-End Fund - Equity,USA
-289,DMAA,Drugs Made In America Acquisition Corp,Financial,Shell Companies,USA
-290,DMB,BNY Mellon Municipal Bond Infrastructure Fund Inc,Financial,Closed-End Fund - Debt,USA
-291,DMO,Western Asset Mortgage Opportunity Fund Inc,Financial,Closed-End Fund - Debt,USA
-292,DMRC,Digimarc Corp,Technology,Software - Application,USA
-293,DNMX,Dynamix Corp III,Financial,Shell Companies,USA
-294,DOMH,Dominari Holdings Inc,Financial,Capital Markets,USA
-295,DOMO,Domo Inc,Technology,Software - Application,USA
-296,DOUG,Douglas Elliman Inc,Real Estate,Real Estate Services,USA
-297,DOYU,DouYu International Holdings Ltd ADR,Communication Services,Internet Content & Information,China
-298,DPRO,Draganfly Inc,Technology,Computer Hardware,Canada
-299,DRIO,DarioHealth Corp,Healthcare,Health Information Services,USA
-300,DSC,DSC Holdings Ltd ADR,Consumer Cyclical,Auto & Truck Dealerships,China
-301,DSM,BNY Mellon Strategic Municipal Bond Fund Inc,Financial,Closed-End Fund - Debt,USA
-302,DSWL,Deswell Industries Inc,Technology,Electronic Components,China
-303,DTCX,Datacentrex Inc,Financial,Financial Data & Stock Exchanges,USA
-304,DTF,DTF Tax-Free Income 2028 Term Fund Inc,Financial,Closed-End Fund - Debt,USA
-305,DTI,Drilling Tools International Corp,Energy,Oil & Gas Equipment & Services,USA
-306,DTIL,Precision Biosciences Inc,Healthcare,Biotechnology,USA
-307,DWSN,Dawson Geophysical Company,Energy,Oil & Gas Equipment & Services,USA
-308,DWTX,Dogwood Therapeutics Inc,Healthcare,Biotechnology,USA
-309,DXR,Daxor Corp,Healthcare,Medical Instruments & Supplies,USA
-310,DYNC,Dynamix Corp,Financial,Shell Companies,USA
-311,DYOR,Insight Digital Partners II,Financial,Shell Companies,USA
-312,EAF,GrafTech International Ltd,Industrials,Electrical Equipment & Parts,USA
-313,EARN,Ellington Credit Co,Financial,Asset Management,USA
-314,EBMT,Eagle Bancorp Montana Inc,Financial,Banks - Regional,USA
-315,EBS,Emergent Biosolutions Inc,Healthcare,Drug Manufacturers - Specialty & Generic,USA
-316,ECBK,ECB Bancorp Inc,Financial,Banks - Regional,USA
-317,ECF,Ellsworth Growth and Income Fund Ltd,Financial,Closed-End Fund - Equity,USA
-318,ECOR,ElectroCore Inc,Healthcare,Medical Devices,USA
-319,EDF,Virtus Stone Harbor Emerging Markets Income Fund,Financial,Closed-End Fund - Foreign,USA
-320,EDRY,EuroDry Ltd,Industrials,Marine Shipping,Greece
-321,EDSA,Edesa Biotech Inc,Healthcare,Biotechnology,Canada
-322,EEA,European Equity Fund Inc,Financial,Closed-End Fund - Foreign,USA
-323,EFSI,Eagle Financial Services Inc,Financial,Banks - Regional,USA
-324,EFT,Eaton Vance Floating-Rate Income Trust,Financial,Closed-End Fund - Debt,USA
-325,EGAN,eGain Corp,Technology,Software - Application,USA
-326,EGG,Enigmatig Ltd,Industrials,Consulting Services,Singapore
-327,EGHA,EGH Acquisition Corp,Financial,Shell Companies,USA
-328,EHI,Western Asset Global High Income Fund Inc,Financial,Closed-End Fund - Debt,USA
-329,EIC,Eagle Point Income Company Inc,Financial,Closed-End Fund - Debt,USA
-330,ELBM,Electra Battery Materials Corp,Basic Materials,Other Industrial Metals & Mining,Canada
-331,ELDN,Eledon Pharmaceuticals Inc,Healthcare,Biotechnology,USA
-332,ELLO,Ellomay Capital Ltd,Utilities,Utilities - Renewable,Israel
-333,ELME,Elme Communities,Real Estate,REIT - Residential,USA
-334,ELOX,Eloxx Pharmaceuticals Inc,Healthcare,Biotechnology,USA
-335,ELTK,Eltek Ltd,Technology,Electronic Components,Israel
-336,ELTX,Elicio Therapeutics Inc,Healthcare,Biotechnology,USA
-337,EMIS,Emmis Acquisition Corp,Financial,Shell Companies,USA
-338,EML,Eastern Co,Industrials,Tools & Accessories,USA
-339,EMPD,Empery Digital Inc,Consumer Cyclical,Auto Manufacturers,USA
-340,ENGN,enGene Therapeutics Inc,Healthcare,Biotechnology,Canada
-341,ENGS,Energys Group Ltd,Industrials,Waste Management,United Kingdom
-342,ENRD,Einride AB ADR,Technology,Software - Application,Sweden
-343,EOD,Allspring Global Dividend Opportunity Fund,Financial,Closed-End Fund - Equity,USA
-344,EOT,Eaton Vance National Municipal Opportunities Trust,Financial,Closed-End Fund - Debt,USA
-345,EP,Empire Petroleum Corp,Energy,Oil & Gas E&P,USA
-346,EPM,Evolution Petroleum Corp,Energy,Oil & Gas E&P,USA
-347,EPSN,Epsilon Energy Ltd,Energy,Oil & Gas E&P,USA
-348,EQ,Equillium Inc,Healthcare,Biotechnology,USA
-349,ERC,Allspring Multi-Sector Income Fund,Financial,Closed-End Fund - Debt,USA
-350,ERH,Allspring Utilities and High Income Fund,Financial,Closed-End Fund - Equity,USA
-351,ESCA,Escalade Inc,Consumer Cyclical,Leisure,USA
-352,ESOA,Energy Services of America Corp,Industrials,Engineering & Construction,USA
-353,ESP,Espey Manufacturing & Electronics Corp,Industrials,Electrical Equipment & Parts,USA
-354,ETSS,Energy Transition Special Opportunities,Financial,Shell Companies,USA
-355,ETX,Eaton Vance Municipal Income 2028 Term Trust,Financial,Closed-End Fund - Debt,USA
-356,EU,enCore Energy Corp,Energy,Uranium,USA
-357,EVF,Eaton Vance Senior Income Trust,Financial,Closed-End Fund - Debt,USA
-358,EVG,Eaton Vance Short Duration Diversified Income Fund,Financial,Closed-End Fund - Debt,USA
-359,EVI,EVI Industries Inc,Industrials,Industrial Distribution,USA
-360,EVTL,Vertical Aerospace Ltd,Industrials,Aerospace & Defense,United Kingdom
-361,EXFY,Expensify Inc,Technology,Software - Application,USA
-362,EXOD,Exodus Movement Inc,Technology,Software - Infrastructure,USA
-363,EXOZ,eXoZymes Inc,Healthcare,Biotechnology,USA
-364,FACT,FACT II Acquisition Corp,Financial,Shell Companies,USA
-365,FATN,Fatpipe Inc,Technology,Software - Infrastructure,USA
-366,FBIO,Fortress Biotech Inc,Healthcare,Biotechnology,USA
-367,FBLA,FB Bancorp Inc,Financial,Banks - Regional,USA
-368,FC,Franklin Covey Co,Consumer Defensive,Education & Training Services,USA
-369,FCAP,First Capital Inc,Financial,Banks - Regional,USA
-370,FCT,First Trust Senior Floting Rate Income Fund II,Financial,Closed-End Fund - Debt,USA
-371,FDSB,Fifth District Bancorp Inc,Financial,Banks - Regional,USA
-372,FEAM,5E Advanced Materials Inc,Basic Materials,Specialty Chemicals,USA
-373,FF,Futurefuel Corp,Basic Materials,Specialty Chemicals,USA
-374,FGBI,First Guaranty Bancshares Inc,Financial,Banks - Regional,USA
-375,FIGX,FIGX Capital Acquisition Corp,Financial,Shell Companies,USA
-376,FINW,FinWise Bancorp,Financial,Banks - Regional,USA
-377,FIRY,Firy Inc,Communication Services,Electronic Gaming & Multimedia,USA
-378,FJDIU,ARC Group Securities Acquisition I,Financial,Shell Companies,USA
-379,FJET,Starfighters Space Inc,Industrials,Aerospace & Defense,USA
-380,FLC,Flaherty & Crumrine Total Return Fund Inc,Financial,Closed-End Fund - Debt,USA
-381,FLL,Full House Resorts Inc,Consumer Cyclical,Resorts & Casinos,USA
-382,FLNT,Fluent Inc,Communication Services,Advertising Agencies,USA
-383,FLWS,1-800 Flowers.com Inc,Consumer Cyclical,Specialty Retail,USA
-384,FLX,BingEx Ltd ADR,Industrials,Integrated Freight & Logistics,China
-385,FLYX,flyExclusive Inc,Industrials,Airlines,USA
-386,FLZH,Flash Sports & Media Holdings Inc,Communication Services,Broadcasting,USA
-387,FMAC,Future Money Acquisition Corp,Financial,Shell Companies,USA
-388,FMN,Federated Hermes Premier Municipal Income Fund,Financial,Closed-End Fund - Debt,USA
-389,FNRN,First Northern Community Bancorp,Financial,Banks - Regional,USA
-390,FNWB,First Northwest Bancorp,Financial,Banks - Regional,USA
-391,FNWD,Finward Bancorp,Financial,Banks - Regional,USA
-392,FOCL,EDAP TMS SA ADR,Healthcare,Medical Distribution,France
-393,FORR,Forrester Research Inc,Industrials,Consulting Services,USA
-394,FRAF,Franklin Financial Services Corp,Financial,Banks - Regional,USA
-395,FRMM,Forum Markets Inc,Technology,Software - Application,USA
-396,FSEA,First Seacoast Bancorp Inc,Financial,Banks - Regional,USA
-397,FSI,Flexible Solutions International Inc,Basic Materials,Specialty Chemicals,Canada
-398,FT,Franklin Universal Trust,Financial,Closed-End Fund - Debt,USA
-399,FTF,Franklin Limited Duration Income Trust,Financial,Closed-End Fund - Debt,USA
-400,FTHA,Forefront Tech Holdings Acquisition Corp,Financial,Shell Companies,Cayman Islands
-401,FTLF,FitLife Brands Inc,Consumer Defensive,Packaged Foods,USA
-402,FTRA,FutureCorp Space Acquisition 1,Financial,Shell Companies,USA
-403,FUFU,BitFuFu Inc,Financial,Capital Markets,Singapore
-404,FULC,Fulcrum Therapeutics Inc,Healthcare,Biotechnology,USA
-405,FUNC,First United Corp,Financial,Banks - Regional,USA
-406,FURY,Fury Gold Mines Ltd,Basic Materials,Gold,Canada
-407,FUSB,First US Bancshares Inc,Financial,Banks - Regional,USA
-408,FVN,Future Vision II Acquisition Corp,Financial,Shell Companies,China
-409,FWAC,Futurewave Acquisition Corp,Financial,Shell Companies,USA
-410,FXAC,FortuneX Acquisition Corp,Financial,Shell Companies,USA
-411,FXHO,UTime Ltd,Technology,Consumer Electronics,China
-412,FXNC,"First National Corp (Strasburg, VA)",Financial,Banks - Regional,USA
-413,GANX,Gain Therapeutics Inc,Healthcare,Biotechnology,USA
-414,GCL,GCL Global Holdings Ltd,Communication Services,Electronic Gaming & Multimedia,Singapore
-415,GCTS,GCT Semiconductor Holding Inc,Technology,Semiconductors,USA
-416,GCV,Gabelli Convertible and Income Securities Fund Inc,Financial,Closed-End Fund - Equity,USA
-417,GDEV,GDEV Inc,Communication Services,Electronic Gaming & Multimedia,Cyprus
-418,GDHG,Golden Heaven Group Holdings Ltd,Consumer Cyclical,Leisure,China
-419,GDL,GDL Fund,Financial,Closed-End Fund - Equity,USA
-420,GDO,Western Asset Global Corporate Defined Opportunity Fund Inc,Financial,Closed-End Fund - Debt,USA
-421,GECC,Great Elm Capital Corp,Financial,Asset Management,USA
-422,GEG,Great Elm Group Inc,Financial,Asset Management,USA
-423,GENC,Gencor Industries Inc,Industrials,Farm & Heavy Construction Machinery,USA
-424,GENK,GEN Restaurant Group Inc,Consumer Cyclical,Restaurants,USA
-425,GEOS,Geospace Technologies Corp,Energy,Oil & Gas Equipment & Services,USA
-426,GETY,Getty Images Holdings Inc,Communication Services,Internet Content & Information,USA
-427,GF,New Germany Fund Inc,Financial,Closed-End Fund - Foreign,USA
-428,GGT,Gabelli Multimedia Trust Inc,Financial,Closed-End Fund - Equity,USA
-429,GGZ,Gabelli Global Small and Mid Cap Value Trust,Financial,Closed-End Fund - Equity,USA
-430,GHG,GreenTree Hospitality Group Ltd ADR,Consumer Cyclical,Lodging,China
-431,GHI,Greystone Housing Impact Investors LP,Financial,Mortgage Finance,USA
-432,GIBO,GIBO Holdings Ltd,Communication Services,Internet Content & Information,Hong Kong
-433,GLBS,Globus Maritime Ltd,Industrials,Marine Shipping,Greece
-434,GLDG,GoldMining Inc,Basic Materials,Gold,Canada
-435,GLED,GalaxyEdge Acquisition Corp,Financial,Shell Companies,USA
-436,GLND,Greenland Energy Co,Energy,Oil & Gas E&P,USA
-437,GLO,Clough Global Opportunities Fund,Financial,Closed-End Fund - Equity,USA
-438,GLOO,Gloo Holdings Inc,Technology,Software - Application,USA
-439,GLQ,Clough Global Equity Fund,Financial,Closed-End Fund - Equity,USA
-440,GLSI,Greenwich LifeSciences Inc,Healthcare,Biotechnology,USA
-441,GLU,Gabelli Global Utility & Income Trust,Financial,Closed-End Fund - Equity,USA
-442,GLV,Clough Global Dividend and Income Fund,Financial,Closed-End Fund - Equity,USA
-443,GNLX,Genelux Corp,Healthcare,Biotechnology,USA
-444,GNSS,Genasys Inc,Technology,Scientific & Technical Instruments,USA
-445,GNT,"GAMCO Natural Resources, Gold & Income Trust",Financial,Closed-End Fund - Equity,USA
-446,GOAI,Eva Live Inc,Technology,Software - Infrastructure,USA
-447,GOSS,Gossamer Bio Inc,Healthcare,Biotechnology,USA
-448,GOTU,Gaotu Techedu Inc ADR,Consumer Defensive,Education & Training Services,China
-449,GPAC,General Purpose Acquisition Corp,Financial,Shell Companies,USA
-450,GPMT,Granite Point Mortgage Trust Inc,Real Estate,REIT - Mortgage,USA
-451,GPRO,GoPro Inc,Technology,Consumer Electronics,USA
-452,GRO,Brazil Potash Corp,Basic Materials,Other Industrial Metals & Mining,Canada
-453,GRSD,Grandstand Ltd,Consumer Cyclical,Gambling,United Kingdom
-454,GRWG,GrowGeneration Corp,Consumer Cyclical,Specialty Retail,USA
-455,GRX,Gabelli Healthcare & WellnessRx Trust,Financial,Closed-End Fund - Equity,USA
-456,GSHR,Gesher Acquisition Corp II,Financial,Shell Companies,USA
-457,GSIT,GSI Technology Inc,Technology,Semiconductors,USA
-458,GSIW,Garden Stage Ltd,Financial,Capital Markets,Hong Kong
-459,GTERA,Globa Terra Acquisition Corp,Financial,Shell Companies,Mexico
-460,GUTS,Fractyl Health Inc,Healthcare,Biotechnology,USA
-461,GWRS,Global Water Resources Inc,Utilities,Utilities - Regulated Water,USA
-462,HAVA,Harvard Ave Acquisition Corp,Financial,Shell Companies,South Korea
-463,HCAC,Hall Chadwick Acquisition Corp,Financial,Shell Companies,Singapore
-464,HCAT,Health Catalyst Inc,Healthcare,Health Information Services,USA
-465,HCKT,Hackett Group Inc,Technology,Information Technology Services,USA
-466,HDRN,Hadron Energy Inc,Industrials,Specialty Industrial Machinery,USA
-467,HDSN,Hudson Technologies Inc,Basic Materials,Specialty Chemicals,USA
-468,HEQ,John Hancock Diversified Income Fund,Financial,Closed-End Fund - Equity,USA
-469,HERE,Here Group Ltd ADR,Consumer Cyclical,Leisure,China
-470,HFBL,Home Federal Bancorp Inc (Louisiana),Financial,Banks - Regional,USA
-471,HFFG,HF Foods Group Inc,Consumer Defensive,Food Distribution,USA
-472,HGLB,Highland Global Allocation Fund,Financial,Closed-End Fund - Foreign,USA
-473,HIT,Health In Tech Inc,Technology,Software - Application,USA
-474,HITI,High Tide Inc,Healthcare,Pharmaceutical Retailers,Canada
-475,HLP,Hongli Group Inc,Basic Materials,Steel,China
-476,HLXC,Helix Acquisition Corp III,Financial,Shell Companies,USA
-477,HMR,Heidmar Maritime Holdings Corp,Industrials,Marine Shipping,Greece
-478,HNNA,Hennessy Advisors Inc,Financial,Asset Management,USA
-479,HNVR,Hanover Bancorp Inc,Financial,Banks - Regional,USA
-480,HOFT,Hooker Furnishings Corp,Consumer Cyclical,"Furnishings, Fixtures & Appliances",USA
-481,HOUR,Hour Loop Inc,Consumer Cyclical,Internet Retail,USA
-482,HOVR,New Horizon Aircraft Ltd,Industrials,Aerospace & Defense,Canada
-483,HQI,HireQuest Inc,Industrials,Staffing & Employment Services,USA
-484,HRTX,Heron Therapeutics Inc,Healthcare,Biotechnology,USA
-485,HSDT,Solana Co,Financial,Asset Management,USA
-486,HTLM,HomesToLife Ltd,Consumer Cyclical,Specialty Retail,Singapore
-487,HTT,High Templar Tech Ltd ADR,Financial,Credit Services,China
-488,HUHU,HUHUTECH International Group Inc,Industrials,Specialty Industrial Machinery,China
-489,HUMA,Humacyte Inc,Healthcare,Biotechnology,USA
-490,HURA,TuHURA Biosciences Inc,Healthcare,Biotechnology,USA
-491,HURC,Hurco Companies Inc,Industrials,Specialty Industrial Machinery,USA
-492,HUYA,HUYA Inc ADR,Communication Services,Entertainment,China
-493,HVII,Hennessy Capital Investment Corp VII,Financial,Shell Companies,USA
-494,HWBK,Hawthorn Bancshares Inc,Financial,Banks - Regional,USA
-495,HYFT,MindWalk Holdings Corp,Healthcare,Biotechnology,USA
-496,HYI,Western Asset High Yield Opportunity Fund Inc,Financial,Closed-End Fund - Debt,USA
-497,HYNE,Hoyne Bancorp Inc,Financial,Banks - Regional,USA
-498,HYPR,Hyperfine Inc,Healthcare,Medical Devices,USA
-499,IAE,Voya Asia Pacific High Dividend Equity Income Fund,Financial,Closed-End Fund - Foreign,USA
-500,IAF,abrdn Australia Equity Fund Inc,Financial,Closed-End Fund - Equity,USA
-501,IBAC,IB Acquisition Corp,Financial,Shell Companies,USA
-502,IBIO,iBio Inc,Healthcare,Biotechnology,USA
-503,IBO,Impact BioMedical Inc,Healthcare,Biotechnology,USA
-504,ICCC,Immucell Corp,Healthcare,Biotechnology,USA
-505,IDAC,Iron Dome Acquisition I Corp,Financial,Shell Companies,USA
-506,IDE,"Voya Infrastructure, Industrials and Materials Fund",Financial,Closed-End Fund - Equity,USA
-507,IDN,Intellicheck Inc,Technology,Software - Application,USA
-508,IGA,Voya Global Advantage and Premium Opportunity Fund,Financial,Closed-End Fund - Foreign,USA
-509,IGAC,Invest Green Acquisition Corp,Financial,Shell Companies,USA
-510,IGI,Western Asset Investment Grade Opportunity Trust Inc,Financial,Closed-End Fund - Debt,USA
-511,IHD,Voya Emerging Markets High Dividend Equity Fund,Financial,Closed-End Fund - Foreign,USA
-512,IIF,Morgan Stanley India Investment Fund Inc,Financial,Closed-End Fund - Foreign,USA
-513,III,Information Services Group Inc,Technology,Information Technology Services,USA
-514,IMA,ImageneBio Inc,Healthcare,Biotechnology,USA
-515,IMDX,Insight Molecular Diagnostics Inc,Healthcare,Diagnostics & Research,USA
-516,IMMP,Immutep Limited ADR,Healthcare,Biotechnology,Australia
-517,IMMR,Immersion Corp,Technology,Software - Application,USA
-518,IMPP,Imperial Petroleum Inc,Energy,Oil & Gas Midstream,Greece
-519,IMUX,Immunic Inc,Healthcare,Biotechnology,USA
-520,INAC,Indigo Acquisition Corp,Financial,Shell Companies,USA
-521,INBK,First Internet Bancorp,Financial,Banks - Regional,USA
-522,INCR,Intercure Ltd,Healthcare,Drug Manufacturers - Specialty & Generic,Israel
-523,INDP,Indaptus Therapeutics Inc,Healthcare,Biotechnology,USA
-524,INFU,InfuSystem Holdings Inc,Healthcare,Medical Devices,USA
-525,INGN,Inogen Inc,Healthcare,Medical Devices,USA
-526,INKT,MiNK Therapeutics Inc,Healthcare,Biotechnology,USA
-527,INMB,INmune Bio Inc,Healthcare,Biotechnology,USA
-528,INO,Inovio Pharmaceuticals Inc,Healthcare,Biotechnology,USA
-529,INSE,Inspired Entertainment Inc,Consumer Cyclical,Gambling,USA
-530,INSG,Inseego Corp,Technology,Communication Equipment,USA
-531,INTG,Intergroup Corp,Consumer Cyclical,Lodging,USA
-532,INTT,Intest Corp,Technology,Semiconductor Equipment & Materials,USA
-533,INV,Innventure Inc,Financial,Asset Management,USA
-534,INVE,Identiv Inc,Industrials,Building Products & Equipment,USA
-535,INVZ,Innoviz Technologies Ltd,Consumer Cyclical,Auto Parts,Israel
-536,IONR,ioneer Ltd ADR,Basic Materials,Other Industrial Metals & Mining,Australia
-537,IOR,Income Opportunity Realty Investors Inc,Financial,Mortgage Finance,USA
-538,IPCX,Air Water Ventures Ltd,Financial,Shell Companies,USA
-539,IPEX,Inflection Point Acquisition Corp V,Financial,Shell Companies,USA
-540,IPHA,Innate Pharma ADR,Healthcare,Biotechnology,France
-541,IPVV,InterPrivate Investment Partners V Inc,Financial,Shell Companies,USA
-542,IPWR,Ideal Power Inc,Technology,Semiconductors,USA
-543,IRAB,Iris Acquisition Corp II,Financial,Shell Companies,United Arab Emirates
-544,IRHO,Iron Horse Acquisitions II Corp,Financial,Shell Companies,USA
-545,ISNR,Snow Rothschild Acquisition Corp,Financial,Shell Companies,USA
-546,ISPR,Ispire Technology Inc,Consumer Defensive,Tobacco,USA
-547,IVVD,Invivyd Inc,Healthcare,Biotechnology,USA
-548,IZEA,IZEA Worldwide Inc,Communication Services,Advertising Agencies,USA
-549,JAB,JAB Acquisition Corp I,Financial,Shell Companies,USA
-550,JAKK,Jakks Pacific Inc,Consumer Cyclical,Leisure,USA
-551,JATT,Jatt II Acquisition Corp,Financial,Shell Companies,USA
-552,JCE,Nuveen Core Equity Alpha Fund,Financial,Closed-End Fund - Equity,USA
-553,JELD,JELD-WEN Holding Inc,Industrials,Building Products & Equipment,USA
-554,JFB,JFB Construction Holdings,Real Estate,Real Estate - Development,USA
-555,JFIN,Jiayin Group Inc ADR,Financial,Credit Services,China
-556,JHI,John Hancock Investors Trust,Financial,Closed-End Fund - Debt,USA
-557,JHS,John Hancock Income Securities Trust,Financial,Closed-End Fund - Debt,USA
-558,JILL,J.Jill Inc,Consumer Cyclical,Apparel Retail,USA
-559,JLHL,Julong Holding Ltd,Industrials,Building Products & Equipment,China
-560,JLS,Nuveen Mortgage and Income Fund,Financial,Closed-End Fund - Debt,USA
-561,JMM,Nuveen Multi-Market Income Fund,Financial,Closed-End Fund - Debt,USA
-562,JONEU,Jones Ventures INTL Acquisition1 Corp,Financial,Shell Companies,USA
-563,JRS,Nuveen Real Estate Income Fund,Financial,Closed-End Fund - Debt,USA
-564,JRSH,Jerash holdings (US) Inc,Consumer Cyclical,Apparel Manufacturing,USA
-565,JRVR,James River Group Holdings Inc,Financial,Insurance - Specialty,USA
-566,JXG,JX Luxventure Group Inc,Consumer Cyclical,Apparel Manufacturing,China
-567,JYNT,Joint Corp,Healthcare,Medical Care Facilities,USA
-568,KAZR,Skyline Builders Group Holding Ltd,Industrials,Engineering & Construction,Hong Kong
-569,KCA-U,Kensington Capital Acquisition Corp VI,Financial,Shell Companies,USA
-570,KCAC-U,Kensington Capital Acquisition Corp VI,Financial,Shell Companies,USA
-571,KEQU,Kewaunee Scientific Corp,Consumer Cyclical,"Furnishings, Fixtures & Appliances",USA
-572,KF,Korea Fund Inc,Financial,Closed-End Fund - Foreign,USA
-573,KG,Kestrel Group Ltd,Financial,Insurance - Reinsurance,Bermuda
-574,KGEI,Kolibri Global Energy Inc,Energy,Oil & Gas E&P,USA
-575,KINS,Kingstone Cos. Inc,Financial,Insurance - Property & Casualty,USA
-576,KLC,KinderCare Learning Companies Inc,Consumer Defensive,Education & Training Services,USA
-577,KLRS,Kalaris Therapeutics Inc,Healthcare,Biotechnology,USA
-578,KLTR,Kaltura Inc,Technology,Software - Application,USA
-579,KNDI,Kandi Technologies Group Inc,Consumer Cyclical,Recreational Vehicles,China
-580,KPET,KPET Ultra Paceline Corp,Financial,Shell Companies,USA
-581,KRMD,KORU Medical Systems Inc,Healthcare,Medical Instruments & Supplies,USA
-582,KROS,Keros Therapeutics Inc,Healthcare,Biotechnology,USA
-583,KRRO,Korro Bio Inc,Healthcare,Biotechnology,USA
-584,KTWO,K2 Capital Acquisition Corp,Financial,Shell Companies,Cayman Islands
-585,KULR,KULR Technology Group Inc,Technology,Electronic Components,USA
-586,KVHI,KVH Industries Inc,Communication Services,Telecom Services,USA
-587,KWY,Kingsway Corp,Financial,Asset Management,USA
-588,KZIA,Kazia Therapeutics Limited ADR,Healthcare,Biotechnology,Australia
-589,LAB,Standard BioTools Inc,Healthcare,Medical Devices,USA
-590,LAFA,Lafayette Acquisition Corp,Financial,Shell Companies,France
-591,LAKE,Lakeland Industries Inc,Consumer Cyclical,Apparel Manufacturing,USA
-592,LANV,Lanvin Group Holdings Limited,Consumer Cyclical,Luxury Goods,China
-593,LARK,Landmark Bancorp Inc,Financial,Banks - Regional,USA
-594,LASE,Laser Photonics Corp,Industrials,Specialty Industrial Machinery,USA
-595,LATA,Galata Acquisition Corp II,Financial,Shell Companies,USA
-596,LAW,CS Disco Inc,Technology,Software - Application,USA
-597,LCCC,Lakeshore Acquisition III Corp,Financial,Shell Companies,USA
-598,LCNB,LCNB Corp,Financial,Banks - Regional,USA
-599,LCTX,Lineage Cell Therapeutics Inc,Healthcare,Biotechnology,USA
-600,LCUT,Lifetime Brands Inc,Consumer Cyclical,"Furnishings, Fixtures & Appliances",USA
-601,LDI,LoanDepot Inc,Financial,Mortgage Finance,USA
-602,LEE,Lee Enterprises Inc,Communication Services,Publishing,USA
-603,LENZ,LENZ Therapeutics Inc,Healthcare,Biotechnology,USA
-604,LFAC,Leapfrog Acquisition Corp,Financial,Shell Companies,USA
-605,LFCR,Lifecore Biomedical Inc,Healthcare,Drug Manufacturers - Specialty & Generic,USA
-606,LFMD,LifeMD Inc,Healthcare,Health Information Services,USA
-607,LFS,Leifras Co Ltd ADR,Communication Services,Entertainment,Japan
-608,LFVN,Lifevantage Corp,Consumer Defensive,Packaged Foods,USA
-609,LGCY,Legacy Education Inc,Consumer Defensive,Education & Training Services,USA
-610,LGI,Lazard Global Total Return and Income Fund Inc,Financial,Closed-End Fund - Foreign,USA
-611,LGL,LGL Group Inc,Technology,Scientific & Technical Instruments,USA
-612,LGO,Largo Inc,Basic Materials,Other Industrial Metals & Mining,Canada
-613,LIDR,AEye Inc,Technology,Software - Infrastructure,USA
-614,LIEN,Chicago Atlantic BDC Inc,Financial,Asset Management,USA
-615,LINK,Interlink Electronics,Technology,Electronic Components,USA
-616,LITB,LightInTheBox Holding Co Ltd ADR,Consumer Cyclical,Internet Retail,Singapore
-617,LKSP,Lake Superior Acquisition Corp,Financial,Shell Companies,USA
-618,LMNR,Limoneira Co,Consumer Defensive,Farm Products,USA
-619,LNSR,LENSAR Inc,Healthcare,Medical Devices,USA
-620,LNZA,LanzaTech Global Inc,Industrials,Waste Management,USA
-621,LODE,Comstock Inc,Basic Materials,Other Precious Metals & Mining,USA
-622,LONA,LeonaBio Inc,Healthcare,Biotechnology,USA
-623,LOVE,Lovesac Company,Consumer Cyclical,"Furnishings, Fixtures & Appliances",USA
-624,LPA,Logistic Properties of the Americas,Real Estate,Real Estate - Development,USA
-625,LPAA,Launch One Acquisition Corp,Financial,Shell Companies,USA
-626,LPCV,Launchpad Cadenza Acquisition Corp I,Financial,Shell Companies,USA
-627,LSBK,Lake Shore Bancorp Inc,Financial,Banks - Regional,USA
-628,LSE,Leishen Energy Holding Co Ltd,Energy,Oil & Gas Equipment & Services,China
-629,LSF,Laird Superfood Inc,Consumer Defensive,Packaged Foods,USA
-630,LTBR,Lightbridge Corp,Industrials,Electrical Equipment & Parts,USA
-631,LTGR,Long Table Growth Corp,Financial,Shell Companies,USA
-632,LTRX,Lantronix Inc,Technology,Communication Equipment,USA
-633,LUCD,Lucid Diagnostics Inc,Healthcare,Medical Devices,USA
-634,LUD,Luda Technology Group Ltd,Basic Materials,Steel,Hong Kong
-635,LUNG,Pulmonx Corp,Healthcare,Medical Devices,USA
-636,LVO,LiveOne Inc,Communication Services,Internet Content & Information,USA
-637,LVWR,LiveWire Group Inc,Consumer Cyclical,Auto Manufacturers,USA
-638,LX,LexinFintech Holdings Ltd ADR,Financial,Credit Services,China
-639,MACI,Melar Acquisition Corp I,Financial,Shell Companies,USA
-640,MAIA,MAIA Biotechnology Inc,Healthcare,Biotechnology,USA
-641,MAYS,J.W. Mays Inc,Real Estate,Real Estate Services,USA
-642,MB,Masterbeef Group,Consumer Cyclical,Restaurants,Hong Kong
-643,MBI,MBIA Inc,Financial,Insurance - Specialty,USA
-644,MBOT,Microbot Medical Inc,Healthcare,Medical Devices,USA
-645,MCAH,Mountain Crest Acquisition 6 Corp,Financial,Shell Companies,USA
-646,MCGA,Yorkville Acquisition Corp,Financial,Shell Companies,USA
-647,MCHX,Marchex Inc,Communication Services,Advertising Agencies,USA
-648,MCN,XAI Madison Equity Premium Income Fund,Financial,Closed-End Fund - Equity,USA
-649,MDAI,Spectral AI Inc,Healthcare,Medical Devices,USA
-650,MDIA,MediaCo Holding Inc,Communication Services,Broadcasting,USA
-651,MDV,Modiv Industrial Inc,Real Estate,REIT - Industrial,USA
-652,MDWD,MediWound Ltd,Healthcare,Biotechnology,Israel
-653,MED,Medifast Inc,Consumer Cyclical,Personal Services,USA
-654,MENS,Jyong Biotech Ltd,Healthcare,Biotechnology,Taiwan
-655,MFIN,Medallion Financial Corp,Financial,Credit Services,USA
-656,MGF,Aberdeen Government Markets Income Fund,Financial,Closed-End Fund - Debt,USA
-657,MGNX,Macrogenics Inc,Healthcare,Biotechnology,USA
-658,MGYR,Magyar Bancorp Inc,Financial,Banks - Regional,USA
-659,MHF,Western Asset Municipal High Income Fund Inc,Financial,Closed-End Fund - Debt,USA
-660,MHH,Mastech Digital Inc,Industrials,Staffing & Employment Services,USA
-661,MIACU,Meridian3 Industrials Acquisition Corp,Financial,Shell Companies,USA
-662,MIN,Aberdeen Intermediate Income Fund,Financial,Closed-End Fund - Debt,USA
-663,MINE,Mayfair Gold Corp,Basic Materials,Gold,Canada
-664,MIST,Milestone Pharmaceuticals Inc,Healthcare,Biotechnology,Canada
-665,MITT,TPG Mortgage Investment Trust Inc,Real Estate,REIT - Mortgage,USA
-666,MKLY,McKinley Acquisition Corp,Financial,Shell Companies,USA
-667,MLGO,MicroAlgo Inc,Technology,Software - Infrastructure,China
-668,MMD,NYLI MacKay DefinedTerm Muni Opportunities Fund,Financial,Closed-End Fund - Debt,USA
-669,MMLP,Martin Midstream Partners LP,Energy,Oil & Gas Midstream,USA
-670,MMTX,Miluna Acquisition Corp,Financial,Shell Companies,Taiwan
-671,MNOV,Medicinova Inc,Healthcare,Biotechnology,USA
-672,MNSB,MainStreet Bancshares Inc,Financial,Banks - Regional,USA
-673,MNTK,Montauk Renewables Inc,Basic Materials,Specialty Chemicals,USA
-674,MNTS,Momentus Inc,Industrials,Aerospace & Defense,USA
-675,MOB,Mobilicom Limited,Industrials,Aerospace & Defense,Israel
-676,MOLN,Molecular Partners AG ADR,Healthcare,Biotechnology,Switzerland
-677,MOVE,Corvex Inc,Technology,Software - Infrastructure,USA
-678,MPA,BlackRock MuniYield Pennsylvania Quality Fund,Financial,Closed-End Fund - Debt,USA
-679,MPAA,Motorcar Parts of America Inc,Consumer Cyclical,Auto Parts,USA
-680,MRBK,Meridian Corp,Financial,Banks - Regional,USA
-681,MRCOU,Mercator Acquisition Corp,Financial,Shell Companies,USA
-682,MRDN,Meridian Holdings Inc,Consumer Cyclical,Gambling,USA
-683,MRT,Marti Technologies Inc,Technology,Software - Application,Turkey
-684,MSD,Morgan Stanley Emerging Markets Debt Fund Inc,Financial,Closed-End Fund - Debt,USA
-685,MSLE,Satellos Bioscience Inc,Healthcare,Biotechnology,Canada
-686,MTAKU,Market Technology Acquisition Corp,Financial,Shell Companies,USA
-687,MTNE,CH4 Natural Solutions Corp,Financial,Shell Companies,USA
-688,MTNE-U,CH4 Natural Solutions Corp,Financial,Shell Companies,USA
-689,MUZE,Muzero Acquisition Corp,Financial,Shell Companies,USA
-690,MVST,Microvast Holdings Inc,Consumer Cyclical,Auto Parts,USA
-691,MWC,Micware Co Ltd ADR,Consumer Cyclical,Auto Parts,Japan
-692,MX,MagnaChip Semiconductor Corp,Technology,Semiconductors,South Korea
-693,MXCT,MaxCyte Inc,Healthcare,Medical Devices,USA
-694,MXE,Mexico Equity And Income Fund Inc,Financial,Closed-End Fund - Foreign,USA
-695,MYGN,Myriad Genetics Inc,Healthcare,Diagnostics & Research,USA
-696,MYO,Myomo Inc,Healthcare,Medical Devices,USA
-697,MYPS,PLAYSTUDIOS Inc,Communication Services,Electronic Gaming & Multimedia,USA
-698,MYX,Maywood Acquisition Corp 2,Financial,Shell Companies,USA
-699,NAAS,Naas Technology Inc ADR,Consumer Cyclical,Specialty Retail,China
-700,NAGE,Niagen Bioscience Inc,Healthcare,Biotechnology,USA
-701,NAKA,Nakamoto Inc,Financial,Capital Markets,USA
-702,NAMM,Namib Minerals,Basic Materials,Gold,Cayman Islands
-703,NATR,Nature's Sunshine Products Inc,Consumer Defensive,Packaged Foods,USA
-704,NAUT,Nautilus Biotechnology Inc,Healthcare,Biotechnology,USA
-705,NAZ,Nuveen Arizona Quality Municipal Income Fund,Financial,Closed-End Fund - Debt,USA
-706,NBP,NovaBridge Biosciences ADR,Healthcare,Biotechnology,USA
-707,NBRG,Newbridge Acquisition Ltd,Financial,Shell Companies,Hong Kong
-708,NCEW,New Century Logistics (BVI) Ltd,Industrials,Integrated Freight & Logistics,Hong Kong
-709,NCMI,National Cinemedia Inc,Communication Services,Advertising Agencies,USA
-710,NCO,Southern Cross Acquisition I Corp,Financial,Shell Companies,USA
-711,NCSM,NCS Multistage Holdings Inc,Energy,Oil & Gas Equipment & Services,USA
-712,NCTY,The9 Limited ADR,Financial,Capital Markets,China
-713,NDLS,Noodles & Company,Consumer Cyclical,Restaurants,USA
-714,NEN,New England Realty Associates LP,Real Estate,Real Estate Services,USA
-715,NEOV,NeoVolta Inc,Industrials,Electrical Equipment & Parts,USA
-716,NERV,Minerva Neurosciences Inc,Healthcare,Biotechnology,USA
-717,NEXM,NexMetals Mining Corp,Basic Materials,Other Industrial Metals & Mining,Canada
-718,NFE,New Fortress Energy Inc,Energy,Oil & Gas Midstream,USA
-719,NGEN,NervGen Pharma Corp,Healthcare,Biotechnology,Canada
-720,NHIC,NewHold Investment Corp III,Financial,Shell Companies,USA
-721,NHIV,NewHold Investment Corp IV,Financial,Shell Companies,USA
-722,NHS,Neuberger High Yield Strategies Fund Inc,Financial,Closed-End Fund - Debt,USA
-723,NIM,Nuveen Select Maturities Municipal Fund,Financial,Closed-End Fund - Debt,USA
-724,NIU,Niu Technologies ADR,Consumer Cyclical,Auto Manufacturers,China
-725,NKSH,National Bankshares Inc,Financial,Banks - Regional,USA
-726,NKTX,Nkarta Inc,Healthcare,Biotechnology,USA
-727,NLOP,Net Lease Office Properties,Real Estate,REIT - Office,USA
-728,NMAD,Nomad Power Solutions Inc,Industrials,Electrical Equipment & Parts,USA
-729,NMI,Nuveen Municipal Income Fund,Financial,Closed-End Fund - Debt,USA
-730,NMP,NMP Acquisition Corp,Financial,Shell Companies,USA
-731,NMRA,Neumora Therapeutics Inc,Healthcare,Biotechnology,USA
-732,NMS,Nuveen Minnesota Quality Municipal Income Fund,Financial,Closed-End Fund - Debt,USA
-733,NMT,Nuveen Massachusetts Quality Municipal Income Fund,Financial,Closed-End Fund - Debt,USA
-734,NNOX,Nano X Imaging Ltd,Healthcare,Medical Devices,Israel
-735,NNY,Nuveen New York Municipal Value Fund,Financial,Closed-End Fund - Debt,USA
-736,NOEM,CO2 Energy Transition Corp,Financial,Shell Companies,USA
-737,NPCT,Nuveen Core Plus Impact Fund,Financial,Closed-End Fund - Debt,USA
-738,NPT,Texxon Holding Ltd,Consumer Cyclical,Specialty Retail,China
-739,NPV,Nuveen Virginia Quality Municipal Income Fund,Financial,Closed-End Fund - Debt,USA
-740,NRDY,Nerdy Inc,Technology,Software - Application,USA
-741,NRO,Neuberger Real Estate Securities Income Fund Inc,Financial,Closed-End Fund - Equity,USA
-742,NRT,North European Oil Royalty Trust,Energy,Oil & Gas E&P,USA
-743,NRXP,NRX Pharmaceuticals Inc,Healthcare,Biotechnology,USA
-744,NRXS,Neuraxis Inc,Healthcare,Biotechnology,USA
-745,NSLR,Neostellar Capital Corp,Financial,Asset Management,USA
-746,NSTS,NSTS Bancorp Inc,Financial,Banks - Regional,USA
-747,NTHI,NeOnc Technologies Holdings Inc,Healthcare,Biotechnology,USA
-748,NTIC,Northern Technologies International Corp,Basic Materials,Specialty Chemicals,USA
-749,NTWO,Newbury Street II Acquisition Corp,Financial,Shell Companies,USA
-750,NUCL,Eagle Nuclear Energy Corp,Energy,Uranium,USA
-751,NUS,Nu Skin Enterprises Inc,Consumer Defensive,Household & Personal Products,USA
-752,NUW,Nuveen AMT-Free Municipal Value Fund,Financial,Closed-End Fund - Debt,USA
-753,NVA,Nova Minerals Corp,Basic Materials,Other Industrial Metals & Mining,USA
-754,NVX,Novonix Limited ADR,Industrials,Electrical Equipment & Parts,Australia
-755,NXB,NextBoat Inc,Consumer Cyclical,Auto & Truck Dealerships,USA
-756,NXDT,NexPoint Diversified Real Estate Trust,Real Estate,REIT - Diversified,USA
-757,NYXH,Nyxoah SA,Healthcare,Medical Instruments & Supplies,Belgium
-758,OACC,Oaktree Acquisition Corp III Life Sciences,Financial,Shell Companies,USA
-759,OBIO,Orchestra BioMed Holdings Inc,Healthcare,Biotechnology,USA
-760,OCAC,Ocean Capital Acquisition Corp,Financial,Shell Companies,USA
-761,OCC,Optical Cable Corp,Technology,Communication Equipment,USA
-762,OCCI,OFS Credit Company Inc,Financial,Closed-End Fund - Debt,USA
-763,OCLTU,Oceanlight Acquisition Corp,Financial,Shell Companies,USA
-764,ODYS,Odysight.ai Inc,Technology,Scientific & Technical Instruments,Israel
-765,OESX,Orion Energy Systems Inc,Industrials,Electrical Equipment & Parts,USA
-766,OFLX,Omega Flex Inc,Industrials,Specialty Industrial Machinery,USA
-767,OGI,Organigram Global Inc,Healthcare,Drug Manufacturers - Specialty & Generic,Canada
-768,OHAC,Oceanhawk Acquisition Corp,Financial,Shell Companies,USA
-769,OIA,Invesco Municipal Income Opportunities Trust,Financial,Closed-End Fund - Debt,USA
-770,OKUR,OnKure Therapeutics Inc,Healthcare,Biotechnology,USA
-771,OKYO,OKYO Pharma Limited,Healthcare,Biotechnology,United Kingdom
-772,OM,Outset Medical Inc,Healthcare,Medical Devices,USA
-773,OMSE,OMS Energy Technologies Inc,Energy,Oil & Gas Equipment & Services,Singapore
-774,ONCH,1RT Acquisition Corp,Financial,Shell Companies,USA
-775,ONCY,Oncolytics Biotech Inc,Healthcare,Biotechnology,USA
-776,ONEW,Onewater Marine Inc,Consumer Cyclical,Specialty Retail,USA
-777,ONL,Orion Properties Inc,Real Estate,REIT - Office,USA
-778,OPBK,OP Bancorp,Financial,Banks - Regional,USA
-779,OPHC,Optimumbank Holdings Inc,Financial,Banks - Regional,USA
-780,OPP,RiverNorth/DoubleLine Strategic opportunity fund Inc,Financial,Closed-End Fund - Debt,USA
-781,OPRX,OptimizeRx Corp,Healthcare,Health Information Services,USA
-782,OPTT,Ocean Power Technologies,Industrials,Specialty Industrial Machinery,USA
-783,OPXS,Optex Systems Holdings Inc,Industrials,Aerospace & Defense,USA
-784,ORBS,Eightco Holdings Inc,Consumer Cyclical,Packaging & Containers,USA
-785,ORGO,Organogenesis Holdings Inc,Healthcare,Drug Manufacturers - Specialty & Generic,USA
-786,ORIQ,Origin Investment Corp I,Financial,Shell Companies,Singapore
-787,ORMP,Oramed Pharmaceuticals Inc,Healthcare,Biotechnology,USA
-788,OSG,Octave Specialty Group Inc,Financial,Insurance - Specialty,USA
-789,OSTX,OS Therapies Inc,Healthcare,Biotechnology,USA
-790,OSUR,Orasure Technologies Inc,Healthcare,Medical Instruments & Supplies,USA
-791,OTAI,Starlink AI Acquisition Corp,Financial,Shell Companies,USA
-792,OTLK,Outlook Therapeutics Inc,Healthcare,Biotechnology,USA
-793,OVBC,Ohio Valley Banc Corp,Financial,Banks - Regional,USA
-794,OVLY,Oak Valley Bancorp,Financial,Banks - Regional,USA
-795,OWLT,Owlet Inc,Healthcare,Medical Devices,USA
-796,OXSQ,Oxford Square Capital Corp,Financial,Asset Management,USA
-797,OZ,Belpointe PREP LLC,Real Estate,Real Estate - Development,USA
-798,PAAC,Proem Acquisition Corp I,Financial,Shell Companies,USA
-799,PACH,Pioneer Acquisition I Corp,Financial,Shell Companies,USA
-800,PAI,Western Asset Investment Grade Income Fund Inc,Financial,Closed-End Fund - Debt,USA
-801,PAII,Pyrophyte Acquisition Corp II,Financial,Shell Companies,USA
-802,PAL,Proficient Auto Logistics Inc,Industrials,Integrated Freight & Logistics,USA
-803,PALO,Paloma Acquisition Corp I,Financial,Shell Companies,USA
-804,PAMT,PAMT Corp,Industrials,Trucking,USA
-805,PARK,Park Dental Partners Inc,Healthcare,Medical Care Facilities,USA
-806,PBHC,Pathfinder Bancorp Inc,Financial,Banks - Regional,USA
-807,PCF,High Income Securities Fund,Financial,Closed-End Fund - Debt,USA
-808,PCLA,PicoCELA Inc ADR,Communication Services,Telecom Services,Japan
-809,PCM,PCM Fund Inc,Financial,Closed-End Fund - Debt,USA
-810,PCYO,Pure Cycle Corp,Utilities,Utilities - Regulated Water,USA
-811,PDCC,Pearl Diver Credit Company Inc,Financial,Asset Management,USA
-812,PDEX,Pro-Dex Inc,Healthcare,Medical Instruments & Supplies,USA
-813,PEBK,Peoples Bancorp Of North Carolina Inc,Financial,Banks - Regional,USA
-814,PECE,Peace Acquisition Corp,Financial,Shell Companies,USA
-815,PED,PEDEVCO Corp,Energy,Oil & Gas E&P,USA
-816,PEPG,PepGen Inc,Healthcare,Biotechnology,USA
-817,PERF,Perfect Corp,Technology,Software - Application,Taiwan
-818,PEW,GrabAGun Digital Holdings Inc,Industrials,Aerospace & Defense,USA
-819,PFD,Flaherty & Crumrine Preferred and Income Fund Inc,Financial,Closed-End Fund - Debt,USA
-820,PFO,Flaherty & Crumrine Preferred and Income Opportunity Fund Inc,Financial,Closed-End Fund - Debt,USA
-821,PFX,PhenixFIN Corp,Financial,Asset Management,USA
-822,PGP,Pimco Global StocksPLUS & Income Fund,Financial,Closed-End Fund - Foreign,USA
-823,PGZ,Principal Real Estate Income Fund,Financial,Closed-End Fund - Debt,USA
-824,PIII,P3 Health Partners Inc,Healthcare,Medical Care Facilities,USA
-825,PIM,Franklin Master Intermediate Income Trust,Financial,Closed-End Fund - Debt,USA
-826,PLBY,Playboy Inc,Consumer Cyclical,Leisure,USA
-827,PLCI,Pelican Acquisition II Corp,Financial,Shell Companies,USA
-828,PLG,Platinum Group Metals Ltd,Basic Materials,Other Precious Metals & Mining,Canada
-829,PLMK,Plum Acquisition Corp IV,Financial,Shell Companies,USA
-830,PLRX,Pliant Therapeutics Inc,Healthcare,Biotechnology,USA
-831,PLUN,Plutonian Acquisition Corp II,Financial,Shell Companies,USA
-832,PLX,Protalix BioTherapeutics Inc,Healthcare,Biotechnology,USA
-833,PLYX,Polaryx Therapeutics Inc,Healthcare,Biotechnology,USA
-834,PMM,Franklin Managed Municipal Income Trust,Financial,Closed-End Fund - Debt,USA
-835,PMN,ProMIS Neurosciences Inc,Healthcare,Biotechnology,Canada
-836,PMO,Franklin Municipal Opportunities Trust,Financial,Closed-End Fund - Debt,USA
-837,PMVP,PMV Pharmaceuticals Inc,Healthcare,Biotechnology,USA
-838,PNAQ-U,Pinnacle Acquisition Corp,Financial,Shell Companies,USA
-839,PNBK,Patriot National Bancorp Inc,Financial,Banks - Regional,USA
-840,PNNT,PennantPark Investment Corp,Financial,Asset Management,USA
-841,PODC,PodcastOne Inc,Communication Services,Internet Content & Information,USA
-842,PONO,Pono Capital Four Inc,Financial,Shell Companies,Cayman Islands
-843,POWW,Outdoor Holding Co,Industrials,Aerospace & Defense,USA
-844,PPIH,Perma-Pipe International Holdings Inc,Industrials,Building Products & Equipment,USA
-845,PROF,Profound Medical Corp,Healthcare,Medical Devices,Canada
-846,PROP,Prairie Operating Co,Energy,Oil & Gas E&P,USA
-847,PROV,Provident Financial Holdings Inc,Financial,Banks - Regional,USA
-848,PRQR,ProQR Therapeutics N.V,Healthcare,Biotechnology,Netherlands
-849,PRTS,CarParts.com Inc,Consumer Cyclical,Auto Parts,USA
-850,PSF,Cohen & Steers Select Preferred and Income Fund Inc,Financial,Closed-End Fund - Debt,USA
-851,PTAC,Patriot Acquisition Corp,Financial,Shell Companies,USA
-852,PTHS,Pelthos Therapeutics Inc,Healthcare,Biotechnology,USA
-853,PUSA,Aureus Greenway Holdings Inc,Consumer Cyclical,Leisure,USA
-854,PVL,Permianville Royalty Trust,Energy,Oil & Gas E&P,USA
-855,PXS,Pyxis Tankers Inc,Energy,Oil & Gas Midstream,Greece
-856,PYPD,Polypid Ltd,Healthcare,Biotechnology,Israel
-857,PYXS,Pyxis Oncology Inc,Healthcare,Biotechnology,USA
-858,PZG,Paramount Gold Nevada Corp,Basic Materials,Gold,USA
-859,QADR,QDRO Acquisition Corp,Financial,Shell Companies,USA
-860,QLEP,Quantum Leap Acquisition Corp,Financial,Shell Companies,USA
-861,QMLS,QumulusAI Inc,Technology,Software - Infrastructure,USA
-862,QRED,Quasaredge Acquisition Corp,Financial,Shell Companies,USA
-863,QSEA,Quartzsea Acquisition Corp,Financial,Shell Companies,USA
-864,QSI,Quantum-Si Incorporated,Healthcare,Medical Devices,USA
-865,QTRX,Quanterix Corp,Healthcare,Medical Devices,USA
-866,QUCY,Quantum Cyber NV,Healthcare,Diagnostics & Research,USA
-867,QUIK,Quicklogic Corp,Technology,Semiconductors,USA
-868,QUMS,Quantumsphere Acquisition Corp,Financial,Shell Companies,USA
-869,QVCG,QVC Group Inc,Consumer Cyclical,Specialty Retail,USA
-870,QXL,Quantum X Labs Inc,Technology,Information Technology Services,Israel
-871,RAC,Rithm Acquisition Corp,Financial,Shell Companies,USA
-872,RACC,Research Alliance Corp III,Financial,Shell Companies,USA
-873,RACD,Research Alliance Corp IV,Financial,Shell Companies,USA
-874,RAIL,FreightCar America Inc,Industrials,Railroads,USA
-875,RANG,Range Capital Acquisition Corp,Financial,Shell Companies,USA
-876,RANI,Rani Therapeutics Holdings Inc,Healthcare,Biotechnology,USA
-877,RBKB,Rhinebeck Bancorp Inc,Financial,Banks - Regional,USA
-878,RC,Ready Capital Corp,Real Estate,REIT - Mortgage,USA
-879,RCEL,AVITA Medical Inc,Healthcare,Medical Devices,USA
-880,RCMT,RCM Technologies Inc,Industrials,Conglomerates,USA
-881,RCS,PIMCO Strategic Income Fund Inc,Financial,Closed-End Fund - Debt,USA
-882,RDCM,Radcom,Communication Services,Telecom Services,Israel
-883,RDI,Reading International Inc,Communication Services,Entertainment,USA
-884,RDNW,RideNow Group Inc,Consumer Cyclical,Auto & Truck Dealerships,USA
-885,RDZN,Roadzen Inc,Technology,Software - Application,USA
-886,REA,Rare Earths Americas Inc,Basic Materials,Other Industrial Metals & Mining,USA
-887,REFI,Chicago Atlantic Real Estate Finance Inc,Real Estate,REIT - Mortgage,USA
-888,REKR,Rekor Systems Inc,Technology,Software - Infrastructure,USA
-889,RELL,Richardson Electronics Ltd,Technology,Electronic Components,USA
-890,RENT,Rent the Runway Inc,Consumer Cyclical,Apparel Retail,USA
-891,RETO,ReTo Eco-Solutions Inc,Basic Materials,Building Materials,China
-892,RFAI,RF Acquisition Corp II,Financial,Shell Companies,Singapore
-893,RFAM,RF Acquisition Corp III,Financial,Shell Companies,Singapore
-894,RFIL,RF Industries Ltd,Industrials,Electrical Equipment & Parts,USA
-895,RFL,Rafael Holdings Inc,Real Estate,Real Estate Services,USA
-896,RFM,RiverNorth Flexible Municipal Income Fund Inc,Financial,Asset Management,USA
-897,RGCO,RGC Resources Inc,Utilities,Utilities - Regulated Gas,USA
-898,RGP,Resources Connection Inc,Industrials,Consulting Services,USA
-899,RGS,Regis Corp,Consumer Cyclical,Personal Services,USA
-900,RGT,Royce Global Trust Inc,Financial,Closed-End Fund - Equity,USA
-901,RIBB,Ribbon Acquisition Corp,Financial,Shell Companies,Japan
-902,RICK,RCI Hospitality Holdings Inc,Consumer Cyclical,Restaurants,USA
-903,RILY,BRC Group Holdings Inc,Financial,Financial Conglomerates,USA
-904,RLTY,Cohen & Steers Real Estate Opportunities and Income Fund,Financial,Closed-End Fund - Debt,USA
-905,RLYB,Rallybio Corp,Healthcare,Biotechnology,USA
-906,RMBI,Richmond Mutual Bancorporation Inc,Financial,Banks - Regional,USA
-907,RMI,RiverNorth Opportunistic Municipal Income Fund Inc,Financial,Closed-End Fund - Debt,USA
-908,RMM,RiverNorth Managed Duration Municipal Income Fund Inc,Financial,Closed-End Fund - Debt,USA
-909,RNA,Atrium Therapeutics Inc,Healthcare,Biotechnology,USA
-910,RNAC,Cartesian Therapeutics Inc,Healthcare,Biotechnology,USA
-911,RNAZ,TransCode Therapeutics Inc,Healthcare,Biotechnology,USA
-912,RNTX,Rein Therapeutics Inc,Healthcare,Biotechnology,USA
-913,RNXT,RenovoRx Inc,Healthcare,Biotechnology,USA
-914,ROC,Rank One Computing Corp,Technology,Software - Application,USA
-915,ROLR,High Roller Technologies Inc,Consumer Cyclical,Gambling,USA
-916,RPID,Rapid Micro Biosystems Inc,Healthcare,Medical Devices,USA
-917,RPT,Rithm Property Trust Inc,Real Estate,REIT - Mortgage,USA
-918,RRGB,Red Robin Gourmet Burgers Inc,Consumer Cyclical,Restaurants,USA
-919,RSF,RiverNorth Capital and Income Fund,Financial,Asset Management,USA
-920,RSSS,Research Solutions Inc,Technology,Software - Application,USA
-921,RTB,RTB Digital Inc,Technology,Software - Application,USA
-922,RVSB,Riverview Bancorp Inc,Financial,Banks - Regional,USA
-923,RWAY,Runway Growth Finance Corp,Financial,Asset Management,USA
-924,RXST,RxSight Inc,Healthcare,Medical Devices,USA
-925,RYDE,Ryde Group Ltd,Technology,Software - Application,Singapore
-926,RYOJ,rYojbaba Co Ltd,Industrials,Consulting Services,Japan
-927,SABA,Saba Capital Income & Opportunities Fund II,Financial,Asset Management,USA
-928,SAFX,XCF Global Inc,Utilities,Utilities - Renewable,USA
-929,SAGU,Shreya Acquisition Group,Financial,Shell Companies,USA
-930,SAMG,Silvercrest Asset Management Group Inc,Financial,Asset Management,USA
-931,SAMO-U,Samos Energy Acquisition Corp,Financial,Shell Companies,USA
-932,SANG,Sangoma Technologies Corp,Technology,Software - Infrastructure,Canada
-933,SBFG,SB Financial Group Inc,Financial,Banks - Regional,USA
-934,SBI,Western Asset Intermediate Muni Fund Inc,Financial,Closed-End Fund - Debt,USA
-935,SBMT,Silver Bow Mining Corp,Basic Materials,Other Industrial Metals & Mining,USA
-936,SBXD,SilverBox Corp IV,Financial,Shell Companies,USA
-937,SCII,SC II Acquisition Corp,Financial,Shell Companies,USA
-938,SCLX,Scilex Holding Company,Healthcare,Drug Manufacturers - General,USA
-939,SCM,Stellus Capital Investment Corp,Financial,Asset Management,USA
-940,SCOR,Comscore Inc,Technology,Software - Application,USA
-941,SCPQ,Social Commerce Partners Corp,Financial,Shell Companies,USA
-942,SCYX,Scynexis Inc,Healthcare,Drug Manufacturers - Specialty & Generic,USA
-943,SDA,SunCar Technology Group Inc,Consumer Cyclical,Auto & Truck Dealerships,China
-944,SDEV,Stablecoin Development Corp,Financial,Asset Management,USA
-945,SEAT,Vivid Seats Inc,Communication Services,Internet Content & Information,USA
-946,SEER,Seer Inc,Healthcare,Biotechnology,USA
-947,SELF,Global Self Storage Inc,Real Estate,REIT - Specialty,USA
-948,SER,Serina Therapeutics Inc,Healthcare,Biotechnology,USA
-949,SERA,Sera Prognostics Inc,Healthcare,Medical Devices,USA
-950,SES,SES AI Corp,Consumer Cyclical,Auto Parts,USA
-951,SEV,Aptera Motors Corp,Consumer Cyclical,Auto Manufacturers,USA
-952,SEVN,Seven Hills Realty Trust,Real Estate,REIT - Mortgage,USA
-953,SFBC,Sound Financial Bancorp Inc,Financial,Banks - Regional,USA
-954,SFWL,Shengfeng Development Ltd,Industrials,Integrated Freight & Logistics,China
-955,SGA,Saga Communications Inc,Communication Services,Broadcasting,USA
-956,SGC,SuperiorGroup of Companies Inc,Consumer Cyclical,Apparel Manufacturing,USA
-957,SHIM,Shimmick Corp,Industrials,Engineering & Construction,USA
-958,SHOT,RMG ML Sports Holdings,Financial,Shell Companies,USA
-959,SHOTU,RMG ML Sports Holdings,Financial,Shell Companies,USA
-960,SIDU,Sidus Space Inc,Industrials,Aerospace & Defense,USA
-961,SIEB,Siebert Financial Corp,Financial,Capital Markets,USA
-962,SIF,SIFCO Industries Inc,Industrials,Aerospace & Defense,USA
-963,SIGA,SIGA Technologies Inc,Healthcare,Drug Manufacturers - Specialty & Generic,USA
-964,SILC,Silicom Ltd,Technology,Communication Equipment,Israel
-965,SIMA,SIM Acquisition Corp I,Financial,Shell Companies,USA
-966,SIMAU,SIM Acquisition Corp I,Financial,Shell Companies,USA
-967,SION,Sionna Therapeutics Inc,Healthcare,Biotechnology,USA
-968,SITC,SITE Centers Corp,Real Estate,REIT - Retail,USA
-969,SJT,San Juan Basin Royalty Trust,Energy,Oil & Gas E&P,USA
-970,SKIL,Skillsoft Corp,Consumer Defensive,Education & Training Services,USA
-971,SKIN,SkinHealth Systems Inc,Consumer Defensive,Household & Personal Products,USA
-972,SKYX,SKYX Platforms Corp,Industrials,Electrical Equipment & Parts,USA
-973,SLGL,Sol-Gel Technologies Ltd,Healthcare,Biotechnology,Israel
-974,SLNG,Stabilis Solutions Inc,Energy,Oil & Gas Integrated,USA
-975,SLQT,SelectQuote Inc,Financial,Insurance Brokers,USA
-976,SLSN,Solesence Inc,Consumer Defensive,Household & Personal Products,USA
-977,SMHI,SEACOR Marine Holdings Inc,Industrials,Marine Shipping,USA
-978,SMID,Smith-Midland Corp,Basic Materials,Building Materials,USA
-979,SMJF,SMJ International Holdings Inc,Consumer Cyclical,Textile Manufacturing,Singapore
-980,SMRT,SmartRent Inc,Technology,Software - Application,USA
-981,SND,Smart Sand Inc,Energy,Oil & Gas Equipment & Services,USA
-982,SNFCA,Security National Financial Corp,Financial,Insurance - Life,USA
-983,SOCA,Solarius Capital Acquisition Corp,Financial,Shell Companies,USA
-984,SORA,AsiaStrategy,Consumer Cyclical,Luxury Goods,Hong Kong
-985,SOTK,Sono-Tek Corp,Technology,Scientific & Technical Instruments,USA
-986,SOUL,Soulpower Acquisition Corp,Financial,Shell Companies,USA
-987,SOWG,Sow Good Inc,Consumer Defensive,Confectioners,USA
-988,SPAI,Safe Pro Group Inc,Industrials,Aerospace & Defense,USA
-989,SPCB,SuperCom Ltd,Industrials,Security & Protection Services,Israel
-990,SPE,Special Opportunities Fund Inc,Financial,Closed-End Fund - Equity,USA
-991,SPEG,Silver Pegasus Acquisition Corp,Financial,Shell Companies,USA
-992,SPKL,Spark I Acquisition Corp,Financial,Shell Companies,USA
-993,SPMC,Sound Point Meridian Capital Inc,Financial,Asset Management,USA
-994,SPOK,Spok Holdings Inc,Healthcare,Health Information Services,USA
-995,SPRB,Spruce Biosciences Inc,Healthcare,Biotechnology,USA
-996,SPRO,Spero Therapeutics Inc,Healthcare,Biotechnology,USA
-997,SRBK,SR Bancorp Inc,Financial,Banks - Regional,USA
-998,SRFM,Surf Air Mobility Inc,Industrials,Airlines,USA
-999,SRG,Seritage Growth Properties,Real Estate,Real Estate Services,USA
-1000,SRI,Stoneridge Inc,Consumer Cyclical,Auto Parts,USA
-1001,SRL,Scully Royalty Ltd,Financial,Capital Markets,China
-1002,SRZN,Surrozen Inc,Healthcare,Biotechnology,USA
-1003,SSAC,SPACSphere Acquisition Corp,Financial,Shell Companies,USA
-1004,SSBI,Summit State Bank,Financial,Banks - Regional,USA
-1005,SSEA,Starry Sea Acquisition Corp,Financial,Shell Companies,USA
-1006,SSTI,SoundThinking Inc,Technology,Software - Application,USA
-1007,SSTK,Shutterstock Inc,Communication Services,Internet Content & Information,USA
-1008,STEM,Stem Inc,Utilities,Utilities - Renewable,USA
-1009,STEX,Streamex Corp,Financial,Capital Markets,USA
-1010,STHO,Star Holdings,Real Estate,Real Estate Services,USA
-1011,STI,Solidion Technology Inc,Industrials,Electrical Equipment & Parts,USA
-1012,STIM,Neuronetics Inc,Healthcare,Medical Devices,USA
-1013,STKS,ONE Group Hospitality Inc,Consumer Cyclical,Restaurants,USA
-1014,STRW,Strawberry Fields Reit Inc,Real Estate,REIT - Healthcare Facilities,USA
-1015,STXS,Stereotaxis Inc,Healthcare,Medical Instruments & Supplies,USA
-1016,SUIG,Sui Group Holdings Ltd,Financial,Credit Services,USA
-1017,SUJA,Suja Life Inc,Consumer Defensive,Beverages - Non-Alcoholic,USA
-1018,SUMA,SUMA Acquisition Corp,Financial,Shell Companies,Canada
-1019,SUNS,Sunrise Realty Trust Inc,Real Estate,REIT - Mortgage,USA
-1020,SUPX,SuperX AI Technology Ltd,Technology,Software - Infrastructure,Singapore
-1021,SVAQ,Silicon Valley Acquisition Corp,Financial,Shell Companies,USA
-1022,SVCC,Stellar V Capital Corp,Financial,Shell Companies,USA
-1023,SVCO,Silvaco Group Inc,Technology,Software - Application,USA
-1024,SWZ,Total Return Securities Fund,Financial,Closed-End Fund - Foreign,USA
-1025,SY,So-Young International Inc ADR,Healthcare,Health Information Services,China
-1026,SZZL,Sizzle Acquisition Corp II,Financial,Shell Companies,USA
-1027,TARA,Protara Therapeutics Inc,Healthcare,Biotechnology,USA
-1028,TAVI,Tavia Acquisition Corp,Financial,Shell Companies,USA
-1029,TAYD,Taylor Devices Inc,Industrials,Specialty Industrial Machinery,USA
-1030,TBCH,Turtle Beach Corp,Technology,Consumer Electronics,USA
-1031,TBCVU,Thunder Bridge Capital Partners V Ltd,Financial,Shell Companies,USA
-1032,TCBS,Texas Community Bancshares Inc,Financial,Banks - Regional,USA
-1033,TCGX,TCGX Acquisition Corp,Financial,Shell Companies,USA
-1034,TCRX,Tscan Therapeutics Inc,Healthcare,Biotechnology,USA
-1035,TCX,Tucows Inc,Technology,Software - Infrastructure,Canada
-1036,TDAC,Translational Development Acquisition Corp,Financial,Shell Companies,USA
-1037,TDF,Templeton Dragon Fund Inc,Financial,Closed-End Fund - Foreign,USA
-1038,TDWD,Tailwind 2.0 Acquisition Corp,Financial,Shell Companies,USA
-1039,TEAD,Teads Holding Co,Communication Services,Internet Content & Information,USA
-1040,TELO,Telomir Pharmaceuticals Inc,Healthcare,Biotechnology,USA
-1041,TENX,Tenax Therapeutics Inc,Healthcare,Biotechnology,USA
-1042,TG,Tredegar Corp,Industrials,Metal Fabrication,USA
-1043,TGEN,Tecogen Inc,Industrials,Electrical Equipment & Parts,USA
-1044,THEO,BOA Acquisition Corp II,Financial,Shell Companies,USA
-1045,THRY,Thryv Holdings Inc,Technology,Software - Application,USA
-1046,TII,Titan Mining Corp,Basic Materials,Other Industrial Metals & Mining,Canada
-1047,TIL,Instil Bio Inc,Healthcare,Biotechnology,USA
-1048,TISI,Team Inc,Industrials,Specialty Business Services,USA
-1049,TLPH,Talphera Inc,Healthcare,Drug Manufacturers - Specialty & Generic,USA
-1050,TLSA,Tiziana Life Sciences Ltd,Healthcare,Biotechnology,Bermuda
-1051,TLYS,Tillys Inc,Consumer Cyclical,Apparel Retail,USA
-1052,TMCI,Treace Medical Concepts Inc,Healthcare,Medical Devices,USA
-1053,TNXP,Tonix Pharmaceuticals Holding Corp,Healthcare,Biotechnology,USA
-1054,TNYA,Tenaya Therapeutics Inc,Healthcare,Biotechnology,USA
-1055,TONT,Graf Global Corp,Financial,Shell Companies,USA
-1056,TONX,TON Strategy Co,Technology,Software - Application,USA
-1057,TORO,Toro Corp,Energy,Oil & Gas Midstream,Cyprus
-1058,TOYO,TOYO Co Ltd,Technology,Solar,Japan
-1059,TP,Ticketplus Ltd,Technology,Software - Infrastructure,Chile
-1060,TPCS,Techprecision Corp,Industrials,Metal Fabrication,USA
-1061,TPVG,TriplePoint Venture Growth BDC Corp,Financial,Asset Management,USA
-1062,TRAD,APEX Tech Acquisition Inc,Financial,Shell Companies,USA
-1063,TRAK,ReposiTrak Inc,Technology,Software - Application,USA
-1064,TRDA,Entrada Therapeutics Inc,Healthcare,Biotechnology,USA
-1065,TRGS,TRG Latin America Acquisitions Corp,Financial,Shell Companies,USA
-1066,TROO,TROOPS Inc,Financial,Credit Services,Hong Kong
-1067,TRT,Trio-Tech International,Technology,Semiconductor Equipment & Materials,USA
-1068,TRVG,Trivago NV ADR,Communication Services,Internet Content & Information,Germany
-1069,TSI,TCW Strategic Income Fund Inc,Financial,Closed-End Fund - Debt,USA
-1070,TSQ,Townsquare Media Inc,Communication Services,Advertising Agencies,USA
-1071,TSSI,TSS Inc,Technology,Information Technology Services,USA
-1072,TTEC,TTEC Holdings Inc,Technology,Information Technology Services,USA
-1073,TTGT,Techtarget Inc,Technology,Information Technology Services,USA
-1074,TTRX,Turn Therapeutics Inc,Healthcare,Biotechnology,USA
-1075,TUSK,Mammoth Energy Services Inc,Industrials,Conglomerates,USA
-1076,TVAI,Thayer Ventures Acquisition Corp II,Financial,Shell Companies,USA
-1077,TVIV,Texas Ventures Acquisition IV Corp,Financial,Shell Companies,USA
-1078,TWG,Top Wealth Group Holding Ltd,Consumer Defensive,Food Distribution,Hong Kong
-1079,TWLV,Twelve Seas Investment Company III,Financial,Shell Companies,USA
-1080,TYGO,Tigo Energy Inc,Technology,Solar,USA
-1081,TZOO,Travelzoo,Communication Services,Internet Content & Information,USA
-1082,UAC,United Acquisition Corp I,Financial,Shell Companies,USA
-1083,UAVS,AgEagle Aerial Systems Inc,Technology,Computer Hardware,USA
-1084,UBCP,"United Bancorp Inc (Martins Ferry, OH)",Financial,Banks - Regional,USA
-1085,UEIC,Universal Electronics Inc,Technology,Consumer Electronics,USA
-1086,UFI,UNIFI Inc,Consumer Cyclical,Textile Manufacturing,USA
-1087,UIS,Unisys Corp,Technology,Information Technology Services,USA
-1088,ULBI,Ultralife Corp,Industrials,Electrical Equipment & Parts,USA
-1089,UNB,Union Bankshares Inc,Financial,Banks - Regional,USA
-1090,UNCY,Unicycive Therapeutics Inc,Healthcare,Biotechnology,USA
-1091,UP,Wheels Up Experience Inc,Industrials,Airports & Air Services,USA
-1092,UPXI,Upexi Inc,Communication Services,Internet Content & Information,USA
-1093,USAU,U.S. Gold Corp,Basic Materials,Gold,USA
-1094,USBC,USBC Inc,Technology,Scientific & Technical Instruments,USA
-1095,USDE,StableCoinX Inc,Financial,Capital Markets,USA
-1096,USGO,U.S. GoldMining Inc,Basic Materials,Other Industrial Metals & Mining,Canada
-1097,USIO,Usio Inc,Technology,Software - Infrastructure,USA
-1098,USNA,Usana Health Sciences Inc,Consumer Defensive,Packaged Foods,USA
-1099,UTMD,Utah Medical Products Inc,Healthcare,Medical Instruments & Supplies,USA
-1100,UXIN,Uxin Ltd ADR,Consumer Cyclical,Auto & Truck Dealerships,China
-1101,UYSC,UY Scuti Acquisition Corp,Financial,Shell Companies,USA
-1102,VABK,Virginia National Bankshares Corp,Financial,Banks - Regional,USA
-1103,VANI,Vivani Medical Inc,Healthcare,Biotechnology,USA
-1104,VATE,Innovate Corp,Industrials,Engineering & Construction,USA
-1105,VBF,Invesco Bond Fund,Financial,Closed-End Fund - Debt,USA
-1106,VECA,Vernal Capital Acquisition Corp,Financial,Shell Companies,Singapore
-1107,VENU,Venu Holding Corp,Consumer Cyclical,Restaurants,USA
-1108,VERI,Veritone Inc,Technology,Software - Infrastructure,USA
-1109,VGAS,Verde Clean Fuels Inc,Utilities,Utilities - Renewable,USA
-1110,VGI,Virtus Global Multi-Sector Income Fund,Financial,Closed-End Fund - Debt,USA
-1111,VHC,Virnetx Holding Corp,Technology,Software - Infrastructure,USA
-1112,VHUB,Venhub Global Inc,Consumer Defensive,Grocery Stores,USA
-1113,VII,Viking Acquisition Corp II,Financial,Shell Companies,USA
-1114,VIRC,Virco Manufacturing Corp,Consumer Cyclical,"Furnishings, Fixtures & Appliances",USA
-1115,VIVO,VivoPower Plc,Technology,Software - Infrastructure,United Kingdom
-1116,VLN,Valens Semiconductor Ltd,Technology,Semiconductors,Israel
-1117,VLT,Invesco High Income Trust II,Financial,Closed-End Fund - Debt,USA
-1118,VNCE,Vince Holding Corp,Consumer Cyclical,Apparel Manufacturing,USA
-1119,VNME,Vendome Acquisition Corp I,Financial,Shell Companies,USA
-1120,VOC,VOC Energy Trust,Energy,Oil & Gas E&P,USA
-1121,VOGX,Vogenx Inc,Healthcare,Biotechnology,USA
-1122,VPV,Invesco Pennsylvania Value Municipal Income Trust,Financial,Closed-End Fund - Debt,USA
-1123,VRA,Vera Bradley Inc,Consumer Cyclical,Footwear & Accessories,USA
-1124,VRCA,Verrica Pharmaceuticals Inc,Healthcare,Biotechnology,USA
-1125,VRM,Vroom Inc,Financial,Credit Services,USA
-1126,VRXA,Veraxa Biotech AG,Healthcare,Biotechnology,Switzerland
-1127,VTIX,Virtuix Holdings Inc,Technology,Computer Hardware,USA
-1128,VTN,Invesco Trust For Investment Grade New York Municipals,Financial,Closed-End Fund - Debt,USA
-1129,VTVT,vTv Therapeutics Inc,Healthcare,Biotechnology,USA
-1130,VUZI,Vuzix Corp,Technology,Consumer Electronics,USA
-1131,VYGR,Voyager Therapeutics Inc,Healthcare,Biotechnology,USA
-1132,WALD,Waldencast plc,Consumer Defensive,Household & Personal Products,USA
-1133,WATR,Air Water Ventures Ltd,Consumer Defensive,Beverages - Non-Alcoholic,USA
-1134,WATT,Energous Corp,Technology,Communication Equipment,USA
-1135,WBX,Wallbox N.V,Technology,Electronic Components,Spain
-1136,WDH,Waterdrop Inc ADR,Financial,Insurance - Diversified,China
-1137,WEA,Western Asset Premier Bond Fund,Financial,Closed-End Fund - Debt,USA
-1138,WENC,West Enclave Merger Corp,Financial,Shell Companies,Mexico
-1139,WFCF,Where Food Comes From Inc,Industrials,Specialty Business Services,USA
-1140,WFF,WF Holding Ltd,Industrials,Specialty Industrial Machinery,Malaysia
-1141,WHF,WhiteHorse Finance Inc,Financial,Asset Management,USA
-1142,WHG,Westwood Holdings Group Inc,Financial,Asset Management,USA
-1143,WHWK,Whitehawk Therapeutics Inc,Healthcare,Biotechnology,USA
-1144,WIA,Western Asset Inflation-Linked Income Fund,Financial,Closed-End Fund - Debt,USA
-1145,WKEY,WISeKey International Holding Ltd ADR,Technology,Semiconductors,Switzerland
-1146,WLII,Willow Lane Acquisition Corp II,Financial,Shell Companies,USA
-1147,WNEB,Western New England Bancorp Inc,Financial,Banks - Regional,USA
-1148,WNW,Meiwu Technology Company Ltd,Consumer Cyclical,Internet Retail,China
-1149,WPAC,White Pearl Acquisition Corp,Financial,Shell Companies,USA
-1150,WRAP,Wrap Technologies Inc,Technology,Scientific & Technical Instruments,USA
-1151,WSBK,Winchester Bancorp Inc,Financial,Banks - Regional,USA
-1152,WSHP,WeShop Holdings Ltd,Communication Services,Internet Content & Information,United Kingdom
-1153,WSTN,Westin Acquisition Corp,Financial,Shell Companies,Singapore
-1154,WTF,Waton Financial Ltd,Financial,Capital Markets,Hong Kong
-1155,WW,WW International Inc,Healthcare,Medical Care Facilities,USA
-1156,WWR,Westwater Resources Inc,Basic Materials,Other Industrial Metals & Mining,USA
-1157,WYHG,Wing Yip Food Holdings Group Ltd ADR,Consumer Defensive,Packaged Foods,China
-1158,WYY,Widepoint Corp,Technology,Information Technology Services,USA
-1159,XBIT,XBiotech Inc,Healthcare,Biotechnology,USA
-1160,XBIT,XBiotech Inc,Healthcare,Biotechnology,USA
-1161,XCBE,X3 Acquisition Corp Ltd,Financial,Shell Companies,USA
-1162,XFLH,XFLH Capital Corp,Financial,Shell Companies,USA
-1163,XFLT,XAI Floating Rate & Alternative Income Trust,Financial,Closed-End Fund - Debt,USA
-1164,XGN,Exagen Inc,Healthcare,Diagnostics & Research,USA
-1165,XHG,XChange Tec.Inc ADR,Financial,Insurance Brokers,China
-1166,XHLD,TEN Holdings Inc,Communication Services,Broadcasting,USA
-1167,XLO,Xilio Therapeutics Inc,Healthcare,Biotechnology,USA
-1168,XOS,Xos Inc,Industrials,Farm & Heavy Construction Machinery,USA
-1169,XPL,Solitario Resources Corp,Basic Materials,Other Industrial Metals & Mining,USA
-1170,XPOF,Xponential Fitness Inc,Consumer Cyclical,Leisure,USA
-1171,XSLL,Xsolla SPAC 1,Financial,Shell Companies,USA
-1172,XTIA,XTI Aerospace Inc,Industrials,Aerospace & Defense,USA
-1173,XYF,X Financial ADR,Financial,Credit Services,China
-1174,YARW,Yarrow Bioscience Inc,Healthcare,Biotechnology,USA
-1175,YCY,AA Mission Acquisition Corp II,Financial,Shell Companies,USA
-1176,YDDL,One and one Green Technologies. Inc,Industrials,Waste Management,Philippines
-1177,YDES,YD Bio Ltd,Healthcare,Biotechnology,Taiwan
-1178,YIBO,Planet Image International Ltd,Technology,Computer Hardware,China
-1179,YRD,Yiren Digital Ltd ADR,Financial,Credit Services,China
-1180,YSG,Yatsen Holding Ltd ADR,Consumer Defensive,Household & Personal Products,China
-1181,YTRA,Yatra Online Inc,Consumer Cyclical,Travel Services,India
-1182,ZENA,ZenaTech Inc,Technology,Software - Infrastructure,Canada
-1183,ZH,Zhihu Inc ADR,Communication Services,Internet Content & Information,China
-1184,ZJK,ZJK Industrial Co Ltd,Industrials,Specialty Industrial Machinery,China
-1185,ZNTL,Zentalis Pharmaceuticals Inc,Healthcare,Biotechnology,USA
-1186,ZSQR,Z Squared Inc,Technology,Software - Infrastructure,USA
-1187,ZTEK,Zentek Ltd,Healthcare,Medical Instruments & Supplies,Canada
-1188,ZVIA,Zevia PBC,Consumer Defensive,Beverages - Non-Alcoholic,USA
+Ticker,Company,Sector,Industry,Country
+AACB,Artius II Acquisition Inc,Financial,Shell Companies,USA
+AACP,Apogee Acquisition Corp,Financial,Shell Companies,USA
+AARD,Aardvark Therapeutics Inc,Healthcare,Biotechnology,USA
+ABOS,Acumen Pharmaceuticals Inc,Healthcare,Biotechnology,USA
+ACB,Aurora Cannabis Inc,Healthcare,Drug Manufacturers - Specialty & Generic,Canada
+ACET,Adicet Bio Inc,Healthcare,Biotechnology,USA
+ACGC,ACP Holdings Acquisition Corp,Financial,Shell Companies,USA
+ACH,Accendra Health Inc,Healthcare,Medical Distribution,USA
+ACIU,AC Immune SA,Healthcare,Biotechnology,Switzerland
+ACNT,Ascent Industries Co,Basic Materials,Chemicals,USA
+ACOG,Alpha Cognition Inc,Healthcare,Biotechnology,USA
+ACR,ACRES Commercial Realty Corp,Real Estate,REIT - Mortgage,USA
+ACRE,Ares Commercial Real Estate Corp,Real Estate,REIT - Mortgage,USA
+ACRV,Acrivon Therapeutics Inc,Healthcare,Biotechnology,USA
+ACU,Acme United Corp,Consumer Defensive,Household & Personal Products,USA
+ACV,Virtus Diversified Income & Convertible Fund,Financial,Closed-End Fund - Equity,USA
+ADAC,American Drive Acquisition Co,Financial,Shell Companies,USA
+ADAG,Adagene Inc ADR,Healthcare,Biotechnology,China
+ADCT,Adc Therapeutics SA,Healthcare,Drug Manufacturers - Specialty & Generic,Switzerland
+AEC,Anfield Energy Inc,Energy,Uranium,Canada
+AEI,Alset Inc,Real Estate,Real Estate - Development,USA
+AENT,Alliance Entertainment Holding Corp,Communication Services,Entertainment,USA
+AESP,Aeon Acquisition I Corp,Financial,Shell Companies,USA
+AEYE,AudioEye Inc,Technology,Software - Application,USA
+AFCG,Advanced Flower Capital Inc,Financial,Asset Management,USA
+AFRI,Forafric Global PLC,Consumer Defensive,Farm Products,United Kingdom
+AGPU,Axe Compute Inc,Technology,Software - Infrastructure,USA
+AIB,AIB Data Centers Inc,Technology,Software - Infrastructure,USA
+AIFC,AI Financial Corp,Technology,Software - Infrastructure,USA
+AIFU,AIFU Inc,Financial,Insurance Brokers,China
+AIIA,AI Infrastructure Acquisition Corp,Financial,Shell Companies,USA
+AIIO,Robo.ai Inc,Consumer Cyclical,Auto Manufacturers,United Arab Emirates
+AIRG,Airgain Inc,Technology,Communication Equipment,USA
+AIRO,AIRO Group Holdings Inc,Industrials,Aerospace & Defense,USA
+AIRS,Airsculpt Technologies Inc,Healthcare,Medical Care Facilities,USA
+AIRT,Air T Inc,Industrials,Conglomerates,USA
+AISP,Airship AI Holdings Inc,Technology,Software - Infrastructure,USA
+AIXC,AIxCrypto Holdings Inc,Technology,Software - Infrastructure,USA
+AKA,a.k.a. Brands Holding Corp,Consumer Cyclical,Apparel Retail,USA
+AKBA,Akebia Therapeutics Inc,Healthcare,Drug Manufacturers - Specialty & Generic,USA
+ALCO,Alico Inc,Consumer Defensive,Farm Products,USA
+ALDX,Aldeyra Therapeutics Inc,Healthcare,Biotechnology,USA
+ALEC,Alector Inc,Healthcare,Biotechnology,USA
+ALF,Centurion Acquisition Corp,Financial,Shell Companies,USA
+ALIS,Calisa Acquisition Corp,Financial,Shell Companies,USA
+ALOT,AstroNova Inc,Technology,Computer Hardware,USA
+ALPX,Alpex Acquisition Corp,Financial,Shell Companies,USA
+ALTG,Alta Equipment Group Inc,Industrials,Rental & Leasing Services,USA
+ALXO,Alx Oncology Holdings Inc,Healthcare,Biotechnology,USA
+AMACU,AMR Resources Acquisition Corp,Financial,Shell Companies,Cayman Islands
+AMAN,Amanat Acquisition Corp,Financial,Shell Companies,USA
+AMBR,Amber International Holding Ltd ADR,Financial,Asset Management,Singapore
+AMCI,AMC Robotics Corp,Technology,Computer Hardware,USA
+AMPG,Amplitech Group Inc,Technology,Communication Equipment,USA
+AMPY,Amplify Energy Corp,Energy,Oil & Gas E&P,USA
+AMRN,Amarin Corp ADR,Healthcare,Drug Manufacturers - General,Ireland
+AMTX,Aemetis Inc,Basic Materials,Specialty Chemicals,USA
+AMWL,American Well Corp,Healthcare,Health Information Services,USA
+ANGI,Angi Inc,Communication Services,Internet Content & Information,USA
+ANIK,Anika Therapeutics Inc,Healthcare,Drug Manufacturers - Specialty & Generic,USA
+ANIX,Anixa Biosciences Inc,Healthcare,Biotechnology,USA
+ANNA,AleAnna Inc,Energy,Oil & Gas E&P,USA
+ANPA,Rich Sparkle Holdings Ltd,Industrials,Specialty Business Services,Hong Kong
+ANTA,Antalpha Platform Holding Co,Financial,Credit Services,Singapore
+ANTX,AN2 Therapeutics Inc,Healthcare,Biotechnology,USA
+ANVS,Annovis Bio Inc,Healthcare,Biotechnology,USA
+AOMR,Angel Oak Mortgage REIT Inc,Real Estate,REIT - Mortgage,USA
+AOUT,American Outdoor Brands Inc,Consumer Cyclical,Leisure,USA
+AP,Ampco-Pittsburgh Corp,Industrials,Metal Fabrication,USA
+APAC,StoneBridge Acquisition II Corp,Financial,Shell Companies,USA
+APLM,Apollomics Inc,Healthcare,Biotechnology,USA
+APMC,Ampercap Acquisition Co,Financial,Shell Companies,USA
+APT,Alpha Pro Tech Ltd,Industrials,Building Products & Equipment,Canada
+APUR,Aperture AC,Financial,Shell Companies,USA
+APYX,Apyx Medical Corp,Healthcare,Medical Devices,USA
+ARBE,Arbe Robotics Ltd,Technology,Scientific & Technical Instruments,Israel
+ARCL,ARC Group Acquisition I Corp,Financial,Shell Companies,USA
+ARCT,Arcturus Therapeutics Holdings Inc,Healthcare,Biotechnology,USA
+ARDC,Ares Dynamic Credit Allocation Fund Inc,Financial,Closed-End Fund - Debt,USA
+AREC,American Resources Corp,Industrials,Waste Management,USA
+ARL,American Realty Investors Inc,Real Estate,Real Estate Services,USA
+ARMP,Armata Pharmaceuticals Inc,Healthcare,Biotechnology,USA
+ARQ,Arq Inc,Industrials,Pollution & Treatment Controls,USA
+ASLE,AerSale Corp,Industrials,Airports & Air Services,USA
+ASPS,Altisource Portfolio Solutions SA,Real Estate,Real Estate Services,Luxembourg
+ASRV,Ameriserv Financial Inc,Financial,Banks - Regional,USA
+ASUR,Asure Software Inc,Technology,Software - Application,USA
+ASYS,Amtech Systems Inc,Technology,Semiconductor Equipment & Materials,USA
+ATGL,Alpha Technology Group Ltd,Technology,Software - Infrastructure,Hong Kong
+ATHE,Alterity Therapeutics Ltd ADR,Healthcare,Biotechnology,Australia
+ATLO,Ames National Corp,Financial,Banks - Regional,USA
+ATLX,Atlas Lithium Corp,Basic Materials,Other Industrial Metals & Mining,Brazil
+ATOM,Atomera Inc,Technology,Semiconductor Equipment & Materials,USA
+ATRA,Atara Biotherapeutics Inc,Healthcare,Biotechnology,USA
+ATYR,Atyr Pharma Inc,Healthcare,Biotechnology,USA
+AUBN,Auburn National Bancorp Inc,Financial,Banks - Regional,USA
+AUC,ATIF Holdings Ltd,Financial,Capital Markets,USA
+AUDC,Audiocodes,Technology,Communication Equipment,Israel
+AURE,Aurelion Inc,Financial,Capital Markets,Hong Kong
+AVD,American Vanguard Corp,Basic Materials,Agricultural Inputs,USA
+AVNW,Aviat Networks Inc,Technology,Communication Equipment,USA
+AVXL,Anavex Life Sciences Corp,Healthcare,Biotechnology,USA
+AXIN,Axiom Intelligence Acquisition Corp 1,Financial,Shell Companies,United Kingdom
+AXR,AMREP Corp,Real Estate,Real Estate - Development,USA
+AZI,Autozi Internet Technology (Global) Ltd,Consumer Cyclical,Auto & Truck Dealerships,China
+BACC,Blue Acquisition Corp,Financial,Shell Companies,USA
+BAER,Bridger Aerospace Group Holdings Inc,Industrials,Security & Protection Services,USA
+BAFN,BayFirst Financial Corp,Financial,Banks - Regional,USA
+BANX,ArrowMark Financial Corp,Financial,Closed-End Fund - Debt,USA
+BARK,BARK Inc,Consumer Cyclical,Specialty Retail,USA
+BATL,Battalion Oil Corp,Energy,Oil & Gas E&P,USA
+BCAR,D. Boral ARC Acquisition I Corp,Financial,Shell Companies,USA
+BCBP,BCB Bancorp Inc (NJ),Financial,Banks - Regional,USA
+BCIC,BCP Investment Corp,Financial,Asset Management,USA
+BCV,Bancroft Fund Ltd,Financial,Closed-End Fund - Debt,USA
+BCYC,Bicycle Therapeutics Plc ADR,Healthcare,Biotechnology,United Kingdom
+BDL,Flanigan's Enterprises Inc,Consumer Cyclical,Restaurants,USA
+BDSX,Biodesix Inc,Healthcare,Diagnostics & Research,USA
+BDTX,Black Diamond Therapeutics Inc,Healthcare,Biotechnology,USA
+BEBE,TGE Value Creative Solutions Corp,Financial,Shell Companies,France
+BEEP,Mobile Infrastructure Corp,Industrials,Infrastructure Operations,USA
+BETR,Better Home & Finance Holding Co,Financial,Mortgage Finance,USA
+BGH,Barings Global Short Duration High Yield Fund,Financial,Closed-End Fund - Debt,USA
+BGIN,Bgin Blockchain Ltd,Technology,Computer Hardware,Singapore
+BGM,BGM Group Ltd,Healthcare,Drug Manufacturers - Specialty & Generic,China
+BGS,B&G Foods Inc,Consumer Defensive,Packaged Foods,USA
+BGSF,BGSF Inc,Industrials,Staffing & Employment Services,USA
+BGX,Blackstone Long-Short Credit Income Fund,Financial,Closed-End Fund - Debt,USA
+BHAV,Bhav Acquisition Corp,Financial,Shell Companies,USA
+BHM,Bluerock Homes Trust Inc,Real Estate,REIT - Residential,USA
+BHR,Braemar Hotels & Resorts Inc,Real Estate,REIT - Hotel & Motel,USA
+BHST,BioHarvest Sciences Inc,Consumer Defensive,Packaged Foods,Canada
+BID,Tribeca Strategic Acquisition Corp,Financial,Shell Companies,USA
+BIII,Black Spade Acquisition III Co,Financial,Shell Companies,Hong Kong
+BKTI,BK Technologies Corp,Technology,Communication Equipment,USA
+BLNK,Blink Charging Co,Industrials,Engineering & Construction,USA
+BLRK,Bluerock Acquisition Corp,Financial,Shell Companies,USA
+BMEA,Biomea Fusion Inc,Healthcare,Biotechnology,USA
+BMHL,Bluemount Holdings Ltd,Financial,Capital Markets,Hong Kong
+BMN,BlackRock 2037 Municipal Target Term Trust,Financial,Closed-End Fund - Debt,USA
+BNAI,Brand Engagement Network Inc,Technology,Software - Infrastructure,USA
+BNC,CEA Industries Inc,Industrials,Farm & Heavy Construction Machinery,USA
+BNR,Burning Rock Biotech Ltd ADR,Healthcare,Diagnostics & Research,China
+BOF,BranchOut Food Inc,Consumer Defensive,Packaged Foods,USA
+BOLD,Boundless Bio Inc,Healthcare,Biotechnology,USA
+BOOM,DMC Global Inc,Industrials,Conglomerates,USA
+BOTJ,Bank of the James Financial Group Inc,Financial,Banks - Regional,USA
+BPAC,Blueport Acquisition Ltd,Financial,Shell Companies,USA
+BPRN,Princeton Bancorp Inc,Financial,Banks - Regional,USA
+BRCC,BRC Inc,Consumer Defensive,Packaged Foods,USA
+BREZ,Breeze Acquisition Corp II,Financial,Shell Companies,USA
+BRID,Bridgford Foods Corp,Consumer Defensive,Packaged Foods,USA
+BRKH,Burtech Acquisition Corp II,Financial,Shell Companies,USA
+BRLT,Brilliant Earth Group Inc,Consumer Cyclical,Luxury Goods,USA
+BRR,ProCap Financial Inc,Financial,Capital Markets,USA
+BRT,BRT Apartments Corp,Real Estate,REIT - Residential,USA
+BSBK,Bogota Financial Corp,Financial,Banks - Regional,USA
+BSEM,BioStem Technologies Inc,Healthcare,Biotechnology,USA
+BSET,Bassett Furniture Industries Inc,Consumer Cyclical,"Furnishings, Fixtures & Appliances",USA
+BSIN,Big Sky Industrial Inc,Energy,Oil & Gas E&P,USA
+BSL,Blackstone Senior Floating Rate 2027 Term Fund,Financial,Closed-End Fund - Debt,USA
+BTCS,BTCS Inc,Financial,Capital Markets,USA
+BUDA,Buda Juice Inc,Consumer Defensive,Beverages - Non-Alcoholic,USA
+BVC,BitVentures Ltd,Technology,Software - Application,Hong Kong
+BVFL,BV Financial Inc,Financial,Banks - Regional,USA
+BWEN,Broadwind Inc,Industrials,Specialty Industrial Machinery,USA
+BWG,BrandywineGLOBAL - Global Income Opportunities Fund Inc,Financial,Closed-End Fund - Debt,USA
+BWIV,Blue Water Acquisition Corp IV,Financial,Shell Companies,USA
+BYFC,Broadway Financial Corp,Financial,Banks - Regional,USA
+BYND,Beyond Meat Inc,Consumer Defensive,Packaged Foods,USA
+BYRN,Byrna Technologies Inc,Industrials,Aerospace & Defense,USA
+BZAI,Blaize Holdings Inc,Technology,Software - Application,USA
+BZFD,BuzzFeed Inc,Communication Services,Internet Content & Information,USA
+BZUN,Baozun Inc ADR,Consumer Cyclical,Internet Retail,China
+CAAS,China Automotive Systems Inc,Consumer Cyclical,Auto Parts,China
+CABO,Cable One Inc,Communication Services,Telecom Services,USA
+CAF,Morgan Stanley China A Share Fund Inc,Financial,Closed-End Fund - Foreign,USA
+CAN,Canaan Inc ADR,Technology,Computer Hardware,Singapore
+CANG,Cango Inc,Financial,Capital Markets,China
+CAPN,Cayson Acquisition Corp,Financial,Shell Companies,USA
+CAQ,Cambridge Acquisition Corp,Financial,Shell Companies,USA
+CATLU,Catalyst Acquisition Corp,Financial,Shell Companies,USA
+CATO,Cato Corp,Consumer Cyclical,Apparel Retail,USA
+CBAT,CBAK Energy Technology Ltd,Industrials,Electrical Equipment & Parts,China
+CBFV,CB Financial Services Inc,Financial,Banks - Regional,USA
+CBUS,Cibus Inc,Healthcare,Biotechnology,USA
+CCAQ,Collective Acquisition Corp,Financial,Shell Companies,USA
+CCIF,Carlyle Credit Income Fund,Financial,Closed-End Fund - Debt,USA
+CCLD,CareCloud Inc,Healthcare,Health Information Services,USA
+CD,Chaince Digital Holdings Inc,Financial,Capital Markets,USA
+CDXS,Codexis Inc,Healthcare,Biotechnology,USA
+CDZI,Cadiz Inc,Utilities,Utilities - Regulated Water,USA
+CEE,Central and Eastern Europe Fund Inc,Financial,Closed-End Fund - Foreign,USA
+CEPL,Capstone Energy+ Inc,Industrials,Specialty Industrial Machinery,USA
+CEPO,Cantor Equity Partners I Inc,Financial,Shell Companies,USA
+CEPS,Cantor Equity Partners VI Inc,Financial,Shell Companies,USA
+CEV,Eaton Vance California Municipal Income Trust,Financial,Closed-End Fund - Debt,USA
+CFBK,CF Bankshares Inc,Financial,Banks - Regional,USA
+CFFI,C & F Financial Corp,Financial,Banks - Regional,USA
+CGCFU,Cartesian Growth Corp IV,Financial,Shell Companies,USA
+CGEN,Compugen Ltd,Healthcare,Biotechnology,Israel
+CGO,Calamos Global Total Return Fund,Financial,Closed-End Fund - Equity,USA
+CGTX,Cognition Therapeutics Inc,Healthcare,Biotechnology,USA
+CHAR,Charlton Aria Acquisition Corp,Financial,Shell Companies,USA
+CHCI,Comstock Holding Co Inc,Real Estate,Real Estate Services,USA
+CHEC,Chenghe Acquisition III Co,Financial,Shell Companies,Singapore
+CHGG,Chegg Inc,Consumer Defensive,Education & Training Services,USA
+CHMI,Cherry Hill Mortgage Investment Corp,Real Estate,REIT - Mortgage,USA
+CHPG,ChampionsGate Acquisition Corp,Financial,Shell Companies,USA
+CHPT,ChargePoint Holdings Inc,Consumer Cyclical,Specialty Retail,USA
+CHRS,Coherus Oncology Inc,Healthcare,Biotechnology,USA
+CIA,Citizens Inc,Financial,Insurance - Life,USA
+CIGL,Concorde International Group Ltd,Industrials,Security & Protection Services,Singapore
+CIK,Credit Suisse Asset Management Income Fund Inc,Financial,Closed-End Fund - Debt,USA
+CING,Cingulate Inc,Healthcare,Biotechnology,USA
+CIRC,Circle8 Group Inc,Industrials,Staffing & Employment Services,USA
+CITR,CitroTech Inc,Basic Materials,Specialty Chemicals,USA
+CLAR,Clarus Corp,Consumer Cyclical,Leisure,USA
+CLLS,Cellectis ADR,Healthcare,Biotechnology,France
+CLNN,Clene Inc,Healthcare,Biotechnology,USA
+CLPR,Clipper Realty Inc,Real Estate,REIT - Residential,USA
+CLST,Catalyst Bancorp Inc,Financial,Banks - Regional,USA
+CMRC,Commerce.com Inc,Technology,Software - Application,USA
+CMT,Core Molding Technologies,Basic Materials,Specialty Chemicals,USA
+CMTG,Claros Mortgage Trust Inc,Real Estate,REIT - Mortgage,USA
+CMTV,Community Bancorp Inc Vermont,Financial,Banks - Regional,USA
+CNCK,Coincheck Group NV,Financial,Capital Markets,Netherlands
+CNDT,Conduent Inc,Technology,Information Technology Services,USA
+CNTB,Connect Biopharma Holdings Ltd,Healthcare,Biotechnology,USA
+CNTN,Canton Strategic Holdings Inc,Healthcare,Biotechnology,USA
+CNVS,Cineverse Corp,Communication Services,Entertainment,USA
+CNXU,Conexeu Sciences Inc,Healthcare,Biotechnology,USA
+COCH,Envoy Medical Inc,Healthcare,Medical Devices,USA
+CODA,Coda Octopus Group Inc,Industrials,Aerospace & Defense,USA
+COE,51 Talk Online Education Group ADR,Consumer Defensive,Education & Training Services,Singapore
+COOK,Traeger Inc,Consumer Cyclical,"Furnishings, Fixtures & Appliances",USA
+COPL,Copley Acquisition Corp,Financial,Shell Companies,Hong Kong
+COYA,Coya Therapeutics Inc,Healthcare,Biotechnology,USA
+CPBI,Central Plains Bancshares Inc,Financial,Banks - Regional,USA
+CPHC,Canterbury Park Holding Corp,Consumer Cyclical,Resorts & Casinos,USA
+CPIX,Cumberland Pharmaceuticals Inc,Healthcare,Drug Manufacturers - Specialty & Generic,USA
+CPSH,CPS Technologies Corp,Technology,Electronic Components,USA
+CPSS,Consumer Portfolio Service Inc,Financial,Credit Services,USA
+CPZ,Calamos Long/Short Equity & Dynamic Income Trust,Financial,Closed-End Fund - Equity,USA
+CRAC,Crown Reserve Acquisition Corp I,Financial,Shell Companies,Cayman Islands
+CRBP,Corbus Pharmaceuticals Holdings Inc,Healthcare,Biotechnology,USA
+CRBU,Caribou Biosciences Inc,Healthcare,Biotechnology,USA
+CRDF,Cardiff Oncology Inc,Healthcare,Biotechnology,USA
+CRDL,Cardiol Therapeutics Inc,Healthcare,Drug Manufacturers - Specialty & Generic,Canada
+CRGO,Freightos Ltd,Industrials,Integrated Freight & Logistics,Israel
+CRNT,Ceragon Networks Ltd,Technology,Communication Equipment,Israel
+CRT,Cross Timbers Royalty Trust,Energy,Oil & Gas E&P,USA
+CSBR,Champions Oncology Inc,Healthcare,Biotechnology,USA
+CSPI,CSP Inc,Technology,Information Technology Services,USA
+CSTE,Caesarstone Ltd,Industrials,Building Products & Equipment,Israel
+CTAA,ClearThink 1 Acquisition Corp,Financial,Shell Companies,USA
+CTM,Castellum Inc,Technology,Information Technology Services,USA
+CTOR,Citius Oncology Inc,Healthcare,Drug Manufacturers - Specialty & Generic,USA
+CTW,CTW,Communication Services,Electronic Gaming & Multimedia,Japan
+CUB,Lionheart Holdings,Financial,Shell Companies,USA
+CUE,Cue Biopharma Inc,Healthcare,Biotechnology,USA
+CURI,CuriosityStream Inc,Communication Services,Broadcasting,USA
+CURV,Torrid Holdings Inc,Consumer Cyclical,Apparel Retail,USA
+CVGI,Commercial Vehicle Group Inc,Consumer Cyclical,Auto Parts,USA
+CVRX,CVRx Inc,Healthcare,Medical Devices,USA
+CVU,CPI Aerostructures Inc,Industrials,Aerospace & Defense,USA
+CVV,CVD Equipment Corp,Industrials,Specialty Industrial Machinery,USA
+CXDO,Crexendo Inc,Communication Services,Telecom Services,USA
+CYPH,Cypherpunk Technologies Inc,Healthcare,Biotechnology,USA
+CZWI,Citizens Community Bancorp Inc MD,Financial,Banks - Regional,USA
+DAAQ,Digital Asset Acquisition Corp,Financial,Shell Companies,USA
+DAVA,Endava plc ADR,Technology,Software - Infrastructure,United Kingdom
+DBI,Designer Brands Inc,Consumer Cyclical,Footwear & Accessories,USA
+DBL,DoubleLine Opportunistic Credit Fund,Financial,Closed-End Fund - Debt,USA
+DCGO,DocGo Inc,Healthcare,Medical Care Facilities,USA
+DEFT,DeFi Technologies Inc,Financial,Capital Markets,Canada
+DERM,Journey Medical Corp,Healthcare,Drug Manufacturers - Specialty & Generic,USA
+DFDV,DeFi Development Corp,Financial,Asset Management,USA
+DGAC,Disciplined Growth Acquisition Corp,Financial,Shell Companies,USA
+DH,Definitive Healthcare Corp,Healthcare,Health Information Services,USA
+DHF,BNY Mellon High Yield Strategies Fund,Financial,Closed-End Fund - Debt,USA
+DHX,DHI Group Inc,Technology,Software - Application,USA
+DHY,Credit Suisse High Yield Credit Fund,Financial,Closed-End Fund - Debt,USA
+DIBS,1stdibs.com Inc,Communication Services,Internet Content & Information,USA
+DIT,Amcon Distributing Company,Consumer Defensive,Food Distribution,USA
+DLHC,DLH Holdings Corp,Industrials,Specialty Business Services,USA
+DLNG,Dynagas LNG Partners LP,Energy,Oil & Gas Midstream,Greece
+DLTH,Duluth Holdings Inc,Consumer Cyclical,Apparel Retail,USA
+DMA,Destra Multi-Alternative Fund,Financial,Closed-End Fund - Equity,USA
+DMAA,Drugs Made In America Acquisition Corp,Financial,Shell Companies,USA
+DMB,BNY Mellon Municipal Bond Infrastructure Fund Inc,Financial,Closed-End Fund - Debt,USA
+DMO,Western Asset Mortgage Opportunity Fund Inc,Financial,Closed-End Fund - Debt,USA
+DMRC,Digimarc Corp,Technology,Software - Application,USA
+DNMX,Dynamix Corp III,Financial,Shell Companies,USA
+DOMH,Dominari Holdings Inc,Financial,Capital Markets,USA
+DOMO,Domo Inc,Technology,Software - Application,USA
+DOUG,Douglas Elliman Inc,Real Estate,Real Estate Services,USA
+DOYU,DouYu International Holdings Ltd ADR,Communication Services,Internet Content & Information,China
+DPRO,Draganfly Inc,Technology,Computer Hardware,Canada
+DRIO,DarioHealth Corp,Healthcare,Health Information Services,USA
+DSC,DSC Holdings Ltd ADR,Consumer Cyclical,Auto & Truck Dealerships,China
+DSM,BNY Mellon Strategic Municipal Bond Fund Inc,Financial,Closed-End Fund - Debt,USA
+DSWL,Deswell Industries Inc,Technology,Electronic Components,China
+DTCX,Datacentrex Inc,Financial,Financial Data & Stock Exchanges,USA
+DTF,DTF Tax-Free Income 2028 Term Fund Inc,Financial,Closed-End Fund - Debt,USA
+DTI,Drilling Tools International Corp,Energy,Oil & Gas Equipment & Services,USA
+DTIL,Precision Biosciences Inc,Healthcare,Biotechnology,USA
+DWSN,Dawson Geophysical Company,Energy,Oil & Gas Equipment & Services,USA
+DWTX,Dogwood Therapeutics Inc,Healthcare,Biotechnology,USA
+DXR,Daxor Corp,Healthcare,Medical Instruments & Supplies,USA
+DYNC,Dynamix Corp,Financial,Shell Companies,USA
+DYOR,Insight Digital Partners II,Financial,Shell Companies,USA
+EAF,GrafTech International Ltd,Industrials,Electrical Equipment & Parts,USA
+EARN,Ellington Credit Co,Financial,Asset Management,USA
+EBMT,Eagle Bancorp Montana Inc,Financial,Banks - Regional,USA
+EBS,Emergent Biosolutions Inc,Healthcare,Drug Manufacturers - Specialty & Generic,USA
+ECBK,ECB Bancorp Inc,Financial,Banks - Regional,USA
+ECF,Ellsworth Growth and Income Fund Ltd,Financial,Closed-End Fund - Equity,USA
+ECOR,ElectroCore Inc,Healthcare,Medical Devices,USA
+EDF,Virtus Stone Harbor Emerging Markets Income Fund,Financial,Closed-End Fund - Foreign,USA
+EDRY,EuroDry Ltd,Industrials,Marine Shipping,Greece
+EDSA,Edesa Biotech Inc,Healthcare,Biotechnology,Canada
+EEA,European Equity Fund Inc,Financial,Closed-End Fund - Foreign,USA
+EFSI,Eagle Financial Services Inc,Financial,Banks - Regional,USA
+EFT,Eaton Vance Floating-Rate Income Trust,Financial,Closed-End Fund - Debt,USA
+EGAN,eGain Corp,Technology,Software - Application,USA
+EGG,Enigmatig Ltd,Industrials,Consulting Services,Singapore
+EGHA,EGH Acquisition Corp,Financial,Shell Companies,USA
+EHI,Western Asset Global High Income Fund Inc,Financial,Closed-End Fund - Debt,USA
+EIC,Eagle Point Income Company Inc,Financial,Closed-End Fund - Debt,USA
+ELBM,Electra Battery Materials Corp,Basic Materials,Other Industrial Metals & Mining,Canada
+ELDN,Eledon Pharmaceuticals Inc,Healthcare,Biotechnology,USA
+ELLO,Ellomay Capital Ltd,Utilities,Utilities - Renewable,Israel
+ELME,Elme Communities,Real Estate,REIT - Residential,USA
+ELOX,Eloxx Pharmaceuticals Inc,Healthcare,Biotechnology,USA
+ELTK,Eltek Ltd,Technology,Electronic Components,Israel
+ELTX,Elicio Therapeutics Inc,Healthcare,Biotechnology,USA
+EMIS,Emmis Acquisition Corp,Financial,Shell Companies,USA
+EML,Eastern Co,Industrials,Tools & Accessories,USA
+EMPD,Empery Digital Inc,Consumer Cyclical,Auto Manufacturers,USA
+ENGN,enGene Therapeutics Inc,Healthcare,Biotechnology,Canada
+ENGS,Energys Group Ltd,Industrials,Waste Management,United Kingdom
+ENRD,Einride AB ADR,Technology,Software - Application,Sweden
+EOD,Allspring Global Dividend Opportunity Fund,Financial,Closed-End Fund - Equity,USA
+EOT,Eaton Vance National Municipal Opportunities Trust,Financial,Closed-End Fund - Debt,USA
+EP,Empire Petroleum Corp,Energy,Oil & Gas E&P,USA
+EPM,Evolution Petroleum Corp,Energy,Oil & Gas E&P,USA
+EPSN,Epsilon Energy Ltd,Energy,Oil & Gas E&P,USA
+EQ,Equillium Inc,Healthcare,Biotechnology,USA
+ERC,Allspring Multi-Sector Income Fund,Financial,Closed-End Fund - Debt,USA
+ERH,Allspring Utilities and High Income Fund,Financial,Closed-End Fund - Equity,USA
+ESCA,Escalade Inc,Consumer Cyclical,Leisure,USA
+ESOA,Energy Services of America Corp,Industrials,Engineering & Construction,USA
+ESP,Espey Manufacturing & Electronics Corp,Industrials,Electrical Equipment & Parts,USA
+ETSS,Energy Transition Special Opportunities,Financial,Shell Companies,USA
+ETX,Eaton Vance Municipal Income 2028 Term Trust,Financial,Closed-End Fund - Debt,USA
+EU,enCore Energy Corp,Energy,Uranium,USA
+EVF,Eaton Vance Senior Income Trust,Financial,Closed-End Fund - Debt,USA
+EVG,Eaton Vance Short Duration Diversified Income Fund,Financial,Closed-End Fund - Debt,USA
+EVI,EVI Industries Inc,Industrials,Industrial Distribution,USA
+EVTL,Vertical Aerospace Ltd,Industrials,Aerospace & Defense,United Kingdom
+EXFY,Expensify Inc,Technology,Software - Application,USA
+EXOD,Exodus Movement Inc,Technology,Software - Infrastructure,USA
+EXOZ,eXoZymes Inc,Healthcare,Biotechnology,USA
+FACT,FACT II Acquisition Corp,Financial,Shell Companies,USA
+FATN,Fatpipe Inc,Technology,Software - Infrastructure,USA
+FBIO,Fortress Biotech Inc,Healthcare,Biotechnology,USA
+FBLA,FB Bancorp Inc,Financial,Banks - Regional,USA
+FC,Franklin Covey Co,Consumer Defensive,Education & Training Services,USA
+FCAP,First Capital Inc,Financial,Banks - Regional,USA
+FCT,First Trust Senior Floting Rate Income Fund II,Financial,Closed-End Fund - Debt,USA
+FDSB,Fifth District Bancorp Inc,Financial,Banks - Regional,USA
+FEAM,5E Advanced Materials Inc,Basic Materials,Specialty Chemicals,USA
+FF,Futurefuel Corp,Basic Materials,Specialty Chemicals,USA
+FGBI,First Guaranty Bancshares Inc,Financial,Banks - Regional,USA
+FIGX,FIGX Capital Acquisition Corp,Financial,Shell Companies,USA
+FINW,FinWise Bancorp,Financial,Banks - Regional,USA
+FIRY,Firy Inc,Communication Services,Electronic Gaming & Multimedia,USA
+FJDIU,ARC Group Securities Acquisition I,Financial,Shell Companies,USA
+FJET,Starfighters Space Inc,Industrials,Aerospace & Defense,USA
+FLC,Flaherty & Crumrine Total Return Fund Inc,Financial,Closed-End Fund - Debt,USA
+FLL,Full House Resorts Inc,Consumer Cyclical,Resorts & Casinos,USA
+FLNT,Fluent Inc,Communication Services,Advertising Agencies,USA
+FLWS,1-800 Flowers.com Inc,Consumer Cyclical,Specialty Retail,USA
+FLX,BingEx Ltd ADR,Industrials,Integrated Freight & Logistics,China
+FLYX,flyExclusive Inc,Industrials,Airlines,USA
+FLZH,Flash Sports & Media Holdings Inc,Communication Services,Broadcasting,USA
+FMAC,Future Money Acquisition Corp,Financial,Shell Companies,USA
+FMN,Federated Hermes Premier Municipal Income Fund,Financial,Closed-End Fund - Debt,USA
+FNRN,First Northern Community Bancorp,Financial,Banks - Regional,USA
+FNWB,First Northwest Bancorp,Financial,Banks - Regional,USA
+FNWD,Finward Bancorp,Financial,Banks - Regional,USA
+FOCL,EDAP TMS SA ADR,Healthcare,Medical Distribution,France
+FORR,Forrester Research Inc,Industrials,Consulting Services,USA
+FRAF,Franklin Financial Services Corp,Financial,Banks - Regional,USA
+FRMM,Forum Markets Inc,Technology,Software - Application,USA
+FSEA,First Seacoast Bancorp Inc,Financial,Banks - Regional,USA
+FSI,Flexible Solutions International Inc,Basic Materials,Specialty Chemicals,Canada
+FT,Franklin Universal Trust,Financial,Closed-End Fund - Debt,USA
+FTF,Franklin Limited Duration Income Trust,Financial,Closed-End Fund - Debt,USA
+FTHA,Forefront Tech Holdings Acquisition Corp,Financial,Shell Companies,Cayman Islands
+FTLF,FitLife Brands Inc,Consumer Defensive,Packaged Foods,USA
+FTRA,FutureCorp Space Acquisition 1,Financial,Shell Companies,USA
+FUFU,BitFuFu Inc,Financial,Capital Markets,Singapore
+FULC,Fulcrum Therapeutics Inc,Healthcare,Biotechnology,USA
+FUNC,First United Corp,Financial,Banks - Regional,USA
+FURY,Fury Gold Mines Ltd,Basic Materials,Gold,Canada
+FUSB,First US Bancshares Inc,Financial,Banks - Regional,USA
+FVN,Future Vision II Acquisition Corp,Financial,Shell Companies,China
+FWAC,Futurewave Acquisition Corp,Financial,Shell Companies,USA
+FXAC,FortuneX Acquisition Corp,Financial,Shell Companies,USA
+FXHO,UTime Ltd,Technology,Consumer Electronics,China
+FXNC,"First National Corp (Strasburg, VA)",Financial,Banks - Regional,USA
+GANX,Gain Therapeutics Inc,Healthcare,Biotechnology,USA
+GCL,GCL Global Holdings Ltd,Communication Services,Electronic Gaming & Multimedia,Singapore
+GCTS,GCT Semiconductor Holding Inc,Technology,Semiconductors,USA
+GCV,Gabelli Convertible and Income Securities Fund Inc,Financial,Closed-End Fund - Equity,USA
+GDEV,GDEV Inc,Communication Services,Electronic Gaming & Multimedia,Cyprus
+GDHG,Golden Heaven Group Holdings Ltd,Consumer Cyclical,Leisure,China
+GDL,GDL Fund,Financial,Closed-End Fund - Equity,USA
+GDO,Western Asset Global Corporate Defined Opportunity Fund Inc,Financial,Closed-End Fund - Debt,USA
+GECC,Great Elm Capital Corp,Financial,Asset Management,USA
+GEG,Great Elm Group Inc,Financial,Asset Management,USA
+GENC,Gencor Industries Inc,Industrials,Farm & Heavy Construction Machinery,USA
+GENK,GEN Restaurant Group Inc,Consumer Cyclical,Restaurants,USA
+GEOS,Geospace Technologies Corp,Energy,Oil & Gas Equipment & Services,USA
+GETY,Getty Images Holdings Inc,Communication Services,Internet Content & Information,USA
+GF,New Germany Fund Inc,Financial,Closed-End Fund - Foreign,USA
+GGT,Gabelli Multimedia Trust Inc,Financial,Closed-End Fund - Equity,USA
+GGZ,Gabelli Global Small and Mid Cap Value Trust,Financial,Closed-End Fund - Equity,USA
+GHG,GreenTree Hospitality Group Ltd ADR,Consumer Cyclical,Lodging,China
+GHI,Greystone Housing Impact Investors LP,Financial,Mortgage Finance,USA
+GIBO,GIBO Holdings Ltd,Communication Services,Internet Content & Information,Hong Kong
+GLBS,Globus Maritime Ltd,Industrials,Marine Shipping,Greece
+GLDG,GoldMining Inc,Basic Materials,Gold,Canada
+GLED,GalaxyEdge Acquisition Corp,Financial,Shell Companies,USA
+GLND,Greenland Energy Co,Energy,Oil & Gas E&P,USA
+GLO,Clough Global Opportunities Fund,Financial,Closed-End Fund - Equity,USA
+GLOO,Gloo Holdings Inc,Technology,Software - Application,USA
+GLQ,Clough Global Equity Fund,Financial,Closed-End Fund - Equity,USA
+GLSI,Greenwich LifeSciences Inc,Healthcare,Biotechnology,USA
+GLU,Gabelli Global Utility & Income Trust,Financial,Closed-End Fund - Equity,USA
+GLV,Clough Global Dividend and Income Fund,Financial,Closed-End Fund - Equity,USA
+GNLX,Genelux Corp,Healthcare,Biotechnology,USA
+GNSS,Genasys Inc,Technology,Scientific & Technical Instruments,USA
+GNT,"GAMCO Natural Resources, Gold & Income Trust",Financial,Closed-End Fund - Equity,USA
+GOAI,Eva Live Inc,Technology,Software - Infrastructure,USA
+GOSS,Gossamer Bio Inc,Healthcare,Biotechnology,USA
+GOTU,Gaotu Techedu Inc ADR,Consumer Defensive,Education & Training Services,China
+GPAC,General Purpose Acquisition Corp,Financial,Shell Companies,USA
+GPMT,Granite Point Mortgage Trust Inc,Real Estate,REIT - Mortgage,USA
+GPRO,GoPro Inc,Technology,Consumer Electronics,USA
+GRO,Brazil Potash Corp,Basic Materials,Other Industrial Metals & Mining,Canada
+GRSD,Grandstand Ltd,Consumer Cyclical,Gambling,United Kingdom
+GRWG,GrowGeneration Corp,Consumer Cyclical,Specialty Retail,USA
+GRX,Gabelli Healthcare & WellnessRx Trust,Financial,Closed-End Fund - Equity,USA
+GSHR,Gesher Acquisition Corp II,Financial,Shell Companies,USA
+GSIT,GSI Technology Inc,Technology,Semiconductors,USA
+GSIW,Garden Stage Ltd,Financial,Capital Markets,Hong Kong
+GTERA,Globa Terra Acquisition Corp,Financial,Shell Companies,Mexico
+GUTS,Fractyl Health Inc,Healthcare,Biotechnology,USA
+GWRS,Global Water Resources Inc,Utilities,Utilities - Regulated Water,USA
+HAVA,Harvard Ave Acquisition Corp,Financial,Shell Companies,South Korea
+HCAC,Hall Chadwick Acquisition Corp,Financial,Shell Companies,Singapore
+HCAT,Health Catalyst Inc,Healthcare,Health Information Services,USA
+HCKT,Hackett Group Inc,Technology,Information Technology Services,USA
+HDRN,Hadron Energy Inc,Industrials,Specialty Industrial Machinery,USA
+HDSN,Hudson Technologies Inc,Basic Materials,Specialty Chemicals,USA
+HEQ,John Hancock Diversified Income Fund,Financial,Closed-End Fund - Equity,USA
+HERE,Here Group Ltd ADR,Consumer Cyclical,Leisure,China
+HFBL,Home Federal Bancorp Inc (Louisiana),Financial,Banks - Regional,USA
+HFFG,HF Foods Group Inc,Consumer Defensive,Food Distribution,USA
+HGLB,Highland Global Allocation Fund,Financial,Closed-End Fund - Foreign,USA
+HIT,Health In Tech Inc,Technology,Software - Application,USA
+HITI,High Tide Inc,Healthcare,Pharmaceutical Retailers,Canada
+HLP,Hongli Group Inc,Basic Materials,Steel,China
+HLXC,Helix Acquisition Corp III,Financial,Shell Companies,USA
+HMR,Heidmar Maritime Holdings Corp,Industrials,Marine Shipping,Greece
+HNNA,Hennessy Advisors Inc,Financial,Asset Management,USA
+HNVR,Hanover Bancorp Inc,Financial,Banks - Regional,USA
+HOFT,Hooker Furnishings Corp,Consumer Cyclical,"Furnishings, Fixtures & Appliances",USA
+HOUR,Hour Loop Inc,Consumer Cyclical,Internet Retail,USA
+HOVR,New Horizon Aircraft Ltd,Industrials,Aerospace & Defense,Canada
+HQI,HireQuest Inc,Industrials,Staffing & Employment Services,USA
+HRTX,Heron Therapeutics Inc,Healthcare,Biotechnology,USA
+HSDT,Solana Co,Financial,Asset Management,USA
+HTLM,HomesToLife Ltd,Consumer Cyclical,Specialty Retail,Singapore
+HTT,High Templar Tech Ltd ADR,Financial,Credit Services,China
+HUHU,HUHUTECH International Group Inc,Industrials,Specialty Industrial Machinery,China
+HUMA,Humacyte Inc,Healthcare,Biotechnology,USA
+HURA,TuHURA Biosciences Inc,Healthcare,Biotechnology,USA
+HURC,Hurco Companies Inc,Industrials,Specialty Industrial Machinery,USA
+HUYA,HUYA Inc ADR,Communication Services,Entertainment,China
+HVII,Hennessy Capital Investment Corp VII,Financial,Shell Companies,USA
+HWBK,Hawthorn Bancshares Inc,Financial,Banks - Regional,USA
+HYFT,MindWalk Holdings Corp,Healthcare,Biotechnology,USA
+HYI,Western Asset High Yield Opportunity Fund Inc,Financial,Closed-End Fund - Debt,USA
+HYNE,Hoyne Bancorp Inc,Financial,Banks - Regional,USA
+HYPR,Hyperfine Inc,Healthcare,Medical Devices,USA
+IAE,Voya Asia Pacific High Dividend Equity Income Fund,Financial,Closed-End Fund - Foreign,USA
+IAF,abrdn Australia Equity Fund Inc,Financial,Closed-End Fund - Equity,USA
+IBAC,IB Acquisition Corp,Financial,Shell Companies,USA
+IBIO,iBio Inc,Healthcare,Biotechnology,USA
+IBO,Impact BioMedical Inc,Healthcare,Biotechnology,USA
+ICCC,Immucell Corp,Healthcare,Biotechnology,USA
+IDAC,Iron Dome Acquisition I Corp,Financial,Shell Companies,USA
+IDE,"Voya Infrastructure, Industrials and Materials Fund",Financial,Closed-End Fund - Equity,USA
+IDN,Intellicheck Inc,Technology,Software - Application,USA
+IGA,Voya Global Advantage and Premium Opportunity Fund,Financial,Closed-End Fund - Foreign,USA
+IGAC,Invest Green Acquisition Corp,Financial,Shell Companies,USA
+IGI,Western Asset Investment Grade Opportunity Trust Inc,Financial,Closed-End Fund - Debt,USA
+IHD,Voya Emerging Markets High Dividend Equity Fund,Financial,Closed-End Fund - Foreign,USA
+IIF,Morgan Stanley India Investment Fund Inc,Financial,Closed-End Fund - Foreign,USA
+III,Information Services Group Inc,Technology,Information Technology Services,USA
+IMA,ImageneBio Inc,Healthcare,Biotechnology,USA
+IMDX,Insight Molecular Diagnostics Inc,Healthcare,Diagnostics & Research,USA
+IMMP,Immutep Limited ADR,Healthcare,Biotechnology,Australia
+IMMR,Immersion Corp,Technology,Software - Application,USA
+IMPP,Imperial Petroleum Inc,Energy,Oil & Gas Midstream,Greece
+IMUX,Immunic Inc,Healthcare,Biotechnology,USA
+INAC,Indigo Acquisition Corp,Financial,Shell Companies,USA
+INBK,First Internet Bancorp,Financial,Banks - Regional,USA
+INCR,Intercure Ltd,Healthcare,Drug Manufacturers - Specialty & Generic,Israel
+INDP,Indaptus Therapeutics Inc,Healthcare,Biotechnology,USA
+INFU,InfuSystem Holdings Inc,Healthcare,Medical Devices,USA
+INGN,Inogen Inc,Healthcare,Medical Devices,USA
+INKT,MiNK Therapeutics Inc,Healthcare,Biotechnology,USA
+INMB,INmune Bio Inc,Healthcare,Biotechnology,USA
+INO,Inovio Pharmaceuticals Inc,Healthcare,Biotechnology,USA
+INSE,Inspired Entertainment Inc,Consumer Cyclical,Gambling,USA
+INSG,Inseego Corp,Technology,Communication Equipment,USA
+INTG,Intergroup Corp,Consumer Cyclical,Lodging,USA
+INTT,Intest Corp,Technology,Semiconductor Equipment & Materials,USA
+INV,Innventure Inc,Financial,Asset Management,USA
+INVE,Identiv Inc,Industrials,Building Products & Equipment,USA
+INVZ,Innoviz Technologies Ltd,Consumer Cyclical,Auto Parts,Israel
+IONR,ioneer Ltd ADR,Basic Materials,Other Industrial Metals & Mining,Australia
+IOR,Income Opportunity Realty Investors Inc,Financial,Mortgage Finance,USA
+IPCX,Air Water Ventures Ltd,Financial,Shell Companies,USA
+IPEX,Inflection Point Acquisition Corp V,Financial,Shell Companies,USA
+IPHA,Innate Pharma ADR,Healthcare,Biotechnology,France
+IPVV,InterPrivate Investment Partners V Inc,Financial,Shell Companies,USA
+IPWR,Ideal Power Inc,Technology,Semiconductors,USA
+IRAB,Iris Acquisition Corp II,Financial,Shell Companies,United Arab Emirates
+IRHO,Iron Horse Acquisitions II Corp,Financial,Shell Companies,USA
+ISNR,Snow Rothschild Acquisition Corp,Financial,Shell Companies,USA
+ISPR,Ispire Technology Inc,Consumer Defensive,Tobacco,USA
+IVVD,Invivyd Inc,Healthcare,Biotechnology,USA
+IZEA,IZEA Worldwide Inc,Communication Services,Advertising Agencies,USA
+JAB,JAB Acquisition Corp I,Financial,Shell Companies,USA
+JAKK,Jakks Pacific Inc,Consumer Cyclical,Leisure,USA
+JATT,Jatt II Acquisition Corp,Financial,Shell Companies,USA
+JCE,Nuveen Core Equity Alpha Fund,Financial,Closed-End Fund - Equity,USA
+JELD,JELD-WEN Holding Inc,Industrials,Building Products & Equipment,USA
+JFB,JFB Construction Holdings,Real Estate,Real Estate - Development,USA
+JFIN,Jiayin Group Inc ADR,Financial,Credit Services,China
+JHI,John Hancock Investors Trust,Financial,Closed-End Fund - Debt,USA
+JHS,John Hancock Income Securities Trust,Financial,Closed-End Fund - Debt,USA
+JILL,J.Jill Inc,Consumer Cyclical,Apparel Retail,USA
+JLHL,Julong Holding Ltd,Industrials,Building Products & Equipment,China
+JLS,Nuveen Mortgage and Income Fund,Financial,Closed-End Fund - Debt,USA
+JMM,Nuveen Multi-Market Income Fund,Financial,Closed-End Fund - Debt,USA
+JONEU,Jones Ventures INTL Acquisition1 Corp,Financial,Shell Companies,USA
+JRS,Nuveen Real Estate Income Fund,Financial,Closed-End Fund - Debt,USA
+JRSH,Jerash holdings (US) Inc,Consumer Cyclical,Apparel Manufacturing,USA
+JRVR,James River Group Holdings Inc,Financial,Insurance - Specialty,USA
+JXG,JX Luxventure Group Inc,Consumer Cyclical,Apparel Manufacturing,China
+JYNT,Joint Corp,Healthcare,Medical Care Facilities,USA
+KAZR,Skyline Builders Group Holding Ltd,Industrials,Engineering & Construction,Hong Kong
+KCA-U,Kensington Capital Acquisition Corp VI,Financial,Shell Companies,USA
+KCAC-U,Kensington Capital Acquisition Corp VI,Financial,Shell Companies,USA
+KEQU,Kewaunee Scientific Corp,Consumer Cyclical,"Furnishings, Fixtures & Appliances",USA
+KF,Korea Fund Inc,Financial,Closed-End Fund - Foreign,USA
+KG,Kestrel Group Ltd,Financial,Insurance - Reinsurance,Bermuda
+KGEI,Kolibri Global Energy Inc,Energy,Oil & Gas E&P,USA
+KINS,Kingstone Cos. Inc,Financial,Insurance - Property & Casualty,USA
+KLC,KinderCare Learning Companies Inc,Consumer Defensive,Education & Training Services,USA
+KLRS,Kalaris Therapeutics Inc,Healthcare,Biotechnology,USA
+KLTR,Kaltura Inc,Technology,Software - Application,USA
+KNDI,Kandi Technologies Group Inc,Consumer Cyclical,Recreational Vehicles,China
+KPET,KPET Ultra Paceline Corp,Financial,Shell Companies,USA
+KRMD,KORU Medical Systems Inc,Healthcare,Medical Instruments & Supplies,USA
+KROS,Keros Therapeutics Inc,Healthcare,Biotechnology,USA
+KRRO,Korro Bio Inc,Healthcare,Biotechnology,USA
+KTWO,K2 Capital Acquisition Corp,Financial,Shell Companies,Cayman Islands
+KULR,KULR Technology Group Inc,Technology,Electronic Components,USA
+KVHI,KVH Industries Inc,Communication Services,Telecom Services,USA
+KWY,Kingsway Corp,Financial,Asset Management,USA
+KZIA,Kazia Therapeutics Limited ADR,Healthcare,Biotechnology,Australia
+LAB,Standard BioTools Inc,Healthcare,Medical Devices,USA
+LAFA,Lafayette Acquisition Corp,Financial,Shell Companies,France
+LAKE,Lakeland Industries Inc,Consumer Cyclical,Apparel Manufacturing,USA
+LANV,Lanvin Group Holdings Limited,Consumer Cyclical,Luxury Goods,China
+LARK,Landmark Bancorp Inc,Financial,Banks - Regional,USA
+LASE,Laser Photonics Corp,Industrials,Specialty Industrial Machinery,USA
+LATA,Galata Acquisition Corp II,Financial,Shell Companies,USA
+LAW,CS Disco Inc,Technology,Software - Application,USA
+LCCC,Lakeshore Acquisition III Corp,Financial,Shell Companies,USA
+LCNB,LCNB Corp,Financial,Banks - Regional,USA
+LCTX,Lineage Cell Therapeutics Inc,Healthcare,Biotechnology,USA
+LCUT,Lifetime Brands Inc,Consumer Cyclical,"Furnishings, Fixtures & Appliances",USA
+LDI,LoanDepot Inc,Financial,Mortgage Finance,USA
+LEE,Lee Enterprises Inc,Communication Services,Publishing,USA
+LENZ,LENZ Therapeutics Inc,Healthcare,Biotechnology,USA
+LFAC,Leapfrog Acquisition Corp,Financial,Shell Companies,USA
+LFCR,Lifecore Biomedical Inc,Healthcare,Drug Manufacturers - Specialty & Generic,USA
+LFMD,LifeMD Inc,Healthcare,Health Information Services,USA
+LFS,Leifras Co Ltd ADR,Communication Services,Entertainment,Japan
+LFVN,Lifevantage Corp,Consumer Defensive,Packaged Foods,USA
+LGCY,Legacy Education Inc,Consumer Defensive,Education & Training Services,USA
+LGI,Lazard Global Total Return and Income Fund Inc,Financial,Closed-End Fund - Foreign,USA
+LGL,LGL Group Inc,Technology,Scientific & Technical Instruments,USA
+LGO,Largo Inc,Basic Materials,Other Industrial Metals & Mining,Canada
+LIDR,AEye Inc,Technology,Software - Infrastructure,USA
+LIEN,Chicago Atlantic BDC Inc,Financial,Asset Management,USA
+LINK,Interlink Electronics,Technology,Electronic Components,USA
+LITB,LightInTheBox Holding Co Ltd ADR,Consumer Cyclical,Internet Retail,Singapore
+LKSP,Lake Superior Acquisition Corp,Financial,Shell Companies,USA
+LMNR,Limoneira Co,Consumer Defensive,Farm Products,USA
+LNSR,LENSAR Inc,Healthcare,Medical Devices,USA
+LNZA,LanzaTech Global Inc,Industrials,Waste Management,USA
+LODE,Comstock Inc,Basic Materials,Other Precious Metals & Mining,USA
+LONA,LeonaBio Inc,Healthcare,Biotechnology,USA
+LOVE,Lovesac Company,Consumer Cyclical,"Furnishings, Fixtures & Appliances",USA
+LPA,Logistic Properties of the Americas,Real Estate,Real Estate - Development,USA
+LPAA,Launch One Acquisition Corp,Financial,Shell Companies,USA
+LPCV,Launchpad Cadenza Acquisition Corp I,Financial,Shell Companies,USA
+LSBK,Lake Shore Bancorp Inc,Financial,Banks - Regional,USA
+LSE,Leishen Energy Holding Co Ltd,Energy,Oil & Gas Equipment & Services,China
+LSF,Laird Superfood Inc,Consumer Defensive,Packaged Foods,USA
+LTBR,Lightbridge Corp,Industrials,Electrical Equipment & Parts,USA
+LTGR,Long Table Growth Corp,Financial,Shell Companies,USA
+LTRX,Lantronix Inc,Technology,Communication Equipment,USA
+LUCD,Lucid Diagnostics Inc,Healthcare,Medical Devices,USA
+LUD,Luda Technology Group Ltd,Basic Materials,Steel,Hong Kong
+LUNG,Pulmonx Corp,Healthcare,Medical Devices,USA
+LVO,LiveOne Inc,Communication Services,Internet Content & Information,USA
+LVWR,LiveWire Group Inc,Consumer Cyclical,Auto Manufacturers,USA
+LX,LexinFintech Holdings Ltd ADR,Financial,Credit Services,China
+MACI,Melar Acquisition Corp I,Financial,Shell Companies,USA
+MAIA,MAIA Biotechnology Inc,Healthcare,Biotechnology,USA
+MAYS,J.W. Mays Inc,Real Estate,Real Estate Services,USA
+MB,Masterbeef Group,Consumer Cyclical,Restaurants,Hong Kong
+MBI,MBIA Inc,Financial,Insurance - Specialty,USA
+MBOT,Microbot Medical Inc,Healthcare,Medical Devices,USA
+MCAH,Mountain Crest Acquisition 6 Corp,Financial,Shell Companies,USA
+MCGA,Yorkville Acquisition Corp,Financial,Shell Companies,USA
+MCHX,Marchex Inc,Communication Services,Advertising Agencies,USA
+MCN,XAI Madison Equity Premium Income Fund,Financial,Closed-End Fund - Equity,USA
+MDAI,Spectral AI Inc,Healthcare,Medical Devices,USA
+MDIA,MediaCo Holding Inc,Communication Services,Broadcasting,USA
+MDV,Modiv Industrial Inc,Real Estate,REIT - Industrial,USA
+MDWD,MediWound Ltd,Healthcare,Biotechnology,Israel
+MED,Medifast Inc,Consumer Cyclical,Personal Services,USA
+MENS,Jyong Biotech Ltd,Healthcare,Biotechnology,Taiwan
+MFIN,Medallion Financial Corp,Financial,Credit Services,USA
+MGF,Aberdeen Government Markets Income Fund,Financial,Closed-End Fund - Debt,USA
+MGNX,Macrogenics Inc,Healthcare,Biotechnology,USA
+MGYR,Magyar Bancorp Inc,Financial,Banks - Regional,USA
+MHF,Western Asset Municipal High Income Fund Inc,Financial,Closed-End Fund - Debt,USA
+MHH,Mastech Digital Inc,Industrials,Staffing & Employment Services,USA
+MIACU,Meridian3 Industrials Acquisition Corp,Financial,Shell Companies,USA
+MIN,Aberdeen Intermediate Income Fund,Financial,Closed-End Fund - Debt,USA
+MINE,Mayfair Gold Corp,Basic Materials,Gold,Canada
+MIST,Milestone Pharmaceuticals Inc,Healthcare,Biotechnology,Canada
+MITT,TPG Mortgage Investment Trust Inc,Real Estate,REIT - Mortgage,USA
+MKLY,McKinley Acquisition Corp,Financial,Shell Companies,USA
+MLGO,MicroAlgo Inc,Technology,Software - Infrastructure,China
+MMD,NYLI MacKay DefinedTerm Muni Opportunities Fund,Financial,Closed-End Fund - Debt,USA
+MMLP,Martin Midstream Partners LP,Energy,Oil & Gas Midstream,USA
+MMTX,Miluna Acquisition Corp,Financial,Shell Companies,Taiwan
+MNOV,Medicinova Inc,Healthcare,Biotechnology,USA
+MNSB,MainStreet Bancshares Inc,Financial,Banks - Regional,USA
+MNTK,Montauk Renewables Inc,Basic Materials,Specialty Chemicals,USA
+MNTS,Momentus Inc,Industrials,Aerospace & Defense,USA
+MOB,Mobilicom Limited,Industrials,Aerospace & Defense,Israel
+MOLN,Molecular Partners AG ADR,Healthcare,Biotechnology,Switzerland
+MOVE,Corvex Inc,Technology,Software - Infrastructure,USA
+MPA,BlackRock MuniYield Pennsylvania Quality Fund,Financial,Closed-End Fund - Debt,USA
+MPAA,Motorcar Parts of America Inc,Consumer Cyclical,Auto Parts,USA
+MRBK,Meridian Corp,Financial,Banks - Regional,USA
+MRCOU,Mercator Acquisition Corp,Financial,Shell Companies,USA
+MRDN,Meridian Holdings Inc,Consumer Cyclical,Gambling,USA
+MRT,Marti Technologies Inc,Technology,Software - Application,Turkey
+MSD,Morgan Stanley Emerging Markets Debt Fund Inc,Financial,Closed-End Fund - Debt,USA
+MSLE,Satellos Bioscience Inc,Healthcare,Biotechnology,Canada
+MTAKU,Market Technology Acquisition Corp,Financial,Shell Companies,USA
+MTNE,CH4 Natural Solutions Corp,Financial,Shell Companies,USA
+MTNE-U,CH4 Natural Solutions Corp,Financial,Shell Companies,USA
+MUZE,Muzero Acquisition Corp,Financial,Shell Companies,USA
+MVST,Microvast Holdings Inc,Consumer Cyclical,Auto Parts,USA
+MWC,Micware Co Ltd ADR,Consumer Cyclical,Auto Parts,Japan
+MX,MagnaChip Semiconductor Corp,Technology,Semiconductors,South Korea
+MXCT,MaxCyte Inc,Healthcare,Medical Devices,USA
+MXE,Mexico Equity And Income Fund Inc,Financial,Closed-End Fund - Foreign,USA
+MYGN,Myriad Genetics Inc,Healthcare,Diagnostics & Research,USA
+MYO,Myomo Inc,Healthcare,Medical Devices,USA
+MYPS,PLAYSTUDIOS Inc,Communication Services,Electronic Gaming & Multimedia,USA
+MYX,Maywood Acquisition Corp 2,Financial,Shell Companies,USA
+NAAS,Naas Technology Inc ADR,Consumer Cyclical,Specialty Retail,China
+NAGE,Niagen Bioscience Inc,Healthcare,Biotechnology,USA
+NAKA,Nakamoto Inc,Financial,Capital Markets,USA
+NAMM,Namib Minerals,Basic Materials,Gold,Cayman Islands
+NATR,Nature's Sunshine Products Inc,Consumer Defensive,Packaged Foods,USA
+NAUT,Nautilus Biotechnology Inc,Healthcare,Biotechnology,USA
+NAZ,Nuveen Arizona Quality Municipal Income Fund,Financial,Closed-End Fund - Debt,USA
+NBP,NovaBridge Biosciences ADR,Healthcare,Biotechnology,USA
+NBRG,Newbridge Acquisition Ltd,Financial,Shell Companies,Hong Kong
+NCEW,New Century Logistics (BVI) Ltd,Industrials,Integrated Freight & Logistics,Hong Kong
+NCMI,National Cinemedia Inc,Communication Services,Advertising Agencies,USA
+NCO,Southern Cross Acquisition I Corp,Financial,Shell Companies,USA
+NCSM,NCS Multistage Holdings Inc,Energy,Oil & Gas Equipment & Services,USA
+NCTY,The9 Limited ADR,Financial,Capital Markets,China
+NDLS,Noodles & Company,Consumer Cyclical,Restaurants,USA
+NEN,New England Realty Associates LP,Real Estate,Real Estate Services,USA
+NEOV,NeoVolta Inc,Industrials,Electrical Equipment & Parts,USA
+NERV,Minerva Neurosciences Inc,Healthcare,Biotechnology,USA
+NEXM,NexMetals Mining Corp,Basic Materials,Other Industrial Metals & Mining,Canada
+NFE,New Fortress Energy Inc,Energy,Oil & Gas Midstream,USA
+NGEN,NervGen Pharma Corp,Healthcare,Biotechnology,Canada
+NHIC,NewHold Investment Corp III,Financial,Shell Companies,USA
+NHIV,NewHold Investment Corp IV,Financial,Shell Companies,USA
+NHS,Neuberger High Yield Strategies Fund Inc,Financial,Closed-End Fund - Debt,USA
+NIM,Nuveen Select Maturities Municipal Fund,Financial,Closed-End Fund - Debt,USA
+NIU,Niu Technologies ADR,Consumer Cyclical,Auto Manufacturers,China
+NKSH,National Bankshares Inc,Financial,Banks - Regional,USA
+NKTX,Nkarta Inc,Healthcare,Biotechnology,USA
+NLOP,Net Lease Office Properties,Real Estate,REIT - Office,USA
+NMAD,Nomad Power Solutions Inc,Industrials,Electrical Equipment & Parts,USA
+NMI,Nuveen Municipal Income Fund,Financial,Closed-End Fund - Debt,USA
+NMP,NMP Acquisition Corp,Financial,Shell Companies,USA
+NMRA,Neumora Therapeutics Inc,Healthcare,Biotechnology,USA
+NMS,Nuveen Minnesota Quality Municipal Income Fund,Financial,Closed-End Fund - Debt,USA
+NMT,Nuveen Massachusetts Quality Municipal Income Fund,Financial,Closed-End Fund - Debt,USA
+NNOX,Nano X Imaging Ltd,Healthcare,Medical Devices,Israel
+NNY,Nuveen New York Municipal Value Fund,Financial,Closed-End Fund - Debt,USA
+NOEM,CO2 Energy Transition Corp,Financial,Shell Companies,USA
+NPCT,Nuveen Core Plus Impact Fund,Financial,Closed-End Fund - Debt,USA
+NPT,Texxon Holding Ltd,Consumer Cyclical,Specialty Retail,China
+NPV,Nuveen Virginia Quality Municipal Income Fund,Financial,Closed-End Fund - Debt,USA
+NRDY,Nerdy Inc,Technology,Software - Application,USA
+NRO,Neuberger Real Estate Securities Income Fund Inc,Financial,Closed-End Fund - Equity,USA
+NRT,North European Oil Royalty Trust,Energy,Oil & Gas E&P,USA
+NRXP,NRX Pharmaceuticals Inc,Healthcare,Biotechnology,USA
+NRXS,Neuraxis Inc,Healthcare,Biotechnology,USA
+NSLR,Neostellar Capital Corp,Financial,Asset Management,USA
+NSTS,NSTS Bancorp Inc,Financial,Banks - Regional,USA
+NTHI,NeOnc Technologies Holdings Inc,Healthcare,Biotechnology,USA
+NTIC,Northern Technologies International Corp,Basic Materials,Specialty Chemicals,USA
+NTWO,Newbury Street II Acquisition Corp,Financial,Shell Companies,USA
+NUCL,Eagle Nuclear Energy Corp,Energy,Uranium,USA
+NUS,Nu Skin Enterprises Inc,Consumer Defensive,Household & Personal Products,USA
+NUW,Nuveen AMT-Free Municipal Value Fund,Financial,Closed-End Fund - Debt,USA
+NVA,Nova Minerals Corp,Basic Materials,Other Industrial Metals & Mining,USA
+NVX,Novonix Limited ADR,Industrials,Electrical Equipment & Parts,Australia
+NXB,NextBoat Inc,Consumer Cyclical,Auto & Truck Dealerships,USA
+NXDT,NexPoint Diversified Real Estate Trust,Real Estate,REIT - Diversified,USA
+NYXH,Nyxoah SA,Healthcare,Medical Instruments & Supplies,Belgium
+OACC,Oaktree Acquisition Corp III Life Sciences,Financial,Shell Companies,USA
+OBIO,Orchestra BioMed Holdings Inc,Healthcare,Biotechnology,USA
+OCAC,Ocean Capital Acquisition Corp,Financial,Shell Companies,USA
+OCC,Optical Cable Corp,Technology,Communication Equipment,USA
+OCCI,OFS Credit Company Inc,Financial,Closed-End Fund - Debt,USA
+OCLTU,Oceanlight Acquisition Corp,Financial,Shell Companies,USA
+ODYS,Odysight.ai Inc,Technology,Scientific & Technical Instruments,Israel
+OESX,Orion Energy Systems Inc,Industrials,Electrical Equipment & Parts,USA
+OFLX,Omega Flex Inc,Industrials,Specialty Industrial Machinery,USA
+OGI,Organigram Global Inc,Healthcare,Drug Manufacturers - Specialty & Generic,Canada
+OHAC,Oceanhawk Acquisition Corp,Financial,Shell Companies,USA
+OIA,Invesco Municipal Income Opportunities Trust,Financial,Closed-End Fund - Debt,USA
+OKUR,OnKure Therapeutics Inc,Healthcare,Biotechnology,USA
+OKYO,OKYO Pharma Limited,Healthcare,Biotechnology,United Kingdom
+OM,Outset Medical Inc,Healthcare,Medical Devices,USA
+OMSE,OMS Energy Technologies Inc,Energy,Oil & Gas Equipment & Services,Singapore
+ONCH,1RT Acquisition Corp,Financial,Shell Companies,USA
+ONCY,Oncolytics Biotech Inc,Healthcare,Biotechnology,USA
+ONEW,Onewater Marine Inc,Consumer Cyclical,Specialty Retail,USA
+ONL,Orion Properties Inc,Real Estate,REIT - Office,USA
+OPBK,OP Bancorp,Financial,Banks - Regional,USA
+OPHC,Optimumbank Holdings Inc,Financial,Banks - Regional,USA
+OPP,RiverNorth/DoubleLine Strategic opportunity fund Inc,Financial,Closed-End Fund - Debt,USA
+OPRX,OptimizeRx Corp,Healthcare,Health Information Services,USA
+OPTT,Ocean Power Technologies,Industrials,Specialty Industrial Machinery,USA
+OPXS,Optex Systems Holdings Inc,Industrials,Aerospace & Defense,USA
+ORBS,Eightco Holdings Inc,Consumer Cyclical,Packaging & Containers,USA
+ORGO,Organogenesis Holdings Inc,Healthcare,Drug Manufacturers - Specialty & Generic,USA
+ORIQ,Origin Investment Corp I,Financial,Shell Companies,Singapore
+ORMP,Oramed Pharmaceuticals Inc,Healthcare,Biotechnology,USA
+OSG,Octave Specialty Group Inc,Financial,Insurance - Specialty,USA
+OSTX,OS Therapies Inc,Healthcare,Biotechnology,USA
+OSUR,Orasure Technologies Inc,Healthcare,Medical Instruments & Supplies,USA
+OTAI,Starlink AI Acquisition Corp,Financial,Shell Companies,USA
+OTLK,Outlook Therapeutics Inc,Healthcare,Biotechnology,USA
+OVBC,Ohio Valley Banc Corp,Financial,Banks - Regional,USA
+OVLY,Oak Valley Bancorp,Financial,Banks - Regional,USA
+OWLT,Owlet Inc,Healthcare,Medical Devices,USA
+OXSQ,Oxford Square Capital Corp,Financial,Asset Management,USA
+OZ,Belpointe PREP LLC,Real Estate,Real Estate - Development,USA
+PAAC,Proem Acquisition Corp I,Financial,Shell Companies,USA
+PACH,Pioneer Acquisition I Corp,Financial,Shell Companies,USA
+PAI,Western Asset Investment Grade Income Fund Inc,Financial,Closed-End Fund - Debt,USA
+PAII,Pyrophyte Acquisition Corp II,Financial,Shell Companies,USA
+PAL,Proficient Auto Logistics Inc,Industrials,Integrated Freight & Logistics,USA
+PALO,Paloma Acquisition Corp I,Financial,Shell Companies,USA
+PAMT,PAMT Corp,Industrials,Trucking,USA
+PARK,Park Dental Partners Inc,Healthcare,Medical Care Facilities,USA
+PBHC,Pathfinder Bancorp Inc,Financial,Banks - Regional,USA
+PCF,High Income Securities Fund,Financial,Closed-End Fund - Debt,USA
+PCLA,PicoCELA Inc ADR,Communication Services,Telecom Services,Japan
+PCM,PCM Fund Inc,Financial,Closed-End Fund - Debt,USA
+PCYO,Pure Cycle Corp,Utilities,Utilities - Regulated Water,USA
+PDCC,Pearl Diver Credit Company Inc,Financial,Asset Management,USA
+PDEX,Pro-Dex Inc,Healthcare,Medical Instruments & Supplies,USA
+PEBK,Peoples Bancorp Of North Carolina Inc,Financial,Banks - Regional,USA
+PECE,Peace Acquisition Corp,Financial,Shell Companies,USA
+PED,PEDEVCO Corp,Energy,Oil & Gas E&P,USA
+PEPG,PepGen Inc,Healthcare,Biotechnology,USA
+PERF,Perfect Corp,Technology,Software - Application,Taiwan
+PEW,GrabAGun Digital Holdings Inc,Industrials,Aerospace & Defense,USA
+PFD,Flaherty & Crumrine Preferred and Income Fund Inc,Financial,Closed-End Fund - Debt,USA
+PFO,Flaherty & Crumrine Preferred and Income Opportunity Fund Inc,Financial,Closed-End Fund - Debt,USA
+PFX,PhenixFIN Corp,Financial,Asset Management,USA
+PGP,Pimco Global StocksPLUS & Income Fund,Financial,Closed-End Fund - Foreign,USA
+PGZ,Principal Real Estate Income Fund,Financial,Closed-End Fund - Debt,USA
+PIII,P3 Health Partners Inc,Healthcare,Medical Care Facilities,USA
+PIM,Franklin Master Intermediate Income Trust,Financial,Closed-End Fund - Debt,USA
+PLBY,Playboy Inc,Consumer Cyclical,Leisure,USA
+PLCI,Pelican Acquisition II Corp,Financial,Shell Companies,USA
+PLG,Platinum Group Metals Ltd,Basic Materials,Other Precious Metals & Mining,Canada
+PLMK,Plum Acquisition Corp IV,Financial,Shell Companies,USA
+PLRX,Pliant Therapeutics Inc,Healthcare,Biotechnology,USA
+PLUN,Plutonian Acquisition Corp II,Financial,Shell Companies,USA
+PLX,Protalix BioTherapeutics Inc,Healthcare,Biotechnology,USA
+PLYX,Polaryx Therapeutics Inc,Healthcare,Biotechnology,USA
+PMM,Franklin Managed Municipal Income Trust,Financial,Closed-End Fund - Debt,USA
+PMN,ProMIS Neurosciences Inc,Healthcare,Biotechnology,Canada
+PMO,Franklin Municipal Opportunities Trust,Financial,Closed-End Fund - Debt,USA
+PMVP,PMV Pharmaceuticals Inc,Healthcare,Biotechnology,USA
+PNAQ-U,Pinnacle Acquisition Corp,Financial,Shell Companies,USA
+PNBK,Patriot National Bancorp Inc,Financial,Banks - Regional,USA
+PNNT,PennantPark Investment Corp,Financial,Asset Management,USA
+PODC,PodcastOne Inc,Communication Services,Internet Content & Information,USA
+PONO,Pono Capital Four Inc,Financial,Shell Companies,Cayman Islands
+POWW,Outdoor Holding Co,Industrials,Aerospace & Defense,USA
+PPIH,Perma-Pipe International Holdings Inc,Industrials,Building Products & Equipment,USA
+PROF,Profound Medical Corp,Healthcare,Medical Devices,Canada
+PROP,Prairie Operating Co,Energy,Oil & Gas E&P,USA
+PROV,Provident Financial Holdings Inc,Financial,Banks - Regional,USA
+PRQR,ProQR Therapeutics N.V,Healthcare,Biotechnology,Netherlands
+PRTS,CarParts.com Inc,Consumer Cyclical,Auto Parts,USA
+PSF,Cohen & Steers Select Preferred and Income Fund Inc,Financial,Closed-End Fund - Debt,USA
+PTAC,Patriot Acquisition Corp,Financial,Shell Companies,USA
+PTHS,Pelthos Therapeutics Inc,Healthcare,Biotechnology,USA
+PUSA,Aureus Greenway Holdings Inc,Consumer Cyclical,Leisure,USA
+PVL,Permianville Royalty Trust,Energy,Oil & Gas E&P,USA
+PXS,Pyxis Tankers Inc,Energy,Oil & Gas Midstream,Greece
+PYPD,Polypid Ltd,Healthcare,Biotechnology,Israel
+PYXS,Pyxis Oncology Inc,Healthcare,Biotechnology,USA
+PZG,Paramount Gold Nevada Corp,Basic Materials,Gold,USA
+QADR,QDRO Acquisition Corp,Financial,Shell Companies,USA
+QLEP,Quantum Leap Acquisition Corp,Financial,Shell Companies,USA
+QMLS,QumulusAI Inc,Technology,Software - Infrastructure,USA
+QRED,Quasaredge Acquisition Corp,Financial,Shell Companies,USA
+QSEA,Quartzsea Acquisition Corp,Financial,Shell Companies,USA
+QSI,Quantum-Si Incorporated,Healthcare,Medical Devices,USA
+QTRX,Quanterix Corp,Healthcare,Medical Devices,USA
+QUCY,Quantum Cyber NV,Healthcare,Diagnostics & Research,USA
+QUIK,Quicklogic Corp,Technology,Semiconductors,USA
+QUMS,Quantumsphere Acquisition Corp,Financial,Shell Companies,USA
+QVCG,QVC Group Inc,Consumer Cyclical,Specialty Retail,USA
+QXL,Quantum X Labs Inc,Technology,Information Technology Services,Israel
+RAC,Rithm Acquisition Corp,Financial,Shell Companies,USA
+RACC,Research Alliance Corp III,Financial,Shell Companies,USA
+RACD,Research Alliance Corp IV,Financial,Shell Companies,USA
+RAIL,FreightCar America Inc,Industrials,Railroads,USA
+RANG,Range Capital Acquisition Corp,Financial,Shell Companies,USA
+RANI,Rani Therapeutics Holdings Inc,Healthcare,Biotechnology,USA
+RBKB,Rhinebeck Bancorp Inc,Financial,Banks - Regional,USA
+RC,Ready Capital Corp,Real Estate,REIT - Mortgage,USA
+RCEL,AVITA Medical Inc,Healthcare,Medical Devices,USA
+RCMT,RCM Technologies Inc,Industrials,Conglomerates,USA
+RCS,PIMCO Strategic Income Fund Inc,Financial,Closed-End Fund - Debt,USA
+RDCM,Radcom,Communication Services,Telecom Services,Israel
+RDI,Reading International Inc,Communication Services,Entertainment,USA
+RDNW,RideNow Group Inc,Consumer Cyclical,Auto & Truck Dealerships,USA
+RDZN,Roadzen Inc,Technology,Software - Application,USA
+REA,Rare Earths Americas Inc,Basic Materials,Other Industrial Metals & Mining,USA
+REFI,Chicago Atlantic Real Estate Finance Inc,Real Estate,REIT - Mortgage,USA
+REKR,Rekor Systems Inc,Technology,Software - Infrastructure,USA
+RELL,Richardson Electronics Ltd,Technology,Electronic Components,USA
+RENT,Rent the Runway Inc,Consumer Cyclical,Apparel Retail,USA
+RETO,ReTo Eco-Solutions Inc,Basic Materials,Building Materials,China
+RFAI,RF Acquisition Corp II,Financial,Shell Companies,Singapore
+RFAM,RF Acquisition Corp III,Financial,Shell Companies,Singapore
+RFIL,RF Industries Ltd,Industrials,Electrical Equipment & Parts,USA
+RFL,Rafael Holdings Inc,Real Estate,Real Estate Services,USA
+RFM,RiverNorth Flexible Municipal Income Fund Inc,Financial,Asset Management,USA
+RGCO,RGC Resources Inc,Utilities,Utilities - Regulated Gas,USA
+RGP,Resources Connection Inc,Industrials,Consulting Services,USA
+RGS,Regis Corp,Consumer Cyclical,Personal Services,USA
+RGT,Royce Global Trust Inc,Financial,Closed-End Fund - Equity,USA
+RIBB,Ribbon Acquisition Corp,Financial,Shell Companies,Japan
+RICK,RCI Hospitality Holdings Inc,Consumer Cyclical,Restaurants,USA
+RILY,BRC Group Holdings Inc,Financial,Financial Conglomerates,USA
+RLTY,Cohen & Steers Real Estate Opportunities and Income Fund,Financial,Closed-End Fund - Debt,USA
+RLYB,Rallybio Corp,Healthcare,Biotechnology,USA
+RMBI,Richmond Mutual Bancorporation Inc,Financial,Banks - Regional,USA
+RMI,RiverNorth Opportunistic Municipal Income Fund Inc,Financial,Closed-End Fund - Debt,USA
+RMM,RiverNorth Managed Duration Municipal Income Fund Inc,Financial,Closed-End Fund - Debt,USA
+RNA,Atrium Therapeutics Inc,Healthcare,Biotechnology,USA
+RNAC,Cartesian Therapeutics Inc,Healthcare,Biotechnology,USA
+RNAZ,TransCode Therapeutics Inc,Healthcare,Biotechnology,USA
+RNTX,Rein Therapeutics Inc,Healthcare,Biotechnology,USA
+RNXT,RenovoRx Inc,Healthcare,Biotechnology,USA
+ROC,Rank One Computing Corp,Technology,Software - Application,USA
+ROLR,High Roller Technologies Inc,Consumer Cyclical,Gambling,USA
+RPID,Rapid Micro Biosystems Inc,Healthcare,Medical Devices,USA
+RPT,Rithm Property Trust Inc,Real Estate,REIT - Mortgage,USA
+RRGB,Red Robin Gourmet Burgers Inc,Consumer Cyclical,Restaurants,USA
+RSF,RiverNorth Capital and Income Fund,Financial,Asset Management,USA
+RSSS,Research Solutions Inc,Technology,Software - Application,USA
+RTB,RTB Digital Inc,Technology,Software - Application,USA
+RVSB,Riverview Bancorp Inc,Financial,Banks - Regional,USA
+RWAY,Runway Growth Finance Corp,Financial,Asset Management,USA
+RXST,RxSight Inc,Healthcare,Medical Devices,USA
+RYDE,Ryde Group Ltd,Technology,Software - Application,Singapore
+RYOJ,rYojbaba Co Ltd,Industrials,Consulting Services,Japan
+SABA,Saba Capital Income & Opportunities Fund II,Financial,Asset Management,USA
+SAFX,XCF Global Inc,Utilities,Utilities - Renewable,USA
+SAGU,Shreya Acquisition Group,Financial,Shell Companies,USA
+SAMG,Silvercrest Asset Management Group Inc,Financial,Asset Management,USA
+SAMO-U,Samos Energy Acquisition Corp,Financial,Shell Companies,USA
+SANG,Sangoma Technologies Corp,Technology,Software - Infrastructure,Canada
+SBFG,SB Financial Group Inc,Financial,Banks - Regional,USA
+SBI,Western Asset Intermediate Muni Fund Inc,Financial,Closed-End Fund - Debt,USA
+SBMT,Silver Bow Mining Corp,Basic Materials,Other Industrial Metals & Mining,USA
+SBXD,SilverBox Corp IV,Financial,Shell Companies,USA
+SCII,SC II Acquisition Corp,Financial,Shell Companies,USA
+SCLX,Scilex Holding Company,Healthcare,Drug Manufacturers - General,USA
+SCM,Stellus Capital Investment Corp,Financial,Asset Management,USA
+SCOR,Comscore Inc,Technology,Software - Application,USA
+SCPQ,Social Commerce Partners Corp,Financial,Shell Companies,USA
+SCYX,Scynexis Inc,Healthcare,Drug Manufacturers - Specialty & Generic,USA
+SDA,SunCar Technology Group Inc,Consumer Cyclical,Auto & Truck Dealerships,China
+SDEV,Stablecoin Development Corp,Financial,Asset Management,USA
+SEAT,Vivid Seats Inc,Communication Services,Internet Content & Information,USA
+SEER,Seer Inc,Healthcare,Biotechnology,USA
+SELF,Global Self Storage Inc,Real Estate,REIT - Specialty,USA
+SER,Serina Therapeutics Inc,Healthcare,Biotechnology,USA
+SERA,Sera Prognostics Inc,Healthcare,Medical Devices,USA
+SES,SES AI Corp,Consumer Cyclical,Auto Parts,USA
+SEV,Aptera Motors Corp,Consumer Cyclical,Auto Manufacturers,USA
+SEVN,Seven Hills Realty Trust,Real Estate,REIT - Mortgage,USA
+SFBC,Sound Financial Bancorp Inc,Financial,Banks - Regional,USA
+SFWL,Shengfeng Development Ltd,Industrials,Integrated Freight & Logistics,China
+SGA,Saga Communications Inc,Communication Services,Broadcasting,USA
+SGC,SuperiorGroup of Companies Inc,Consumer Cyclical,Apparel Manufacturing,USA
+SHIM,Shimmick Corp,Industrials,Engineering & Construction,USA
+SHOT,RMG ML Sports Holdings,Financial,Shell Companies,USA
+SHOTU,RMG ML Sports Holdings,Financial,Shell Companies,USA
+SIDU,Sidus Space Inc,Industrials,Aerospace & Defense,USA
+SIEB,Siebert Financial Corp,Financial,Capital Markets,USA
+SIF,SIFCO Industries Inc,Industrials,Aerospace & Defense,USA
+SIGA,SIGA Technologies Inc,Healthcare,Drug Manufacturers - Specialty & Generic,USA
+SILC,Silicom Ltd,Technology,Communication Equipment,Israel
+SIMA,SIM Acquisition Corp I,Financial,Shell Companies,USA
+SIMAU,SIM Acquisition Corp I,Financial,Shell Companies,USA
+SION,Sionna Therapeutics Inc,Healthcare,Biotechnology,USA
+SITC,SITE Centers Corp,Real Estate,REIT - Retail,USA
+SJT,San Juan Basin Royalty Trust,Energy,Oil & Gas E&P,USA
+SKIL,Skillsoft Corp,Consumer Defensive,Education & Training Services,USA
+SKIN,SkinHealth Systems Inc,Consumer Defensive,Household & Personal Products,USA
+SKYX,SKYX Platforms Corp,Industrials,Electrical Equipment & Parts,USA
+SLGL,Sol-Gel Technologies Ltd,Healthcare,Biotechnology,Israel
+SLNG,Stabilis Solutions Inc,Energy,Oil & Gas Integrated,USA
+SLQT,SelectQuote Inc,Financial,Insurance Brokers,USA
+SLSN,Solesence Inc,Consumer Defensive,Household & Personal Products,USA
+SMHI,SEACOR Marine Holdings Inc,Industrials,Marine Shipping,USA
+SMID,Smith-Midland Corp,Basic Materials,Building Materials,USA
+SMJF,SMJ International Holdings Inc,Consumer Cyclical,Textile Manufacturing,Singapore
+SMRT,SmartRent Inc,Technology,Software - Application,USA
+SND,Smart Sand Inc,Energy,Oil & Gas Equipment & Services,USA
+SNFCA,Security National Financial Corp,Financial,Insurance - Life,USA
+SOCA,Solarius Capital Acquisition Corp,Financial,Shell Companies,USA
+SORA,AsiaStrategy,Consumer Cyclical,Luxury Goods,Hong Kong
+SOTK,Sono-Tek Corp,Technology,Scientific & Technical Instruments,USA
+SOUL,Soulpower Acquisition Corp,Financial,Shell Companies,USA
+SOWG,Sow Good Inc,Consumer Defensive,Confectioners,USA
+SPAI,Safe Pro Group Inc,Industrials,Aerospace & Defense,USA
+SPCB,SuperCom Ltd,Industrials,Security & Protection Services,Israel
+SPE,Special Opportunities Fund Inc,Financial,Closed-End Fund - Equity,USA
+SPEG,Silver Pegasus Acquisition Corp,Financial,Shell Companies,USA
+SPKL,Spark I Acquisition Corp,Financial,Shell Companies,USA
+SPMC,Sound Point Meridian Capital Inc,Financial,Asset Management,USA
+SPOK,Spok Holdings Inc,Healthcare,Health Information Services,USA
+SPRB,Spruce Biosciences Inc,Healthcare,Biotechnology,USA
+SPRO,Spero Therapeutics Inc,Healthcare,Biotechnology,USA
+SRBK,SR Bancorp Inc,Financial,Banks - Regional,USA
+SRFM,Surf Air Mobility Inc,Industrials,Airlines,USA
+SRG,Seritage Growth Properties,Real Estate,Real Estate Services,USA
+SRI,Stoneridge Inc,Consumer Cyclical,Auto Parts,USA
+SRL,Scully Royalty Ltd,Financial,Capital Markets,China
+SRZN,Surrozen Inc,Healthcare,Biotechnology,USA
+SSAC,SPACSphere Acquisition Corp,Financial,Shell Companies,USA
+SSBI,Summit State Bank,Financial,Banks - Regional,USA
+SSEA,Starry Sea Acquisition Corp,Financial,Shell Companies,USA
+SSTI,SoundThinking Inc,Technology,Software - Application,USA
+SSTK,Shutterstock Inc,Communication Services,Internet Content & Information,USA
+STEM,Stem Inc,Utilities,Utilities - Renewable,USA
+STEX,Streamex Corp,Financial,Capital Markets,USA
+STHO,Star Holdings,Real Estate,Real Estate Services,USA
+STI,Solidion Technology Inc,Industrials,Electrical Equipment & Parts,USA
+STIM,Neuronetics Inc,Healthcare,Medical Devices,USA
+STKS,ONE Group Hospitality Inc,Consumer Cyclical,Restaurants,USA
+STRW,Strawberry Fields Reit Inc,Real Estate,REIT - Healthcare Facilities,USA
+STXS,Stereotaxis Inc,Healthcare,Medical Instruments & Supplies,USA
+SUIG,Sui Group Holdings Ltd,Financial,Credit Services,USA
+SUJA,Suja Life Inc,Consumer Defensive,Beverages - Non-Alcoholic,USA
+SUMA,SUMA Acquisition Corp,Financial,Shell Companies,Canada
+SUNS,Sunrise Realty Trust Inc,Real Estate,REIT - Mortgage,USA
+SUPX,SuperX AI Technology Ltd,Technology,Software - Infrastructure,Singapore
+SVAQ,Silicon Valley Acquisition Corp,Financial,Shell Companies,USA
+SVCC,Stellar V Capital Corp,Financial,Shell Companies,USA
+SVCO,Silvaco Group Inc,Technology,Software - Application,USA
+SWZ,Total Return Securities Fund,Financial,Closed-End Fund - Foreign,USA
+SY,So-Young International Inc ADR,Healthcare,Health Information Services,China
+SZZL,Sizzle Acquisition Corp II,Financial,Shell Companies,USA
+TARA,Protara Therapeutics Inc,Healthcare,Biotechnology,USA
+TAVI,Tavia Acquisition Corp,Financial,Shell Companies,USA
+TAYD,Taylor Devices Inc,Industrials,Specialty Industrial Machinery,USA
+TBCH,Turtle Beach Corp,Technology,Consumer Electronics,USA
+TBCVU,Thunder Bridge Capital Partners V Ltd,Financial,Shell Companies,USA
+TCBS,Texas Community Bancshares Inc,Financial,Banks - Regional,USA
+TCGX,TCGX Acquisition Corp,Financial,Shell Companies,USA
+TCRX,Tscan Therapeutics Inc,Healthcare,Biotechnology,USA
+TCX,Tucows Inc,Technology,Software - Infrastructure,Canada
+TDAC,Translational Development Acquisition Corp,Financial,Shell Companies,USA
+TDF,Templeton Dragon Fund Inc,Financial,Closed-End Fund - Foreign,USA
+TDWD,Tailwind 2.0 Acquisition Corp,Financial,Shell Companies,USA
+TEAD,Teads Holding Co,Communication Services,Internet Content & Information,USA
+TELO,Telomir Pharmaceuticals Inc,Healthcare,Biotechnology,USA
+TENX,Tenax Therapeutics Inc,Healthcare,Biotechnology,USA
+TG,Tredegar Corp,Industrials,Metal Fabrication,USA
+TGEN,Tecogen Inc,Industrials,Electrical Equipment & Parts,USA
+THEO,BOA Acquisition Corp II,Financial,Shell Companies,USA
+THRY,Thryv Holdings Inc,Technology,Software - Application,USA
+TII,Titan Mining Corp,Basic Materials,Other Industrial Metals & Mining,Canada
+TIL,Instil Bio Inc,Healthcare,Biotechnology,USA
+TISI,Team Inc,Industrials,Specialty Business Services,USA
+TLPH,Talphera Inc,Healthcare,Drug Manufacturers - Specialty & Generic,USA
+TLSA,Tiziana Life Sciences Ltd,Healthcare,Biotechnology,Bermuda
+TLYS,Tillys Inc,Consumer Cyclical,Apparel Retail,USA
+TMCI,Treace Medical Concepts Inc,Healthcare,Medical Devices,USA
+TNXP,Tonix Pharmaceuticals Holding Corp,Healthcare,Biotechnology,USA
+TNYA,Tenaya Therapeutics Inc,Healthcare,Biotechnology,USA
+TONT,Graf Global Corp,Financial,Shell Companies,USA
+TONX,TON Strategy Co,Technology,Software - Application,USA
+TORO,Toro Corp,Energy,Oil & Gas Midstream,Cyprus
+TOYO,TOYO Co Ltd,Technology,Solar,Japan
+TP,Ticketplus Ltd,Technology,Software - Infrastructure,Chile
+TPCS,Techprecision Corp,Industrials,Metal Fabrication,USA
+TPVG,TriplePoint Venture Growth BDC Corp,Financial,Asset Management,USA
+TRAD,APEX Tech Acquisition Inc,Financial,Shell Companies,USA
+TRAK,ReposiTrak Inc,Technology,Software - Application,USA
+TRDA,Entrada Therapeutics Inc,Healthcare,Biotechnology,USA
+TRGS,TRG Latin America Acquisitions Corp,Financial,Shell Companies,USA
+TROO,TROOPS Inc,Financial,Credit Services,Hong Kong
+TRT,Trio-Tech International,Technology,Semiconductor Equipment & Materials,USA
+TRVG,Trivago NV ADR,Communication Services,Internet Content & Information,Germany
+TSI,TCW Strategic Income Fund Inc,Financial,Closed-End Fund - Debt,USA
+TSQ,Townsquare Media Inc,Communication Services,Advertising Agencies,USA
+TSSI,TSS Inc,Technology,Information Technology Services,USA
+TTEC,TTEC Holdings Inc,Technology,Information Technology Services,USA
+TTGT,Techtarget Inc,Technology,Information Technology Services,USA
+TTRX,Turn Therapeutics Inc,Healthcare,Biotechnology,USA
+TUSK,Mammoth Energy Services Inc,Industrials,Conglomerates,USA
+TVAI,Thayer Ventures Acquisition Corp II,Financial,Shell Companies,USA
+TVIV,Texas Ventures Acquisition IV Corp,Financial,Shell Companies,USA
+TWG,Top Wealth Group Holding Ltd,Consumer Defensive,Food Distribution,Hong Kong
+TWLV,Twelve Seas Investment Company III,Financial,Shell Companies,USA
+TYGO,Tigo Energy Inc,Technology,Solar,USA
+TZOO,Travelzoo,Communication Services,Internet Content & Information,USA
+UAC,United Acquisition Corp I,Financial,Shell Companies,USA
+UAVS,AgEagle Aerial Systems Inc,Technology,Computer Hardware,USA
+UBCP,"United Bancorp Inc (Martins Ferry, OH)",Financial,Banks - Regional,USA
+UEIC,Universal Electronics Inc,Technology,Consumer Electronics,USA
+UFI,UNIFI Inc,Consumer Cyclical,Textile Manufacturing,USA
+UIS,Unisys Corp,Technology,Information Technology Services,USA
+ULBI,Ultralife Corp,Industrials,Electrical Equipment & Parts,USA
+UNB,Union Bankshares Inc,Financial,Banks - Regional,USA
+UNCY,Unicycive Therapeutics Inc,Healthcare,Biotechnology,USA
+UP,Wheels Up Experience Inc,Industrials,Airports & Air Services,USA
+UPXI,Upexi Inc,Communication Services,Internet Content & Information,USA
+USAU,U.S. Gold Corp,Basic Materials,Gold,USA
+USBC,USBC Inc,Technology,Scientific & Technical Instruments,USA
+USDE,StableCoinX Inc,Financial,Capital Markets,USA
+USGO,U.S. GoldMining Inc,Basic Materials,Other Industrial Metals & Mining,Canada
+USIO,Usio Inc,Technology,Software - Infrastructure,USA
+USNA,Usana Health Sciences Inc,Consumer Defensive,Packaged Foods,USA
+UTMD,Utah Medical Products Inc,Healthcare,Medical Instruments & Supplies,USA
+UXIN,Uxin Ltd ADR,Consumer Cyclical,Auto & Truck Dealerships,China
+UYSC,UY Scuti Acquisition Corp,Financial,Shell Companies,USA
+VABK,Virginia National Bankshares Corp,Financial,Banks - Regional,USA
+VANI,Vivani Medical Inc,Healthcare,Biotechnology,USA
+VATE,Innovate Corp,Industrials,Engineering & Construction,USA
+VBF,Invesco Bond Fund,Financial,Closed-End Fund - Debt,USA
+VECA,Vernal Capital Acquisition Corp,Financial,Shell Companies,Singapore
+VENU,Venu Holding Corp,Consumer Cyclical,Restaurants,USA
+VERI,Veritone Inc,Technology,Software - Infrastructure,USA
+VGAS,Verde Clean Fuels Inc,Utilities,Utilities - Renewable,USA
+VGI,Virtus Global Multi-Sector Income Fund,Financial,Closed-End Fund - Debt,USA
+VHC,Virnetx Holding Corp,Technology,Software - Infrastructure,USA
+VHUB,Venhub Global Inc,Consumer Defensive,Grocery Stores,USA
+VII,Viking Acquisition Corp II,Financial,Shell Companies,USA
+VIRC,Virco Manufacturing Corp,Consumer Cyclical,"Furnishings, Fixtures & Appliances",USA
+VIVO,VivoPower Plc,Technology,Software - Infrastructure,United Kingdom
+VLN,Valens Semiconductor Ltd,Technology,Semiconductors,Israel
+VLT,Invesco High Income Trust II,Financial,Closed-End Fund - Debt,USA
+VNCE,Vince Holding Corp,Consumer Cyclical,Apparel Manufacturing,USA
+VNME,Vendome Acquisition Corp I,Financial,Shell Companies,USA
+VOC,VOC Energy Trust,Energy,Oil & Gas E&P,USA
+VOGX,Vogenx Inc,Healthcare,Biotechnology,USA
+VPV,Invesco Pennsylvania Value Municipal Income Trust,Financial,Closed-End Fund - Debt,USA
+VRA,Vera Bradley Inc,Consumer Cyclical,Footwear & Accessories,USA
+VRCA,Verrica Pharmaceuticals Inc,Healthcare,Biotechnology,USA
+VRM,Vroom Inc,Financial,Credit Services,USA
+VRXA,Veraxa Biotech AG,Healthcare,Biotechnology,Switzerland
+VTIX,Virtuix Holdings Inc,Technology,Computer Hardware,USA
+VTN,Invesco Trust For Investment Grade New York Municipals,Financial,Closed-End Fund - Debt,USA
+VTVT,vTv Therapeutics Inc,Healthcare,Biotechnology,USA
+VUZI,Vuzix Corp,Technology,Consumer Electronics,USA
+VYGR,Voyager Therapeutics Inc,Healthcare,Biotechnology,USA
+WALD,Waldencast plc,Consumer Defensive,Household & Personal Products,USA
+WATR,Air Water Ventures Ltd,Consumer Defensive,Beverages - Non-Alcoholic,USA
+WATT,Energous Corp,Technology,Communication Equipment,USA
+WBX,Wallbox N.V,Technology,Electronic Components,Spain
+WDH,Waterdrop Inc ADR,Financial,Insurance - Diversified,China
+WEA,Western Asset Premier Bond Fund,Financial,Closed-End Fund - Debt,USA
+WENC,West Enclave Merger Corp,Financial,Shell Companies,Mexico
+WFCF,Where Food Comes From Inc,Industrials,Specialty Business Services,USA
+WFF,WF Holding Ltd,Industrials,Specialty Industrial Machinery,Malaysia
+WHF,WhiteHorse Finance Inc,Financial,Asset Management,USA
+WHG,Westwood Holdings Group Inc,Financial,Asset Management,USA
+WHWK,Whitehawk Therapeutics Inc,Healthcare,Biotechnology,USA
+WIA,Western Asset Inflation-Linked Income Fund,Financial,Closed-End Fund - Debt,USA
+WKEY,WISeKey International Holding Ltd ADR,Technology,Semiconductors,Switzerland
+WLII,Willow Lane Acquisition Corp II,Financial,Shell Companies,USA
+WNEB,Western New England Bancorp Inc,Financial,Banks - Regional,USA
+WNW,Meiwu Technology Company Ltd,Consumer Cyclical,Internet Retail,China
+WPAC,White Pearl Acquisition Corp,Financial,Shell Companies,USA
+WRAP,Wrap Technologies Inc,Technology,Scientific & Technical Instruments,USA
+WSBK,Winchester Bancorp Inc,Financial,Banks - Regional,USA
+WSHP,WeShop Holdings Ltd,Communication Services,Internet Content & Information,United Kingdom
+WSTN,Westin Acquisition Corp,Financial,Shell Companies,Singapore
+WTF,Waton Financial Ltd,Financial,Capital Markets,Hong Kong
+WW,WW International Inc,Healthcare,Medical Care Facilities,USA
+WWR,Westwater Resources Inc,Basic Materials,Other Industrial Metals & Mining,USA
+WYHG,Wing Yip Food Holdings Group Ltd ADR,Consumer Defensive,Packaged Foods,China
+WYY,Widepoint Corp,Technology,Information Technology Services,USA
+XBIT,XBiotech Inc,Healthcare,Biotechnology,USA
+XBIT,XBiotech Inc,Healthcare,Biotechnology,USA
+XCBE,X3 Acquisition Corp Ltd,Financial,Shell Companies,USA
+XFLH,XFLH Capital Corp,Financial,Shell Companies,USA
+XFLT,XAI Floating Rate & Alternative Income Trust,Financial,Closed-End Fund - Debt,USA
+XGN,Exagen Inc,Healthcare,Diagnostics & Research,USA
+XHG,XChange Tec.Inc ADR,Financial,Insurance Brokers,China
+XHLD,TEN Holdings Inc,Communication Services,Broadcasting,USA
+XLO,Xilio Therapeutics Inc,Healthcare,Biotechnology,USA
+XOS,Xos Inc,Industrials,Farm & Heavy Construction Machinery,USA
+XPL,Solitario Resources Corp,Basic Materials,Other Industrial Metals & Mining,USA
+XPOF,Xponential Fitness Inc,Consumer Cyclical,Leisure,USA
+XSLL,Xsolla SPAC 1,Financial,Shell Companies,USA
+XTIA,XTI Aerospace Inc,Industrials,Aerospace & Defense,USA
+XYF,X Financial ADR,Financial,Credit Services,China
+YARW,Yarrow Bioscience Inc,Healthcare,Biotechnology,USA
+YCY,AA Mission Acquisition Corp II,Financial,Shell Companies,USA
+YDDL,One and one Green Technologies. Inc,Industrials,Waste Management,Philippines
+YDES,YD Bio Ltd,Healthcare,Biotechnology,Taiwan
+YIBO,Planet Image International Ltd,Technology,Computer Hardware,China
+YRD,Yiren Digital Ltd ADR,Financial,Credit Services,China
+YSG,Yatsen Holding Ltd ADR,Consumer Defensive,Household & Personal Products,China
+YTRA,Yatra Online Inc,Consumer Cyclical,Travel Services,India
+ZENA,ZenaTech Inc,Technology,Software - Infrastructure,Canada
+ZH,Zhihu Inc ADR,Communication Services,Internet Content & Information,China
+ZJK,ZJK Industrial Co Ltd,Industrials,Specialty Industrial Machinery,China
+ZNTL,Zentalis Pharmaceuticals Inc,Healthcare,Biotechnology,USA
+ZSQR,Z Squared Inc,Technology,Software - Infrastructure,USA
+ZTEK,Zentek Ltd,Healthcare,Medical Instruments & Supplies,Canada
+ZVIA,Zevia PBC,Consumer Defensive,Beverages - Non-Alcoholic,USA

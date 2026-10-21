@@ -1,897 +1,897 @@
-,Ticker,Company,Sector,Industry,Country
-0,A,Agilent Technologies Inc,Healthcare,Diagnostics & Research,USA
-1,AA,Alcoa Corp,Basic Materials,Aluminum,USA
-2,AAOI,Applied Optoelectronics Inc,Technology,Communication Equipment,USA
-3,ABEV,Ambev SA ADR,Consumer Defensive,Beverages - Brewers,Brazil
-4,ABNB,Airbnb Inc,Consumer Cyclical,Travel Services,USA
-5,ABT,Abbott Laboratories,Healthcare,Medical Devices,USA
-6,ABVX,Abivax ADR,Healthcare,Biotechnology,France
-7,ACGL,Arch Capital Group Ltd,Financial,Insurance - Diversified,Bermuda
-8,ACN,Accenture plc,Technology,Information Technology Services,Ireland
-9,ADBE,Adobe Inc,Technology,Software - Application,USA
-10,ADI,Analog Devices Inc,Technology,Semiconductors,USA
-11,ADM,Archer Daniels Midland Co,Consumer Defensive,Farm Products,USA
-12,ADP,Automatic Data Processing Inc,Technology,Software - Application,USA
-13,ADSK,Autodesk Inc,Technology,Software - Application,USA
-14,AEE,Ameren Corp,Utilities,Utilities - Regulated Electric,USA
-15,AEG,Aegon Ltd,Financial,Insurance - Diversified,Netherlands
-16,AEIS,Advanced Energy Industries Inc,Industrials,Electrical Equipment & Parts,USA
-17,AEM,Agnico Eagle Mines Ltd,Basic Materials,Gold,Canada
-18,AEP,American Electric Power Company Inc,Utilities,Utilities - Regulated Electric,USA
-19,AER,Aercap Holdings NV,Industrials,Rental & Leasing Services,Ireland
-20,AES,AES Corp,Utilities,Utilities - Diversified,USA
-21,AFG,American Financial Group Inc,Financial,Insurance - Property & Casualty,USA
-22,AFL,Aflac Inc,Financial,Insurance - Life,USA
-23,AFRM,Affirm Holdings Inc,Financial,Credit Services,USA
-24,AGI,Alamos Gold Inc,Basic Materials,Gold,Canada
-25,AGNC,AGNC Investment Corp,Real Estate,REIT - Mortgage,USA
-26,AHR,American Healthcare REIT Inc,Real Estate,REIT - Healthcare Facilities,USA
-27,AIG,American International Group Inc,Financial,Insurance - Diversified,USA
-28,AIT,Applied Industrial Technologies Inc,Industrials,Industrial Distribution,USA
-29,AIZ,Assurant Inc,Financial,Insurance - Property & Casualty,USA
-30,AJG,Arthur J. Gallagher & Co,Financial,Insurance Brokers,USA
-31,AKAM,Akamai Technologies Inc,Technology,Software - Infrastructure,USA
-32,ALAB,Astera Labs Inc,Technology,Semiconductors,USA
-33,ALB,Albemarle Corp,Basic Materials,Specialty Chemicals,USA
-34,ALC,Alcon Inc,Healthcare,Medical Instruments & Supplies,Switzerland
-35,ALGN,Align Technology Inc,Healthcare,Medical Instruments & Supplies,USA
-36,ALL,Allstate Corp,Financial,Insurance - Property & Casualty,USA
-37,ALLE,Allegion plc,Industrials,Security & Protection Services,Ireland
-38,ALLY,Ally Financial Inc,Financial,Credit Services,USA
-39,ALNY,Alnylam Pharmaceuticals Inc,Healthcare,Biotechnology,USA
-40,ALSN,Allison Transmission Holdings Inc,Consumer Cyclical,Auto Parts,USA
-41,AM,Antero Midstream Corp,Energy,Oil & Gas Midstream,USA
-42,AMCR,Amcor Plc,Consumer Cyclical,Packaging & Containers,Switzerland
-43,AME,Ametek Inc,Industrials,Specialty Industrial Machinery,USA
-44,AMH,American Homes 4 Rent,Real Estate,REIT - Residential,USA
-45,AMKR,AMKOR Technology Inc,Technology,Semiconductor Equipment & Materials,USA
-46,AMP,Ameriprise Financial Inc,Financial,Asset Management,USA
-47,AMRZ,Amrize Ltd,Basic Materials,Building Materials,USA
-48,AMT,American Tower Corp,Real Estate,REIT - Specialty,USA
-49,AMX,America Movil SAB de CV ADR,Communication Services,Telecom Services,Mexico
-50,AON,Aon Plc,Financial,Insurance Brokers,Ireland
-51,APA,APA Corp,Energy,Oil & Gas E&P,USA
-52,APD,Air Products & Chemicals Inc,Basic Materials,Specialty Chemicals,USA
-53,APG,APi Group Corp,Industrials,Engineering & Construction,USA
-54,APGE,Apogee Therapeutics Inc,Healthcare,Biotechnology,USA
-55,APH,Amphenol Corp,Technology,Electronic Components,USA
-56,APO,Apollo Global Management Inc,Financial,Asset Management,USA
-57,APP,Applovin Corp,Communication Services,Advertising Agencies,USA
-58,APTV,Aptiv Plc,Consumer Cyclical,Auto Parts,Switzerland
-59,AR,Antero Resources Corp,Energy,Oil & Gas E&P,USA
-60,ARCC,Ares Capital Corp,Financial,Asset Management,USA
-61,ARES,Ares Management Corp,Financial,Asset Management,USA
-62,ARGX,Argen X SE ADR,Healthcare,Biotechnology,Netherlands
-63,ARMK,Aramark,Industrials,Specialty Business Services,USA
-64,ARW,Arrow Electronics Inc,Technology,Electronics & Computer Distribution,USA
-65,ARWR,Arrowhead Pharmaceuticals Inc,Healthcare,Biotechnology,USA
-66,ARXS,Arxis Inc,Industrials,Aerospace & Defense,USA
-67,AS,Amer Sports Inc,Consumer Cyclical,Leisure,Finland
-68,ASND,Ascendis Pharma A/S,Healthcare,Biotechnology,Denmark
-69,ASTS,AST SpaceMobile Inc,Technology,Communication Equipment,USA
-70,ASX,ASE Technology Holding CoLtd ADR,Technology,Semiconductors,Taiwan
-71,ATI,ATI Inc,Industrials,Metal Fabrication,USA
-72,ATO,Atmos Energy Corp,Utilities,Utilities - Regulated Gas,USA
-73,AU,AngloGold Ashanti Plc,Basic Materials,Gold,USA
-74,AUR,Aurora Innovation Inc,Consumer Cyclical,Auto Parts,USA
-75,AVB,Avalonbay Communities Inc,Real Estate,REIT - Residential,USA
-76,AVY,Avery Dennison Corp,Consumer Cyclical,Packaging & Containers,USA
-77,AWK,American Water Works Co Inc,Utilities,Utilities - Regulated Water,USA
-78,AXIA,Axia Energia ADR,Utilities,Utilities - Renewable,Brazil
-79,AXON,Axon Enterprise Inc,Industrials,Aerospace & Defense,USA
-80,AXSM,Axsome Therapeutics Inc,Healthcare,Biotechnology,USA
-81,AYI,Acuity Inc,Industrials,Electrical Equipment & Parts,USA
-82,AZO,Autozone Inc,Consumer Cyclical,Auto Parts,USA
-83,B,Barrick Mining Corp,Basic Materials,Gold,Canada
-84,BA,Boeing Co,Industrials,Aerospace & Defense,USA
-85,BALL,Ball Corp,Consumer Cyclical,Packaging & Containers,USA
-86,BAM,Brookfield Asset Management Ltd,Financial,Asset Management,USA
-87,BAP,Credicorp Ltd,Financial,Banks - Regional,Peru
-88,BAX,Baxter International Inc,Healthcare,Medical Instruments & Supplies,USA
-89,BBD,Banco Bradesco SA ADR,Financial,Banks - Regional,USA
-90,BBIO,BridgeBio Pharma Inc,Healthcare,Biotechnology,USA
-91,BBVA,Banco Bilbao Vizcaya Argentaria SA ADR,Financial,Banks - Diversified,Spain
-92,BBY,Best Buy Co Inc,Consumer Cyclical,Specialty Retail,USA
-93,BCE,BCE Inc,Communication Services,Telecom Services,Canada
-94,BCH,Banco de Chile ADR,Financial,Banks - Regional,Chile
-95,BCS,Barclays plc ADR,Financial,Banks - Diversified,United Kingdom
-96,BDX,Becton Dickinson & Co,Healthcare,Medical Instruments & Supplies,USA
-97,BE,Bloom Energy Corp,Industrials,Electrical Equipment & Parts,USA
-98,BEKE,KE Holdings Inc ADR,Real Estate,Real Estate Services,China
-99,BEN,Franklin Templeton Inc,Financial,Asset Management,USA
-100,BEP,Brookfield Renewable Partners LP,Utilities,Utilities - Renewable,Bermuda
-101,BF-A,Brown-Forman Corp,Consumer Defensive,Beverages - Wineries & Distilleries,USA
-102,BF-B,Brown-Forman Corp,Consumer Defensive,Beverages - Wineries & Distilleries,USA
-103,BG,Bunge Global SA,Consumer Defensive,Farm Products,USA
-104,BIDU,Baidu Inc ADR,Communication Services,Internet Content & Information,China
-105,BIIB,Biogen Inc,Healthcare,Drug Manufacturers - General,USA
-106,BIP,Brookfield Infrastructure Partners L.P,Utilities,Utilities - Diversified,Bermuda
-107,BJ,BJ's Wholesale Club Holdings Inc,Consumer Defensive,Discount Stores,USA
-108,BKNG,Booking Holdings Inc,Consumer Cyclical,Travel Services,USA
-109,BKR,Baker Hughes Co,Energy,Oil & Gas Equipment & Services,USA
-110,BLK,Blackrock Inc,Financial,Asset Management,USA
-111,BMNR,BitMine Immersion Technologies Inc,Financial,Capital Markets,USA
-112,BMO,Bank of Montreal,Financial,Banks - Diversified,Canada
-113,BMRN,Biomarin Pharmaceutical Inc,Healthcare,Biotechnology,USA
-114,BMY,Bristol-Myers Squibb Co,Healthcare,Drug Manufacturers - General,USA
-115,BN,Brookfield Corp,Financial,Asset Management,Canada
-116,BNS,Bank Of Nova Scotia,Financial,Banks - Diversified,Canada
-117,BNT,Brookfield Wealth Solutions Ltd,Financial,Insurance - Diversified,Bermuda
-118,BNTX,BioNTech SE ADR,Healthcare,Biotechnology,Germany
-119,BNY,Bank Of New York Mellon Corp,Financial,Banks - Diversified,USA
-120,BP,BP plc ADR,Energy,Oil & Gas Integrated,United Kingdom
-121,BPOP,Popular Inc,Financial,Banks - Regional,USA
-122,BR,Broadridge Financial Solutions Inc,Technology,Information Technology Services,USA
-123,BRO,Brown & Brown Inc,Financial,Insurance Brokers,USA
-124,BSAC,Banco Santander Chile SA ADR,Financial,Banks - Regional,Chile
-125,BSBR,Banco Santander (Brasil) SA ADR,Financial,Banks - Regional,Brazil
-126,BSP,Bending Spoons S.p.A,Technology,Software - Application,Italy
-127,BSX,Boston Scientific Corp,Healthcare,Medical Devices,USA
-128,BSY,Bentley Systems Inc,Technology,Software - Application,USA
-129,BTI,British American Tobacco Plc ADR,Consumer Defensive,Tobacco,United Kingdom
-130,BTSG,BrightSpring Health Services Inc,Healthcare,Health Information Services,USA
-131,BUD,Anheuser-Busch InBev SA/NV ADR,Consumer Defensive,Beverages - Brewers,Belgium
-132,BURL,Burlington Stores Inc,Consumer Cyclical,Apparel Retail,USA
-133,BWA,BorgWarner Inc,Consumer Cyclical,Auto Parts,USA
-134,BWXT,BWX Technologies Inc,Industrials,Aerospace & Defense,USA
-135,BX,Blackstone Inc,Financial,Asset Management,USA
-136,BXP,BXP Inc,Real Estate,REIT - Office,USA
-137,CACI,Caci International Inc,Technology,Information Technology Services,USA
-138,CAH,Cardinal Health Inc,Healthcare,Medical Distribution,USA
-139,CARR,Carrier Global Corp,Industrials,Building Products & Equipment,USA
-140,CART,Maplebear Inc,Consumer Cyclical,Internet Retail,USA
-141,CASY,Casey's General Stores Inc,Consumer Cyclical,Specialty Retail,USA
-142,CB,Chubb Limited,Financial,Insurance - Property & Casualty,Switzerland
-143,CBOE,Cboe Global Markets Inc,Financial,Financial Data & Stock Exchanges,USA
-144,CBRE,CBRE Group Inc,Real Estate,Real Estate Services,USA
-145,CBRS,Cerebras Systems Inc,Technology,Semiconductors,USA
-146,CCEP,Coca-Cola Europacific Partners Plc,Consumer Defensive,Beverages - Non-Alcoholic,United Kingdom
-147,CCI,Crown Castle Inc,Real Estate,REIT - Specialty,USA
-148,CCJ,Cameco Corp,Energy,Uranium,Canada
-149,CCK,Crown Holdings Inc,Consumer Cyclical,Packaging & Containers,USA
-150,CCL,Carnival Corp Ltd,Consumer Cyclical,Travel Services,USA
-151,CDE,Coeur Mining Inc,Basic Materials,Gold,USA
-152,CDNS,Cadence Design Systems Inc,Technology,Software - Application,USA
-153,CDW,CDW Corp,Technology,Information Technology Services,USA
-154,CEG,Constellation Energy Corp,Utilities,Utilities - Independent Power Producers,USA
-155,CF,CF Industries Holdings Inc,Basic Materials,Agricultural Inputs,USA
-156,CFG,Citizens Financial Group Inc,Financial,Banks - Regional,USA
-157,CFR,Cullen Frost Bankers Inc,Financial,Banks - Regional,USA
-158,CG,Carlyle Group Inc,Financial,Asset Management,USA
-159,CGNX,Cognex Corp,Technology,Scientific & Technical Instruments,USA
-160,CHD,Church & Dwight Co Inc,Consumer Defensive,Household & Personal Products,USA
-161,CHKP,Check Point Software Technologies Ltd,Technology,Software - Infrastructure,Israel
-162,CHRW,C.H. Robinson Worldwide Inc,Industrials,Integrated Freight & Logistics,USA
-163,CHT,Chunghwa Telecom ADR,Communication Services,Telecom Services,Taiwan
-164,CHTR,Charter Communications Inc,Communication Services,Telecom Services,USA
-165,CHYM,Chime Financial Inc,Technology,Software - Application,USA
-166,CI,Cigna Group,Healthcare,Healthcare Plans,USA
-167,CIB,Grupo Cibest SA ADR,Financial,Banks - Regional,Colombia
-168,CIEN,CIENA Corp,Technology,Communication Equipment,USA
-169,CINF,Cincinnati Financial Corp,Financial,Insurance - Property & Casualty,USA
-170,CL,Colgate-Palmolive Co,Consumer Defensive,Household & Personal Products,USA
-171,CLH,Clean Harbors Inc,Industrials,Waste Management,USA
-172,CLS,Celestica Inc,Technology,Electronic Components,Canada
-173,CLX,Clorox Co,Consumer Defensive,Household & Personal Products,USA
-174,CM,Canadian Imperial Bank Of Commerce,Financial,Banks - Diversified,USA
-175,CMCSA,Comcast Corp,Communication Services,Telecom Services,USA
-176,CME,CME Group Inc,Financial,Financial Data & Stock Exchanges,USA
-177,CMG,Chipotle Mexican Grill,Consumer Cyclical,Restaurants,USA
-178,CMI,Cummins Inc,Industrials,Specialty Industrial Machinery,USA
-179,CMS,CMS Energy Corp,Utilities,Utilities - Regulated Electric,USA
-180,CNA,CNA Financial Corp,Financial,Insurance - Property & Casualty,USA
-181,CNC,Centene Corp,Healthcare,Healthcare Plans,USA
-182,CNH,CNH Industrial NV,Industrials,Farm & Heavy Construction Machinery,United Kingdom
-183,CNI,Canadian National Railway Co,Industrials,Railroads,Canada
-184,CNP,Centerpoint Energy Inc,Utilities,Utilities - Regulated Electric,USA
-185,CNQ,Canadian Natural Resources Ltd,Energy,Oil & Gas E&P,Canada
-186,COF,Capital One Financial Corp,Financial,Credit Services,USA
-187,COHR,Coherent Corp,Technology,Scientific & Technical Instruments,USA
-188,COIN,Coinbase Global Inc,Financial,Financial Data & Stock Exchanges,USA
-189,COKE,Coca-Cola Consolidated Inc,Consumer Defensive,Beverages - Non-Alcoholic,USA
-190,COO,Cooper Companies Inc,Healthcare,Medical Instruments & Supplies,USA
-191,COP,Conoco Phillips,Energy,Oil & Gas E&P,USA
-192,COR,Cencora Inc,Healthcare,Medical Distribution,USA
-193,CORT,Corcept Therapeutics Inc,Healthcare,Biotechnology,USA
-194,CP,Canadian Pacific Kansas City Limited,Industrials,Railroads,Canada
-195,CPAY,Corpay Inc,Technology,Software - Infrastructure,USA
-196,CPNG,Coupang Inc,Consumer Cyclical,Internet Retail,USA
-197,CPRT,Copart Inc,Industrials,Specialty Business Services,USA
-198,CPT,Camden Property Trust,Real Estate,REIT - Residential,USA
-199,CQP,Cheniere Energy Partners LP,Energy,Oil & Gas Midstream,USA
-200,CR,Crane Co,Industrials,Specialty Industrial Machinery,USA
-201,CRBG,Corebridge Financial Inc,Financial,Asset Management,USA
-202,CRCL,Circle Internet Group Inc,Financial,Capital Markets,USA
-203,CRDO,Credo Technology Group Holding Ltd,Technology,Semiconductors,Cayman Islands
-204,CRH,CRH Plc,Basic Materials,Building Materials,USA
-205,CRL,Charles River Laboratories International Inc,Healthcare,Diagnostics & Research,USA
-206,CRM,Salesforce Inc,Technology,Software - Application,USA
-207,CRS,Carpenter Technology Corp,Industrials,Metal Fabrication,USA
-208,CRWV,CoreWeave Inc,Technology,Software - Infrastructure,USA
-209,CSGP,Costar Group Inc,Real Estate,Real Estate Services,USA
-210,CSL,Carlisle Companies Inc,Industrials,Building Products & Equipment,USA
-211,CSX,CSX Corp,Industrials,Railroads,USA
-212,CTAS,Cintas Corp,Industrials,Specialty Business Services,USA
-213,CTSH,Cognizant Technology Solutions Corp,Technology,Information Technology Services,USA
-214,CTVA,Corteva Inc,Basic Materials,Agricultural Inputs,USA
-215,CVE,Cenovus Energy Inc,Energy,Oil & Gas Integrated,Canada
-216,CVNA,Carvana Co,Consumer Cyclical,Auto & Truck Dealerships,USA
-217,CVS,CVS Health Corp,Healthcare,Healthcare Plans,USA
-218,CW,Curtiss-Wright Corp,Industrials,Aerospace & Defense,USA
-219,CX,Cemex SAB de CV ADR,Basic Materials,Building Materials,Mexico
-220,CYTK,Cytokinetics Inc,Healthcare,Biotechnology,USA
-221,D,Dominion Energy Inc,Utilities,Utilities - Regulated Electric,USA
-222,DAL,Delta Air Lines Inc,Industrials,Airlines,USA
-223,DAR,Darling Ingredients Inc,Consumer Defensive,Packaged Foods,USA
-224,DASH,DoorDash Inc,Consumer Cyclical,Internet Retail,USA
-225,DB,Deutsche Bank AG,Financial,Banks - Regional,Germany
-226,DCI,Donaldson Co Inc,Industrials,Specialty Industrial Machinery,USA
-227,DD,DuPont de Nemours Inc,Basic Materials,Specialty Chemicals,USA
-228,DDOG,Datadog Inc,Technology,Software - Application,USA
-229,DE,Deere & Co,Industrials,Farm & Heavy Construction Machinery,USA
-230,DECK,Deckers Outdoor Corp,Consumer Cyclical,Footwear & Accessories,USA
-231,DEO,Diageo plc ADR,Consumer Defensive,Beverages - Wineries & Distilleries,United Kingdom
-232,DG,Dollar General Corp,Consumer Defensive,Discount Stores,USA
-233,DGX,Quest Diagnostics Inc,Healthcare,Diagnostics & Research,USA
-234,DHI,D.R. Horton Inc,Consumer Cyclical,Residential Construction,USA
-235,DHR,Danaher Corp,Healthcare,Diagnostics & Research,USA
-236,DINO,HF Sinclair Corp,Energy,Oil & Gas Refining & Marketing,USA
-237,DIS,Walt Disney Co,Communication Services,Entertainment,USA
-238,DKNG,DraftKings Inc,Consumer Cyclical,Gambling,USA
-239,DKS,Dicks Sporting Goods Inc,Consumer Cyclical,Specialty Retail,USA
-240,DLR,Digital Realty Trust Inc,Real Estate,REIT - Specialty,USA
-241,DLTR,Dollar Tree Inc,Consumer Defensive,Discount Stores,USA
-242,DOC,Healthpeak Properties Inc,Real Estate,REIT - Healthcare Facilities,USA
-243,DOCN,DigitalOcean Holdings Inc,Technology,Software - Infrastructure,USA
-244,DOCU,DocuSign Inc,Technology,Software - Application,USA
-245,DOV,Dover Corp,Industrials,Specialty Industrial Machinery,USA
-246,DOW,Dow Inc,Basic Materials,Chemicals,USA
-247,DPZ,Dominos Pizza Inc,Consumer Cyclical,Restaurants,USA
-248,DRI,Darden Restaurants Inc,Consumer Cyclical,Restaurants,USA
-249,DRS,Leonardo DRS Inc,Industrials,Aerospace & Defense,USA
-250,DT,Dynatrace Inc,Technology,Software - Application,USA
-251,DTE,DTE Energy Co,Utilities,Utilities - Regulated Electric,USA
-252,DTM,DT Midstream Inc,Energy,Oil & Gas Midstream,USA
-253,DUK,Duke Energy Corp,Utilities,Utilities - Regulated Electric,USA
-254,DUKU,Duke Energy Corp,Utilities,Utilities - Regulated Electric,USA
-255,DVA,DaVita Inc,Healthcare,Medical Care Facilities,USA
-256,DVN,Devon Energy Corp,Energy,Oil & Gas E&P,USA
-257,DXCM,Dexcom Inc,Healthcare,Medical Devices,USA
-258,DY,Dycom Industries Inc,Industrials,Engineering & Construction,USA
-259,E,Eni Spa ADR,Energy,Oil & Gas Integrated,Italy
-260,EAT,Brinker International Inc,Consumer Cyclical,Restaurants,USA
-261,EBAY,EBay Inc,Consumer Cyclical,Internet Retail,USA
-262,EC,Ecopetrol SA ADR,Energy,Oil & Gas Integrated,Colombia
-263,ECHO,EchoStar Corp,Communication Services,Telecom Services,USA
-264,ECL,Ecolab Inc,Basic Materials,Specialty Chemicals,USA
-265,ED,Consolidated Edison Inc,Utilities,Utilities - Regulated Electric,USA
-266,EFX,Equifax Inc,Industrials,Consulting Services,USA
-267,EG,Everest Group Ltd,Financial,Insurance - Reinsurance,Bermuda
-268,EGO,Eldorado Gold Corp,Basic Materials,Gold,Canada
-269,EGP,Eastgroup Properties Inc,Real Estate,REIT - Industrial,USA
-270,EHC,Encompass Health Corp,Healthcare,Medical Care Facilities,USA
-271,EIX,Edison International,Utilities,Utilities - Regulated Electric,USA
-272,EL,Estee Lauder Cos. Inc,Consumer Defensive,Household & Personal Products,USA
-273,ELAN,Elanco Animal Health Inc,Healthcare,Drug Manufacturers - Specialty & Generic,USA
-274,ELS,Equity Lifestyle Properties Inc,Real Estate,REIT - Residential,USA
-275,ELV,Elevance Health Inc,Healthcare,Healthcare Plans,USA
-276,EMA,Emera Inc,Utilities,Utilities - Regulated Electric,Canada
-277,EMBJ,Embraer SA ADR,Industrials,Aerospace & Defense,Brazil
-278,EME,Emcor Group Inc,Industrials,Engineering & Construction,USA
-279,EMR,Emerson Electric Co,Industrials,Specialty Industrial Machinery,USA
-280,ENB,Enbridge Inc,Energy,Oil & Gas Midstream,Canada
-281,ENLT,Enlight Renewable Energy Ltd,Utilities,Utilities - Renewable,Israel
-282,ENSG,Ensign Group Inc,Healthcare,Medical Care Facilities,USA
-283,ENTG,Entegris Inc,Technology,Semiconductor Equipment & Materials,USA
-284,EOG,EOG Resources Inc,Energy,Oil & Gas E&P,USA
-285,EPD,Enterprise Products Partners L P,Energy,Oil & Gas Midstream,USA
-286,EQH,Equitable Holdings Inc,Financial,Asset Management,USA
-287,EQIX,Equinix Inc,Real Estate,REIT - Specialty,USA
-288,EQNR,Equinor ASA ADR,Energy,Oil & Gas Integrated,Norway
-289,EQT,EQT Corp,Energy,Oil & Gas E&P,USA
-290,EQX,Equinox Gold Corp,Basic Materials,Gold,Canada
-291,ERIC,Telefonaktiebolaget L M Ericsson ADR,Technology,Communication Equipment,Sweden
-292,ERIE,Erie Indemnity Co,Financial,Insurance Brokers,USA
-293,ES,Eversource Energy,Utilities,Utilities - Regulated Electric,USA
-294,ESLT,Elbit Systems Ltd,Industrials,Aerospace & Defense,Israel
-295,ESS,Essex Property Trust Inc,Real Estate,REIT - Residential,USA
-296,ET,Energy Transfer LP,Energy,Oil & Gas Midstream,USA
-297,ETN,Eaton Corp Plc,Industrials,Specialty Industrial Machinery,Ireland
-298,ETR,Entergy Corp,Utilities,Utilities - Regulated Electric,USA
-299,EVR,Evercore Inc,Financial,Capital Markets,USA
-300,EVRG,Evergy Inc,Utilities,Utilities - Regulated Electric,USA
-301,EW,Edwards Lifesciences Corp,Healthcare,Medical Devices,USA
-302,EWBC,East West Bancorp Inc,Financial,Banks - Regional,USA
-303,EXC,Exelon Corp,Utilities,Utilities - Regulated Electric,USA
-304,EXE,Expand Energy Corp,Energy,Oil & Gas E&P,USA
-305,EXEL,Exelixis Inc,Healthcare,Biotechnology,USA
-306,EXPD,Expeditors International Of Washington Inc,Industrials,Integrated Freight & Logistics,USA
-307,EXPE,Expedia Group Inc,Consumer Cyclical,Travel Services,USA
-308,EXR,Extra Space Storage Inc,Real Estate,REIT - Industrial,USA
-309,F,Ford Motor Co,Consumer Cyclical,Auto Manufacturers,USA
-310,FANG,Diamondback Energy Inc,Energy,Oil & Gas E&P,USA
-311,FAST,Fastenal Co,Industrials,Industrial Distribution,USA
-312,FCNCA,First Citizens Bancshares Inc (NC),Financial,Banks - Regional,USA
-313,FCX,Freeport-McMoRan Inc,Basic Materials,Copper,USA
-314,FDS,Factset Research Systems Inc,Financial,Financial Data & Stock Exchanges,USA
-315,FDX,Fedex Corp,Industrials,Integrated Freight & Logistics,USA
-316,FDXF,FedEx Freight Holding Company Inc,Industrials,Integrated Freight & Logistics,USA
-317,FE,Firstenergy Corp,Utilities,Utilities - Regulated Electric,USA
-318,FER,Ferrovial N. V,Industrials,Engineering & Construction,Netherlands
-319,FERG,Ferguson Enterprises Inc,Industrials,Industrial Distribution,USA
-320,FFIV,F5 Inc,Technology,Software - Infrastructure,USA
-321,FHN,First Horizon Corp,Financial,Banks - Regional,USA
-322,FICO,Fair Isaac Corp,Technology,Software - Application,USA
-323,FIG,Figma Inc,Technology,Software - Application,USA
-324,FIS,Fidelity National Information Services Inc,Technology,Information Technology Services,USA
-325,FISV,Fiserv Inc,Technology,Information Technology Services,USA
-326,FITB,Fifth Third Bancorp,Financial,Banks - Regional,USA
-327,FIVE,Five Below Inc,Consumer Cyclical,Specialty Retail,USA
-328,FIX,Comfort Systems USA Inc,Industrials,Engineering & Construction,USA
-329,FLEX,Flex Ltd,Technology,Electronic Components,USA
-330,FLS,Flowserve Corp,Industrials,Specialty Industrial Machinery,USA
-331,FLUT,Flutter Entertainment Plc,Consumer Cyclical,Gambling,USA
-332,FMS,Fresenius Medical Care AG ADR,Healthcare,Medical Care Facilities,Germany
-333,FMX,Fomento Economico Mexicano SAB de CV ADR,Consumer Defensive,Beverages - Brewers,Mexico
-334,FN,Fabrinet,Technology,Electronic Components,Cayman Islands
-335,FNF,Fidelity National Financial Inc,Financial,Insurance - Specialty,USA
-336,FNV,Franco-Nevada Corp,Basic Materials,Gold,Canada
-337,FOX,Fox Corp,Communication Services,Entertainment,USA
-338,FOXA,Fox Corp,Communication Services,Entertainment,USA
-339,FPS,Forgent Power Solutions Inc,Industrials,Electrical Equipment & Parts,USA
-340,FROG,JFrog Ltd,Technology,Software - Application,USA
-341,FRT,Federal Realty Investment Trust,Real Estate,REIT - Retail,USA
-342,FSLR,First Solar Inc,Technology,Solar,USA
-343,FTAI,FTAI Aviation Ltd,Industrials,Aerospace & Defense,USA
-344,FTI,TechnipFMC plc,Energy,Oil & Gas Equipment & Services,USA
-345,FTNT,Fortinet Inc,Technology,Software - Infrastructure,USA
-346,FTS,Fortis Inc,Utilities,Utilities - Regulated Electric,Canada
-347,FTV,Fortive Corp,Technology,Scientific & Technical Instruments,USA
-348,FUTU,Futu Holdings Ltd ADR,Financial,Capital Markets,Hong Kong
-349,FWONA,Liberty Media Corp,Communication Services,Entertainment,USA
-350,FWONK,Liberty Media Corp,Communication Services,Entertainment,USA
-351,GD,General Dynamics Corp,Industrials,Aerospace & Defense,USA
-352,GDDY,Godaddy Inc,Technology,Software - Infrastructure,USA
-353,GEHC,GE HealthCare Technologies Inc,Healthcare,Medical Devices,USA
-354,GEN,Gen Digital Inc,Technology,Software - Infrastructure,USA
-355,GFI,Gold Fields Ltd ADR,Basic Materials,Gold,South Africa
-356,GFL,GFL Environmental Inc,Industrials,Waste Management,USA
-357,GFS,GlobalFoundries Inc,Technology,Semiconductors,USA
-358,GGG,Graco Inc,Industrials,Specialty Industrial Machinery,USA
-359,GH,Guardant Health Inc,Healthcare,Diagnostics & Research,USA
-360,GIB,CGI Inc,Technology,Information Technology Services,Canada
-361,GIL,Gildan Activewear Inc,Consumer Cyclical,Apparel Manufacturing,Canada
-362,GILD,Gilead Sciences Inc,Healthcare,Drug Manufacturers - General,USA
-363,GIS,General Mills Inc,Consumer Defensive,Packaged Foods,USA
-364,GKOS,Glaukos Corp,Healthcare,Medical Devices,USA
-365,GL,Globe Life Inc,Financial,Insurance - Life,USA
-366,GLPI,Gaming and Leisure Properties Inc,Real Estate,REIT - Specialty,USA
-367,GLW,Corning Inc,Technology,Electronic Components,USA
-368,GM,General Motors Company,Consumer Cyclical,Auto Manufacturers,USA
-369,GMAB,Genmab ADR,Healthcare,Biotechnology,Denmark
-370,GMED,Globus Medical Inc,Healthcare,Medical Devices,USA
-371,GNRC,Generac Holdings Inc,Industrials,Specialty Industrial Machinery,USA
-372,GPC,Genuine Parts Co,Consumer Cyclical,Auto Parts,USA
-373,GPN,Global Payments Inc,Technology,Software - Infrastructure,USA
-374,GRAB,Grab Holdings Limited,Technology,Software - Application,Singapore
-375,GRMN,Garmin Ltd,Technology,Scientific & Technical Instruments,Switzerland
-376,GSAT,Globalstar Inc,Communication Services,Telecom Services,USA
-377,GSK,GSK Plc ADR,Healthcare,Drug Manufacturers - General,United Kingdom
-378,GWRE,Guidewire Software Inc,Technology,Software - Application,USA
-379,GWW,W.W. Grainger Inc,Industrials,Industrial Distribution,USA
-380,H,Hyatt Hotels Corp,Consumer Cyclical,Lodging,USA
-381,HAL,Halliburton Co,Energy,Oil & Gas Equipment & Services,USA
-382,HALO,Halozyme Therapeutics Inc,Healthcare,Biotechnology,USA
-383,HAS,Hasbro Inc,Consumer Cyclical,Leisure,USA
-384,HBAN,Huntington Bancshares Inc,Financial,Banks - Regional,USA
-385,HBM,Hudbay Minerals Inc,Basic Materials,Copper,Canada
-386,HCA,HCA Healthcare Inc,Healthcare,Medical Care Facilities,USA
-387,HDB,HDFC Bank Ltd ADR,Financial,Banks - Regional,India
-388,HEI,Heico Corp,Industrials,Aerospace & Defense,USA
-389,HEI-A,Heico Corp,Industrials,Aerospace & Defense,USA
-390,HIG,Hartford Insurance Group Inc,Financial,Insurance - Diversified,USA
-391,HII,Huntington Ingalls Industries Inc,Industrials,Aerospace & Defense,USA
-392,HL,Hecla Mining Co,Basic Materials,Other Precious Metals & Mining,USA
-393,HLN,Haleon plc ADR,Healthcare,Drug Manufacturers - Specialty & Generic,United Kingdom
-394,HLT,Hilton Worldwide Holdings Inc,Consumer Cyclical,Lodging,USA
-395,HMC,Honda Motor ADR,Consumer Cyclical,Auto Manufacturers,Japan
-396,HMY,Harmony Gold Mining Co Ltd ADR,Basic Materials,Gold,South Africa
-397,HON,Honeywell International Inc,Industrials,Conglomerates,USA
-398,HONA,Honeywell Aerospace Inc,Industrials,Aerospace & Defense,USA
-399,HOOD,Robinhood Markets Inc,Financial,Capital Markets,USA
-400,HPE,Hewlett Packard Enterprise Co,Technology,Communication Equipment,USA
-401,HPQ,HP Inc,Technology,Computer Hardware,USA
-402,HRL,Hormel Foods Corp,Consumer Defensive,Packaged Foods,USA
-403,HSAI,Hesai Group ADR,Consumer Cyclical,Auto Parts,China
-404,HST,Host Hotels & Resorts Inc,Real Estate,REIT - Hotel & Motel,USA
-405,HSY,Hershey Company,Consumer Defensive,Confectioners,USA
-406,HTHT,H World Group Limited ADR,Consumer Cyclical,Lodging,China
-407,HUBB,Hubbell Inc,Industrials,Electrical Equipment & Parts,USA
-408,HUBS,HubSpot Inc,Technology,Software - Application,USA
-409,HUM,Humana Inc,Healthcare,Healthcare Plans,USA
-410,HUT,Hut 8 Corp,Financial,Capital Markets,USA
-411,HWM,Howmet Aerospace Inc,Industrials,Aerospace & Defense,USA
-412,IAG,Iamgold Corp,Basic Materials,Gold,Canada
-413,IBKR,Interactive Brokers Group Inc,Financial,Capital Markets,USA
-414,IBN,ICICI Bank Ltd ADR,Financial,Banks - Regional,India
-415,ICE,Intercontinental Exchange Inc,Financial,Financial Data & Stock Exchanges,USA
-416,ICLR,Icon Plc,Healthcare,Diagnostics & Research,Ireland
-417,IDXX,Idexx Laboratories Inc,Healthcare,Diagnostics & Research,USA
-418,IESC,IES Holdings Inc,Industrials,Engineering & Construction,USA
-419,IEX,Idex Corp,Industrials,Specialty Industrial Machinery,USA
-420,IFF,International Flavors & Fragrances Inc,Basic Materials,Specialty Chemicals,USA
-421,IHG,Intercontinental Hotels Group ADR,Consumer Cyclical,Lodging,United Kingdom
-422,ILMN,Illumina Inc,Healthcare,Diagnostics & Research,USA
-423,IMO,Imperial Oil Ltd,Energy,Oil & Gas Integrated,Canada
-424,INCY,Incyte Corp,Healthcare,Biotechnology,USA
-425,INFY,Infosys Ltd ADR,Technology,Information Technology Services,India
-426,ING,ING Groep NV ADR,Financial,Banks - Diversified,Netherlands
-427,INIO,Innio NV,Industrials,Specialty Industrial Machinery,Germany
-428,INSM,Insmed Inc,Healthcare,Biotechnology,USA
-429,INTU,Intuit Inc,Technology,Software - Application,USA
-430,INVH,Invitation Homes Inc,Real Estate,REIT - Residential,USA
-431,IONQ,IonQ Inc,Technology,Computer Hardware,USA
-432,IOT,Samsara Inc,Technology,Software - Infrastructure,USA
-433,IP,International Paper Co,Consumer Cyclical,Packaging & Containers,USA
-434,IQV,IQVIA Holdings Inc,Healthcare,Diagnostics & Research,USA
-435,IR,Ingersoll Rand Inc,Industrials,Specialty Industrial Machinery,USA
-436,IREN,IREN Ltd,Financial,Capital Markets,Australia
-437,IRM,Iron Mountain Inc,Real Estate,REIT - Specialty,USA
-438,ISRG,Intuitive Surgical Inc,Healthcare,Medical Instruments & Supplies,USA
-439,IT,Gartner Inc,Technology,Information Technology Services,USA
-440,ITT,ITT Inc,Industrials,Specialty Industrial Machinery,USA
-441,ITUB,Itau Unibanco Holding SA ADR,Financial,Banks - Regional,Brazil
-442,ITW,Illinois Tool Works Inc,Industrials,Specialty Industrial Machinery,USA
-443,IVZ,Invesco Ltd,Financial,Asset Management,USA
-444,IX,Orix Corp ADR,Financial,Financial Conglomerates,Japan
-445,J,Jacobs Solutions Inc,Industrials,Engineering & Construction,USA
-446,JAZZ,Jazz Pharmaceuticals plc,Healthcare,Biotechnology,Ireland
-447,JBHT,J.B. Hunt Transport Services Inc,Industrials,Integrated Freight & Logistics,USA
-448,JBL,Jabil Inc,Technology,Electronic Components,USA
-449,JBS,JBS NV,Consumer Defensive,Packaged Foods,Netherlands
-450,JCI,Johnson Controls International plc,Industrials,Building Products & Equipment,Ireland
-451,JD,JD.com Inc ADR,Consumer Cyclical,Internet Retail,China
-452,JEF,Jefferies Financial Group Inc,Financial,Capital Markets,USA
-453,JHX,James Hardie Industries plc,Basic Materials,Building Materials,Ireland
-454,JKHY,Jack Henry & Associates Inc,Technology,Information Technology Services,USA
-455,JLL,Jones Lang Lasalle Inc,Real Estate,Real Estate Services,USA
-456,KB,KB Financial Group Inc ADR,Financial,Banks - Regional,South Korea
-457,KDP,Keurig Dr Pepper Inc,Consumer Defensive,Beverages - Non-Alcoholic,USA
-458,KEP,Korea Electric Power Corp ADR,Utilities,Utilities - Regulated Electric,South Korea
-459,KEY,Keycorp,Financial,Banks - Regional,USA
-460,KEYS,Keysight Technologies Inc,Technology,Scientific & Technical Instruments,USA
-461,KGC,Kinross Gold Corp,Basic Materials,Gold,Canada
-462,KHC,Kraft Heinz Co,Consumer Defensive,Packaged Foods,USA
-463,KIM,Kimco Realty Corp,Real Estate,REIT - Retail,USA
-464,KKR,KKR & Co Inc,Financial,Asset Management,USA
-465,KMB,Kimberly-Clark Corp,Consumer Defensive,Household & Personal Products,USA
-466,KMI,Kinder Morgan Inc,Energy,Oil & Gas Midstream,USA
-467,KNX,Knight-Swift Transportation Holdings Inc,Industrials,Trucking,USA
-468,KR,Kroger Co,Consumer Defensive,Grocery Stores,USA
-469,KSPI,Kaspi.kz JSC ADR,Technology,Software - Infrastructure,Kazakhstan
-470,KTOS,Kratos Defense & Security Solutions Inc,Industrials,Aerospace & Defense,USA
-471,KVUE,Kenvue Inc,Consumer Defensive,Household & Personal Products,USA
-472,L,Loews Corp,Financial,Insurance - Property & Casualty,USA
-473,LAMR,Lamar Advertising Co,Real Estate,REIT - Specialty,USA
-474,LDOS,Leidos Holdings Inc,Technology,Information Technology Services,USA
-475,LECO,Lincoln Electric Holdings Inc,Industrials,Tools & Accessories,USA
-476,LEN,Lennar Corp,Consumer Cyclical,Residential Construction,USA
-477,LFUS,Littelfuse Inc,Technology,Electronic Components,USA
-478,LH,Labcorp Holdings Inc,Healthcare,Diagnostics & Research,USA
-479,LHX,L3Harris Technologies Inc,Industrials,Aerospace & Defense,USA
-480,LI,Li Auto Inc ADR,Consumer Cyclical,Auto Manufacturers,China
-481,LII,Lennox International Inc,Industrials,Building Products & Equipment,USA
-482,LITE,Lumentum Holdings Inc,Technology,Communication Equipment,USA
-483,LMT,Lockheed Martin Corp,Industrials,Aerospace & Defense,USA
-484,LNG,Cheniere Energy Inc,Energy,Oil & Gas Midstream,USA
-485,LNT,Alliant Energy Corp,Utilities,Utilities - Regulated Electric,USA
-486,LOGI,Logitech International SA,Technology,Computer Hardware,Switzerland
-487,LOW,Lowe's Cos. Inc,Consumer Cyclical,Home Improvement Retail,USA
-488,LPLA,LPL Financial Holdings Inc,Financial,Capital Markets,USA
-489,LSCC,Lattice Semiconductor Corp,Technology,Semiconductors,USA
-490,LTH,Life Time Group Holdings Inc,Consumer Cyclical,Leisure,USA
-491,LTM,LATAM Airlines Group SA ADR,Industrials,Airlines,Chile
-492,LULU,Lululemon Athletica Inc,Consumer Cyclical,Apparel Retail,Canada
-493,LUV,Southwest Airlines Co,Industrials,Airlines,USA
-494,LVS,Las Vegas Sands Corp,Consumer Cyclical,Resorts & Casinos,USA
-495,LYB,LyondellBasell Industries NV,Basic Materials,Specialty Chemicals,United Kingdom
-496,LYG,Lloyds Banking Group plc ADR,Financial,Banks - Regional,United Kingdom
-497,LYV,Live Nation Entertainment Inc,Communication Services,Entertainment,USA
-498,MAA,Mid-America Apartment Communities Inc,Real Estate,REIT - Residential,USA
-499,MAIR,Madison Air Solutions Corp,Industrials,Building Products & Equipment,USA
-500,MANH,Manhattan Associates Inc,Technology,Software - Application,USA
-501,MAR,Marriott International Inc,Consumer Cyclical,Lodging,USA
-502,MAS,Masco Corp,Industrials,Building Products & Equipment,USA
-503,MCD,McDonald's Corp,Consumer Cyclical,Restaurants,USA
-504,MCHP,Microchip Technology Inc,Technology,Semiconductors,USA
-505,MCK,Mckesson Corp,Healthcare,Medical Distribution,USA
-506,MCO,Moody's Corp,Financial,Financial Data & Stock Exchanges,USA
-507,MDB,MongoDB Inc,Technology,Software - Infrastructure,USA
-508,MDGL,Madrigal Pharmaceuticals Inc,Healthcare,Biotechnology,USA
-509,MDLN,Medline Inc,Healthcare,Medical Instruments & Supplies,USA
-510,MDLZ,Mondelez International Inc,Consumer Defensive,Confectioners,USA
-511,MDT,Medtronic Plc,Healthcare,Medical Devices,Ireland
-512,MEDP,Medpace Holdings Inc,Healthcare,Diagnostics & Research,USA
-513,MELI,MercadoLibre Inc,Consumer Cyclical,Internet Retail,Uruguay
-514,MET,Metlife Inc,Financial,Insurance - Life,USA
-515,MFC,Manulife Financial Corp,Financial,Insurance - Life,Canada
-516,MFG,Mizuho Financial Group Inc ADR,Financial,Banks - Regional,Japan
-517,MGA,Magna International Inc,Consumer Cyclical,Auto Parts,Canada
-518,MGM,MGM Resorts International,Consumer Cyclical,Resorts & Casinos,USA
-519,MICC,Magnum Ice Cream Company NV,Consumer Defensive,Packaged Foods,Netherlands
-520,MKC,McCormick & Co Inc,Consumer Defensive,Packaged Foods,USA
-521,MKL,Markel Group Inc,Financial,Insurance - Property & Casualty,USA
-522,MKSI,MKS Inc,Technology,Scientific & Technical Instruments,USA
-523,MLI,Mueller Industries Inc,Industrials,Metal Fabrication,USA
-524,MLM,Martin Marietta Materials Inc,Basic Materials,Building Materials,USA
-525,MMM,3M Co,Industrials,Conglomerates,USA
-526,MNST,Monster Beverage Corp,Consumer Defensive,Beverages - Non-Alcoholic,USA
-527,MO,Altria Group Inc,Consumer Defensive,Tobacco,USA
-528,MOD,Modine Manufacturing Co,Consumer Cyclical,Auto Parts,USA
-529,MOG-A,Moog Inc,Industrials,Aerospace & Defense,USA
-530,MOH,Molina Healthcare Inc,Healthcare,Healthcare Plans,USA
-531,MP,MP Materials Corp,Basic Materials,Other Industrial Metals & Mining,USA
-532,MPC,Marathon Petroleum Corp,Energy,Oil & Gas Refining & Marketing,USA
-533,MPLX,MPLX LP,Energy,Oil & Gas Midstream,USA
-534,MPWR,Monolithic Power System Inc,Technology,Semiconductors,USA
-535,MRNA,Moderna Inc,Healthcare,Biotechnology,USA
-536,MRSH,Marsh,Financial,Insurance Brokers,USA
-537,MRVL,Marvell Technology Inc,Technology,Semiconductors,USA
-538,MSCI,MSCI Inc,Financial,Financial Data & Stock Exchanges,USA
-539,MSI,Motorola Solutions Inc,Technology,Communication Equipment,USA
-540,MSTR,Strategy Inc,Technology,Software - Application,USA
-541,MT,ArcelorMittal SA,Basic Materials,Steel,Luxembourg
-542,MTB,M & T Bank Corp,Financial,Banks - Regional,USA
-543,MTD,Mettler-Toledo International Inc,Healthcare,Diagnostics & Research,USA
-544,MTSI,MACOM Technology Solutions Holdings Inc,Technology,Semiconductors,USA
-545,MTZ,Mastec Inc,Industrials,Engineering & Construction,USA
-546,MUSA,Murphy USA Inc,Consumer Cyclical,Specialty Retail,USA
-547,NBIS,Nebius Group NV,Technology,Software - Infrastructure,Netherlands
-548,NBIX,Neurocrine Biosciences Inc,Healthcare,Drug Manufacturers - Specialty & Generic,USA
-549,NDAQ,Nasdaq Inc,Financial,Financial Data & Stock Exchanges,USA
-550,NDSN,Nordson Corp,Industrials,Specialty Industrial Machinery,USA
-551,NEE,NextEra Energy Inc,Utilities,Utilities - Regulated Electric,USA
-552,NEM,Newmont Corp,Basic Materials,Gold,USA
-553,NET,Cloudflare Inc,Technology,Software - Infrastructure,USA
-554,NGG,National Grid Plc ADR,Utilities,Utilities - Regulated Electric,United Kingdom
-555,NI,NiSource Inc,Utilities,Utilities - Regulated Gas,USA
-556,NIO,NIO Inc ADR,Consumer Cyclical,Auto Manufacturers,China
-557,NKE,Nike Inc,Consumer Cyclical,Footwear & Accessories,USA
-558,NLY,Annaly Capital Management Inc,Real Estate,REIT - Mortgage,USA
-559,NMR,Nomura Holdings Inc ADR,Financial,Capital Markets,Japan
-560,NOC,Northrop Grumman Corp,Industrials,Aerospace & Defense,USA
-561,NOK,Nokia Corp ADR,Technology,Communication Equipment,Finland
-562,NOW,ServiceNow Inc,Technology,Software - Application,USA
-563,NRG,NRG Energy Inc,Utilities,Utilities - Independent Power Producers,USA
-564,NSC,Norfolk Southern Corp,Industrials,Railroads,USA
-565,NTAP,Netapp Inc,Technology,Software - Infrastructure,USA
-566,NTES,NetEase Inc ADR,Communication Services,Electronic Gaming & Multimedia,China
-567,NTNX,Nutanix Inc,Technology,Software - Infrastructure,USA
-568,NTR,Nutrien Ltd,Basic Materials,Agricultural Inputs,Canada
-569,NTRA,Natera Inc,Healthcare,Diagnostics & Research,USA
-570,NTRS,Northern Trust Corp,Financial,Asset Management,USA
-571,NU,Nu Holdings Ltd,Financial,Banks - Regional,Brazil
-572,NUE,Nucor Corp,Basic Materials,Steel,USA
-573,NVMI,Nova Ltd,Technology,Semiconductor Equipment & Materials,Israel
-574,NVO,Novo Nordisk ADR,Healthcare,Drug Manufacturers - General,Denmark
-575,NVR,NVR Inc,Consumer Cyclical,Residential Construction,USA
-576,NVT,nVent Electric plc,Industrials,Electrical Equipment & Parts,United Kingdom
-577,NWG,NatWest Group Plc ADR,Financial,Banks - Regional,United Kingdom
-578,NWS,News Corp,Communication Services,Entertainment,USA
-579,NWSA,News Corp,Communication Services,Entertainment,USA
-580,NXPI,NXP Semiconductors NV,Technology,Semiconductors,Netherlands
-581,NXT,Nextpower Inc,Technology,Solar,USA
-582,NYT,New York Times Co,Communication Services,Publishing,USA
-583,O,Realty Income Corp,Real Estate,REIT - Retail,USA
-584,OC,Owens Corning,Industrials,Building Products & Equipment,USA
-585,ODFL,Old Dominion Freight Line Inc,Industrials,Trucking,USA
-586,OHI,Omega Healthcare Investors Inc,Real Estate,REIT - Healthcare Facilities,USA
-587,OKE,Oneok Inc,Energy,Oil & Gas Midstream,USA
-588,OKTA,Okta Inc,Technology,Software - Infrastructure,USA
-589,OMC,Omnicom Group Inc,Communication Services,Advertising Agencies,USA
-590,ON,ON Semiconductor Corp,Technology,Semiconductors,USA
-591,ONB,Old National Bancorp,Financial,Banks - Regional,USA
-592,ONC,BeOne Medicines Ltd ADR,Healthcare,Biotechnology,Switzerland
-593,ONON,On Holding AG,Consumer Cyclical,Footwear & Accessories,Switzerland
-594,ONTO,Onto Innovation Inc,Technology,Semiconductor Equipment & Materials,USA
-595,ORI,Old Republic International Corp,Financial,Insurance - Property & Casualty,USA
-596,ORLY,O'Reilly Automotive Inc,Consumer Cyclical,Auto Parts,USA
-597,OTIS,Otis Worldwide Corp,Industrials,Specialty Industrial Machinery,USA
-598,OVV,Ovintiv Inc,Energy,Oil & Gas E&P,USA
-599,OWL,Blue Owl Capital Inc,Financial,Asset Management,USA
-600,OXY,Occidental Petroleum Corp,Energy,Oil & Gas E&P,USA
-601,P,Everpure Inc,Technology,Computer Hardware,USA
-602,PAA,Plains All American Pipeline LP,Energy,Oil & Gas Midstream,USA
-603,PAAS,Pan American Silver Corp,Basic Materials,Gold,Canada
-604,PAC,Grupo Aeroportuario Del Pacifico SAB de CV ADR,Industrials,Airports & Air Services,Mexico
-605,PAG,Penske Automotive Group Inc,Consumer Cyclical,Auto & Truck Dealerships,USA
-606,PAGP,Plains GP Holdings LP,Energy,Oil & Gas Midstream,USA
-607,PAYX,Paychex Inc,Technology,Software - Application,USA
-608,PBA,Pembina Pipeline Corp,Energy,Oil & Gas Midstream,Canada
-609,PBR,Petroleo Brasileiro SA Petrobras ADR,Energy,Oil & Gas Integrated,Brazil
-610,PBR-A,Petroleo Brasileiro SA Petrobras ADR,Energy,Oil & Gas Integrated,Brazil
-611,PCAR,Paccar Inc,Industrials,Farm & Heavy Construction Machinery,USA
-612,PCG,PG&E Corp,Utilities,Utilities - Regulated Electric,USA
-613,PDD,PDD Holdings Inc ADR,Consumer Cyclical,Internet Retail,China
-614,PEG,Public Service Enterprise Group Inc,Utilities,Utilities - Regulated Electric,USA
-615,PEN,Penumbra Inc,Healthcare,Medical Devices,USA
-616,PEP,PepsiCo Inc,Consumer Defensive,Beverages - Non-Alcoholic,USA
-617,PFE,Pfizer Inc,Healthcare,Drug Manufacturers - General,USA
-618,PFG,Principal Financial Group Inc,Financial,Asset Management,USA
-619,PFGC,Performance Food Group Company,Consumer Defensive,Food Distribution,USA
-620,PGR,Progressive Corp,Financial,Insurance - Property & Casualty,USA
-621,PH,Parker-Hannifin Corp,Industrials,Specialty Industrial Machinery,USA
-622,PHG,Koninklijke Philips NV ADR,Healthcare,Medical Devices,Netherlands
-623,PHM,PulteGroup Inc,Consumer Cyclical,Residential Construction,USA
-624,PHYS,Sprott Physical Gold Trust,Financial,Asset Management,Canada
-625,PINS,Pinterest Inc,Communication Services,Internet Content & Information,USA
-626,PKG,Packaging Corp Of America,Consumer Cyclical,Packaging & Containers,USA
-627,PKX,POSCO Holdings Inc ADR,Basic Materials,Steel,South Korea
-628,PLD,Prologis Inc,Real Estate,REIT - Industrial,USA
-629,PNC,PNC Financial Services Group Inc,Financial,Banks - Regional,USA
-630,PNFP,Pinnacle Financial Partners Inc,Financial,Banks - Regional,USA
-631,PNR,Pentair plc,Industrials,Specialty Industrial Machinery,United Kingdom
-632,PNW,Pinnacle West Capital Corp,Utilities,Utilities - Regulated Electric,USA
-633,PODD,Insulet Corp,Healthcare,Medical Devices,USA
-634,PPG,PPG Industries Inc,Basic Materials,Specialty Chemicals,USA
-635,PPL,PPL Corp,Utilities,Utilities - Regulated Electric,USA
-636,PR,Permian Resources Holdings Inc,Energy,Oil & Gas E&P,USA
-637,PRAX,Praxis Precision Medicines Inc,Healthcare,Biotechnology,USA
-638,PRU,Prudential Financial Inc,Financial,Insurance - Life,USA
-639,PS,Pershing Square Inc,Financial,Asset Management,USA
-640,PSA,Public Storage,Real Estate,REIT - Industrial,USA
-641,PSKY,Paramount Skydance Corp,Communication Services,Entertainment,USA
-642,PSLV,Sprott Physical Silver Trust,Financial,Asset Management,Canada
-643,PSX,Phillips 66,Energy,Oil & Gas Refining & Marketing,USA
-644,PTC,PTC Inc,Technology,Software - Application,USA
-645,PTGX,Protagonist Therapeutics Inc,Healthcare,Biotechnology,USA
-646,PUK,Prudential plc ADR,Financial,Insurance - Life,Hong Kong
-647,PWR,Quanta Services Inc,Industrials,Engineering & Construction,USA
-648,PYPL,PayPal Holdings Inc,Financial,Credit Services,USA
-649,Q,Qnity Electronics Inc,Technology,Semiconductor Equipment & Materials,USA
-650,QCOM,Qualcomm Inc,Technology,Semiconductors,USA
-651,QH,Quhuo Ltd,Technology,Software - Application,China
-652,QNT,Quantinuum Inc,Technology,Software - Application,USA
-653,QSR,Restaurant Brands International Inc,Consumer Cyclical,Restaurants,USA
-654,QXO,QXO Inc,Industrials,Industrial Distribution,USA
-655,R,Ryder System Inc,Industrials,Rental & Leasing Services,USA
-656,RACE,Ferrari NV,Consumer Cyclical,Auto Manufacturers,Italy
-657,RBA,RB Global Inc,Industrials,Specialty Business Services,USA
-658,RBC,RBC Bearings Inc,Industrials,Tools & Accessories,USA
-659,RBLX,Roblox Corp,Communication Services,Electronic Gaming & Multimedia,USA
-660,RBRK,Rubrik Inc,Technology,Software - Infrastructure,USA
-661,RCI,Rogers Communications Inc,Communication Services,Telecom Services,Canada
-662,RCL,Royal Caribbean Group,Consumer Cyclical,Travel Services,USA
-663,RDDT,Reddit Inc,Communication Services,Internet Content & Information,USA
-664,RDY,Dr. Reddy's Laboratories Ltd ADR,Healthcare,Drug Manufacturers - Specialty & Generic,India
-665,REG,Regency Centers Corp,Real Estate,REIT - Retail,USA
-666,REGN,Regeneron Pharmaceuticals Inc,Healthcare,Biotechnology,USA
-667,RELX,RELX Plc ADR,Industrials,Specialty Business Services,United Kingdom
-668,RF,Regions Financial Corp,Financial,Banks - Regional,USA
-669,RGA,Reinsurance Group Of America Inc,Financial,Insurance - Reinsurance,USA
-670,RGLD,Royal Gold Inc,Basic Materials,Gold,USA
-671,RIO,Rio Tinto plc ADR,Basic Materials,Other Industrial Metals & Mining,United Kingdom
-672,RIVN,Rivian Automotive Inc,Consumer Cyclical,Auto Manufacturers,USA
-673,RJF,Raymond James Financial Inc,Financial,Asset Management,USA
-674,RKLB,Rocket Lab Corp,Industrials,Aerospace & Defense,USA
-675,RKT,Rocket Companies Inc,Financial,Mortgage Finance,USA
-676,RL,Ralph Lauren Corp,Consumer Cyclical,Apparel Manufacturing,USA
-677,RMBS,Rambus Inc,Technology,Semiconductors,USA
-678,RMD,Resmed Inc,Healthcare,Medical Instruments & Supplies,USA
-679,RNR,RenaissanceRe Holdings Ltd,Financial,Insurance - Reinsurance,Bermuda
-680,ROIV,Roivant Sciences Ltd,Healthcare,Biotechnology,United Kingdom
-681,ROK,Rockwell Automation Inc,Industrials,Specialty Industrial Machinery,USA
-682,ROKU,Roku Inc,Communication Services,Entertainment,USA
-683,ROL,Rollins Inc,Consumer Cyclical,Personal Services,USA
-684,ROP,Roper Technologies Inc,Technology,Software - Application,USA
-685,ROST,Ross Stores Inc,Consumer Cyclical,Apparel Retail,USA
-686,RPM,RPM International Inc,Basic Materials,Specialty Chemicals,USA
-687,RPRX,Royalty Pharma plc,Healthcare,Biotechnology,USA
-688,RRX,Regal Rexnord Corp,Industrials,Specialty Industrial Machinery,USA
-689,RS,Reliance Inc,Basic Materials,Steel,USA
-690,RSG,Republic Services Inc,Industrials,Waste Management,USA
-691,RTO,Rentokil Initial Plc ADR,Industrials,Specialty Business Services,United Kingdom
-692,RVMD,Revolution Medicines Inc,Healthcare,Biotechnology,USA
-693,RVTY,Revvity Inc,Healthcare,Diagnostics & Research,USA
-694,RYAAY,Ryanair Holdings Plc ADR,Industrials,Airlines,Ireland
-695,RYAN,Ryan Specialty Holdings Inc,Financial,Insurance - Specialty,USA
-696,SAIA,Saia Inc,Industrials,Trucking,USA
-697,SAIL,Sailpoint Inc,Technology,Software - Infrastructure,USA
-698,SANM,Sanmina Corp,Technology,Electronic Components,USA
-699,SBAC,SBA Communications Corp,Real Estate,REIT - Specialty,USA
-700,SBS,Companhia de Saneamento Basico do Estado de Sao Paulo ADR,Utilities,Utilities - Regulated Water,Brazil
-701,SBUX,Starbucks Corp,Consumer Cyclical,Restaurants,USA
-702,SCCO,Southern Copper Corp,Basic Materials,Copper,USA
-703,SCHW,Charles Schwab Corp,Financial,Capital Markets,USA
-704,SCI,Service Corp International,Consumer Cyclical,Personal Services,USA
-705,SE,Sea Ltd ADR,Consumer Cyclical,Internet Retail,Singapore
-706,SEIC,SEI Investments Co,Financial,Asset Management,USA
-707,SF,Stifel Financial Corp,Financial,Capital Markets,USA
-708,SGI,Somnigroup International Inc,Consumer Cyclical,"Furnishings, Fixtures & Appliances",USA
-709,SHG,Shinhan Financial Group Co Ltd ADR,Financial,Banks - Regional,South Korea
-710,SHOP,Shopify Inc,Technology,Software - Application,Canada
-711,SHW,Sherwin-Williams Co,Basic Materials,Specialty Chemicals,USA
-712,SITM,SiTime Corp,Technology,Semiconductors,USA
-713,SJM,J.M. Smucker Co,Consumer Defensive,Packaged Foods,USA
-714,SKM,SK Telecom Co Ltd ADR,Communication Services,Telecom Services,South Korea
-715,SLB,SLB Ltd,Energy,Oil & Gas Equipment & Services,USA
-716,SLF,Sun Life Financial Inc,Financial,Insurance - Diversified,Canada
-717,SMCI,Super Micro Computer Inc,Technology,Computer Hardware,USA
-718,SMFG,Sumitomo Mitsui Financial Group Inc ADR,Financial,Banks - Diversified,Japan
-719,SMMT,Summit Therapeutics Inc,Healthcare,Biotechnology,USA
-720,SMTC,Semtech Corp,Technology,Semiconductors,USA
-721,SN,SharkNinja Inc,Consumer Cyclical,"Furnishings, Fixtures & Appliances",USA
-722,SNA,Snap-on Inc,Industrials,Tools & Accessories,USA
-723,SNN,Smith & Nephew plc ADR,Healthcare,Medical Devices,United Kingdom
-724,SNOW,Snowflake Inc,Technology,Software - Application,USA
-725,SNPS,Synopsys Inc,Technology,Software - Infrastructure,USA
-726,SNX,TD Synnex Corp,Technology,Electronics & Computer Distribution,USA
-727,SNY,Sanofi ADR,Healthcare,Drug Manufacturers - General,France
-728,SO,Southern Company,Utilities,Utilities - Regulated Electric,USA
-729,SOFI,SoFi Technologies Inc,Financial,Credit Services,USA
-730,SOLV,Solventum Corp,Healthcare,Medical Instruments & Supplies,USA
-731,SONY,Sony Group Corp ADR,Technology,Consumer Electronics,Japan
-732,SPG,Simon Property Group Inc,Real Estate,REIT - Retail,USA
-733,SPGI,S&P Global Inc,Financial,Financial Data & Stock Exchanges,USA
-734,SPOT,Spotify Technology SA,Communication Services,Internet Content & Information,Sweden
-735,SPXC,SPX Technologies Inc,Industrials,Building Products & Equipment,USA
-736,SQM,Sociedad Quimica Y Minera de Chile SA ADR,Basic Materials,Specialty Chemicals,Chile
-737,SRE,Sempra,Utilities,Utilities - Diversified,USA
-738,SSB,SouthState Bank Corp,Financial,Banks - Regional,USA
-739,SSNC,SS&C Technologies Holdings Inc,Technology,Software - Application,USA
-740,STE,Steris Plc,Healthcare,Medical Devices,Ireland
-741,STLA,Stellantis N.V,Consumer Cyclical,Auto Manufacturers,Netherlands
-742,STLD,Steel Dynamics Inc,Basic Materials,Steel,USA
-743,STM,ST Microelectronics,Technology,Semiconductors,Switzerland
-744,STRC,Strategy Inc - VR PRF PERPETUAL USD 100 - Ser A,Technology,Software - Application,USA
-745,STRL,Sterling Infrastructure Inc,Industrials,Engineering & Construction,USA
-746,STT,State Street Corp,Financial,Asset Management,USA
-747,STZ,Constellation Brands Inc,Consumer Defensive,Beverages - Brewers,USA
-748,SU,Suncor Energy Inc,Energy,Oil & Gas Integrated,Canada
-749,SUI,Sun Communities Inc,Real Estate,REIT - Residential,USA
-750,SUN,Sunoco LP,Energy,Oil & Gas Refining & Marketing,USA
-751,SUNB,Sunbelt Rentals Holdings Inc,Industrials,Rental & Leasing Services,USA
-752,SW,Smurfit WestRock plc,Consumer Cyclical,Packaging & Containers,Ireland
-753,SWK,Stanley Black & Decker Inc,Industrials,Tools & Accessories,USA
-754,SYF,Synchrony Financial,Financial,Credit Services,USA
-755,SYK,Stryker Corp,Healthcare,Medical Devices,USA
-756,SYM,Symbotic Inc,Industrials,Specialty Industrial Machinery,USA
-757,SYY,Sysco Corp,Consumer Defensive,Food Distribution,USA
-758,T,AT&T Inc,Communication Services,Telecom Services,USA
-759,TAK,Takeda Pharmaceutical Co ADR,Healthcare,Drug Manufacturers - Specialty & Generic,Japan
-760,TCOM,Trip.com Group Ltd ADR,Consumer Cyclical,Travel Services,Singapore
-761,TDG,Transdigm Group Incorporated,Industrials,Aerospace & Defense,USA
-762,TDY,Teledyne Technologies Inc,Technology,Scientific & Technical Instruments,USA
-763,TEAM,Atlassian Corp,Technology,Software - Application,USA
-764,TECH,Bio-Techne Corp,Healthcare,Biotechnology,USA
-765,TECK,Teck Resources Ltd,Basic Materials,Copper,Canada
-766,TEL,TE Connectivity plc,Technology,Electronic Components,Ireland
-767,TER,Teradyne Inc,Technology,Semiconductor Equipment & Materials,USA
-768,TEVA,Teva- Pharmaceutical Industries Ltd ADR,Healthcare,Drug Manufacturers - Specialty & Generic,Israel
-769,TFC,Truist Financial Corp,Financial,Banks - Regional,USA
-770,TFII,TFI International Inc,Industrials,Trucking,Canada
-771,TGT,Target Corp,Consumer Defensive,Discount Stores,USA
-772,THC,Tenet Healthcare Corp,Healthcare,Medical Care Facilities,USA
-773,TIGO,Millicom International Cellular SA,Communication Services,Telecom Services,Luxembourg
-774,TJX,TJX Companies Inc,Consumer Cyclical,Apparel Retail,USA
-775,TKO,TKO Group Holdings Inc,Communication Services,Entertainment,USA
-776,TLK,Telkom Indonesia (Persero) Tbk PT ADR,Communication Services,Telecom Services,Indonesia
-777,TLN,Talen Energy Corp,Utilities,Utilities - Independent Power Producers,USA
-778,TMUS,T-Mobile US Inc,Communication Services,Telecom Services,USA
-779,TOL,Toll Brothers Inc,Consumer Cyclical,Residential Construction,USA
-780,TOST,Toast Inc,Technology,Software - Infrastructure,USA
-781,TPG,TPG Inc,Financial,Asset Management,USA
-782,TPL,Texas Pacific Land Corp,Energy,Oil & Gas E&P,USA
-783,TPR,Tapestry Inc,Consumer Cyclical,Luxury Goods,USA
-784,TRGP,Targa Resources Corp,Energy,Oil & Gas Midstream,USA
-785,TRI,Thomson-Reuters Corp,Industrials,Specialty Business Services,Canada
-786,TRMB,Trimble Inc,Technology,Scientific & Technical Instruments,USA
-787,TROW,T. Rowe Price Group Inc,Financial,Asset Management,USA
-788,TRP,TC Energy Corp,Energy,Oil & Gas Midstream,Canada
-789,TRU,TransUnion,Financial,Financial Data & Stock Exchanges,USA
-790,TRV,Travelers Companies Inc,Financial,Insurance - Property & Casualty,USA
-791,TS,Tenaris SA ADR,Energy,Oil & Gas Equipment & Services,Luxembourg
-792,TSCO,Tractor Supply Co,Consumer Cyclical,Specialty Retail,USA
-793,TSEM,Tower Semiconductor Ltd,Technology,Semiconductors,Israel
-794,TSN,Tyson Foods Inc,Consumer Defensive,Farm Products,USA
-795,TT,Trane Technologies plc,Industrials,Building Products & Equipment,Ireland
-796,TTE,TotalEnergies SE,Energy,Oil & Gas Integrated,France
-797,TTMI,TTM Technologies Inc,Technology,Electronic Components,USA
-798,TTWO,Take-Two Interactive Software Inc,Communication Services,Electronic Gaming & Multimedia,USA
-799,TU,Telus Corp,Communication Services,Telecom Services,Canada
-800,TW,Tradeweb Markets Inc,Financial,Capital Markets,USA
-801,TWLO,Twilio Inc,Technology,Software - Infrastructure,USA
-802,TX,Ternium SA ADR,Basic Materials,Steel,Luxembourg
-803,TXRH,Texas Roadhouse Inc,Consumer Cyclical,Restaurants,USA
-804,TXT,Textron Inc,Industrials,Aerospace & Defense,USA
-805,TYL,Tyler Technologies Inc,Technology,Software - Application,USA
-806,U,Unity Software Inc,Technology,Software - Application,USA
-807,UAL,United Airlines Holdings Inc,Industrials,Airlines,USA
-808,UBER,Uber Technologies Inc,Technology,Software - Application,USA
-809,UBS,UBS Group AG,Financial,Banks - Diversified,Switzerland
-810,UDR,UDR Inc,Real Estate,REIT - Residential,USA
-811,UHAL,U-Haul Holding Company,Industrials,Rental & Leasing Services,USA
-812,UHAL-B,U-Haul Holding Company,Industrials,Rental & Leasing Services,USA
-813,UHS,Universal Health Services Inc,Healthcare,Medical Care Facilities,USA
-814,UI,Ubiquiti Inc,Technology,Communication Equipment,USA
-815,UL,Unilever plc ADR,Consumer Defensive,Household & Personal Products,United Kingdom
-816,ULS,UL Solutions Inc,Industrials,Specialty Business Services,USA
-817,ULTA,Ulta Beauty Inc,Consumer Cyclical,Specialty Retail,USA
-818,UMBF,UMB Financial Corp,Financial,Banks - Regional,USA
-819,UMC,United Micro Electronics ADR,Technology,Semiconductors,Taiwan
-820,UNM,Unum Group,Financial,Insurance - Life,USA
-821,UNP,Union Pacific Corp,Industrials,Railroads,USA
-822,UPS,United Parcel Service Inc,Industrials,Integrated Freight & Logistics,USA
-823,URI,United Rentals Inc,Industrials,Rental & Leasing Services,USA
-824,USB,U.S. Bancorp,Financial,Banks - Regional,USA
-825,USFD,US Foods Holding Corp,Consumer Defensive,Food Distribution,USA
-826,UTHR,United Therapeutics Corp,Healthcare,Drug Manufacturers - Specialty & Generic,USA
-827,VALE,Vale SA ADR,Basic Materials,Other Industrial Metals & Mining,Brazil
-828,VEEV,Veeva Systems Inc,Healthcare,Health Information Services,USA
-829,VG,Venture Global Inc,Energy,Oil & Gas Midstream,USA
-830,VIAV,Viavi Solutions Inc,Technology,Communication Equipment,USA
-831,VICI,VICI Properties Inc,Real Estate,REIT - Diversified,USA
-832,VICR,Vicor Corp,Technology,Electronic Components,USA
-833,VIK,Viking Holdings Ltd,Consumer Cyclical,Travel Services,Bermuda
-834,VIV,Telefonica Brasil SA ADR,Communication Services,Telecom Services,Brazil
-835,VLO,Valero Energy Corp,Energy,Oil & Gas Refining & Marketing,USA
-836,VLTO,Veralto Corp,Industrials,Pollution & Treatment Controls,USA
-837,VMC,Vulcan Materials Co,Basic Materials,Building Materials,USA
-838,VMRK,Vivmark Residential,Real Estate,REIT - Residential,USA
-839,VNOM,Viper Energy Inc,Energy,Oil & Gas Midstream,USA
-840,VOD,Vodafone Group plc ADR,Communication Services,Telecom Services,United Kingdom
-841,VRSK,Verisk Analytics Inc,Industrials,Consulting Services,USA
-842,VRSN,Verisign Inc,Technology,Software - Infrastructure,USA
-843,VRT,Vertiv Holdings Co,Industrials,Electrical Equipment & Parts,USA
-844,VRTX,Vertex Pharmaceuticals Inc,Healthcare,Biotechnology,USA
-845,VSAT,Viasat Inc,Technology,Communication Equipment,USA
-846,VST,Vistra Corp,Utilities,Utilities - Independent Power Producers,USA
-847,VTR,Ventas Inc,Real Estate,REIT - Healthcare Facilities,USA
-848,VTRS,Viatris Inc,Healthcare,Drug Manufacturers - Specialty & Generic,USA
-849,W,Wayfair Inc,Consumer Cyclical,Internet Retail,USA
-850,WAB,Westinghouse Air Brake Technologies Corp,Industrials,Railroads,USA
-851,WAT,Waters Corp,Healthcare,Diagnostics & Research,USA
-852,WBD,Warner Bros. Discovery Inc,Communication Services,Entertainment,USA
-853,WBS,Webster Financial Corp,Financial,Banks - Regional,USA
-854,WCC,Wesco International Inc,Industrials,Industrial Distribution,USA
-855,WCN,Waste Connections Inc,Industrials,Waste Management,Canada
-856,WDAY,Workday Inc,Technology,Software - Application,USA
-857,WDC,Western Digital Corp,Technology,Computer Hardware,USA
-858,WDS,Woodside Energy Group Ltd ADR,Energy,Oil & Gas E&P,Australia
-859,WEC,WEC Energy Group Inc,Utilities,Utilities - Regulated Electric,USA
-860,WELL,Welltower Inc,Real Estate,REIT - Healthcare Facilities,USA
-861,WES,Western Midstream Partners LP,Energy,Oil & Gas Midstream,USA
-862,WF,Woori Financial Group Inc ADR,Financial,Banks - Regional,South Korea
-863,WIT,Wipro Ltd ADR,Technology,Information Technology Services,India
-864,WM,Waste Management Inc,Industrials,Waste Management,USA
-865,WMB,Williams Cos Inc,Energy,Oil & Gas Midstream,USA
-866,WMG,Warner Music Group Corp,Communication Services,Entertainment,USA
-867,WMS,Advanced Drainage Systems Inc,Industrials,Building Products & Equipment,USA
-868,WPC,W. P. Carey Inc,Real Estate,REIT - Diversified,USA
-869,WPM,Wheaton Precious Metals Corp,Basic Materials,Gold,Canada
-870,WRB,W.R. Berkley Corp,Financial,Insurance - Property & Casualty,USA
-871,WSE,Wise Group Plc,Technology,Information Technology Services,United Kingdom
-872,WSM,Williams-Sonoma Inc,Consumer Cyclical,Specialty Retail,USA
-873,WSO,Watsco Inc,Industrials,Industrial Distribution,USA
-874,WST,West Pharmaceutical Services Inc,Healthcare,Medical Instruments & Supplies,USA
-875,WTFC,Wintrust Financial Corp,Financial,Banks - Regional,USA
-876,WTRG,Essential Utilities Inc,Utilities,Utilities - Regulated Water,USA
-877,WTS,Watts Water Technologies Inc,Industrials,Specialty Industrial Machinery,USA
-878,WTW,Willis Towers Watson Public Limited Co,Financial,Insurance Brokers,United Kingdom
-879,WWD,Woodward Inc,Industrials,Aerospace & Defense,USA
-880,WY,Weyerhaeuser Co,Real Estate,REIT - Specialty,USA
-881,WYNN,Wynn Resorts Ltd,Consumer Cyclical,Resorts & Casinos,USA
-882,XEL,Xcel Energy Inc,Utilities,Utilities - Regulated Electric,USA
-883,XPO,XPO Inc,Industrials,Trucking,USA
-884,XYL,Xylem Inc,Industrials,Specialty Industrial Machinery,USA
-885,XYZ,Block Inc,Technology,Software - Infrastructure,USA
-886,YPF,YPF ADR,Energy,Oil & Gas Integrated,Argentina
-887,YUM,Yum Brands Inc,Consumer Cyclical,Restaurants,USA
-888,YUMC,Yum China Holdings Inc,Consumer Cyclical,Restaurants,China
-889,ZBH,Zimmer Biomet Holdings Inc,Healthcare,Medical Devices,USA
-890,ZBRA,Zebra Technologies Corp,Technology,Communication Equipment,USA
-891,ZION,Zions Bancorporation N.A,Financial,Banks - Regional,USA
-892,ZM,Zoom Communications Inc,Technology,Software - Application,USA
-893,ZS,Zscaler Inc,Technology,Software - Infrastructure,USA
-894,ZTO,ZTO Express (Cayman) Inc ADR,Industrials,Integrated Freight & Logistics,China
-895,ZTS,Zoetis Inc,Healthcare,Drug Manufacturers - Specialty & Generic,USA
+Ticker,Company,Sector,Industry,Country
+A,Agilent Technologies Inc,Healthcare,Diagnostics & Research,USA
+AA,Alcoa Corp,Basic Materials,Aluminum,USA
+AAOI,Applied Optoelectronics Inc,Technology,Communication Equipment,USA
+ABEV,Ambev SA ADR,Consumer Defensive,Beverages - Brewers,Brazil
+ABNB,Airbnb Inc,Consumer Cyclical,Travel Services,USA
+ABT,Abbott Laboratories,Healthcare,Medical Devices,USA
+ABVX,Abivax ADR,Healthcare,Biotechnology,France
+ACGL,Arch Capital Group Ltd,Financial,Insurance - Diversified,Bermuda
+ACN,Accenture plc,Technology,Information Technology Services,Ireland
+ADBE,Adobe Inc,Technology,Software - Application,USA
+ADI,Analog Devices Inc,Technology,Semiconductors,USA
+ADM,Archer Daniels Midland Co,Consumer Defensive,Farm Products,USA
+ADP,Automatic Data Processing Inc,Technology,Software - Application,USA
+ADSK,Autodesk Inc,Technology,Software - Application,USA
+AEE,Ameren Corp,Utilities,Utilities - Regulated Electric,USA
+AEG,Aegon Ltd,Financial,Insurance - Diversified,Netherlands
+AEIS,Advanced Energy Industries Inc,Industrials,Electrical Equipment & Parts,USA
+AEM,Agnico Eagle Mines Ltd,Basic Materials,Gold,Canada
+AEP,American Electric Power Company Inc,Utilities,Utilities - Regulated Electric,USA
+AER,Aercap Holdings NV,Industrials,Rental & Leasing Services,Ireland
+AES,AES Corp,Utilities,Utilities - Diversified,USA
+AFG,American Financial Group Inc,Financial,Insurance - Property & Casualty,USA
+AFL,Aflac Inc,Financial,Insurance - Life,USA
+AFRM,Affirm Holdings Inc,Financial,Credit Services,USA
+AGI,Alamos Gold Inc,Basic Materials,Gold,Canada
+AGNC,AGNC Investment Corp,Real Estate,REIT - Mortgage,USA
+AHR,American Healthcare REIT Inc,Real Estate,REIT - Healthcare Facilities,USA
+AIG,American International Group Inc,Financial,Insurance - Diversified,USA
+AIT,Applied Industrial Technologies Inc,Industrials,Industrial Distribution,USA
+AIZ,Assurant Inc,Financial,Insurance - Property & Casualty,USA
+AJG,Arthur J. Gallagher & Co,Financial,Insurance Brokers,USA
+AKAM,Akamai Technologies Inc,Technology,Software - Infrastructure,USA
+ALAB,Astera Labs Inc,Technology,Semiconductors,USA
+ALB,Albemarle Corp,Basic Materials,Specialty Chemicals,USA
+ALC,Alcon Inc,Healthcare,Medical Instruments & Supplies,Switzerland
+ALGN,Align Technology Inc,Healthcare,Medical Instruments & Supplies,USA
+ALL,Allstate Corp,Financial,Insurance - Property & Casualty,USA
+ALLE,Allegion plc,Industrials,Security & Protection Services,Ireland
+ALLY,Ally Financial Inc,Financial,Credit Services,USA
+ALNY,Alnylam Pharmaceuticals Inc,Healthcare,Biotechnology,USA
+ALSN,Allison Transmission Holdings Inc,Consumer Cyclical,Auto Parts,USA
+AM,Antero Midstream Corp,Energy,Oil & Gas Midstream,USA
+AMCR,Amcor Plc,Consumer Cyclical,Packaging & Containers,Switzerland
+AME,Ametek Inc,Industrials,Specialty Industrial Machinery,USA
+AMH,American Homes 4 Rent,Real Estate,REIT - Residential,USA
+AMKR,AMKOR Technology Inc,Technology,Semiconductor Equipment & Materials,USA
+AMP,Ameriprise Financial Inc,Financial,Asset Management,USA
+AMRZ,Amrize Ltd,Basic Materials,Building Materials,USA
+AMT,American Tower Corp,Real Estate,REIT - Specialty,USA
+AMX,America Movil SAB de CV ADR,Communication Services,Telecom Services,Mexico
+AON,Aon Plc,Financial,Insurance Brokers,Ireland
+APA,APA Corp,Energy,Oil & Gas E&P,USA
+APD,Air Products & Chemicals Inc,Basic Materials,Specialty Chemicals,USA
+APG,APi Group Corp,Industrials,Engineering & Construction,USA
+APGE,Apogee Therapeutics Inc,Healthcare,Biotechnology,USA
+APH,Amphenol Corp,Technology,Electronic Components,USA
+APO,Apollo Global Management Inc,Financial,Asset Management,USA
+APP,Applovin Corp,Communication Services,Advertising Agencies,USA
+APTV,Aptiv Plc,Consumer Cyclical,Auto Parts,Switzerland
+AR,Antero Resources Corp,Energy,Oil & Gas E&P,USA
+ARCC,Ares Capital Corp,Financial,Asset Management,USA
+ARES,Ares Management Corp,Financial,Asset Management,USA
+ARGX,Argen X SE ADR,Healthcare,Biotechnology,Netherlands
+ARMK,Aramark,Industrials,Specialty Business Services,USA
+ARW,Arrow Electronics Inc,Technology,Electronics & Computer Distribution,USA
+ARWR,Arrowhead Pharmaceuticals Inc,Healthcare,Biotechnology,USA
+ARXS,Arxis Inc,Industrials,Aerospace & Defense,USA
+AS,Amer Sports Inc,Consumer Cyclical,Leisure,Finland
+ASND,Ascendis Pharma A/S,Healthcare,Biotechnology,Denmark
+ASTS,AST SpaceMobile Inc,Technology,Communication Equipment,USA
+ASX,ASE Technology Holding CoLtd ADR,Technology,Semiconductors,Taiwan
+ATI,ATI Inc,Industrials,Metal Fabrication,USA
+ATO,Atmos Energy Corp,Utilities,Utilities - Regulated Gas,USA
+AU,AngloGold Ashanti Plc,Basic Materials,Gold,USA
+AUR,Aurora Innovation Inc,Consumer Cyclical,Auto Parts,USA
+AVB,Avalonbay Communities Inc,Real Estate,REIT - Residential,USA
+AVY,Avery Dennison Corp,Consumer Cyclical,Packaging & Containers,USA
+AWK,American Water Works Co Inc,Utilities,Utilities - Regulated Water,USA
+AXIA,Axia Energia ADR,Utilities,Utilities - Renewable,Brazil
+AXON,Axon Enterprise Inc,Industrials,Aerospace & Defense,USA
+AXSM,Axsome Therapeutics Inc,Healthcare,Biotechnology,USA
+AYI,Acuity Inc,Industrials,Electrical Equipment & Parts,USA
+AZO,Autozone Inc,Consumer Cyclical,Auto Parts,USA
+B,Barrick Mining Corp,Basic Materials,Gold,Canada
+BA,Boeing Co,Industrials,Aerospace & Defense,USA
+BALL,Ball Corp,Consumer Cyclical,Packaging & Containers,USA
+BAM,Brookfield Asset Management Ltd,Financial,Asset Management,USA
+BAP,Credicorp Ltd,Financial,Banks - Regional,Peru
+BAX,Baxter International Inc,Healthcare,Medical Instruments & Supplies,USA
+BBD,Banco Bradesco SA ADR,Financial,Banks - Regional,USA
+BBIO,BridgeBio Pharma Inc,Healthcare,Biotechnology,USA
+BBVA,Banco Bilbao Vizcaya Argentaria SA ADR,Financial,Banks - Diversified,Spain
+BBY,Best Buy Co Inc,Consumer Cyclical,Specialty Retail,USA
+BCE,BCE Inc,Communication Services,Telecom Services,Canada
+BCH,Banco de Chile ADR,Financial,Banks - Regional,Chile
+BCS,Barclays plc ADR,Financial,Banks - Diversified,United Kingdom
+BDX,Becton Dickinson & Co,Healthcare,Medical Instruments & Supplies,USA
+BE,Bloom Energy Corp,Industrials,Electrical Equipment & Parts,USA
+BEKE,KE Holdings Inc ADR,Real Estate,Real Estate Services,China
+BEN,Franklin Templeton Inc,Financial,Asset Management,USA
+BEP,Brookfield Renewable Partners LP,Utilities,Utilities - Renewable,Bermuda
+BF-A,Brown-Forman Corp,Consumer Defensive,Beverages - Wineries & Distilleries,USA
+BF-B,Brown-Forman Corp,Consumer Defensive,Beverages - Wineries & Distilleries,USA
+BG,Bunge Global SA,Consumer Defensive,Farm Products,USA
+BIDU,Baidu Inc ADR,Communication Services,Internet Content & Information,China
+BIIB,Biogen Inc,Healthcare,Drug Manufacturers - General,USA
+BIP,Brookfield Infrastructure Partners L.P,Utilities,Utilities - Diversified,Bermuda
+BJ,BJ's Wholesale Club Holdings Inc,Consumer Defensive,Discount Stores,USA
+BKNG,Booking Holdings Inc,Consumer Cyclical,Travel Services,USA
+BKR,Baker Hughes Co,Energy,Oil & Gas Equipment & Services,USA
+BLK,Blackrock Inc,Financial,Asset Management,USA
+BMNR,BitMine Immersion Technologies Inc,Financial,Capital Markets,USA
+BMO,Bank of Montreal,Financial,Banks - Diversified,Canada
+BMRN,Biomarin Pharmaceutical Inc,Healthcare,Biotechnology,USA
+BMY,Bristol-Myers Squibb Co,Healthcare,Drug Manufacturers - General,USA
+BN,Brookfield Corp,Financial,Asset Management,Canada
+BNS,Bank Of Nova Scotia,Financial,Banks - Diversified,Canada
+BNT,Brookfield Wealth Solutions Ltd,Financial,Insurance - Diversified,Bermuda
+BNTX,BioNTech SE ADR,Healthcare,Biotechnology,Germany
+BNY,Bank Of New York Mellon Corp,Financial,Banks - Diversified,USA
+BP,BP plc ADR,Energy,Oil & Gas Integrated,United Kingdom
+BPOP,Popular Inc,Financial,Banks - Regional,USA
+BR,Broadridge Financial Solutions Inc,Technology,Information Technology Services,USA
+BRO,Brown & Brown Inc,Financial,Insurance Brokers,USA
+BSAC,Banco Santander Chile SA ADR,Financial,Banks - Regional,Chile
+BSBR,Banco Santander (Brasil) SA ADR,Financial,Banks - Regional,Brazil
+BSP,Bending Spoons S.p.A,Technology,Software - Application,Italy
+BSX,Boston Scientific Corp,Healthcare,Medical Devices,USA
+BSY,Bentley Systems Inc,Technology,Software - Application,USA
+BTI,British American Tobacco Plc ADR,Consumer Defensive,Tobacco,United Kingdom
+BTSG,BrightSpring Health Services Inc,Healthcare,Health Information Services,USA
+BUD,Anheuser-Busch InBev SA/NV ADR,Consumer Defensive,Beverages - Brewers,Belgium
+BURL,Burlington Stores Inc,Consumer Cyclical,Apparel Retail,USA
+BWA,BorgWarner Inc,Consumer Cyclical,Auto Parts,USA
+BWXT,BWX Technologies Inc,Industrials,Aerospace & Defense,USA
+BX,Blackstone Inc,Financial,Asset Management,USA
+BXP,BXP Inc,Real Estate,REIT - Office,USA
+CACI,Caci International Inc,Technology,Information Technology Services,USA
+CAH,Cardinal Health Inc,Healthcare,Medical Distribution,USA
+CARR,Carrier Global Corp,Industrials,Building Products & Equipment,USA
+CART,Maplebear Inc,Consumer Cyclical,Internet Retail,USA
+CASY,Casey's General Stores Inc,Consumer Cyclical,Specialty Retail,USA
+CB,Chubb Limited,Financial,Insurance - Property & Casualty,Switzerland
+CBOE,Cboe Global Markets Inc,Financial,Financial Data & Stock Exchanges,USA
+CBRE,CBRE Group Inc,Real Estate,Real Estate Services,USA
+CBRS,Cerebras Systems Inc,Technology,Semiconductors,USA
+CCEP,Coca-Cola Europacific Partners Plc,Consumer Defensive,Beverages - Non-Alcoholic,United Kingdom
+CCI,Crown Castle Inc,Real Estate,REIT - Specialty,USA
+CCJ,Cameco Corp,Energy,Uranium,Canada
+CCK,Crown Holdings Inc,Consumer Cyclical,Packaging & Containers,USA
+CCL,Carnival Corp Ltd,Consumer Cyclical,Travel Services,USA
+CDE,Coeur Mining Inc,Basic Materials,Gold,USA
+CDNS,Cadence Design Systems Inc,Technology,Software - Application,USA
+CDW,CDW Corp,Technology,Information Technology Services,USA
+CEG,Constellation Energy Corp,Utilities,Utilities - Independent Power Producers,USA
+CF,CF Industries Holdings Inc,Basic Materials,Agricultural Inputs,USA
+CFG,Citizens Financial Group Inc,Financial,Banks - Regional,USA
+CFR,Cullen Frost Bankers Inc,Financial,Banks - Regional,USA
+CG,Carlyle Group Inc,Financial,Asset Management,USA
+CGNX,Cognex Corp,Technology,Scientific & Technical Instruments,USA
+CHD,Church & Dwight Co Inc,Consumer Defensive,Household & Personal Products,USA
+CHKP,Check Point Software Technologies Ltd,Technology,Software - Infrastructure,Israel
+CHRW,C.H. Robinson Worldwide Inc,Industrials,Integrated Freight & Logistics,USA
+CHT,Chunghwa Telecom ADR,Communication Services,Telecom Services,Taiwan
+CHTR,Charter Communications Inc,Communication Services,Telecom Services,USA
+CHYM,Chime Financial Inc,Technology,Software - Application,USA
+CI,Cigna Group,Healthcare,Healthcare Plans,USA
+CIB,Grupo Cibest SA ADR,Financial,Banks - Regional,Colombia
+CIEN,CIENA Corp,Technology,Communication Equipment,USA
+CINF,Cincinnati Financial Corp,Financial,Insurance - Property & Casualty,USA
+CL,Colgate-Palmolive Co,Consumer Defensive,Household & Personal Products,USA
+CLH,Clean Harbors Inc,Industrials,Waste Management,USA
+CLS,Celestica Inc,Technology,Electronic Components,Canada
+CLX,Clorox Co,Consumer Defensive,Household & Personal Products,USA
+CM,Canadian Imperial Bank Of Commerce,Financial,Banks - Diversified,USA
+CMCSA,Comcast Corp,Communication Services,Telecom Services,USA
+CME,CME Group Inc,Financial,Financial Data & Stock Exchanges,USA
+CMG,Chipotle Mexican Grill,Consumer Cyclical,Restaurants,USA
+CMI,Cummins Inc,Industrials,Specialty Industrial Machinery,USA
+CMS,CMS Energy Corp,Utilities,Utilities - Regulated Electric,USA
+CNA,CNA Financial Corp,Financial,Insurance - Property & Casualty,USA
+CNC,Centene Corp,Healthcare,Healthcare Plans,USA
+CNH,CNH Industrial NV,Industrials,Farm & Heavy Construction Machinery,United Kingdom
+CNI,Canadian National Railway Co,Industrials,Railroads,Canada
+CNP,Centerpoint Energy Inc,Utilities,Utilities - Regulated Electric,USA
+CNQ,Canadian Natural Resources Ltd,Energy,Oil & Gas E&P,Canada
+COF,Capital One Financial Corp,Financial,Credit Services,USA
+COHR,Coherent Corp,Technology,Scientific & Technical Instruments,USA
+COIN,Coinbase Global Inc,Financial,Financial Data & Stock Exchanges,USA
+COKE,Coca-Cola Consolidated Inc,Consumer Defensive,Beverages - Non-Alcoholic,USA
+COO,Cooper Companies Inc,Healthcare,Medical Instruments & Supplies,USA
+COP,Conoco Phillips,Energy,Oil & Gas E&P,USA
+COR,Cencora Inc,Healthcare,Medical Distribution,USA
+CORT,Corcept Therapeutics Inc,Healthcare,Biotechnology,USA
+CP,Canadian Pacific Kansas City Limited,Industrials,Railroads,Canada
+CPAY,Corpay Inc,Technology,Software - Infrastructure,USA
+CPNG,Coupang Inc,Consumer Cyclical,Internet Retail,USA
+CPRT,Copart Inc,Industrials,Specialty Business Services,USA
+CPT,Camden Property Trust,Real Estate,REIT - Residential,USA
+CQP,Cheniere Energy Partners LP,Energy,Oil & Gas Midstream,USA
+CR,Crane Co,Industrials,Specialty Industrial Machinery,USA
+CRBG,Corebridge Financial Inc,Financial,Asset Management,USA
+CRCL,Circle Internet Group Inc,Financial,Capital Markets,USA
+CRDO,Credo Technology Group Holding Ltd,Technology,Semiconductors,Cayman Islands
+CRH,CRH Plc,Basic Materials,Building Materials,USA
+CRL,Charles River Laboratories International Inc,Healthcare,Diagnostics & Research,USA
+CRM,Salesforce Inc,Technology,Software - Application,USA
+CRS,Carpenter Technology Corp,Industrials,Metal Fabrication,USA
+CRWV,CoreWeave Inc,Technology,Software - Infrastructure,USA
+CSGP,Costar Group Inc,Real Estate,Real Estate Services,USA
+CSL,Carlisle Companies Inc,Industrials,Building Products & Equipment,USA
+CSX,CSX Corp,Industrials,Railroads,USA
+CTAS,Cintas Corp,Industrials,Specialty Business Services,USA
+CTSH,Cognizant Technology Solutions Corp,Technology,Information Technology Services,USA
+CTVA,Corteva Inc,Basic Materials,Agricultural Inputs,USA
+CVE,Cenovus Energy Inc,Energy,Oil & Gas Integrated,Canada
+CVNA,Carvana Co,Consumer Cyclical,Auto & Truck Dealerships,USA
+CVS,CVS Health Corp,Healthcare,Healthcare Plans,USA
+CW,Curtiss-Wright Corp,Industrials,Aerospace & Defense,USA
+CX,Cemex SAB de CV ADR,Basic Materials,Building Materials,Mexico
+CYTK,Cytokinetics Inc,Healthcare,Biotechnology,USA
+D,Dominion Energy Inc,Utilities,Utilities - Regulated Electric,USA
+DAL,Delta Air Lines Inc,Industrials,Airlines,USA
+DAR,Darling Ingredients Inc,Consumer Defensive,Packaged Foods,USA
+DASH,DoorDash Inc,Consumer Cyclical,Internet Retail,USA
+DB,Deutsche Bank AG,Financial,Banks - Regional,Germany
+DCI,Donaldson Co Inc,Industrials,Specialty Industrial Machinery,USA
+DD,DuPont de Nemours Inc,Basic Materials,Specialty Chemicals,USA
+DDOG,Datadog Inc,Technology,Software - Application,USA
+DE,Deere & Co,Industrials,Farm & Heavy Construction Machinery,USA
+DECK,Deckers Outdoor Corp,Consumer Cyclical,Footwear & Accessories,USA
+DEO,Diageo plc ADR,Consumer Defensive,Beverages - Wineries & Distilleries,United Kingdom
+DG,Dollar General Corp,Consumer Defensive,Discount Stores,USA
+DGX,Quest Diagnostics Inc,Healthcare,Diagnostics & Research,USA
+DHI,D.R. Horton Inc,Consumer Cyclical,Residential Construction,USA
+DHR,Danaher Corp,Healthcare,Diagnostics & Research,USA
+DINO,HF Sinclair Corp,Energy,Oil & Gas Refining & Marketing,USA
+DIS,Walt Disney Co,Communication Services,Entertainment,USA
+DKNG,DraftKings Inc,Consumer Cyclical,Gambling,USA
+DKS,Dicks Sporting Goods Inc,Consumer Cyclical,Specialty Retail,USA
+DLR,Digital Realty Trust Inc,Real Estate,REIT - Specialty,USA
+DLTR,Dollar Tree Inc,Consumer Defensive,Discount Stores,USA
+DOC,Healthpeak Properties Inc,Real Estate,REIT - Healthcare Facilities,USA
+DOCN,DigitalOcean Holdings Inc,Technology,Software - Infrastructure,USA
+DOCU,DocuSign Inc,Technology,Software - Application,USA
+DOV,Dover Corp,Industrials,Specialty Industrial Machinery,USA
+DOW,Dow Inc,Basic Materials,Chemicals,USA
+DPZ,Dominos Pizza Inc,Consumer Cyclical,Restaurants,USA
+DRI,Darden Restaurants Inc,Consumer Cyclical,Restaurants,USA
+DRS,Leonardo DRS Inc,Industrials,Aerospace & Defense,USA
+DT,Dynatrace Inc,Technology,Software - Application,USA
+DTE,DTE Energy Co,Utilities,Utilities - Regulated Electric,USA
+DTM,DT Midstream Inc,Energy,Oil & Gas Midstream,USA
+DUK,Duke Energy Corp,Utilities,Utilities - Regulated Electric,USA
+DUKU,Duke Energy Corp,Utilities,Utilities - Regulated Electric,USA
+DVA,DaVita Inc,Healthcare,Medical Care Facilities,USA
+DVN,Devon Energy Corp,Energy,Oil & Gas E&P,USA
+DXCM,Dexcom Inc,Healthcare,Medical Devices,USA
+DY,Dycom Industries Inc,Industrials,Engineering & Construction,USA
+E,Eni Spa ADR,Energy,Oil & Gas Integrated,Italy
+EAT,Brinker International Inc,Consumer Cyclical,Restaurants,USA
+EBAY,EBay Inc,Consumer Cyclical,Internet Retail,USA
+EC,Ecopetrol SA ADR,Energy,Oil & Gas Integrated,Colombia
+ECHO,EchoStar Corp,Communication Services,Telecom Services,USA
+ECL,Ecolab Inc,Basic Materials,Specialty Chemicals,USA
+ED,Consolidated Edison Inc,Utilities,Utilities - Regulated Electric,USA
+EFX,Equifax Inc,Industrials,Consulting Services,USA
+EG,Everest Group Ltd,Financial,Insurance - Reinsurance,Bermuda
+EGO,Eldorado Gold Corp,Basic Materials,Gold,Canada
+EGP,Eastgroup Properties Inc,Real Estate,REIT - Industrial,USA
+EHC,Encompass Health Corp,Healthcare,Medical Care Facilities,USA
+EIX,Edison International,Utilities,Utilities - Regulated Electric,USA
+EL,Estee Lauder Cos. Inc,Consumer Defensive,Household & Personal Products,USA
+ELAN,Elanco Animal Health Inc,Healthcare,Drug Manufacturers - Specialty & Generic,USA
+ELS,Equity Lifestyle Properties Inc,Real Estate,REIT - Residential,USA
+ELV,Elevance Health Inc,Healthcare,Healthcare Plans,USA
+EMA,Emera Inc,Utilities,Utilities - Regulated Electric,Canada
+EMBJ,Embraer SA ADR,Industrials,Aerospace & Defense,Brazil
+EME,Emcor Group Inc,Industrials,Engineering & Construction,USA
+EMR,Emerson Electric Co,Industrials,Specialty Industrial Machinery,USA
+ENB,Enbridge Inc,Energy,Oil & Gas Midstream,Canada
+ENLT,Enlight Renewable Energy Ltd,Utilities,Utilities - Renewable,Israel
+ENSG,Ensign Group Inc,Healthcare,Medical Care Facilities,USA
+ENTG,Entegris Inc,Technology,Semiconductor Equipment & Materials,USA
+EOG,EOG Resources Inc,Energy,Oil & Gas E&P,USA
+EPD,Enterprise Products Partners L P,Energy,Oil & Gas Midstream,USA
+EQH,Equitable Holdings Inc,Financial,Asset Management,USA
+EQIX,Equinix Inc,Real Estate,REIT - Specialty,USA
+EQNR,Equinor ASA ADR,Energy,Oil & Gas Integrated,Norway
+EQT,EQT Corp,Energy,Oil & Gas E&P,USA
+EQX,Equinox Gold Corp,Basic Materials,Gold,Canada
+ERIC,Telefonaktiebolaget L M Ericsson ADR,Technology,Communication Equipment,Sweden
+ERIE,Erie Indemnity Co,Financial,Insurance Brokers,USA
+ES,Eversource Energy,Utilities,Utilities - Regulated Electric,USA
+ESLT,Elbit Systems Ltd,Industrials,Aerospace & Defense,Israel
+ESS,Essex Property Trust Inc,Real Estate,REIT - Residential,USA
+ET,Energy Transfer LP,Energy,Oil & Gas Midstream,USA
+ETN,Eaton Corp Plc,Industrials,Specialty Industrial Machinery,Ireland
+ETR,Entergy Corp,Utilities,Utilities - Regulated Electric,USA
+EVR,Evercore Inc,Financial,Capital Markets,USA
+EVRG,Evergy Inc,Utilities,Utilities - Regulated Electric,USA
+EW,Edwards Lifesciences Corp,Healthcare,Medical Devices,USA
+EWBC,East West Bancorp Inc,Financial,Banks - Regional,USA
+EXC,Exelon Corp,Utilities,Utilities - Regulated Electric,USA
+EXE,Expand Energy Corp,Energy,Oil & Gas E&P,USA
+EXEL,Exelixis Inc,Healthcare,Biotechnology,USA
+EXPD,Expeditors International Of Washington Inc,Industrials,Integrated Freight & Logistics,USA
+EXPE,Expedia Group Inc,Consumer Cyclical,Travel Services,USA
+EXR,Extra Space Storage Inc,Real Estate,REIT - Industrial,USA
+F,Ford Motor Co,Consumer Cyclical,Auto Manufacturers,USA
+FANG,Diamondback Energy Inc,Energy,Oil & Gas E&P,USA
+FAST,Fastenal Co,Industrials,Industrial Distribution,USA
+FCNCA,First Citizens Bancshares Inc (NC),Financial,Banks - Regional,USA
+FCX,Freeport-McMoRan Inc,Basic Materials,Copper,USA
+FDS,Factset Research Systems Inc,Financial,Financial Data & Stock Exchanges,USA
+FDX,Fedex Corp,Industrials,Integrated Freight & Logistics,USA
+FDXF,FedEx Freight Holding Company Inc,Industrials,Integrated Freight & Logistics,USA
+FE,Firstenergy Corp,Utilities,Utilities - Regulated Electric,USA
+FER,Ferrovial N. V,Industrials,Engineering & Construction,Netherlands
+FERG,Ferguson Enterprises Inc,Industrials,Industrial Distribution,USA
+FFIV,F5 Inc,Technology,Software - Infrastructure,USA
+FHN,First Horizon Corp,Financial,Banks - Regional,USA
+FICO,Fair Isaac Corp,Technology,Software - Application,USA
+FIG,Figma Inc,Technology,Software - Application,USA
+FIS,Fidelity National Information Services Inc,Technology,Information Technology Services,USA
+FISV,Fiserv Inc,Technology,Information Technology Services,USA
+FITB,Fifth Third Bancorp,Financial,Banks - Regional,USA
+FIVE,Five Below Inc,Consumer Cyclical,Specialty Retail,USA
+FIX,Comfort Systems USA Inc,Industrials,Engineering & Construction,USA
+FLEX,Flex Ltd,Technology,Electronic Components,USA
+FLS,Flowserve Corp,Industrials,Specialty Industrial Machinery,USA
+FLUT,Flutter Entertainment Plc,Consumer Cyclical,Gambling,USA
+FMS,Fresenius Medical Care AG ADR,Healthcare,Medical Care Facilities,Germany
+FMX,Fomento Economico Mexicano SAB de CV ADR,Consumer Defensive,Beverages - Brewers,Mexico
+FN,Fabrinet,Technology,Electronic Components,Cayman Islands
+FNF,Fidelity National Financial Inc,Financial,Insurance - Specialty,USA
+FNV,Franco-Nevada Corp,Basic Materials,Gold,Canada
+FOX,Fox Corp,Communication Services,Entertainment,USA
+FOXA,Fox Corp,Communication Services,Entertainment,USA
+FPS,Forgent Power Solutions Inc,Industrials,Electrical Equipment & Parts,USA
+FROG,JFrog Ltd,Technology,Software - Application,USA
+FRT,Federal Realty Investment Trust,Real Estate,REIT - Retail,USA
+FSLR,First Solar Inc,Technology,Solar,USA
+FTAI,FTAI Aviation Ltd,Industrials,Aerospace & Defense,USA
+FTI,TechnipFMC plc,Energy,Oil & Gas Equipment & Services,USA
+FTNT,Fortinet Inc,Technology,Software - Infrastructure,USA
+FTS,Fortis Inc,Utilities,Utilities - Regulated Electric,Canada
+FTV,Fortive Corp,Technology,Scientific & Technical Instruments,USA
+FUTU,Futu Holdings Ltd ADR,Financial,Capital Markets,Hong Kong
+FWONA,Liberty Media Corp,Communication Services,Entertainment,USA
+FWONK,Liberty Media Corp,Communication Services,Entertainment,USA
+GD,General Dynamics Corp,Industrials,Aerospace & Defense,USA
+GDDY,Godaddy Inc,Technology,Software - Infrastructure,USA
+GEHC,GE HealthCare Technologies Inc,Healthcare,Medical Devices,USA
+GEN,Gen Digital Inc,Technology,Software - Infrastructure,USA
+GFI,Gold Fields Ltd ADR,Basic Materials,Gold,South Africa
+GFL,GFL Environmental Inc,Industrials,Waste Management,USA
+GFS,GlobalFoundries Inc,Technology,Semiconductors,USA
+GGG,Graco Inc,Industrials,Specialty Industrial Machinery,USA
+GH,Guardant Health Inc,Healthcare,Diagnostics & Research,USA
+GIB,CGI Inc,Technology,Information Technology Services,Canada
+GIL,Gildan Activewear Inc,Consumer Cyclical,Apparel Manufacturing,Canada
+GILD,Gilead Sciences Inc,Healthcare,Drug Manufacturers - General,USA
+GIS,General Mills Inc,Consumer Defensive,Packaged Foods,USA
+GKOS,Glaukos Corp,Healthcare,Medical Devices,USA
+GL,Globe Life Inc,Financial,Insurance - Life,USA
+GLPI,Gaming and Leisure Properties Inc,Real Estate,REIT - Specialty,USA
+GLW,Corning Inc,Technology,Electronic Components,USA
+GM,General Motors Company,Consumer Cyclical,Auto Manufacturers,USA
+GMAB,Genmab ADR,Healthcare,Biotechnology,Denmark
+GMED,Globus Medical Inc,Healthcare,Medical Devices,USA
+GNRC,Generac Holdings Inc,Industrials,Specialty Industrial Machinery,USA
+GPC,Genuine Parts Co,Consumer Cyclical,Auto Parts,USA
+GPN,Global Payments Inc,Technology,Software - Infrastructure,USA
+GRAB,Grab Holdings Limited,Technology,Software - Application,Singapore
+GRMN,Garmin Ltd,Technology,Scientific & Technical Instruments,Switzerland
+GSAT,Globalstar Inc,Communication Services,Telecom Services,USA
+GSK,GSK Plc ADR,Healthcare,Drug Manufacturers - General,United Kingdom
+GWRE,Guidewire Software Inc,Technology,Software - Application,USA
+GWW,W.W. Grainger Inc,Industrials,Industrial Distribution,USA
+H,Hyatt Hotels Corp,Consumer Cyclical,Lodging,USA
+HAL,Halliburton Co,Energy,Oil & Gas Equipment & Services,USA
+HALO,Halozyme Therapeutics Inc,Healthcare,Biotechnology,USA
+HAS,Hasbro Inc,Consumer Cyclical,Leisure,USA
+HBAN,Huntington Bancshares Inc,Financial,Banks - Regional,USA
+HBM,Hudbay Minerals Inc,Basic Materials,Copper,Canada
+HCA,HCA Healthcare Inc,Healthcare,Medical Care Facilities,USA
+HDB,HDFC Bank Ltd ADR,Financial,Banks - Regional,India
+HEI,Heico Corp,Industrials,Aerospace & Defense,USA
+HEI-A,Heico Corp,Industrials,Aerospace & Defense,USA
+HIG,Hartford Insurance Group Inc,Financial,Insurance - Diversified,USA
+HII,Huntington Ingalls Industries Inc,Industrials,Aerospace & Defense,USA
+HL,Hecla Mining Co,Basic Materials,Other Precious Metals & Mining,USA
+HLN,Haleon plc ADR,Healthcare,Drug Manufacturers - Specialty & Generic,United Kingdom
+HLT,Hilton Worldwide Holdings Inc,Consumer Cyclical,Lodging,USA
+HMC,Honda Motor ADR,Consumer Cyclical,Auto Manufacturers,Japan
+HMY,Harmony Gold Mining Co Ltd ADR,Basic Materials,Gold,South Africa
+HON,Honeywell International Inc,Industrials,Conglomerates,USA
+HONA,Honeywell Aerospace Inc,Industrials,Aerospace & Defense,USA
+HOOD,Robinhood Markets Inc,Financial,Capital Markets,USA
+HPE,Hewlett Packard Enterprise Co,Technology,Communication Equipment,USA
+HPQ,HP Inc,Technology,Computer Hardware,USA
+HRL,Hormel Foods Corp,Consumer Defensive,Packaged Foods,USA
+HSAI,Hesai Group ADR,Consumer Cyclical,Auto Parts,China
+HST,Host Hotels & Resorts Inc,Real Estate,REIT - Hotel & Motel,USA
+HSY,Hershey Company,Consumer Defensive,Confectioners,USA
+HTHT,H World Group Limited ADR,Consumer Cyclical,Lodging,China
+HUBB,Hubbell Inc,Industrials,Electrical Equipment & Parts,USA
+HUBS,HubSpot Inc,Technology,Software - Application,USA
+HUM,Humana Inc,Healthcare,Healthcare Plans,USA
+HUT,Hut 8 Corp,Financial,Capital Markets,USA
+HWM,Howmet Aerospace Inc,Industrials,Aerospace & Defense,USA
+IAG,Iamgold Corp,Basic Materials,Gold,Canada
+IBKR,Interactive Brokers Group Inc,Financial,Capital Markets,USA
+IBN,ICICI Bank Ltd ADR,Financial,Banks - Regional,India
+ICE,Intercontinental Exchange Inc,Financial,Financial Data & Stock Exchanges,USA
+ICLR,Icon Plc,Healthcare,Diagnostics & Research,Ireland
+IDXX,Idexx Laboratories Inc,Healthcare,Diagnostics & Research,USA
+IESC,IES Holdings Inc,Industrials,Engineering & Construction,USA
+IEX,Idex Corp,Industrials,Specialty Industrial Machinery,USA
+IFF,International Flavors & Fragrances Inc,Basic Materials,Specialty Chemicals,USA
+IHG,Intercontinental Hotels Group ADR,Consumer Cyclical,Lodging,United Kingdom
+ILMN,Illumina Inc,Healthcare,Diagnostics & Research,USA
+IMO,Imperial Oil Ltd,Energy,Oil & Gas Integrated,Canada
+INCY,Incyte Corp,Healthcare,Biotechnology,USA
+INFY,Infosys Ltd ADR,Technology,Information Technology Services,India
+ING,ING Groep NV ADR,Financial,Banks - Diversified,Netherlands
+INIO,Innio NV,Industrials,Specialty Industrial Machinery,Germany
+INSM,Insmed Inc,Healthcare,Biotechnology,USA
+INTU,Intuit Inc,Technology,Software - Application,USA
+INVH,Invitation Homes Inc,Real Estate,REIT - Residential,USA
+IONQ,IonQ Inc,Technology,Computer Hardware,USA
+IOT,Samsara Inc,Technology,Software - Infrastructure,USA
+IP,International Paper Co,Consumer Cyclical,Packaging & Containers,USA
+IQV,IQVIA Holdings Inc,Healthcare,Diagnostics & Research,USA
+IR,Ingersoll Rand Inc,Industrials,Specialty Industrial Machinery,USA
+IREN,IREN Ltd,Financial,Capital Markets,Australia
+IRM,Iron Mountain Inc,Real Estate,REIT - Specialty,USA
+ISRG,Intuitive Surgical Inc,Healthcare,Medical Instruments & Supplies,USA
+IT,Gartner Inc,Technology,Information Technology Services,USA
+ITT,ITT Inc,Industrials,Specialty Industrial Machinery,USA
+ITUB,Itau Unibanco Holding SA ADR,Financial,Banks - Regional,Brazil
+ITW,Illinois Tool Works Inc,Industrials,Specialty Industrial Machinery,USA
+IVZ,Invesco Ltd,Financial,Asset Management,USA
+IX,Orix Corp ADR,Financial,Financial Conglomerates,Japan
+J,Jacobs Solutions Inc,Industrials,Engineering & Construction,USA
+JAZZ,Jazz Pharmaceuticals plc,Healthcare,Biotechnology,Ireland
+JBHT,J.B. Hunt Transport Services Inc,Industrials,Integrated Freight & Logistics,USA
+JBL,Jabil Inc,Technology,Electronic Components,USA
+JBS,JBS NV,Consumer Defensive,Packaged Foods,Netherlands
+JCI,Johnson Controls International plc,Industrials,Building Products & Equipment,Ireland
+JD,JD.com Inc ADR,Consumer Cyclical,Internet Retail,China
+JEF,Jefferies Financial Group Inc,Financial,Capital Markets,USA
+JHX,James Hardie Industries plc,Basic Materials,Building Materials,Ireland
+JKHY,Jack Henry & Associates Inc,Technology,Information Technology Services,USA
+JLL,Jones Lang Lasalle Inc,Real Estate,Real Estate Services,USA
+KB,KB Financial Group Inc ADR,Financial,Banks - Regional,South Korea
+KDP,Keurig Dr Pepper Inc,Consumer Defensive,Beverages - Non-Alcoholic,USA
+KEP,Korea Electric Power Corp ADR,Utilities,Utilities - Regulated Electric,South Korea
+KEY,Keycorp,Financial,Banks - Regional,USA
+KEYS,Keysight Technologies Inc,Technology,Scientific & Technical Instruments,USA
+KGC,Kinross Gold Corp,Basic Materials,Gold,Canada
+KHC,Kraft Heinz Co,Consumer Defensive,Packaged Foods,USA
+KIM,Kimco Realty Corp,Real Estate,REIT - Retail,USA
+KKR,KKR & Co Inc,Financial,Asset Management,USA
+KMB,Kimberly-Clark Corp,Consumer Defensive,Household & Personal Products,USA
+KMI,Kinder Morgan Inc,Energy,Oil & Gas Midstream,USA
+KNX,Knight-Swift Transportation Holdings Inc,Industrials,Trucking,USA
+KR,Kroger Co,Consumer Defensive,Grocery Stores,USA
+KSPI,Kaspi.kz JSC ADR,Technology,Software - Infrastructure,Kazakhstan
+KTOS,Kratos Defense & Security Solutions Inc,Industrials,Aerospace & Defense,USA
+KVUE,Kenvue Inc,Consumer Defensive,Household & Personal Products,USA
+L,Loews Corp,Financial,Insurance - Property & Casualty,USA
+LAMR,Lamar Advertising Co,Real Estate,REIT - Specialty,USA
+LDOS,Leidos Holdings Inc,Technology,Information Technology Services,USA
+LECO,Lincoln Electric Holdings Inc,Industrials,Tools & Accessories,USA
+LEN,Lennar Corp,Consumer Cyclical,Residential Construction,USA
+LFUS,Littelfuse Inc,Technology,Electronic Components,USA
+LH,Labcorp Holdings Inc,Healthcare,Diagnostics & Research,USA
+LHX,L3Harris Technologies Inc,Industrials,Aerospace & Defense,USA
+LI,Li Auto Inc ADR,Consumer Cyclical,Auto Manufacturers,China
+LII,Lennox International Inc,Industrials,Building Products & Equipment,USA
+LITE,Lumentum Holdings Inc,Technology,Communication Equipment,USA
+LMT,Lockheed Martin Corp,Industrials,Aerospace & Defense,USA
+LNG,Cheniere Energy Inc,Energy,Oil & Gas Midstream,USA
+LNT,Alliant Energy Corp,Utilities,Utilities - Regulated Electric,USA
+LOGI,Logitech International SA,Technology,Computer Hardware,Switzerland
+LOW,Lowe's Cos. Inc,Consumer Cyclical,Home Improvement Retail,USA
+LPLA,LPL Financial Holdings Inc,Financial,Capital Markets,USA
+LSCC,Lattice Semiconductor Corp,Technology,Semiconductors,USA
+LTH,Life Time Group Holdings Inc,Consumer Cyclical,Leisure,USA
+LTM,LATAM Airlines Group SA ADR,Industrials,Airlines,Chile
+LULU,Lululemon Athletica Inc,Consumer Cyclical,Apparel Retail,Canada
+LUV,Southwest Airlines Co,Industrials,Airlines,USA
+LVS,Las Vegas Sands Corp,Consumer Cyclical,Resorts & Casinos,USA
+LYB,LyondellBasell Industries NV,Basic Materials,Specialty Chemicals,United Kingdom
+LYG,Lloyds Banking Group plc ADR,Financial,Banks - Regional,United Kingdom
+LYV,Live Nation Entertainment Inc,Communication Services,Entertainment,USA
+MAA,Mid-America Apartment Communities Inc,Real Estate,REIT - Residential,USA
+MAIR,Madison Air Solutions Corp,Industrials,Building Products & Equipment,USA
+MANH,Manhattan Associates Inc,Technology,Software - Application,USA
+MAR,Marriott International Inc,Consumer Cyclical,Lodging,USA
+MAS,Masco Corp,Industrials,Building Products & Equipment,USA
+MCD,McDonald's Corp,Consumer Cyclical,Restaurants,USA
+MCHP,Microchip Technology Inc,Technology,Semiconductors,USA
+MCK,Mckesson Corp,Healthcare,Medical Distribution,USA
+MCO,Moody's Corp,Financial,Financial Data & Stock Exchanges,USA
+MDB,MongoDB Inc,Technology,Software - Infrastructure,USA
+MDGL,Madrigal Pharmaceuticals Inc,Healthcare,Biotechnology,USA
+MDLN,Medline Inc,Healthcare,Medical Instruments & Supplies,USA
+MDLZ,Mondelez International Inc,Consumer Defensive,Confectioners,USA
+MDT,Medtronic Plc,Healthcare,Medical Devices,Ireland
+MEDP,Medpace Holdings Inc,Healthcare,Diagnostics & Research,USA
+MELI,MercadoLibre Inc,Consumer Cyclical,Internet Retail,Uruguay
+MET,Metlife Inc,Financial,Insurance - Life,USA
+MFC,Manulife Financial Corp,Financial,Insurance - Life,Canada
+MFG,Mizuho Financial Group Inc ADR,Financial,Banks - Regional,Japan
+MGA,Magna International Inc,Consumer Cyclical,Auto Parts,Canada
+MGM,MGM Resorts International,Consumer Cyclical,Resorts & Casinos,USA
+MICC,Magnum Ice Cream Company NV,Consumer Defensive,Packaged Foods,Netherlands
+MKC,McCormick & Co Inc,Consumer Defensive,Packaged Foods,USA
+MKL,Markel Group Inc,Financial,Insurance - Property & Casualty,USA
+MKSI,MKS Inc,Technology,Scientific & Technical Instruments,USA
+MLI,Mueller Industries Inc,Industrials,Metal Fabrication,USA
+MLM,Martin Marietta Materials Inc,Basic Materials,Building Materials,USA
+MMM,3M Co,Industrials,Conglomerates,USA
+MNST,Monster Beverage Corp,Consumer Defensive,Beverages - Non-Alcoholic,USA
+MO,Altria Group Inc,Consumer Defensive,Tobacco,USA
+MOD,Modine Manufacturing Co,Consumer Cyclical,Auto Parts,USA
+MOG-A,Moog Inc,Industrials,Aerospace & Defense,USA
+MOH,Molina Healthcare Inc,Healthcare,Healthcare Plans,USA
+MP,MP Materials Corp,Basic Materials,Other Industrial Metals & Mining,USA
+MPC,Marathon Petroleum Corp,Energy,Oil & Gas Refining & Marketing,USA
+MPLX,MPLX LP,Energy,Oil & Gas Midstream,USA
+MPWR,Monolithic Power System Inc,Technology,Semiconductors,USA
+MRNA,Moderna Inc,Healthcare,Biotechnology,USA
+MRSH,Marsh,Financial,Insurance Brokers,USA
+MRVL,Marvell Technology Inc,Technology,Semiconductors,USA
+MSCI,MSCI Inc,Financial,Financial Data & Stock Exchanges,USA
+MSI,Motorola Solutions Inc,Technology,Communication Equipment,USA
+MSTR,Strategy Inc,Technology,Software - Application,USA
+MT,ArcelorMittal SA,Basic Materials,Steel,Luxembourg
+MTB,M & T Bank Corp,Financial,Banks - Regional,USA
+MTD,Mettler-Toledo International Inc,Healthcare,Diagnostics & Research,USA
+MTSI,MACOM Technology Solutions Holdings Inc,Technology,Semiconductors,USA
+MTZ,Mastec Inc,Industrials,Engineering & Construction,USA
+MUSA,Murphy USA Inc,Consumer Cyclical,Specialty Retail,USA
+NBIS,Nebius Group NV,Technology,Software - Infrastructure,Netherlands
+NBIX,Neurocrine Biosciences Inc,Healthcare,Drug Manufacturers - Specialty & Generic,USA
+NDAQ,Nasdaq Inc,Financial,Financial Data & Stock Exchanges,USA
+NDSN,Nordson Corp,Industrials,Specialty Industrial Machinery,USA
+NEE,NextEra Energy Inc,Utilities,Utilities - Regulated Electric,USA
+NEM,Newmont Corp,Basic Materials,Gold,USA
+NET,Cloudflare Inc,Technology,Software - Infrastructure,USA
+NGG,National Grid Plc ADR,Utilities,Utilities - Regulated Electric,United Kingdom
+NI,NiSource Inc,Utilities,Utilities - Regulated Gas,USA
+NIO,NIO Inc ADR,Consumer Cyclical,Auto Manufacturers,China
+NKE,Nike Inc,Consumer Cyclical,Footwear & Accessories,USA
+NLY,Annaly Capital Management Inc,Real Estate,REIT - Mortgage,USA
+NMR,Nomura Holdings Inc ADR,Financial,Capital Markets,Japan
+NOC,Northrop Grumman Corp,Industrials,Aerospace & Defense,USA
+NOK,Nokia Corp ADR,Technology,Communication Equipment,Finland
+NOW,ServiceNow Inc,Technology,Software - Application,USA
+NRG,NRG Energy Inc,Utilities,Utilities - Independent Power Producers,USA
+NSC,Norfolk Southern Corp,Industrials,Railroads,USA
+NTAP,Netapp Inc,Technology,Software - Infrastructure,USA
+NTES,NetEase Inc ADR,Communication Services,Electronic Gaming & Multimedia,China
+NTNX,Nutanix Inc,Technology,Software - Infrastructure,USA
+NTR,Nutrien Ltd,Basic Materials,Agricultural Inputs,Canada
+NTRA,Natera Inc,Healthcare,Diagnostics & Research,USA
+NTRS,Northern Trust Corp,Financial,Asset Management,USA
+NU,Nu Holdings Ltd,Financial,Banks - Regional,Brazil
+NUE,Nucor Corp,Basic Materials,Steel,USA
+NVMI,Nova Ltd,Technology,Semiconductor Equipment & Materials,Israel
+NVO,Novo Nordisk ADR,Healthcare,Drug Manufacturers - General,Denmark
+NVR,NVR Inc,Consumer Cyclical,Residential Construction,USA
+NVT,nVent Electric plc,Industrials,Electrical Equipment & Parts,United Kingdom
+NWG,NatWest Group Plc ADR,Financial,Banks - Regional,United Kingdom
+NWS,News Corp,Communication Services,Entertainment,USA
+NWSA,News Corp,Communication Services,Entertainment,USA
+NXPI,NXP Semiconductors NV,Technology,Semiconductors,Netherlands
+NXT,Nextpower Inc,Technology,Solar,USA
+NYT,New York Times Co,Communication Services,Publishing,USA
+O,Realty Income Corp,Real Estate,REIT - Retail,USA
+OC,Owens Corning,Industrials,Building Products & Equipment,USA
+ODFL,Old Dominion Freight Line Inc,Industrials,Trucking,USA
+OHI,Omega Healthcare Investors Inc,Real Estate,REIT - Healthcare Facilities,USA
+OKE,Oneok Inc,Energy,Oil & Gas Midstream,USA
+OKTA,Okta Inc,Technology,Software - Infrastructure,USA
+OMC,Omnicom Group Inc,Communication Services,Advertising Agencies,USA
+ON,ON Semiconductor Corp,Technology,Semiconductors,USA
+ONB,Old National Bancorp,Financial,Banks - Regional,USA
+ONC,BeOne Medicines Ltd ADR,Healthcare,Biotechnology,Switzerland
+ONON,On Holding AG,Consumer Cyclical,Footwear & Accessories,Switzerland
+ONTO,Onto Innovation Inc,Technology,Semiconductor Equipment & Materials,USA
+ORI,Old Republic International Corp,Financial,Insurance - Property & Casualty,USA
+ORLY,O'Reilly Automotive Inc,Consumer Cyclical,Auto Parts,USA
+OTIS,Otis Worldwide Corp,Industrials,Specialty Industrial Machinery,USA
+OVV,Ovintiv Inc,Energy,Oil & Gas E&P,USA
+OWL,Blue Owl Capital Inc,Financial,Asset Management,USA
+OXY,Occidental Petroleum Corp,Energy,Oil & Gas E&P,USA
+P,Everpure Inc,Technology,Computer Hardware,USA
+PAA,Plains All American Pipeline LP,Energy,Oil & Gas Midstream,USA
+PAAS,Pan American Silver Corp,Basic Materials,Gold,Canada
+PAC,Grupo Aeroportuario Del Pacifico SAB de CV ADR,Industrials,Airports & Air Services,Mexico
+PAG,Penske Automotive Group Inc,Consumer Cyclical,Auto & Truck Dealerships,USA
+PAGP,Plains GP Holdings LP,Energy,Oil & Gas Midstream,USA
+PAYX,Paychex Inc,Technology,Software - Application,USA
+PBA,Pembina Pipeline Corp,Energy,Oil & Gas Midstream,Canada
+PBR,Petroleo Brasileiro SA Petrobras ADR,Energy,Oil & Gas Integrated,Brazil
+PBR-A,Petroleo Brasileiro SA Petrobras ADR,Energy,Oil & Gas Integrated,Brazil
+PCAR,Paccar Inc,Industrials,Farm & Heavy Construction Machinery,USA
+PCG,PG&E Corp,Utilities,Utilities - Regulated Electric,USA
+PDD,PDD Holdings Inc ADR,Consumer Cyclical,Internet Retail,China
+PEG,Public Service Enterprise Group Inc,Utilities,Utilities - Regulated Electric,USA
+PEN,Penumbra Inc,Healthcare,Medical Devices,USA
+PEP,PepsiCo Inc,Consumer Defensive,Beverages - Non-Alcoholic,USA
+PFE,Pfizer Inc,Healthcare,Drug Manufacturers - General,USA
+PFG,Principal Financial Group Inc,Financial,Asset Management,USA
+PFGC,Performance Food Group Company,Consumer Defensive,Food Distribution,USA
+PGR,Progressive Corp,Financial,Insurance - Property & Casualty,USA
+PH,Parker-Hannifin Corp,Industrials,Specialty Industrial Machinery,USA
+PHG,Koninklijke Philips NV ADR,Healthcare,Medical Devices,Netherlands
+PHM,PulteGroup Inc,Consumer Cyclical,Residential Construction,USA
+PHYS,Sprott Physical Gold Trust,Financial,Asset Management,Canada
+PINS,Pinterest Inc,Communication Services,Internet Content & Information,USA
+PKG,Packaging Corp Of America,Consumer Cyclical,Packaging & Containers,USA
+PKX,POSCO Holdings Inc ADR,Basic Materials,Steel,South Korea
+PLD,Prologis Inc,Real Estate,REIT - Industrial,USA
+PNC,PNC Financial Services Group Inc,Financial,Banks - Regional,USA
+PNFP,Pinnacle Financial Partners Inc,Financial,Banks - Regional,USA
+PNR,Pentair plc,Industrials,Specialty Industrial Machinery,United Kingdom
+PNW,Pinnacle West Capital Corp,Utilities,Utilities - Regulated Electric,USA
+PODD,Insulet Corp,Healthcare,Medical Devices,USA
+PPG,PPG Industries Inc,Basic Materials,Specialty Chemicals,USA
+PPL,PPL Corp,Utilities,Utilities - Regulated Electric,USA
+PR,Permian Resources Holdings Inc,Energy,Oil & Gas E&P,USA
+PRAX,Praxis Precision Medicines Inc,Healthcare,Biotechnology,USA
+PRU,Prudential Financial Inc,Financial,Insurance - Life,USA
+PS,Pershing Square Inc,Financial,Asset Management,USA
+PSA,Public Storage,Real Estate,REIT - Industrial,USA
+PSKY,Paramount Skydance Corp,Communication Services,Entertainment,USA
+PSLV,Sprott Physical Silver Trust,Financial,Asset Management,Canada
+PSX,Phillips 66,Energy,Oil & Gas Refining & Marketing,USA
+PTC,PTC Inc,Technology,Software - Application,USA
+PTGX,Protagonist Therapeutics Inc,Healthcare,Biotechnology,USA
+PUK,Prudential plc ADR,Financial,Insurance - Life,Hong Kong
+PWR,Quanta Services Inc,Industrials,Engineering & Construction,USA
+PYPL,PayPal Holdings Inc,Financial,Credit Services,USA
+Q,Qnity Electronics Inc,Technology,Semiconductor Equipment & Materials,USA
+QCOM,Qualcomm Inc,Technology,Semiconductors,USA
+QH,Quhuo Ltd,Technology,Software - Application,China
+QNT,Quantinuum Inc,Technology,Software - Application,USA
+QSR,Restaurant Brands International Inc,Consumer Cyclical,Restaurants,USA
+QXO,QXO Inc,Industrials,Industrial Distribution,USA
+R,Ryder System Inc,Industrials,Rental & Leasing Services,USA
+RACE,Ferrari NV,Consumer Cyclical,Auto Manufacturers,Italy
+RBA,RB Global Inc,Industrials,Specialty Business Services,USA
+RBC,RBC Bearings Inc,Industrials,Tools & Accessories,USA
+RBLX,Roblox Corp,Communication Services,Electronic Gaming & Multimedia,USA
+RBRK,Rubrik Inc,Technology,Software - Infrastructure,USA
+RCI,Rogers Communications Inc,Communication Services,Telecom Services,Canada
+RCL,Royal Caribbean Group,Consumer Cyclical,Travel Services,USA
+RDDT,Reddit Inc,Communication Services,Internet Content & Information,USA
+RDY,Dr. Reddy's Laboratories Ltd ADR,Healthcare,Drug Manufacturers - Specialty & Generic,India
+REG,Regency Centers Corp,Real Estate,REIT - Retail,USA
+REGN,Regeneron Pharmaceuticals Inc,Healthcare,Biotechnology,USA
+RELX,RELX Plc ADR,Industrials,Specialty Business Services,United Kingdom
+RF,Regions Financial Corp,Financial,Banks - Regional,USA
+RGA,Reinsurance Group Of America Inc,Financial,Insurance - Reinsurance,USA
+RGLD,Royal Gold Inc,Basic Materials,Gold,USA
+RIO,Rio Tinto plc ADR,Basic Materials,Other Industrial Metals & Mining,United Kingdom
+RIVN,Rivian Automotive Inc,Consumer Cyclical,Auto Manufacturers,USA
+RJF,Raymond James Financial Inc,Financial,Asset Management,USA
+RKLB,Rocket Lab Corp,Industrials,Aerospace & Defense,USA
+RKT,Rocket Companies Inc,Financial,Mortgage Finance,USA
+RL,Ralph Lauren Corp,Consumer Cyclical,Apparel Manufacturing,USA
+RMBS,Rambus Inc,Technology,Semiconductors,USA
+RMD,Resmed Inc,Healthcare,Medical Instruments & Supplies,USA
+RNR,RenaissanceRe Holdings Ltd,Financial,Insurance - Reinsurance,Bermuda
+ROIV,Roivant Sciences Ltd,Healthcare,Biotechnology,United Kingdom
+ROK,Rockwell Automation Inc,Industrials,Specialty Industrial Machinery,USA
+ROKU,Roku Inc,Communication Services,Entertainment,USA
+ROL,Rollins Inc,Consumer Cyclical,Personal Services,USA
+ROP,Roper Technologies Inc,Technology,Software - Application,USA
+ROST,Ross Stores Inc,Consumer Cyclical,Apparel Retail,USA
+RPM,RPM International Inc,Basic Materials,Specialty Chemicals,USA
+RPRX,Royalty Pharma plc,Healthcare,Biotechnology,USA
+RRX,Regal Rexnord Corp,Industrials,Specialty Industrial Machinery,USA
+RS,Reliance Inc,Basic Materials,Steel,USA
+RSG,Republic Services Inc,Industrials,Waste Management,USA
+RTO,Rentokil Initial Plc ADR,Industrials,Specialty Business Services,United Kingdom
+RVMD,Revolution Medicines Inc,Healthcare,Biotechnology,USA
+RVTY,Revvity Inc,Healthcare,Diagnostics & Research,USA
+RYAAY,Ryanair Holdings Plc ADR,Industrials,Airlines,Ireland
+RYAN,Ryan Specialty Holdings Inc,Financial,Insurance - Specialty,USA
+SAIA,Saia Inc,Industrials,Trucking,USA
+SAIL,Sailpoint Inc,Technology,Software - Infrastructure,USA
+SANM,Sanmina Corp,Technology,Electronic Components,USA
+SBAC,SBA Communications Corp,Real Estate,REIT - Specialty,USA
+SBS,Companhia de Saneamento Basico do Estado de Sao Paulo ADR,Utilities,Utilities - Regulated Water,Brazil
+SBUX,Starbucks Corp,Consumer Cyclical,Restaurants,USA
+SCCO,Southern Copper Corp,Basic Materials,Copper,USA
+SCHW,Charles Schwab Corp,Financial,Capital Markets,USA
+SCI,Service Corp International,Consumer Cyclical,Personal Services,USA
+SE,Sea Ltd ADR,Consumer Cyclical,Internet Retail,Singapore
+SEIC,SEI Investments Co,Financial,Asset Management,USA
+SF,Stifel Financial Corp,Financial,Capital Markets,USA
+SGI,Somnigroup International Inc,Consumer Cyclical,"Furnishings, Fixtures & Appliances",USA
+SHG,Shinhan Financial Group Co Ltd ADR,Financial,Banks - Regional,South Korea
+SHOP,Shopify Inc,Technology,Software - Application,Canada
+SHW,Sherwin-Williams Co,Basic Materials,Specialty Chemicals,USA
+SITM,SiTime Corp,Technology,Semiconductors,USA
+SJM,J.M. Smucker Co,Consumer Defensive,Packaged Foods,USA
+SKM,SK Telecom Co Ltd ADR,Communication Services,Telecom Services,South Korea
+SLB,SLB Ltd,Energy,Oil & Gas Equipment & Services,USA
+SLF,Sun Life Financial Inc,Financial,Insurance - Diversified,Canada
+SMCI,Super Micro Computer Inc,Technology,Computer Hardware,USA
+SMFG,Sumitomo Mitsui Financial Group Inc ADR,Financial,Banks - Diversified,Japan
+SMMT,Summit Therapeutics Inc,Healthcare,Biotechnology,USA
+SMTC,Semtech Corp,Technology,Semiconductors,USA
+SN,SharkNinja Inc,Consumer Cyclical,"Furnishings, Fixtures & Appliances",USA
+SNA,Snap-on Inc,Industrials,Tools & Accessories,USA
+SNN,Smith & Nephew plc ADR,Healthcare,Medical Devices,United Kingdom
+SNOW,Snowflake Inc,Technology,Software - Application,USA
+SNPS,Synopsys Inc,Technology,Software - Infrastructure,USA
+SNX,TD Synnex Corp,Technology,Electronics & Computer Distribution,USA
+SNY,Sanofi ADR,Healthcare,Drug Manufacturers - General,France
+SO,Southern Company,Utilities,Utilities - Regulated Electric,USA
+SOFI,SoFi Technologies Inc,Financial,Credit Services,USA
+SOLV,Solventum Corp,Healthcare,Medical Instruments & Supplies,USA
+SONY,Sony Group Corp ADR,Technology,Consumer Electronics,Japan
+SPG,Simon Property Group Inc,Real Estate,REIT - Retail,USA
+SPGI,S&P Global Inc,Financial,Financial Data & Stock Exchanges,USA
+SPOT,Spotify Technology SA,Communication Services,Internet Content & Information,Sweden
+SPXC,SPX Technologies Inc,Industrials,Building Products & Equipment,USA
+SQM,Sociedad Quimica Y Minera de Chile SA ADR,Basic Materials,Specialty Chemicals,Chile
+SRE,Sempra,Utilities,Utilities - Diversified,USA
+SSB,SouthState Bank Corp,Financial,Banks - Regional,USA
+SSNC,SS&C Technologies Holdings Inc,Technology,Software - Application,USA
+STE,Steris Plc,Healthcare,Medical Devices,Ireland
+STLA,Stellantis N.V,Consumer Cyclical,Auto Manufacturers,Netherlands
+STLD,Steel Dynamics Inc,Basic Materials,Steel,USA
+STM,ST Microelectronics,Technology,Semiconductors,Switzerland
+STRC,Strategy Inc - VR PRF PERPETUAL USD 100 - Ser A,Technology,Software - Application,USA
+STRL,Sterling Infrastructure Inc,Industrials,Engineering & Construction,USA
+STT,State Street Corp,Financial,Asset Management,USA
+STZ,Constellation Brands Inc,Consumer Defensive,Beverages - Brewers,USA
+SU,Suncor Energy Inc,Energy,Oil & Gas Integrated,Canada
+SUI,Sun Communities Inc,Real Estate,REIT - Residential,USA
+SUN,Sunoco LP,Energy,Oil & Gas Refining & Marketing,USA
+SUNB,Sunbelt Rentals Holdings Inc,Industrials,Rental & Leasing Services,USA
+SW,Smurfit WestRock plc,Consumer Cyclical,Packaging & Containers,Ireland
+SWK,Stanley Black & Decker Inc,Industrials,Tools & Accessories,USA
+SYF,Synchrony Financial,Financial,Credit Services,USA
+SYK,Stryker Corp,Healthcare,Medical Devices,USA
+SYM,Symbotic Inc,Industrials,Specialty Industrial Machinery,USA
+SYY,Sysco Corp,Consumer Defensive,Food Distribution,USA
+T,AT&T Inc,Communication Services,Telecom Services,USA
+TAK,Takeda Pharmaceutical Co ADR,Healthcare,Drug Manufacturers - Specialty & Generic,Japan
+TCOM,Trip.com Group Ltd ADR,Consumer Cyclical,Travel Services,Singapore
+TDG,Transdigm Group Incorporated,Industrials,Aerospace & Defense,USA
+TDY,Teledyne Technologies Inc,Technology,Scientific & Technical Instruments,USA
+TEAM,Atlassian Corp,Technology,Software - Application,USA
+TECH,Bio-Techne Corp,Healthcare,Biotechnology,USA
+TECK,Teck Resources Ltd,Basic Materials,Copper,Canada
+TEL,TE Connectivity plc,Technology,Electronic Components,Ireland
+TER,Teradyne Inc,Technology,Semiconductor Equipment & Materials,USA
+TEVA,Teva- Pharmaceutical Industries Ltd ADR,Healthcare,Drug Manufacturers - Specialty & Generic,Israel
+TFC,Truist Financial Corp,Financial,Banks - Regional,USA
+TFII,TFI International Inc,Industrials,Trucking,Canada
+TGT,Target Corp,Consumer Defensive,Discount Stores,USA
+THC,Tenet Healthcare Corp,Healthcare,Medical Care Facilities,USA
+TIGO,Millicom International Cellular SA,Communication Services,Telecom Services,Luxembourg
+TJX,TJX Companies Inc,Consumer Cyclical,Apparel Retail,USA
+TKO,TKO Group Holdings Inc,Communication Services,Entertainment,USA
+TLK,Telkom Indonesia (Persero) Tbk PT ADR,Communication Services,Telecom Services,Indonesia
+TLN,Talen Energy Corp,Utilities,Utilities - Independent Power Producers,USA
+TMUS,T-Mobile US Inc,Communication Services,Telecom Services,USA
+TOL,Toll Brothers Inc,Consumer Cyclical,Residential Construction,USA
+TOST,Toast Inc,Technology,Software - Infrastructure,USA
+TPG,TPG Inc,Financial,Asset Management,USA
+TPL,Texas Pacific Land Corp,Energy,Oil & Gas E&P,USA
+TPR,Tapestry Inc,Consumer Cyclical,Luxury Goods,USA
+TRGP,Targa Resources Corp,Energy,Oil & Gas Midstream,USA
+TRI,Thomson-Reuters Corp,Industrials,Specialty Business Services,Canada
+TRMB,Trimble Inc,Technology,Scientific & Technical Instruments,USA
+TROW,T. Rowe Price Group Inc,Financial,Asset Management,USA
+TRP,TC Energy Corp,Energy,Oil & Gas Midstream,Canada
+TRU,TransUnion,Financial,Financial Data & Stock Exchanges,USA
+TRV,Travelers Companies Inc,Financial,Insurance - Property & Casualty,USA
+TS,Tenaris SA ADR,Energy,Oil & Gas Equipment & Services,Luxembourg
+TSCO,Tractor Supply Co,Consumer Cyclical,Specialty Retail,USA
+TSEM,Tower Semiconductor Ltd,Technology,Semiconductors,Israel
+TSN,Tyson Foods Inc,Consumer Defensive,Farm Products,USA
+TT,Trane Technologies plc,Industrials,Building Products & Equipment,Ireland
+TTE,TotalEnergies SE,Energy,Oil & Gas Integrated,France
+TTMI,TTM Technologies Inc,Technology,Electronic Components,USA
+TTWO,Take-Two Interactive Software Inc,Communication Services,Electronic Gaming & Multimedia,USA
+TU,Telus Corp,Communication Services,Telecom Services,Canada
+TW,Tradeweb Markets Inc,Financial,Capital Markets,USA
+TWLO,Twilio Inc,Technology,Software - Infrastructure,USA
+TX,Ternium SA ADR,Basic Materials,Steel,Luxembourg
+TXRH,Texas Roadhouse Inc,Consumer Cyclical,Restaurants,USA
+TXT,Textron Inc,Industrials,Aerospace & Defense,USA
+TYL,Tyler Technologies Inc,Technology,Software - Application,USA
+U,Unity Software Inc,Technology,Software - Application,USA
+UAL,United Airlines Holdings Inc,Industrials,Airlines,USA
+UBER,Uber Technologies Inc,Technology,Software - Application,USA
+UBS,UBS Group AG,Financial,Banks - Diversified,Switzerland
+UDR,UDR Inc,Real Estate,REIT - Residential,USA
+UHAL,U-Haul Holding Company,Industrials,Rental & Leasing Services,USA
+UHAL-B,U-Haul Holding Company,Industrials,Rental & Leasing Services,USA
+UHS,Universal Health Services Inc,Healthcare,Medical Care Facilities,USA
+UI,Ubiquiti Inc,Technology,Communication Equipment,USA
+UL,Unilever plc ADR,Consumer Defensive,Household & Personal Products,United Kingdom
+ULS,UL Solutions Inc,Industrials,Specialty Business Services,USA
+ULTA,Ulta Beauty Inc,Consumer Cyclical,Specialty Retail,USA
+UMBF,UMB Financial Corp,Financial,Banks - Regional,USA
+UMC,United Micro Electronics ADR,Technology,Semiconductors,Taiwan
+UNM,Unum Group,Financial,Insurance - Life,USA
+UNP,Union Pacific Corp,Industrials,Railroads,USA
+UPS,United Parcel Service Inc,Industrials,Integrated Freight & Logistics,USA
+URI,United Rentals Inc,Industrials,Rental & Leasing Services,USA
+USB,U.S. Bancorp,Financial,Banks - Regional,USA
+USFD,US Foods Holding Corp,Consumer Defensive,Food Distribution,USA
+UTHR,United Therapeutics Corp,Healthcare,Drug Manufacturers - Specialty & Generic,USA
+VALE,Vale SA ADR,Basic Materials,Other Industrial Metals & Mining,Brazil
+VEEV,Veeva Systems Inc,Healthcare,Health Information Services,USA
+VG,Venture Global Inc,Energy,Oil & Gas Midstream,USA
+VIAV,Viavi Solutions Inc,Technology,Communication Equipment,USA
+VICI,VICI Properties Inc,Real Estate,REIT - Diversified,USA
+VICR,Vicor Corp,Technology,Electronic Components,USA
+VIK,Viking Holdings Ltd,Consumer Cyclical,Travel Services,Bermuda
+VIV,Telefonica Brasil SA ADR,Communication Services,Telecom Services,Brazil
+VLO,Valero Energy Corp,Energy,Oil & Gas Refining & Marketing,USA
+VLTO,Veralto Corp,Industrials,Pollution & Treatment Controls,USA
+VMC,Vulcan Materials Co,Basic Materials,Building Materials,USA
+VMRK,Vivmark Residential,Real Estate,REIT - Residential,USA
+VNOM,Viper Energy Inc,Energy,Oil & Gas Midstream,USA
+VOD,Vodafone Group plc ADR,Communication Services,Telecom Services,United Kingdom
+VRSK,Verisk Analytics Inc,Industrials,Consulting Services,USA
+VRSN,Verisign Inc,Technology,Software - Infrastructure,USA
+VRT,Vertiv Holdings Co,Industrials,Electrical Equipment & Parts,USA
+VRTX,Vertex Pharmaceuticals Inc,Healthcare,Biotechnology,USA
+VSAT,Viasat Inc,Technology,Communication Equipment,USA
+VST,Vistra Corp,Utilities,Utilities - Independent Power Producers,USA
+VTR,Ventas Inc,Real Estate,REIT - Healthcare Facilities,USA
+VTRS,Viatris Inc,Healthcare,Drug Manufacturers - Specialty & Generic,USA
+W,Wayfair Inc,Consumer Cyclical,Internet Retail,USA
+WAB,Westinghouse Air Brake Technologies Corp,Industrials,Railroads,USA
+WAT,Waters Corp,Healthcare,Diagnostics & Research,USA
+WBD,Warner Bros. Discovery Inc,Communication Services,Entertainment,USA
+WBS,Webster Financial Corp,Financial,Banks - Regional,USA
+WCC,Wesco International Inc,Industrials,Industrial Distribution,USA
+WCN,Waste Connections Inc,Industrials,Waste Management,Canada
+WDAY,Workday Inc,Technology,Software - Application,USA
+WDC,Western Digital Corp,Technology,Computer Hardware,USA
+WDS,Woodside Energy Group Ltd ADR,Energy,Oil & Gas E&P,Australia
+WEC,WEC Energy Group Inc,Utilities,Utilities - Regulated Electric,USA
+WELL,Welltower Inc,Real Estate,REIT - Healthcare Facilities,USA
+WES,Western Midstream Partners LP,Energy,Oil & Gas Midstream,USA
+WF,Woori Financial Group Inc ADR,Financial,Banks - Regional,South Korea
+WIT,Wipro Ltd ADR,Technology,Information Technology Services,India
+WM,Waste Management Inc,Industrials,Waste Management,USA
+WMB,Williams Cos Inc,Energy,Oil & Gas Midstream,USA
+WMG,Warner Music Group Corp,Communication Services,Entertainment,USA
+WMS,Advanced Drainage Systems Inc,Industrials,Building Products & Equipment,USA
+WPC,W. P. Carey Inc,Real Estate,REIT - Diversified,USA
+WPM,Wheaton Precious Metals Corp,Basic Materials,Gold,Canada
+WRB,W.R. Berkley Corp,Financial,Insurance - Property & Casualty,USA
+WSE,Wise Group Plc,Technology,Information Technology Services,United Kingdom
+WSM,Williams-Sonoma Inc,Consumer Cyclical,Specialty Retail,USA
+WSO,Watsco Inc,Industrials,Industrial Distribution,USA
+WST,West Pharmaceutical Services Inc,Healthcare,Medical Instruments & Supplies,USA
+WTFC,Wintrust Financial Corp,Financial,Banks - Regional,USA
+WTRG,Essential Utilities Inc,Utilities,Utilities - Regulated Water,USA
+WTS,Watts Water Technologies Inc,Industrials,Specialty Industrial Machinery,USA
+WTW,Willis Towers Watson Public Limited Co,Financial,Insurance Brokers,United Kingdom
+WWD,Woodward Inc,Industrials,Aerospace & Defense,USA
+WY,Weyerhaeuser Co,Real Estate,REIT - Specialty,USA
+WYNN,Wynn Resorts Ltd,Consumer Cyclical,Resorts & Casinos,USA
+XEL,Xcel Energy Inc,Utilities,Utilities - Regulated Electric,USA
+XPO,XPO Inc,Industrials,Trucking,USA
+XYL,Xylem Inc,Industrials,Specialty Industrial Machinery,USA
+XYZ,Block Inc,Technology,Software - Infrastructure,USA
+YPF,YPF ADR,Energy,Oil & Gas Integrated,Argentina
+YUM,Yum Brands Inc,Consumer Cyclical,Restaurants,USA
+YUMC,Yum China Holdings Inc,Consumer Cyclical,Restaurants,China
+ZBH,Zimmer Biomet Holdings Inc,Healthcare,Medical Devices,USA
+ZBRA,Zebra Technologies Corp,Technology,Communication Equipment,USA
+ZION,Zions Bancorporation N.A,Financial,Banks - Regional,USA
+ZM,Zoom Communications Inc,Technology,Software - Application,USA
+ZS,Zscaler Inc,Technology,Software - Infrastructure,USA
+ZTO,ZTO Express (Cayman) Inc ADR,Industrials,Integrated Freight & Logistics,China
+ZTS,Zoetis Inc,Healthcare,Drug Manufacturers - Specialty & Generic,USA
