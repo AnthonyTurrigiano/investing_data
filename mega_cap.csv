@@ -1,0 +1,77 @@
+,Ticker,Company,Sector,Industry,Country
+0,AAPL,Apple Inc,Technology,Consumer Electronics,USA
+1,ABBV,Abbvie Inc,Healthcare,Drug Manufacturers - General,USA
+2,AMAT,Applied Materials Inc,Technology,Semiconductor Equipment & Materials,USA
+3,AMD,Advanced Micro Devices Inc,Technology,Semiconductors,USA
+4,AMGN,AMGEN Inc,Healthcare,Drug Manufacturers - General,USA
+5,AMZN,Amazon.com Inc,Consumer Cyclical,Internet Retail,USA
+6,ANET,Arista Networks Inc,Technology,Computer Hardware,USA
+7,ARM,Arm Holdings Plc ADR,Technology,Semiconductors,United Kingdom
+8,ASML,ASML Holding NV,Technology,Semiconductor Equipment & Materials,Netherlands
+9,AVGO,Broadcom Inc,Technology,Semiconductors,USA
+10,AXP,American Express Co,Financial,Credit Services,USA
+11,AZN,Astrazeneca plc,Healthcare,Drug Manufacturers - General,United Kingdom
+12,BABA,Alibaba Group Holding Ltd ADR,Consumer Cyclical,Internet Retail,China
+13,BAC,Bank Of America Corp,Financial,Banks - Diversified,USA
+14,BHP,BHP Group Limited ADR,Basic Materials,Other Industrial Metals & Mining,Australia
+15,BRK-A,Berkshire Hathaway Inc,Financial,Insurance - Diversified,USA
+16,BRK-B,Berkshire Hathaway Inc,Financial,Insurance - Diversified,USA
+17,C,Citigroup Inc,Financial,Banks - Diversified,USA
+18,CAT,Caterpillar Inc,Industrials,Farm & Heavy Construction Machinery,USA
+19,COST,Costco Wholesale Corp,Consumer Defensive,Discount Stores,USA
+20,CRWD,Crowdstrike Holdings Inc,Technology,Software - Infrastructure,USA
+21,CSCO,Cisco Systems Inc,Technology,Communication Equipment,USA
+22,CVX,Chevron Corp,Energy,Oil & Gas Integrated,USA
+23,DELL,Dell Technologies Inc,Technology,Computer Hardware,USA
+24,GE,GE Aerospace,Industrials,Aerospace & Defense,USA
+25,GEV,GE Vernova Inc,Industrials,Specialty Industrial Machinery,USA
+26,GOOG,Alphabet Inc,Communication Services,Internet Content & Information,USA
+27,GOOGL,Alphabet Inc,Communication Services,Internet Content & Information,USA
+28,GS,Goldman Sachs Group Inc,Financial,Capital Markets,USA
+29,HD,Home Depot Inc,Consumer Cyclical,Home Improvement Retail,USA
+30,HSBC,HSBC Holdings plc ADR,Financial,Banks - Diversified,United Kingdom
+31,IBM,International Business Machines Corp,Technology,Information Technology Services,USA
+32,INTC,Intel Corp,Technology,Semiconductors,USA
+33,JNJ,Johnson & Johnson,Healthcare,Drug Manufacturers - General,USA
+34,JPM,JPMorgan Chase & Co,Financial,Banks - Diversified,USA
+35,KLAC,KLA Corp,Technology,Semiconductor Equipment & Materials,USA
+36,KO,Coca-Cola Co,Consumer Defensive,Beverages - Non-Alcoholic,USA
+37,LIN,Linde Plc,Basic Materials,Specialty Chemicals,United Kingdom
+38,LLY,Lilly(Eli) & Co,Healthcare,Drug Manufacturers - General,USA
+39,LRCX,Lam Research Corp,Technology,Semiconductor Equipment & Materials,USA
+40,MA,Mastercard Incorporated,Financial,Credit Services,USA
+41,META,Meta Platforms Inc,Communication Services,Internet Content & Information,USA
+42,MRK,Merck & Co Inc,Healthcare,Drug Manufacturers - General,USA
+43,MS,Morgan Stanley,Financial,Capital Markets,USA
+44,MSFT,Microsoft Corp,Technology,Software - Infrastructure,USA
+45,MU,Micron Technology Inc,Technology,Semiconductors,USA
+46,MUFG,Mitsubishi UFJ Financial Group Inc ADR,Financial,Banks - Diversified,Japan
+47,NFLX,Netflix Inc,Communication Services,Entertainment,USA
+48,NVDA,NVIDIA Corp,Technology,Semiconductors,USA
+49,NVS,Novartis AG ADR,Healthcare,Drug Manufacturers - General,Switzerland
+50,ORCL,Oracle Corp,Technology,Software - Infrastructure,USA
+51,PANW,Palo Alto Networks Inc,Technology,Software - Infrastructure,USA
+52,PG,Procter & Gamble Co,Consumer Defensive,Household & Personal Products,USA
+53,PLTR,Palantir Technologies Inc,Technology,Software - Infrastructure,USA
+54,PM,Philip Morris International Inc,Consumer Defensive,Tobacco,USA
+55,RTX,RTX Corp,Industrials,Aerospace & Defense,USA
+56,RY,Royal Bank Of Canada,Financial,Banks - Diversified,Canada
+57,SAN,Banco Santander SA ADR,Financial,Banks - Diversified,Spain
+58,SAP,Sap SE ADR,Technology,Software - Application,Germany
+59,SHEL,Shell Plc ADR,Energy,Oil & Gas Integrated,United Kingdom
+60,SKHY,SK Hynix Inc ADR,Technology,Semiconductors,South Korea
+61,SNDK,Sandisk Corp,Technology,Computer Hardware,USA
+62,SPCX,Space Exploration Technologies Corp,Industrials,Aerospace & Defense,USA
+63,STX,Seagate Technology Holdings Plc,Technology,Computer Hardware,Singapore
+64,TD,Toronto Dominion Bank,Financial,Banks - Diversified,Canada
+65,TM,Toyota Motor Corp ADR,Consumer Cyclical,Auto Manufacturers,Japan
+66,TMO,Thermo Fisher Scientific Inc,Healthcare,Diagnostics & Research,USA
+67,TSLA,Tesla Inc,Consumer Cyclical,Auto Manufacturers,USA
+68,TSM,Taiwan Semiconductor Manufacturing ADR,Technology,Semiconductors,Taiwan
+69,TXN,Texas Instruments Inc,Technology,Semiconductors,USA
+70,UNH,Unitedhealth Group Inc,Healthcare,Healthcare Plans,USA
+71,V,Visa Inc,Financial,Credit Services,USA
+72,VZ,Verizon Communications Inc,Communication Services,Telecom Services,USA
+73,WFC,Wells Fargo & Co,Financial,Banks - Diversified,USA
+74,WMT,Walmart Inc,Consumer Defensive,Discount Stores,USA
+75,XOM,ExxonMobil Holdings Corp,Energy,Oil & Gas Integrated,USA

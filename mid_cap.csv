@@ -1,0 +1,1171 @@
+,Ticker,Company,Sector,Industry,Country
+0,AADX,Applied Aerospace & Defense Inc,Industrials,Aerospace & Defense,USA
+1,AAL,American Airlines Group Inc,Industrials,Airlines,USA
+2,AAMI,Acadian Asset Management Inc,Financial,Asset Management,USA
+3,AAON,AAON Inc,Industrials,Building Products & Equipment,USA
+4,AAP,Advance Auto Parts Inc,Consumer Cyclical,Auto Parts,USA
+5,AAUC,Allied Gold Corp,Basic Materials,Gold,Canada
+6,AB,AllianceBernstein Holding Lp,Financial,Asset Management,USA
+7,ABCB,Ameris Bancorp,Financial,Banks - Regional,USA
+8,ABCL,AbCellera Biologics Inc,Healthcare,Biotechnology,Canada
+9,ABG,Asbury Automotive Group Inc,Consumer Cyclical,Auto & Truck Dealerships,USA
+10,ABM,ABM Industries Inc,Industrials,Specialty Business Services,USA
+11,ACA,Arcosa Inc,Industrials,Engineering & Construction,USA
+12,ACAD,Acadia Pharmaceuticals Inc,Healthcare,Biotechnology,USA
+13,ACHC,Acadia Healthcare Company Inc,Healthcare,Medical Care Facilities,USA
+14,ACHR,Archer Aviation Inc,Industrials,Aerospace & Defense,USA
+15,ACI,Albertsons Companies Inc,Consumer Defensive,Grocery Stores,USA
+16,ACIW,ACI Worldwide Inc,Technology,Software - Infrastructure,USA
+17,ACLS,Axcelis Technologies Inc,Technology,Semiconductor Equipment & Materials,USA
+18,ACM,AECOM,Industrials,Engineering & Construction,USA
+19,ACMR,ACM Research Inc,Technology,Semiconductor Equipment & Materials,USA
+20,ACT,Enact Holdings Inc,Financial,Insurance - Specialty,USA
+21,AD,Array Digital Infrastructure Inc,Communication Services,Telecom Services,USA
+22,ADC,Agree Realty Corp,Real Estate,REIT - Retail,USA
+23,ADEA,Adeia Inc,Technology,Software - Application,USA
+24,ADMA,Adma Biologics Inc,Healthcare,Biotechnology,USA
+25,ADPT,Adaptive Biotechnologies Corp,Healthcare,Diagnostics & Research,USA
+26,ADT,ADT Inc,Industrials,Security & Protection Services,USA
+27,ADUS,Addus HomeCare Corp,Healthcare,Medical Care Facilities,USA
+28,ADX,Adams Diversified Equity Fund,Financial,Closed-End Fund - Equity,USA
+29,AEHR,Aehr Test Systems,Technology,Semiconductor Equipment & Materials,USA
+30,AEO,American Eagle Outfitters Inc,Consumer Cyclical,Apparel Retail,USA
+31,AERO,Grupo Aeromexico SAB de CV ADR,Industrials,Airlines,Mexico
+32,AG,First Majestic Silver Corp,Basic Materials,Silver,Canada
+33,AGCO,AGCO Corp,Industrials,Farm & Heavy Construction Machinery,USA
+34,AGIO,Agios Pharmaceuticals Inc,Healthcare,Biotechnology,USA
+35,AGM,Federal Agricultural Mortgage Corp,Financial,Credit Services,USA
+36,AGO,Assured Guaranty Ltd,Financial,Insurance - Specialty,Bermuda
+37,AGX,Argan Inc,Industrials,Engineering & Construction,USA
+38,AGYS,Agilysys Inc,Technology,Software - Application,USA
+39,AIR,AAR Corp,Industrials,Aerospace & Defense,USA
+40,AKO-B,Embotelladora Andina SA ADR,Consumer Defensive,Beverages - Non-Alcoholic,Chile
+41,AKR,Acadia Realty Trust,Real Estate,REIT - Retail,USA
+42,ALGM,Allegro Microsystems Inc,Technology,Semiconductors,USA
+43,ALGT,Allegiant Travel,Industrials,Airlines,USA
+44,ALH,Alliance Laundry Holdings Inc,Consumer Cyclical,"Furnishings, Fixtures & Appliances",USA
+45,ALHC,Alignment Healthcare Inc,Healthcare,Healthcare Plans,USA
+46,ALK,Alaska Air Group Inc,Industrials,Airlines,USA
+47,ALKS,Alkermes plc,Healthcare,Drug Manufacturers - Specialty & Generic,Ireland
+48,ALKT,Alkami Technology Inc,Technology,Software - Application,USA
+49,ALM,Almonty Industries Inc,Basic Materials,Other Industrial Metals & Mining,USA
+50,ALMR,Alamar Biosciences Inc,Healthcare,Medical Devices,USA
+51,ALMS,Alumis Inc,Healthcare,Biotechnology,USA
+52,ALRM,Alarm.com Holdings Inc,Technology,Software - Application,USA
+53,ALV,Autoliv Inc,Consumer Cyclical,Auto Parts,Sweden
+54,AMBA,Ambarella Inc,Technology,Semiconductor Equipment & Materials,USA
+55,AMBP,Ardagh Metal Packaging SA,Consumer Cyclical,Packaging & Containers,Luxembourg
+56,AMC,AMC Entertainment Holdings Inc,Communication Services,Entertainment,USA
+57,AMG,Affiliated Managers Group Inc,Financial,Asset Management,USA
+58,AMLX,Amylyx Pharmaceuticals Inc,Healthcare,Drug Manufacturers - Specialty & Generic,USA
+59,AMR,Alpha Metallurgical Resources Inc,Basic Materials,Coking Coal,USA
+60,AMRX,Amneal Pharmaceuticals Inc,Healthcare,Drug Manufacturers - Specialty & Generic,USA
+61,AMTM,Amentum Holdings Inc,Industrials,Specialty Business Services,USA
+62,AN,Autonation Inc,Consumer Cyclical,Auto & Truck Dealerships,USA
+63,ANDE,Andersons Inc,Consumer Defensive,Food Distribution,USA
+64,ANDG,Andersen Group Inc,Consumer Cyclical,Personal Services,USA
+65,ANF,Abercrombie & Fitch Co,Consumer Cyclical,Apparel Retail,USA
+66,AOS,A.O. Smith Corp,Industrials,Specialty Industrial Machinery,USA
+67,APAM,Artisan Partners Asset Management Inc,Financial,Asset Management,USA
+68,APLD,Applied Digital Corp,Technology,Information Technology Services,USA
+69,APLE,Apple Hospitality REIT Inc,Real Estate,REIT - Hotel & Motel,USA
+70,APPF,Appfolio Inc,Technology,Software - Application,USA
+71,APPN,Appian Corp,Technology,Software - Infrastructure,USA
+72,AQN,Algonquin Power & Utilities Corp,Utilities,Utilities - Diversified,Canada
+73,ARCB,ArcBest Corp,Industrials,Trucking,USA
+74,ARE,Alexandria Real Estate Equities Inc,Real Estate,REIT - Office,USA
+75,ARIS,Aris Mining Corp,Basic Materials,Gold,Canada
+76,ARLP,"Alliance Resource Partners, LP",Energy,Thermal Coal,USA
+77,AROC,Archrock Inc,Energy,Oil & Gas Equipment & Services,USA
+78,ARQT,Arcutis Biotherapeutics Inc,Healthcare,Biotechnology,USA
+79,ARR,ARMOUR Residential REIT Inc,Real Estate,REIT - Mortgage,USA
+80,ARX,Accelerant Holdings,Financial,Insurance Brokers,Cayman Islands
+81,ASAN,Asana Inc,Technology,Software - Application,USA
+82,ASB,Associated Banc-Corp,Financial,Banks - Regional,USA
+83,ASH,Ashland Inc,Basic Materials,Specialty Chemicals,USA
+84,ASO,Academy Sports and Outdoors Inc,Consumer Cyclical,Specialty Retail,USA
+85,ASR,Grupo Aeroportuario Del Sureste SA ADR,Industrials,Airports & Air Services,Mexico
+86,ATAI,AtaiBeckley Inc,Healthcare,Biotechnology,USA
+87,ATAT,Atour Lifestyle Holdings Ltd ADR,Consumer Cyclical,Lodging,China
+88,ATHM,Autohome Inc ADR,Communication Services,Internet Content & Information,China
+89,ATKR,Atkore Inc,Industrials,Electrical Equipment & Parts,USA
+90,ATMU,Atmus Filtration Technologies Inc,Consumer Cyclical,Auto Parts,USA
+91,ATR,Aptargroup Inc,Healthcare,Medical Instruments & Supplies,USA
+92,ATRC,Atricure Inc,Healthcare,Medical Instruments & Supplies,USA
+93,ATRO,Astronics Corp,Industrials,Aerospace & Defense,USA
+94,AUB,Atlantic Union Bankshares Corp,Financial,Banks - Regional,USA
+95,AUGO,Aura Minerals Inc,Basic Materials,Gold,USA
+96,AUPH,Aurinia Pharmaceuticals Inc,Healthcare,Biotechnology,Canada
+97,AVA,Avista Corp,Utilities,Utilities - Diversified,USA
+98,AVAH,Aveanna Healthcare Holdings Inc,Healthcare,Medical Care Facilities,USA
+99,AVAL,Grupo Aval Acciones y Valores SA ADR,Financial,Banks - Regional,Colombia
+100,AVAV,AeroVironment Inc,Industrials,Aerospace & Defense,USA
+101,AVEX,AEVEX Corp,Industrials,Aerospace & Defense,USA
+102,AVNT,Avient Corp,Basic Materials,Specialty Chemicals,USA
+103,AVPT,AvePoint Inc,Technology,Software - Infrastructure,USA
+104,AVT,Avnet Inc,Technology,Electronics & Computer Distribution,USA
+105,AVTR,Avantor Inc,Healthcare,Medical Instruments & Supplies,USA
+106,AWI,Armstrong World Industries Inc,Industrials,Building Products & Equipment,USA
+107,AWR,American States Water Co,Utilities,Utilities - Regulated Water,USA
+108,AX,Axos Financial Inc,Financial,Banks - Regional,USA
+109,AXGN,Axogen Inc,Healthcare,Medical Devices,USA
+110,AXS,Axis Capital Holdings Ltd,Financial,Insurance - Specialty,Bermuda
+111,AXTA,Axalta Coating Systems Ltd,Basic Materials,Specialty Chemicals,USA
+112,AXTI,AXT Inc,Technology,Semiconductor Equipment & Materials,USA
+113,AYA,Aya Gold & Silver Inc,Basic Materials,Silver,Canada
+114,AZZ,AZZ Inc,Industrials,Specialty Business Services,USA
+115,BAH,Booz Allen Hamilton Holding Corp,Industrials,Consulting Services,USA
+116,BANC,Banc of California Inc,Financial,Banks - Regional,USA
+117,BANF,Bancfirst Corp,Financial,Banks - Regional,USA
+118,BANR,Banner Corp,Financial,Banks - Regional,USA
+119,BATRA,Atlanta Braves Holdings Inc,Communication Services,Entertainment,USA
+120,BATRK,Atlanta Braves Holdings Inc,Communication Services,Entertainment,USA
+121,BB,BlackBerry Ltd,Technology,Software - Infrastructure,Canada
+122,BBAR,BBVA Argentina ADR,Financial,Banks - Regional,Argentina
+123,BBT,Beacon Financial Corp,Financial,Banks - Regional,USA
+124,BBUC,Brookfield Business Corp,Industrials,Conglomerates,USA
+125,BBWI,Bath & Body Works Inc,Consumer Cyclical,Specialty Retail,USA
+126,BC,Brunswick Corp,Consumer Cyclical,Recreational Vehicles,USA
+127,BCC,Boise Cascade Co,Basic Materials,Lumber & Wood Production,USA
+128,BCO,Brink's Co,Industrials,Security & Protection Services,USA
+129,BCPC,Balchem Corp,Basic Materials,Specialty Chemicals,USA
+130,BCRX,Biocryst Pharmaceuticals Inc,Healthcare,Drug Manufacturers - Specialty & Generic,USA
+131,BDC,Belden Inc,Technology,Communication Equipment,USA
+132,BEAM,Beam Therapeutics Inc,Healthcare,Biotechnology,USA
+133,BELFA,Bel Fuse Inc,Technology,Electronic Components,USA
+134,BELFB,Bel Fuse Inc,Technology,Electronic Components,USA
+135,BEPC,Brookfield Renewable Corp,Utilities,Utilities - Renewable,USA
+136,BETA,BETA Technologies Inc,Industrials,Aerospace & Defense,USA
+137,BFAM,Bright Horizons Family Solutions Inc,Consumer Cyclical,Personal Services,USA
+138,BFH,Bread Financial Holdings Inc,Financial,Credit Services,USA
+139,BFLY,Butterfly Network Inc,Healthcare,Medical Devices,USA
+140,BGC,BGC Group Inc,Financial,Capital Markets,USA
+141,BGSI,Boyd Group Services Inc,Consumer Cyclical,Auto & Truck Dealerships,Canada
+142,BHC,Bausch Health Companies Inc,Healthcare,Drug Manufacturers - Specialty & Generic,Canada
+143,BHE,Benchmark Electronics Inc,Technology,Electronic Components,USA
+144,BHF,Brighthouse Financial Inc,Financial,Insurance - Life,USA
+145,BHVN,Biohaven Ltd,Healthcare,Biotechnology,USA
+146,BILI,Bilibili Inc ADR,Communication Services,Internet Content & Information,China
+147,BILL,BILL Holdings Inc,Technology,Software - Application,USA
+148,BIO,Bio-Rad Laboratories Inc,Healthcare,Medical Devices,USA
+149,BIPC,Brookfield Infrastructure Corp,Utilities,Utilities - Regulated Gas,USA
+150,BIRK,Birkenstock Holding Plc,Consumer Cyclical,Footwear & Accessories,United Kingdom
+151,BKD,Brookdale Senior Living Inc,Healthcare,Medical Care Facilities,USA
+152,BKE,Buckle Inc,Consumer Cyclical,Apparel Retail,USA
+153,BKH,Black Hills Corp,Utilities,Utilities - Regulated Gas,USA
+154,BKU,BankUnited Inc,Financial,Banks - Regional,USA
+155,BKV,BKV Corp,Energy,Oil & Gas E&P,USA
+156,BLCO,Bausch + Lomb Corp,Healthcare,Medical Instruments & Supplies,Canada
+157,BLDR,Builders Firstsource Inc,Industrials,Building Products & Equipment,USA
+158,BLKB,Blackbaud Inc,Technology,Software - Application,USA
+159,BLLN,Billiontoone Inc,Healthcare,Diagnostics & Research,USA
+160,BLSH,Bullish,Technology,Software - Infrastructure,Cayman Islands
+161,BLTE,Belite Bio Inc ADR,Healthcare,Biotechnology,USA
+162,BMA,Banco Macro SA ADR,Financial,Banks - Regional,Argentina
+163,BMI,Badger Meter Inc,Technology,Scientific & Technical Instruments,USA
+164,BNL,Broadstone Net Lease Inc,Real Estate,REIT - Diversified,USA
+165,BOBS,Bob's Discount Furniture Inc,Consumer Cyclical,Specialty Retail,USA
+166,BOH,Bank of Hawaii Corp,Financial,Banks - Regional,USA
+167,BOKF,BOK Financial Corp,Financial,Banks - Regional,USA
+168,BOOT,Boot Barn Holdings Inc,Consumer Cyclical,Apparel Retail,USA
+169,BOX,Box Inc,Technology,Software - Infrastructure,USA
+170,BRC,Brady Corp,Industrials,Security & Protection Services,USA
+171,BRKR,Bruker Corp,Healthcare,Medical Devices,USA
+172,BROS,Dutch Bros Inc,Consumer Cyclical,Restaurants,USA
+173,BRSL,Brightstar Lottery PLC,Consumer Cyclical,Gambling,United Kingdom
+174,BRVE,Braveheart Bio Inc,Healthcare,Biotechnology,USA
+175,BRX,Brixmor Property Group Inc,Real Estate,REIT - Retail,USA
+176,BRZE,Braze Inc,Technology,Software - Application,USA
+177,BSM,Black Stone Minerals LP,Energy,Oil & Gas E&P,USA
+178,BSTZ,BlackRock Science and Technology Term Trust,Financial,Closed-End Fund - Equity,USA
+179,BTDR,Bitdeer Technologies Group,Technology,Software - Application,Singapore
+180,BTE,Baytex Energy Corp,Energy,Oil & Gas E&P,Canada
+181,BTG,B2gold Corp,Basic Materials,Gold,Canada
+182,BTU,Peabody Energy Corp,Energy,Thermal Coal,USA
+183,BULL,Webull Corp,Technology,Software - Application,USA
+184,BUSE,First Busey Corp,Financial,Banks - Regional,USA
+185,BVN,Compania de Minas Buenaventura SA ADR,Basic Materials,Other Precious Metals & Mining,Peru
+186,BWIN,Baldwin Insurance Group Inc,Financial,Insurance Brokers,USA
+187,BWLP,BW LPG Limited,Energy,Oil & Gas Midstream,Singapore
+188,BXDC,Blackstone Digital Infrastructure Trust Inc,Real Estate,REIT - Specialty,USA
+189,BXMT,Blackstone Mortgage Trust Inc,Real Estate,REIT - Mortgage,USA
+190,BXSL,Blackstone Secured Lending Fund,Financial,Asset Management,USA
+191,BYD,Boyd Gaming Corp,Consumer Cyclical,Resorts & Casinos,USA
+192,BZ,Kanzhun Ltd ADR,Communication Services,Internet Content & Information,China
+193,CAAP,Corporacion America Airports SA,Industrials,Airports & Air Services,Luxembourg
+194,CACC,Credit Acceptance Corp,Financial,Credit Services,USA
+195,CAE,Cae Inc,Industrials,Aerospace & Defense,Canada
+196,CAG,Conagra Brands Inc,Consumer Defensive,Packaged Foods,USA
+197,CAI,Caris Life Sciences Inc,Healthcare,Biotechnology,USA
+198,CAKE,Cheesecake Factory Inc,Consumer Cyclical,Restaurants,USA
+199,CALM,Cal-Maine Foods Inc,Consumer Defensive,Farm Products,USA
+200,CALX,Calix Inc,Technology,Software - Infrastructure,USA
+201,CALY,Callaway Golf Co,Consumer Cyclical,Leisure,USA
+202,CAMT,Camtek Ltd,Technology,Semiconductor Equipment & Materials,Israel
+203,CAR,Avis Budget Group Inc,Industrials,Rental & Leasing Services,USA
+204,CARG,CarGurus Inc,Consumer Cyclical,Auto & Truck Dealerships,USA
+205,CATY,Cathay General Bancorp,Financial,Banks - Regional,USA
+206,CAVA,Cava Group Inc,Consumer Cyclical,Restaurants,USA
+207,CBC,Central Bancompany Inc,Financial,Banks - Regional,USA
+208,CBSH,Commerce Bancshares Inc,Financial,Banks - Regional,USA
+209,CBT,Cabot Corp,Basic Materials,Specialty Chemicals,USA
+210,CBU,Community Financial System Inc,Financial,Banks - Regional,USA
+211,CBZ,Cbiz Inc,Industrials,Specialty Business Services,USA
+212,CC,Chemours Company,Basic Materials,Specialty Chemicals,USA
+213,CCC,CCC Intelligent Solutions Holdings Inc,Technology,Software - Application,USA
+214,CCU,Compania Cervecerias Unidas SA ADR,Consumer Defensive,Beverages - Brewers,Chile
+215,CDLR,Cadeler AS ADR,Industrials,Engineering & Construction,Denmark
+216,CDNA,Caredx Inc,Healthcare,Diagnostics & Research,USA
+217,CDP,COPT Defense Properties,Real Estate,REIT - Office,USA
+218,CE,Celanese Corp,Basic Materials,Chemicals,USA
+219,CECO,Ceco Environmental Corp,Industrials,Pollution & Treatment Controls,USA
+220,CEF,Sprott Physical Gold and Silver Trust,Financial,Asset Management,Canada
+221,CELC,Celcuity Inc,Healthcare,Biotechnology,USA
+222,CELH,Celsius Holdings Inc,Consumer Defensive,Beverages - Non-Alcoholic,USA
+223,CENT,Central Garden & Pet Co,Consumer Defensive,Packaged Foods,USA
+224,CENTA,Central Garden & Pet Co,Consumer Defensive,Packaged Foods,USA
+225,CENX,Century Aluminum Co,Basic Materials,Aluminum,USA
+226,CGAU,Centerra Gold Inc,Basic Materials,Gold,Canada
+227,CGON,Cg Oncology Inc,Healthcare,Biotechnology,USA
+228,CHCO,City Holding Co,Financial,Banks - Regional,USA
+229,CHDN,Churchill Downs Inc,Consumer Cyclical,Gambling,USA
+230,CHE,Chemed Corp,Healthcare,Medical Care Facilities,USA
+231,CHEF,Chefs' Warehouse Inc,Consumer Defensive,Food Distribution,USA
+232,CHH,Choice Hotels International Inc,Consumer Cyclical,Lodging,USA
+233,CHRD,Chord Energy Corp,Energy,Oil & Gas E&P,USA
+234,CHRN,ChronoScale Holdings Corp,Technology,Information Technology Services,USA
+235,CHWY,Chewy Inc,Consumer Cyclical,Internet Retail,USA
+236,CIFR,Cipher Digital Inc,Technology,Information Technology Services,USA
+237,CIG,Cia Energetica DE Minas Gerais - Cemig ADR,Utilities,Utilities - Regulated Electric,Brazil
+238,CIGI,Colliers International Group Inc,Real Estate,Real Estate Services,Canada
+239,CLBK,Columbia Financial Inc,Financial,Banks - Regional,USA
+240,CLBT,Cellebrite DI Ltd,Technology,Software - Infrastructure,Israel
+241,CLDX,Celldex Therapeutics Inc,Healthcare,Biotechnology,USA
+242,CLF,Cleveland-Cliffs Inc,Basic Materials,Steel,USA
+243,CLM,Cornerstone Strategic Investment Fund Inc,Financial,Closed-End Fund - Equity,USA
+244,CLMT,Calumet Inc,Basic Materials,Specialty Chemicals,USA
+245,CLOV,Clover Health Investments Corp,Healthcare,Healthcare Plans,USA
+246,CLSK,Cleanspark Inc,Financial,Capital Markets,USA
+247,CMBT,CMB.Tech NV,Energy,Oil & Gas Midstream,Belgium
+248,CMC,Commercial Metals Co,Industrials,Metal Fabrication,USA
+249,CMPR,Cimpress plc,Industrials,Specialty Business Services,Ireland
+250,CNK,Cinemark Holdings Inc,Communication Services,Entertainment,USA
+251,CNM,Core & Main Inc,Industrials,Industrial Distribution,USA
+252,CNO,CNO Financial Group Inc,Financial,Insurance - Life,USA
+253,CNR,Core Natural Resources Inc,Energy,Thermal Coal,USA
+254,CNS,Cohen & Steers Inc,Financial,Asset Management,USA
+255,CNX,CNX Resources Corp,Energy,Oil & Gas E&P,USA
+256,COAG,Hemab Therapeutics Holdings Inc,Healthcare,Biotechnology,USA
+257,COCO,Vita Coco Company Inc,Consumer Defensive,Beverages - Non-Alcoholic,USA
+258,COGT,Cogent Biosciences Inc,Healthcare,Biotechnology,USA
+259,COHU,Cohu Inc,Technology,Semiconductor Equipment & Materials,USA
+260,COLB,Columbia Banking System Inc,Financial,Banks - Regional,USA
+261,COLD,Americold Realty Trust Inc,Real Estate,REIT - Industrial,USA
+262,COLM,Columbia Sportswear Co,Consumer Cyclical,Apparel Manufacturing,USA
+263,COMP,Compass Inc,Real Estate,Real Estate Services,USA
+264,CON,Concentra Group Holdings Parent Inc,Healthcare,Medical Care Facilities,USA
+265,CORZ,Core Scientific Inc,Technology,Software - Infrastructure,USA
+266,COTY,Coty Inc,Consumer Defensive,Household & Personal Products,USA
+267,CPA,Copa Holdings SA,Industrials,Airlines,Panama
+268,CPB,Campbells Co,Consumer Defensive,Packaged Foods,USA
+269,CPK,Chesapeake Utilities Corp,Utilities,Utilities - Regulated Gas,USA
+270,CRC,California Resources Corp,Energy,Oil & Gas E&P,USA
+271,CRGY,Crescent Energy Co,Energy,Oil & Gas E&P,USA
+272,CRK,Comstock Resources Inc,Energy,Oil & Gas E&P,USA
+273,CRNX,Crinetics Pharmaceuticals Inc,Healthcare,Biotechnology,USA
+274,CROX,Crocs Inc,Consumer Cyclical,Footwear & Accessories,USA
+275,CRSP,CRISPR Therapeutics AG,Healthcare,Biotechnology,Switzerland
+276,CRUS,Cirrus Logic Inc,Technology,Semiconductors,USA
+277,CRVL,Corvel Corp,Financial,Insurance Brokers,USA
+278,CSAN,Cosan S.A ADR,Energy,Oil & Gas Refining & Marketing,Brazil
+279,CSQ,Calamos Strategic Total Return Fund,Financial,Closed-End Fund - Debt,USA
+280,CSQR,Csquare Inc,Technology,Information Technology Services,USA
+281,CSTM,Constellium SE,Basic Materials,Aluminum,France
+282,CSW,CSW Industrials Inc,Industrials,Specialty Industrial Machinery,USA
+283,CTOS,Custom Truck One Source Inc,Industrials,Rental & Leasing Services,USA
+284,CTRE,CareTrust REIT Inc,Real Estate,REIT - Healthcare Facilities,USA
+285,CTRI,Centuri Holdings Inc,Utilities,Utilities - Regulated Gas,USA
+286,CUBE,CubeSmart,Real Estate,REIT - Industrial,USA
+287,CUBI,Customers Bancorp Inc,Financial,Banks - Regional,USA
+288,CURB,Curbline Properties Corp,Real Estate,REIT - Retail,USA
+289,CUZ,Cousins Properties Inc,Real Estate,REIT - Office,USA
+290,CVBF,CVB Financial Corp,Financial,Banks - Regional,USA
+291,CVCO,Cavco Industries Inc,Consumer Cyclical,Residential Construction,USA
+292,CVI,CVR Energy Inc,Energy,Oil & Gas Refining & Marketing,USA
+293,CVLT,Commvault Systems Inc,Technology,Software - Application,USA
+294,CVSA,Covista Inc,Consumer Defensive,Education & Training Services,USA
+295,CWEN,Clearway Energy Inc,Utilities,Utilities - Renewable,USA
+296,CWK,Cushman & Wakefield Ltd,Real Estate,Real Estate Services,Bermuda
+297,CWST,Casella Waste Systems Inc,Industrials,Waste Management,USA
+298,CWT,California Water Service Group,Utilities,Utilities - Regulated Water,USA
+299,CXT,Crane NXT Co,Industrials,Specialty Industrial Machinery,USA
+300,CXW,CoreCivic Inc,Industrials,Security & Protection Services,USA
+301,CZR,Caesars Entertainment Inc,Consumer Cyclical,Resorts & Casinos,USA
+302,DAC,Danaos Corp,Industrials,Marine Shipping,Greece
+303,DAN,Dana Inc,Consumer Cyclical,Auto Parts,USA
+304,DAVE,Dave Inc,Technology,Software - Application,USA
+305,DBD,Diebold Nixdorf Inc,Technology,Software - Application,USA
+306,DBRG,DigitalBridge Group Inc,Financial,Asset Management,USA
+307,DBX,Dropbox Inc,Technology,Software - Infrastructure,USA
+308,DCO,Ducommun Inc,Industrials,Aerospace & Defense,USA
+309,DDS,Dillard's Inc,Consumer Cyclical,Department Stores,USA
+310,DFTX,Definium Therapeutics Inc,Healthcare,Biotechnology,USA
+311,DGII,Digi International Inc,Technology,Communication Equipment,USA
+312,DHC,Diversified Healthcare Trust,Real Estate,REIT - Healthcare Facilities,USA
+313,DHT,DHT Holdings Inc,Energy,Oil & Gas Midstream,Bermuda
+314,DIOD,Diodes Inc,Technology,Semiconductors,USA
+315,DJT,Trump Media & Technology Group Corp,Communication Services,Internet Content & Information,USA
+316,DK,Delek US Holdings Inc,Energy,Oil & Gas Refining & Marketing,USA
+317,DKL,Delek Logistics Partners LP,Energy,Oil & Gas Refining & Marketing,USA
+318,DLB,Dolby Laboratories Inc,Industrials,Specialty Business Services,USA
+319,DLO,DLocal Limited,Technology,Software - Infrastructure,Uruguay
+320,DNLI,Denali Therapeutics Inc,Healthcare,Biotechnology,USA
+321,DNN,Denison Mines Corp,Energy,Uranium,Canada
+322,DNOW,Dnow Inc,Industrials,Industrial Distribution,USA
+323,DNP,DNP Select Income Fund Inc,Financial,Closed-End Fund - Equity,USA
+324,DNTH,Dianthus Therapeutics Inc,Healthcare,Biotechnology,USA
+325,DOCS,Doximity Inc,Healthcare,Health Information Services,USA
+326,DOO,BRP Inc,Consumer Cyclical,Recreational Vehicles,Canada
+327,DORM,Dorman Products Inc,Consumer Cyclical,Auto Parts,USA
+328,DOX,Amdocs Ltd,Technology,Software - Infrastructure,USA
+329,DPC,DPC Holdings PLC,Industrials,Aerospace & Defense,United Kingdom
+330,DRD,DRDGold Ltd ADR,Basic Materials,Gold,South Africa
+331,DRH,Diamondrock Hospitality Co,Real Estate,REIT - Hotel & Motel,USA
+332,DRVN,Driven Brands Holdings Inc,Consumer Cyclical,Auto & Truck Dealerships,USA
+333,DSGX,Descartes Systems Group Inc,Technology,Software - Application,Canada
+334,DUOL,Duolingo Inc,Technology,Software - Application,USA
+335,DV,DoubleVerify Holdings Inc,Communication Services,Advertising Agencies,USA
+336,DX,Dynex Capital Inc,Real Estate,REIT - Mortgage,USA
+337,DXPE,DXP Enterprises Inc,Industrials,Industrial Distribution,USA
+338,DYN,Dyne Therapeutics Inc,Healthcare,Biotechnology,USA
+339,EBC,Eastern Bankshares Inc,Financial,Banks - Regional,USA
+340,ECG,Everus Construction Group,Industrials,Engineering & Construction,USA
+341,ECO,Okeanis Eco Tankers Corp,Industrials,Marine Shipping,Greece
+342,ECPG,Encore Capital Group Inc,Financial,Credit Services,USA
+343,EDU,New Oriental Education & Technology Group Inc ADR,Consumer Defensive,Education & Training Services,China
+344,EE,Excelerate Energy Inc,Energy,Oil & Gas Midstream,USA
+345,EEFT,Euronet Worldwide Inc,Technology,Software - Infrastructure,USA
+346,EFSC,Enterprise Financial Services Corp,Financial,Banks - Regional,USA
+347,EFXT,Enerflex Ltd,Energy,Oil & Gas Equipment & Services,Canada
+348,ELF,e.l.f. Beauty Inc,Consumer Defensive,Household & Personal Products,USA
+349,ELPC,Cia Paranaense De Energia Copel ADR,Utilities,Utilities - Diversified,Brazil
+350,ELVN,Enliven Therapeutics Inc,Healthcare,Biotechnology,USA
+351,EMN,Eastman Chemical Co,Basic Materials,Specialty Chemicals,USA
+352,ENIC,Enel Chile SA ADR,Utilities,Utilities - Regulated Electric,Chile
+353,ENPH,Enphase Energy Inc,Technology,Solar,USA
+354,ENS,Enersys,Industrials,Electrical Equipment & Parts,USA
+355,ENVA,Enova International Inc,Financial,Credit Services,USA
+356,EPAM,EPAM Systems Inc,Technology,Information Technology Services,USA
+357,EPR,EPR Properties,Real Estate,REIT - Specialty,USA
+358,EPRT,Essential Properties Realty Trust Inc,Real Estate,REIT - Retail,USA
+359,EQPT,Equipmentshare.Com Inc,Industrials,Rental & Leasing Services,USA
+360,ERAS,Erasca Inc,Healthcare,Biotechnology,USA
+361,ERO,Ero Copper Corp,Basic Materials,Copper,Canada
+362,EROC,ERock Inc,Industrials,Specialty Industrial Machinery,USA
+363,EROK,EagleRock Land LLC,Energy,Oil & Gas Equipment & Services,USA
+364,ESAB,ESAB Corp,Industrials,Metal Fabrication,USA
+365,ESE,Esco Technologies Inc,Technology,Scientific & Technical Instruments,USA
+366,ESI,Element Solutions Inc,Basic Materials,Specialty Chemicals,USA
+367,ESNT,Essent Group Ltd,Financial,Insurance - Specialty,Bermuda
+368,ESTA,Establishment Labs Holdings Inc,Healthcare,Medical Devices,USA
+369,ESTC,Elastic N.V,Technology,Software - Application,USA
+370,ETOR,Etoro Group Ltd,Financial,Capital Markets,Israel
+371,ETSY,Etsy Inc,Consumer Cyclical,Internet Retail,USA
+372,ETY,Eaton Vance Tax-Managed Diversified Equity Income Fund,Financial,Closed-End Fund - Equity,USA
+373,EVT,Eaton Vance Tax Advantaged Dividend Income Fund,Financial,Closed-End Fund - Equity,USA
+374,EWTX,Edgewise Therapeutics Inc,Healthcare,Biotechnology,USA
+375,EXG,Eaton Vance Tax-Managed Global Diversified Equity Income Fund,Financial,Closed-End Fund - Foreign,USA
+376,EXK,Endeavour Silver Corp,Basic Materials,Silver,Canada
+377,EXLS,ExlService Holdings Inc,Technology,Information Technology Services,USA
+378,EXP,Eagle Materials Inc,Basic Materials,Building Materials,USA
+379,EXPO,Exponent Inc,Industrials,Engineering & Construction,USA
+380,EXTR,Extreme Networks Inc,Technology,Communication Equipment,USA
+381,FA,First Advantage Corp,Industrials,Specialty Business Services,USA
+382,FAF,First American Financial Corp,Financial,Insurance - Specialty,USA
+383,FBIN,Fortune Brands Innovations Inc,Industrials,Building Products & Equipment,USA
+384,FBK,FB Financial Corp,Financial,Banks - Regional,USA
+385,FBNC,First Bancorp,Financial,Banks - Regional,USA
+386,FBP,First Bancorp PR,Financial,Banks - Regional,USA
+387,FCF,First Commonwealth Financial Corp,Financial,Banks - Regional,USA
+388,FCFS,FirstCash Holdings Inc,Financial,Credit Services,USA
+389,FCN,FTI Consulting Inc,Industrials,Consulting Services,USA
+390,FCPT,Four Corners Property Trust Inc,Real Estate,REIT - Retail,USA
+391,FELE,Franklin Electric Co Inc,Industrials,Specialty Industrial Machinery,USA
+392,FFBC,First Financial Bancorp,Financial,Banks - Regional,USA
+393,FFIN,First Financial Bankshares Inc,Financial,Banks - Regional,USA
+394,FG,F&G Annuities & Life Inc,Financial,Insurance - Life,USA
+395,FHB,First Hawaiian INC,Financial,Banks - Regional,USA
+396,FHI,Federated Hermes Inc,Financial,Asset Management,USA
+397,FIBK,First Interstate BancSystem Inc,Financial,Banks - Regional,USA
+398,FIGR,Figure Technology Solutions Inc,Financial,Capital Markets,USA
+399,FIGS,Figs Inc,Consumer Cyclical,Apparel Manufacturing,USA
+400,FIVN,Five9 Inc,Technology,Software - Infrastructure,USA
+401,FIZZ,National Beverage Corp,Consumer Defensive,Beverages - Non-Alcoholic,USA
+402,FLG,Flagstar Bank NA,Financial,Banks - Regional,USA
+403,FLNC,Fluence Energy Inc,Utilities,Utilities - Renewable,USA
+404,FLOC,Flowco Holdings Inc,Energy,Oil & Gas Equipment & Services,USA
+405,FLR,Fluor Corp,Industrials,Engineering & Construction,USA
+406,FLY,Firefly Aerospace Inc,Industrials,Aerospace & Defense,USA
+407,FLYW,Flywire Corp,Technology,Software - Infrastructure,USA
+408,FNB,F.N.B. Corp,Financial,Banks - Regional,USA
+409,FND,Floor & Decor Holdings Inc,Consumer Cyclical,Home Improvement Retail,USA
+410,FORM,FormFactor Inc,Technology,Semiconductor Equipment & Materials,USA
+411,FOUR,Shift4 Payments Inc,Technology,Software - Infrastructure,USA
+412,FR,First Industrial Realty Trust Inc,Real Estate,REIT - Industrial,USA
+413,FRHC,Freedom Holding Corp,Financial,Financial Conglomerates,Kazakhstan
+414,FRME,First Merchants Corp,Financial,Banks - Regional,USA
+415,FRMI,Fermi Inc,Real Estate,REIT - Specialty,USA
+416,FRO,Frontline Plc,Energy,Oil & Gas Midstream,Cyprus
+417,FRPT,Freshpet Inc,Consumer Defensive,Packaged Foods,USA
+418,FRSH,Freshworks Inc,Technology,Software - Application,USA
+419,FRVO,Fervo Energy Co,Utilities,Utilities - Renewable,USA
+420,FSK,FS KKR Capital Corp,Financial,Asset Management,USA
+421,FSLY,Fastly Inc,Technology,Software - Application,USA
+422,FSM,Fortuna Mining Corp,Basic Materials,Gold,Canada
+423,FSS,Federal Signal Corp,Industrials,Farm & Heavy Construction Machinery,USA
+424,FSV,FirstService Corp,Real Estate,Real Estate Services,Canada
+425,FTDR,Frontdoor Inc,Consumer Cyclical,Personal Services,USA
+426,FUL,H.B. Fuller Company,Basic Materials,Specialty Chemicals,USA
+427,FULT,Fulton Financial Corp,Financial,Banks - Regional,USA
+428,G,Genpact Ltd,Technology,Information Technology Services,Bermuda
+429,GAP,Gap Inc,Consumer Cyclical,Apparel Retail,USA
+430,GATX,GATX Corp,Industrials,Rental & Leasing Services,USA
+431,GBCI,Glacier Bancorp Inc,Financial,Banks - Regional,USA
+432,GBDC,Golub Capital BDC Inc,Financial,Asset Management,USA
+433,GBTG,Global Business Travel Group Inc,Consumer Cyclical,Travel Services,USA
+434,GCMG,GCM Grosvenor Inc,Financial,Asset Management,USA
+435,GDS,GDS Holdings Limited ADR,Technology,Information Technology Services,China
+436,GDV,Gabelli Dividend & Income Trust,Financial,Closed-End Fund - Equity,USA
+437,GEF,Greif Inc,Consumer Cyclical,Packaging & Containers,USA
+438,GENB,Generate Biomedicines Inc,Healthcare,Biotechnology,USA
+439,GENI,Genius Sports Limited,Communication Services,Internet Content & Information,United Kingdom
+440,GEO,Geo Group Inc,Industrials,Security & Protection Services,USA
+441,GFF,Griffon Corp,Industrials,Building Products & Equipment,USA
+442,GGAL,Grupo Financiero Galicia ADR,Financial,Banks - Regional,Argentina
+443,GGB,Gerdau SA ADR,Basic Materials,Steel,Brazil
+444,GHC,Graham Holdings Co,Industrials,Conglomerates,USA
+445,GHRS,GH Research PLC,Healthcare,Biotechnology,Ireland
+446,GLBE,Global E Online Ltd,Consumer Cyclical,Internet Retail,Israel
+447,GLNG,Golar Lng,Energy,Oil & Gas Midstream,Bermuda
+448,GLXY,Galaxy Digital Inc,Financial,Capital Markets,USA
+449,GME,Gamestop Corp,Consumer Cyclical,Specialty Retail,USA
+450,GNL,Global Net Lease Inc,Real Estate,REIT - Diversified,USA
+451,GNTX,Gentex Corp,Consumer Cyclical,Auto Parts,USA
+452,GNW,Genworth Financial Inc,Financial,Insurance - Life,USA
+453,GOF,Guggenheim Strategic Opportunities Fund,Financial,Closed-End Fund - Debt,USA
+454,GOLF,Acushnet Holdings Corp,Consumer Cyclical,Leisure,USA
+455,GPCR,Structure Therapeutics Inc ADR,Healthcare,Biotechnology,USA
+456,GPGI,GPGI Inc,Industrials,Metal Fabrication,USA
+457,GPI,Group 1 Automotive Inc,Consumer Cyclical,Auto & Truck Dealerships,USA
+458,GPK,Graphic Packaging Holding Co,Consumer Cyclical,Packaging & Containers,USA
+459,GPOR,Gulfport Energy Corp,Energy,Oil & Gas E&P,USA
+460,GRAL,GRAIL Inc,Healthcare,Diagnostics & Research,USA
+461,GRBK,Green Brick Partners Inc,Consumer Cyclical,Residential Construction,USA
+462,GRC,Gorman-Rupp Co,Industrials,Specialty Industrial Machinery,USA
+463,GRDN,Guardian Pharmacy Services Inc,Healthcare,Medical Care Facilities,USA
+464,GRFS,Grifols SA ADR,Healthcare,Drug Manufacturers - General,Spain
+465,GRND,Grindr Inc,Technology,Software - Application,USA
+466,GSHD,Goosehead Insurance Inc,Financial,Insurance Brokers,USA
+467,GTES,Gates Industrial Corp Ltd,Industrials,Specialty Industrial Machinery,USA
+468,GTLB,Gitlab Inc,Technology,Software - Infrastructure,USA
+469,GTX,Garrett Motion Inc,Consumer Cyclical,Auto Parts,USA
+470,GTY,Getty Realty Corp,Real Estate,REIT - Retail,USA
+471,GVA,Granite Construction Inc,Industrials,Engineering & Construction,USA
+472,GXO,GXO Logistics Inc,Industrials,Integrated Freight & Logistics,USA
+473,HAE,Haemonetics Corp,Healthcare,Medical Devices,USA
+474,HAFN,Hafnia Ltd,Industrials,Marine Shipping,Singapore
+475,HAPN,Happen Inc,Financial,Banks - Regional,USA
+476,HASI,HA Sustainable Infrastructure Capital Inc,Financial,Asset Management,USA
+477,HAWK,HawkEye 360 Inc,Industrials,Aerospace & Defense,USA
+478,HAYW,Hayward Holdings Inc,Industrials,Electrical Equipment & Parts,USA
+479,HCC,Warrior Met Coal Inc,Basic Materials,Coking Coal,USA
+480,HCI,HCI Group Inc,Financial,Insurance - Property & Casualty,USA
+481,HCM,HUTCHMED (China) Limited ADR,Healthcare,Drug Manufacturers - Specialty & Generic,Hong Kong
+482,HE,Hawaiian Electric Industries Inc,Utilities,Utilities - Regulated Electric,USA
+483,HESM,Hess Midstream LP,Energy,Oil & Gas Midstream,USA
+484,HG,Hamilton Insurance Group Ltd,Financial,Insurance - Reinsurance,Bermuda
+485,HGTY,Hagerty Inc,Financial,Insurance - Property & Casualty,USA
+486,HGV,Hilton Grand Vacations Inc,Consumer Cyclical,Resorts & Casinos,USA
+487,HHH,Howard Hughes Holdings Inc,Real Estate,Real Estate - Diversified,USA
+488,HIMS,Hims & Hers Health Inc,Healthcare,Drug Manufacturers - Specialty & Generic,USA
+489,HIMX,Himax Technologies ADR,Technology,Semiconductors,Taiwan
+490,HIW,Highwoods Properties Inc,Real Estate,REIT - Office,USA
+491,HLI,Houlihan Lokey Inc,Financial,Capital Markets,USA
+492,HLIO,Helios Technologies Inc,Industrials,Specialty Industrial Machinery,USA
+493,HLNE,Hamilton Lane Inc,Financial,Asset Management,USA
+494,HMN,Horace Mann Educators Corp,Financial,Insurance - Property & Casualty,USA
+495,HNGE,Hinge Health Inc,Healthcare,Health Information Services,USA
+496,HNI,HNI Corp,Consumer Cyclical,"Furnishings, Fixtures & Appliances",USA
+497,HOG,Harley-Davidson Inc,Consumer Cyclical,Recreational Vehicles,USA
+498,HOMB,Home Bancshares Inc,Financial,Banks - Regional,USA
+499,HP,Helmerich & Payne Inc,Energy,Oil & Gas Drilling,USA
+500,HQY,Healthequity Inc,Healthcare,Health Information Services,USA
+501,HR,Healthcare Realty Trust Inc,Real Estate,REIT - Healthcare Facilities,USA
+502,HRB,H&R Block Inc,Consumer Cyclical,Personal Services,USA
+503,HRI,Herc Holdings Inc,Industrials,Rental & Leasing Services,USA
+504,HRMY,Harmony Biosciences Holdings Inc,Healthcare,Biotechnology,USA
+505,HSIC,Henry Schein Inc,Healthcare,Medical Distribution,USA
+506,HTFL,Heartflow Inc,Healthcare,Health Information Services,USA
+507,HTGC,Hercules Capital Inc,Financial,Asset Management,USA
+508,HTH,Hilltop Holdings Inc,Financial,Financial Conglomerates,USA
+509,HTO,H2O America,Utilities,Utilities - Regulated Water,USA
+510,HUBG,Hub Group Inc,Industrials,Integrated Freight & Logistics,USA
+511,HURN,Huron Consulting Group Inc,Industrials,Consulting Services,USA
+512,HWC,Hancock Whitney Corp,Financial,Banks - Regional,USA
+513,HWKN,Hawkins Inc,Basic Materials,Specialty Chemicals,USA
+514,HXL,Hexcel Corp,Industrials,Aerospace & Defense,USA
+515,HYMC,Hycroft Mining Holding Corp,Basic Materials,Gold,USA
+516,IBOC,International Bancshares Corp,Financial,Banks - Regional,USA
+517,IBP,Installed Building Products Inc,Consumer Cyclical,Residential Construction,USA
+518,IBRX,ImmunityBio Inc,Healthcare,Biotechnology,USA
+519,ICHR,Ichor Holdings Ltd,Technology,Semiconductor Equipment & Materials,USA
+520,ICL,ICL Group Ltd,Basic Materials,Agricultural Inputs,Israel
+521,ICUI,ICU Medical Inc,Healthcare,Medical Instruments & Supplies,USA
+522,IDA,Idacorp Inc,Utilities,Utilities - Regulated Electric,USA
+523,IDCC,Interdigital Inc,Technology,Software - Application,USA
+524,IDYA,Ideaya Biosciences Inc,Healthcare,Biotechnology,USA
+525,IEP,Icahn Enterprises L P,Energy,Oil & Gas Refining & Marketing,USA
+526,IFS,Intercorp Financial Services Inc,Financial,Banks - Regional,Peru
+527,IHS,IHS Holding Ltd,Real Estate,Real Estate Services,United Kingdom
+528,IMAX,Imax Corp,Communication Services,Entertainment,Canada
+529,IMNM,Immunome Inc,Healthcare,Biotechnology,USA
+530,IMVT,Immunovant Inc,Healthcare,Biotechnology,USA
+531,INDB,Independent Bank Corp,Financial,Banks - Regional,USA
+532,INDV,Indivior Pharmaceuticals Inc,Healthcare,Drug Manufacturers - Specialty & Generic,USA
+533,INFQ,Infleqtion Inc,Technology,Software - Infrastructure,USA
+534,INGM,Ingram Micro Holding Corp,Technology,Information Technology Services,USA
+535,INGR,Ingredion Inc,Consumer Defensive,Packaged Foods,USA
+536,INOD,Innodata Inc,Technology,Information Technology Services,USA
+537,INSW,International Seaways Inc,Energy,Oil & Gas Midstream,USA
+538,INTA,Intapp Inc,Technology,Software - Application,USA
+539,INTR,Inter & Co Inc,Financial,Banks - Regional,Brazil
+540,INVX,Innovex International Inc,Energy,Oil & Gas Equipment & Services,USA
+541,IOND,Ionic Digital Inc,Financial,Capital Markets,USA
+542,IONS,Ionis Pharmaceuticals Inc,Healthcare,Biotechnology,USA
+543,IOSP,Innospec Inc,Basic Materials,Specialty Chemicals,USA
+544,IOVA,Iovance Biotherapeutics Inc,Healthcare,Biotechnology,USA
+545,IPAR,Interparfums Inc,Consumer Defensive,Household & Personal Products,USA
+546,IPGP,IPG Photonics Corp,Technology,Semiconductor Equipment & Materials,USA
+547,IRDM,Iridium Communications Inc,Communication Services,Telecom Services,USA
+548,IRON,Disc Medicine Inc,Healthcare,Biotechnology,USA
+549,IRT,Independence Realty Trust Inc,Real Estate,REIT - Residential,USA
+550,IRTC,iRhythm Holdings Inc,Healthcare,Medical Devices,USA
+551,ITGR,Integer Holdings Corp,Healthcare,Medical Devices,USA
+552,ITRI,Itron Inc,Technology,Scientific & Technical Instruments,USA
+553,IVT,InvenTrust Properties Corp,Real Estate,REIT - Retail,USA
+554,JAN,Janus Living Inc,Real Estate,REIT - Residential,USA
+555,JBTM,JBT Marel Corp,Industrials,Specialty Industrial Machinery,USA
+556,JMKE,Jersey Mike's Subs Inc,Consumer Cyclical,Restaurants,USA
+557,JOBY,Joby Aviation Inc,Industrials,Airports & Air Services,USA
+558,JOE,St. Joe Co,Real Estate,Real Estate - Diversified,USA
+559,JOYY,JOYY Inc ADR,Communication Services,Internet Content & Information,Singapore
+560,JPC,Nuveen Preferred & Income Opportunities Fund,Financial,Closed-End Fund - Debt,USA
+561,JXN,Jackson Financial Inc,Financial,Insurance - Life,USA
+562,KAI,Kadant Inc,Industrials,Specialty Industrial Machinery,USA
+563,KALU,Kaiser Aluminum Corp,Basic Materials,Aluminum,USA
+564,KBH,KB Home,Consumer Cyclical,Residential Construction,USA
+565,KBR,KBR Inc,Industrials,Engineering & Construction,USA
+566,KC,Kingsoft Cloud Holdings Ltd ADR,Technology,Software - Application,China
+567,KD,Kyndryl Holdings Inc,Technology,Information Technology Services,USA
+568,KEEL,Keel Infrastructure Corp,Technology,Information Technology Services,USA
+569,KEN,Kenon Holdings Ltd,Utilities,Utilities - Independent Power Producers,Singapore
+570,KEX,Kirby Corp,Industrials,Marine Shipping,USA
+571,KFY,Korn Ferry,Industrials,Staffing & Employment Services,USA
+572,KGS,Kodiak Gas Services Inc,Energy,Oil & Gas Equipment & Services,USA
+573,KLAR,Klarna Group plc,Financial,Credit Services,United Kingdom
+574,KLIC,Kulicke & Soffa Industries Inc,Technology,Semiconductor Equipment & Materials,USA
+575,KLRA,Kailera Therapeutics Inc,Healthcare,Biotechnology,USA
+576,KMT,Kennametal Inc,Industrials,Tools & Accessories,USA
+577,KMX,Carmax Inc,Consumer Cyclical,Auto & Truck Dealerships,USA
+578,KN,Knowles Corp,Technology,Electronic Components,USA
+579,KNF,Knife River Corp,Basic Materials,Building Materials,USA
+580,KNSA,Kiniksa Pharmaceuticals International Plc,Healthcare,Drug Manufacturers - Specialty & Generic,United Kingdom
+581,KNSL,Kinsale Capital Group Inc,Financial,Insurance - Property & Casualty,USA
+582,KNTK,Kinetik Holdings Inc,Energy,Oil & Gas Midstream,USA
+583,KOD,Kodiak Sciences Inc,Healthcare,Biotechnology,USA
+584,KOF,Coca-Cola Femsa SAB de CV ADR,Consumer Defensive,Beverages - Non-Alcoholic,Mexico
+585,KRC,Kilroy Realty Corp,Real Estate,REIT - Office,USA
+586,KRG,Kite Realty Group Trust,Real Estate,REIT - Retail,USA
+587,KRMN,Karman Holdings Inc,Industrials,Aerospace & Defense,USA
+588,KRYS,Krystal Biotech Inc,Healthcare,Biotechnology,USA
+589,KSS,Kohl's Corp,Consumer Cyclical,Department Stores,USA
+590,KT,KT Corp ADR,Communication Services,Telecom Services,South Korea
+591,KTB,Kontoor Brands Inc,Consumer Cyclical,Apparel Manufacturing,USA
+592,KVYO,Klaviyo Inc,Technology,Software - Application,USA
+593,KWR,Quaker Houghton,Basic Materials,Specialty Chemicals,USA
+594,KYIV,Kyivstar Group Ltd,Communication Services,Telecom Services,United Arab Emirates
+595,KYMR,Kymera Therapeutics Inc,Healthcare,Biotechnology,USA
+596,KYN,Kayne Anderson Energy Infrastructure Fund Inc,Financial,Closed-End Fund - Equity,USA
+597,LAD,Lithia Motors Inc,Consumer Cyclical,Auto & Truck Dealerships,USA
+598,LASR,nLIGHT Inc,Technology,Semiconductors,USA
+599,LAUR,Laureate Education Inc,Consumer Defensive,Education & Training Services,USA
+600,LAZ,Lazard Inc,Financial,Capital Markets,USA
+601,LB,Landbridge Company LLC,Energy,Oil & Gas Equipment & Services,USA
+602,LBRDA,Liberty Broadband Corp,Communication Services,Telecom Services,USA
+603,LBRDK,Liberty Broadband Corp,Communication Services,Telecom Services,USA
+604,LBRT,Liberty Energy Inc,Energy,Oil & Gas Equipment & Services,USA
+605,LBTYA,Liberty Global Ltd,Communication Services,Telecom Services,Bermuda
+606,LBTYK,Liberty Global Ltd,Communication Services,Telecom Services,Bermuda
+607,LCID,Lucid Group Inc,Consumer Cyclical,Auto Manufacturers,USA
+608,LCII,LCI Industries,Consumer Cyclical,Recreational Vehicles,USA
+609,LCLN,Lincoln International Inc,Financial,Capital Markets,USA
+610,LEA,Lear Corp,Consumer Cyclical,Auto Parts,USA
+611,LEGN,Legend Biotech Corp ADR,Healthcare,Biotechnology,USA
+612,LEU,Centrus Energy Corp,Energy,Uranium,USA
+613,LEVI,Levi Strauss & Co,Consumer Cyclical,Apparel Manufacturing,USA
+614,LFST,LifeStance Health Group Inc,Healthcare,Medical Care Facilities,USA
+615,LFTO,Liftoff Mobile Inc,Communication Services,Advertising Agencies,USA
+616,LGN,Legence Corp,Industrials,Engineering & Construction,USA
+617,LGND,Ligand Pharmaceuticals Inc,Healthcare,Biotechnology,USA
+618,LIF,Life360 Inc,Technology,Software - Application,USA
+619,LIFE,Ethos Technologies Inc,Financial,Insurance Brokers,USA
+620,LIME,Neutron Holdings Inc,Industrials,Rental & Leasing Services,USA
+621,LIND,Lindblad Expeditions Holdings Inc,Consumer Cyclical,Travel Services,USA
+622,LINE,Lineage Inc,Real Estate,REIT - Industrial,USA
+623,LION,Lionsgate Studios Corp,Financial,Shell Companies,Canada
+624,LIVN,LivaNova PLC,Healthcare,Medical Devices,United Kingdom
+625,LKQ,LKQ Corp,Consumer Cyclical,Auto Parts,USA
+626,LLYVA,Liberty Live Holdings Inc,Communication Services,Entertainment,USA
+627,LLYVK,Liberty Live Holdings Inc,Communication Services,Entertainment,USA
+628,LMND,Lemonade Inc,Financial,Insurance - Property & Casualty,USA
+629,LNC,Lincoln National Corp,Financial,Insurance - Life,USA
+630,LNTH,Lantheus Holdings Inc,Healthcare,Drug Manufacturers - Specialty & Generic,USA
+631,LOAR,Loar Holdings Inc,Industrials,Aerospace & Defense,USA
+632,LOPE,Grand Canyon Education Inc,Consumer Defensive,Education & Training Services,USA
+633,LPG,Dorian LPG Ltd,Energy,Oil & Gas Midstream,USA
+634,LPL,LG Display Co Ltd ADR,Technology,Consumer Electronics,South Korea
+635,LPX,Louisiana-Pacific Corp,Industrials,Building Products & Equipment,USA
+636,LQDA,Liquidia Corp,Healthcare,Drug Manufacturers - Specialty & Generic,USA
+637,LRN,Stride Inc,Consumer Defensive,Education & Training Services,USA
+638,LSTR,Landstar System Inc,Industrials,Integrated Freight & Logistics,USA
+639,LTC,LTC Properties Inc,Real Estate,REIT - Healthcare Facilities,USA
+640,LUMN,Lumen Technologies Inc,Communication Services,Telecom Services,USA
+641,LUNR,Intuitive Machines Inc,Industrials,Aerospace & Defense,USA
+642,LW,Lamb Weston Holdings Inc,Consumer Defensive,Packaged Foods,USA
+643,LXP,LXP Industrial Trust,Real Estate,REIT - Industrial,USA
+644,LYFT,Lyft Inc,Technology,Software - Application,USA
+645,M,Macy's Inc,Consumer Cyclical,Department Stores,USA
+646,MAAS,Maase Inc,Financial,Asset Management,China
+647,MAC,Macerich Co,Real Estate,REIT - Retail,USA
+648,MAIN,Main Street Capital Corp,Financial,Asset Management,USA
+649,MAN,ManpowerGroup,Industrials,Staffing & Employment Services,USA
+650,MANE,Veradermics Inc,Healthcare,Biotechnology,USA
+651,MANU,Manchester United Plc,Communication Services,Entertainment,United Kingdom
+652,MARA,MARA Holdings Inc,Financial,Capital Markets,USA
+653,MAT,Mattel Inc,Consumer Cyclical,Leisure,USA
+654,MATX,Matson Inc,Industrials,Marine Shipping,USA
+655,MBGL,Mobility Global Inc,Technology,Software - Infrastructure,USA
+656,MBIN,Merchants Bancorp,Financial,Banks - Regional,USA
+657,MBLY,Mobileye Global Inc,Consumer Cyclical,Auto Parts,Israel
+658,MBX,MBX Biosciences Inc,Healthcare,Biotechnology,USA
+659,MC,Moelis & Co,Financial,Capital Markets,USA
+660,MCHB,Mechanics Bancorp,Financial,Banks - Regional,USA
+661,MCRI,Monarch Casino & Resort Inc,Consumer Cyclical,Resorts & Casinos,USA
+662,MCY,Mercury General Corp,Financial,Insurance - Property & Casualty,USA
+663,MD,Pediatrix Medical Group Inc,Healthcare,Medical Care Facilities,USA
+664,MDA,MDA Space Ltd,Industrials,Aerospace & Defense,Canada
+665,MDU,MDU Resources Group Inc,Utilities,Utilities - Regulated Gas,USA
+666,MEOH,Methanex Corp,Basic Materials,Chemicals,Canada
+667,MESO,Mesoblast Ltd ADR,Healthcare,Biotechnology,Australia
+668,MFP,Midera Food Processing Inc,Industrials,Specialty Industrial Machinery,USA
+669,MGEE,MGE Energy Inc,Utilities,Utilities - Regulated Electric,USA
+670,MGNI,Magnite Inc,Communication Services,Advertising Agencies,USA
+671,MGRC,McGrath Rentcorp,Industrials,Rental & Leasing Services,USA
+672,MGY,Magnolia Oil & Gas Corp,Energy,Oil & Gas E&P,USA
+673,MH,McGraw Hill Inc,Consumer Defensive,Education & Training Services,USA
+674,MHD,BlackRock MuniHoldings Fund Inc,Financial,Closed-End Fund - Debt,USA
+675,MHK,Mohawk Industries Inc,Consumer Cyclical,"Furnishings, Fixtures & Appliances",USA
+676,MHO,MI Homes Inc,Consumer Cyclical,Residential Construction,USA
+677,MIAX,Miami International Holdings Inc,Financial,Capital Markets,USA
+678,MIDD,Middleby Corp,Industrials,Specialty Industrial Machinery,USA
+679,MIR,Mirion Technologies Inc,Industrials,Specialty Industrial Machinery,USA
+680,MIRM,Mirum Pharmaceuticals Inc,Healthcare,Biotechnology,USA
+681,MKTX,MarketAxess Holdings Inc,Financial,Capital Markets,USA
+682,MLCO,Melco Resorts & Entertainment Ltd ADR,Consumer Cyclical,Resorts & Casinos,Hong Kong
+683,MLYS,Mineralys Therapeutics Inc,Healthcare,Biotechnology,USA
+684,MMED,MiniMed Group Inc,Healthcare,Medical Instruments & Supplies,USA
+685,MMS,Maximus Inc,Industrials,Specialty Business Services,USA
+686,MMSI,Merit Medical Systems Inc,Healthcare,Medical Instruments & Supplies,USA
+687,MMYT,MakeMyTrip Ltd,Consumer Cyclical,Travel Services,India
+688,MNDY,Monday.Com Ltd,Technology,Software - Application,Israel
+689,MNR,Mach Natural Resources LP,Energy,Oil & Gas E&P,USA
+690,MNSO,MINISO Group Holding Ltd ADR,Consumer Cyclical,Specialty Retail,China
+691,MORN,Morningstar Inc,Financial,Financial Data & Stock Exchanges,USA
+692,MOS,Mosaic Company,Basic Materials,Agricultural Inputs,USA
+693,MPT,Medical Properties Trust Inc,Real Estate,REIT - Healthcare Facilities,USA
+694,MRCY,Mercury Systems Inc,Industrials,Aerospace & Defense,USA
+695,MRP,Millrose Properties Inc,Real Estate,REIT - Residential,USA
+696,MRX,Marex Group Ltd,Financial,Capital Markets,Bermuda
+697,MSA,MSA Safety Inc,Industrials,Security & Protection Services,USA
+698,MSGE,Madison Square Garden Entertainment Corp,Communication Services,Entertainment,USA
+699,MSGS,Madison Square Garden Sports Corp,Communication Services,Entertainment,USA
+700,MSM,MSC Industrial Direct Co Inc,Industrials,Industrial Distribution,USA
+701,MTCH,Match Group Inc,Communication Services,Internet Content & Information,USA
+702,MTDR,Matador Resources Co,Energy,Oil & Gas E&P,USA
+703,MTG,MGIC Investment Corp,Financial,Insurance - Specialty,USA
+704,MTH,Meritage Homes Corp,Consumer Cyclical,Residential Construction,USA
+705,MTN,Vail Resorts Inc,Consumer Cyclical,Resorts & Casinos,USA
+706,MTRN,Materion Corp,Basic Materials,Other Industrial Metals & Mining,USA
+707,MTX,Minerals Technologies Inc,Basic Materials,Specialty Chemicals,USA
+708,MUR,Murphy Oil Corp,Energy,Oil & Gas E&P,USA
+709,MWA,Mueller Water Products Inc,Industrials,Specialty Industrial Machinery,USA
+710,MWH,SOLV Energy Inc,Utilities,Utilities - Renewable,USA
+711,MXL,MaxLinear Inc,Technology,Semiconductors,USA
+712,MYRG,MYR Group Inc,Industrials,Engineering & Construction,USA
+713,MZTI,Marzetti Co,Consumer Defensive,Packaged Foods,USA
+714,NAD,Nuveen Quality Municipal Income Fund,Financial,Closed-End Fund - Debt,USA
+715,NAMS,NewAmsterdam Pharma Company NV,Healthcare,Biotechnology,Netherlands
+716,NATL,NCR Atleos Corp,Technology,Software - Application,USA
+717,NAVN,Navan Inc,Technology,Software - Application,USA
+718,NBTB,NBT Bancorp Inc,Financial,Banks - Regional,USA
+719,NBTX,Nanobiotix ADR,Healthcare,Biotechnology,France
+720,NCLH,Norwegian Cruise Line Holdings Ltd,Consumer Cyclical,Travel Services,USA
+721,NCNO,Ncino Inc,Technology,Software - Application,USA
+722,NE,Noble Corp Plc,Energy,Oil & Gas Drilling,USA
+723,NEA,Nuveen AMT-Free Quality Municipal Income Fund,Financial,Closed-End Fund - Debt,USA
+724,NEO,Neogenomics Inc,Healthcare,Diagnostics & Research,USA
+725,NEOG,Neogen Corp,Healthcare,Medical Devices,USA
+726,NESR,National Energy Services Reunited Corp,Energy,Oil & Gas Equipment & Services,USA
+727,NEU,NewMarket Corp,Basic Materials,Specialty Chemicals,USA
+728,NFG,National Fuel Gas Co,Energy,Oil & Gas Integrated,USA
+729,NG,Novagold Resources Inc,Basic Materials,Gold,USA
+730,NGL,NGL Energy Partners LP,Energy,Oil & Gas Midstream,USA
+731,NGVT,Ingevity Corp,Basic Materials,Specialty Chemicals,USA
+732,NHC,National Healthcare Corp,Healthcare,Medical Care Facilities,USA
+733,NHI,National Health Investors Inc,Real Estate,REIT - Healthcare Facilities,USA
+734,NIC,Nicolet Bankshares Inc,Financial,Banks - Regional,USA
+735,NICE,NICE Ltd ADR,Technology,Software - Application,Israel
+736,NIQ,NIQ Global Intelligence plc,Technology,Software - Application,USA
+737,NJR,New Jersey Resources Corp,Utilities,Utilities - Regulated Gas,USA
+738,NKTR,Nektar Therapeutics,Healthcare,Biotechnology,USA
+739,NMIH,NMI Holdings Inc,Financial,Insurance - Specialty,USA
+740,NMM,Navios Maritime Partners LP,Industrials,Marine Shipping,Greece
+741,NMRK,Newmark Group Inc,Real Estate,Real Estate Services,USA
+742,NMZ,Nuveen Municipal High Income Opportunity Fund,Financial,Closed-End Fund - Debt,USA
+743,NN,NextNav Inc,Technology,Software - Infrastructure,USA
+744,NNI,Nelnet Inc,Financial,Credit Services,USA
+745,NNN,NNN REIT Inc,Real Estate,REIT - Retail,USA
+746,NOG,Northern Oil and Gas Inc,Energy,Oil & Gas E&P,USA
+747,NOV,NOV Inc,Energy,Oil & Gas Equipment & Services,USA
+748,NOVT,Novanta Inc,Technology,Scientific & Technical Instruments,USA
+749,NP,Neptune Insurance Holdings Inc,Financial,Insurance Brokers,USA
+750,NPO,Enpro Inc,Industrials,Specialty Industrial Machinery,USA
+751,NRIX,Nurix Therapeutics Inc,Healthcare,Biotechnology,USA
+752,NSIT,Insight Enterprises Inc,Technology,Electronics & Computer Distribution,USA
+753,NTB,Bank of N T Butterfield & Son Ltd,Financial,Banks - Diversified,Bermuda
+754,NTCT,Netscout Systems Inc,Technology,Software - Infrastructure,USA
+755,NTSK,Netskope Inc,Technology,Software - Infrastructure,USA
+756,NTST,Netstreit Corp,Real Estate,REIT - Retail,USA
+757,NUVB,Nuvation Bio Inc,Healthcare,Biotechnology,USA
+758,NVCR,NovoCure Ltd,Healthcare,Medical Devices,United Kingdom
+759,NVG,Nuveen AMT-Free Municipal Credit Income Fund,Financial,Closed-End Fund - Debt,USA
+760,NVST,Envista Holdings Corp,Healthcare,Medical Instruments & Supplies,USA
+761,NVTS,Navitas Semiconductor Corp,Technology,Semiconductors,USA
+762,NWBI,Northwest Bancshares Inc,Financial,Banks - Regional,USA
+763,NWE,NorthWestern Energy Group Inc,Utilities,Utilities - Regulated Electric,USA
+764,NWL,Newell Brands Inc,Consumer Defensive,Household & Personal Products,USA
+765,NWN,Northwest Natural Holding Co,Utilities,Utilities - Regulated Gas,USA
+766,NXE,NexGen Energy Ltd,Energy,Uranium,Canada
+767,NXST,Nexstar Media Group Inc,Communication Services,Broadcasting,USA
+768,NZF,Nuveen Municipal Credit Income Fund,Financial,Closed-End Fund - Debt,USA
+769,OBDC,Blue Owl Capital Corp,Financial,Asset Management,USA
+770,OCTV,Octave Intelligence Plc,Technology,Software - Application,USA
+771,OCUL,Ocular Therapeutix Inc,Healthcare,Biotechnology,USA
+772,OFG,OFG Bancorp,Financial,Banks - Regional,USA
+773,OGC,OceanaGold Corp,Basic Materials,Gold,Canada
+774,OGE,Oge Energy Corp,Utilities,Utilities - Regulated Electric,USA
+775,OGN,Organon & Co,Healthcare,Drug Manufacturers - General,USA
+776,OGS,ONE Gas Inc,Utilities,Utilities - Regulated Gas,USA
+777,OII,Oceaneering International Inc,Energy,Oil & Gas Equipment & Services,USA
+778,OKLO,Oklo Inc,Utilities,Utilities - Independent Power Producers,USA
+779,OLED,Universal Display Corp,Technology,Electronic Components,USA
+780,OLLI,Ollies Bargain Outlet Holdings Inc,Consumer Defensive,Discount Stores,USA
+781,OLN,Olin Corp,Basic Materials,Chemicals,USA
+782,OMAB,Grupo Aeroportuario del Centro Norte SAB de C.V ADR,Industrials,Airports & Air Services,Mexico
+783,OMF,OneMain Holdings Inc,Financial,Credit Services,USA
+784,ONDS,Ondas Inc,Technology,Communication Equipment,USA
+785,OPCH,Option Care Health Inc,Healthcare,Medical Care Facilities,USA
+786,OPEN,Opendoor Technologies Inc,Real Estate,Real Estate Services,USA
+787,OPLN,Openlane Inc,Consumer Cyclical,Auto & Truck Dealerships,USA
+788,OR,OR Royalties Inc,Basic Materials,Gold,Canada
+789,ORA,Ormat Technologies Inc,Utilities,Utilities - Renewable,USA
+790,ORKA,Oruka Therapeutics Inc,Healthcare,Biotechnology,USA
+791,OSCR,Oscar Health Inc,Healthcare,Healthcare Plans,USA
+792,OSIS,OSI Systems Inc,Technology,Electronic Components,USA
+793,OSK,Oshkosh Corp,Industrials,Farm & Heavy Construction Machinery,USA
+794,OSW,OneSpaWorld Holdings Limited,Consumer Cyclical,Leisure,Bahamas
+795,OTEX,Open Text Corp,Technology,Software - Application,Canada
+796,OTF,Blue Owl Technology Finance Corp,Financial,Asset Management,USA
+797,OTTR,Otter Tail Corp,Industrials,Conglomerates,USA
+798,OUST,Ouster Inc,Technology,Electronic Components,USA
+799,OUT,Outfront Media Inc,Real Estate,REIT - Specialty,USA
+800,OZK,Bank OZK,Financial,Banks - Regional,USA
+801,PACS,PACS Group Inc,Healthcare,Medical Care Facilities,USA
+802,PAGS,PagSeguro Digital Ltd,Technology,Software - Infrastructure,Brazil
+803,PAM,Pampa Energia SA ADR,Industrials,Conglomerates,Argentina
+804,PARR,Par Pacific Holdings Inc,Energy,Oil & Gas Refining & Marketing,USA
+805,PATH,UiPath Inc,Technology,Software - Infrastructure,USA
+806,PATK,Patrick Industries Inc,Consumer Cyclical,Recreational Vehicles,USA
+807,PAY,Paymentus Holdings Inc,Technology,Software - Infrastructure,USA
+808,PAYC,Paycom Software Inc,Technology,Software - Application,USA
+809,PAYO,Payoneer Global Inc,Technology,Software - Infrastructure,USA
+810,PAYP,PayPay Corp ADR,Technology,Software - Infrastructure,Japan
+811,PB,Prosperity Bancshares Inc,Financial,Banks - Regional,USA
+812,PBF,PBF Energy Inc,Energy,Oil & Gas Refining & Marketing,USA
+813,PBH,Prestige Consumer Healthcare Inc,Healthcare,Drug Manufacturers - Specialty & Generic,USA
+814,PBI,Pitney Bowes Inc,Industrials,Integrated Freight & Logistics,USA
+815,PBLS,Parabilis Medicines Inc,Healthcare,Biotechnology,USA
+816,PCOR,Procore Technologies Inc,Technology,Software - Application,USA
+817,PCTY,Paylocity Holding Corp,Technology,Software - Application,USA
+818,PCVX,Vaxcyte Inc,Healthcare,Biotechnology,USA
+819,PDFS,PDF Solutions Inc,Technology,Software - Application,USA
+820,PDI,PIMCO Dynamic Income Fund,Financial,Closed-End Fund - Debt,USA
+821,PEB,Pebblebrook Hotel Trust,Real Estate,REIT - Hotel & Motel,USA
+822,PECO,Phillips Edison & Company Inc,Real Estate,REIT - Retail,USA
+823,PEGA,Pegasystems Inc,Technology,Software - Application,USA
+824,PENG,Penguin Solutions Inc,Technology,Information Technology Services,USA
+825,PENN,PENN Entertainment Inc,Consumer Cyclical,Resorts & Casinos,USA
+826,PFS,Provident Financial Services Inc,Financial,Banks - Regional,USA
+827,PFSI,PennyMac Financial Services Inc,Financial,Mortgage Finance,USA
+828,PGEN,Precigen Inc,Healthcare,Biotechnology,USA
+829,PHI,PLDT Inc ADR,Communication Services,Telecom Services,Philippines
+830,PHIN,PHINIA Inc,Consumer Cyclical,Auto Parts,USA
+831,PHVS,Pharvaris NV,Healthcare,Biotechnology,Netherlands
+832,PI,Impinj Inc,Technology,Semiconductors,USA
+833,PII,Polaris Inc,Consumer Cyclical,Recreational Vehicles,USA
+834,PIPR,Piper Sandler Co's,Financial,Capital Markets,USA
+835,PJT,PJT Partners Inc,Financial,Capital Markets,USA
+836,PK,Park Hotels & Resorts Inc,Real Estate,REIT - Hotel & Motel,USA
+837,PL,Planet Labs PBC,Industrials,Aerospace & Defense,USA
+838,PLBL,Polibeli Group Ltd,Consumer Cyclical,Department Stores,Indonesia
+839,PLGO,Pelagos Insurance Capital Ltd,Financial,Insurance - Diversified,Bermuda
+840,PLMR,Palomar Holdings Inc,Financial,Insurance - Property & Casualty,USA
+841,PLNT,Planet Fitness Inc,Consumer Cyclical,Leisure,USA
+842,PLPC,Preformed Line Products Co,Industrials,Electrical Equipment & Parts,USA
+843,PLSE,Pulse Biosciences Inc,Healthcare,Medical Instruments & Supplies,USA
+844,PLUG,Plug Power Inc,Industrials,Electrical Equipment & Parts,USA
+845,PLUS,ePlus Inc,Technology,Software - Application,USA
+846,PLXS,Plexus Corp,Technology,Electronic Components,USA
+847,PONY,Pony AI Inc ADR,Technology,Information Technology Services,China
+848,POOL,Pool Corp,Industrials,Industrial Distribution,USA
+849,POR,Portland General Electric Co,Utilities,Utilities - Regulated Electric,USA
+850,POST,Post Holdings Inc,Consumer Defensive,Packaged Foods,USA
+851,POWI,Power Integrations Inc,Technology,Semiconductors,USA
+852,POWL,Powell Industries Inc,Industrials,Electrical Equipment & Parts,USA
+853,PPC,Pilgrim's Pride Corp,Consumer Defensive,Packaged Foods,USA
+854,PPLI,People Inc,Communication Services,Internet Content & Information,USA
+855,PPTA,Perpetua Resources Corp,Basic Materials,Other Precious Metals & Mining,USA
+856,PRDO,Perdoceo Education Corp,Consumer Defensive,Education & Training Services,USA
+857,PRI,Primerica Inc,Financial,Insurance - Life,USA
+858,PRIM,Primoris Services Corp,Industrials,Engineering & Construction,USA
+859,PRK,Park National Corp,Financial,Banks - Regional,USA
+860,PRKS,United Parks & Resorts Inc,Consumer Cyclical,Leisure,USA
+861,PRLB,Proto Labs Inc,Industrials,Metal Fabrication,USA
+862,PRM,Perimeter Solutions Inc,Basic Materials,Specialty Chemicals,USA
+863,PRMB,Primo Brands Corp,Consumer Defensive,Beverages - Non-Alcoholic,USA
+864,PRVA,Privia Health Group Inc,Healthcare,Health Information Services,USA
+865,PSMT,Pricesmart Inc,Consumer Defensive,Discount Stores,USA
+866,PSN,Parsons Corp,Technology,Information Technology Services,USA
+867,PSO,Pearson plc ADR,Communication Services,Publishing,United Kingdom
+868,PSUS,Pershing Square USA Ltd,Financial,Closed-End Fund - Equity,USA
+869,PTCT,PTC Therapeutics Inc,Healthcare,Biotechnology,USA
+870,PTEN,Patterson-UTI Energy Inc,Energy,Oil & Gas Drilling,USA
+871,PTON,Peloton Interactive Inc,Consumer Cyclical,Leisure,USA
+872,PTRN,Pattern Group Inc,Technology,Software - Application,USA
+873,PTY,PIMCO Corporate & Income Opportunity Fund,Financial,Closed-End Fund - Debt,USA
+874,PVH,PVH Corp,Consumer Cyclical,Apparel Manufacturing,USA
+875,PVLA,Palvella Therapeutics Inc,Healthcare,Biotechnology,USA
+876,QBTS,D-Wave Quantum Inc,Technology,Computer Hardware,USA
+877,QGEN,Qiagen NV,Healthcare,Diagnostics & Research,Netherlands
+878,QLYS,Qualys Inc,Technology,Software - Infrastructure,USA
+879,QRVO,Qorvo Inc,Technology,Semiconductors,USA
+880,QS,QuantumScape Corp,Consumer Cyclical,Auto Parts,USA
+881,QTWO,Q2 Holdings Inc,Technology,Software - Application,USA
+882,QURE,uniQure NV,Healthcare,Biotechnology,Netherlands
+883,RAL,Ralliant Corp,Technology,Electronic Components,USA
+884,RAMP,LiveRamp Holdings Inc,Technology,Software - Infrastructure,USA
+885,RAPP,Rapport Therapeutics Inc,Healthcare,Biotechnology,USA
+886,RARE,Ultragenyx Pharmaceutical Inc,Healthcare,Biotechnology,USA
+887,RCUS,Arcus Biosciences Inc,Healthcare,Biotechnology,USA
+888,RDN,Radian Group Inc,Financial,Insurance - Specialty,USA
+889,RDNT,Radnet Inc,Healthcare,Diagnostics & Research,USA
+890,RDW,Redwire Corp,Industrials,Aerospace & Defense,USA
+891,RELY,Remitly Global Inc,Technology,Software - Infrastructure,USA
+892,REXR,Rexford Industrial Realty Inc,Real Estate,REIT - Industrial,USA
+893,REYN,Reynolds Consumer Products Inc,Consumer Cyclical,Packaging & Containers,USA
+894,REZI,Resideo Technologies Inc,Industrials,Industrial Distribution,USA
+895,RGC,Regencell Bioscience Holdings Ltd,Healthcare,Drug Manufacturers - Specialty & Generic,Hong Kong
+896,RGEN,Repligen Corp,Healthcare,Medical Instruments & Supplies,USA
+897,RGTI,Rigetti Computing Inc,Technology,Computer Hardware,USA
+898,RH,RH,Consumer Cyclical,Specialty Retail,USA
+899,RHI,Robert Half Inc,Industrials,Staffing & Employment Services,USA
+900,RHP,Ryman Hospitality Properties Inc,Real Estate,REIT - Hotel & Motel,USA
+901,RIG,Transocean Ltd,Energy,Oil & Gas Drilling,Switzerland
+902,RIOT,Riot Platforms Inc,Financial,Capital Markets,USA
+903,RITM,Rithm Capital Corp,Real Estate,REIT - Mortgage,USA
+904,RLAY,Relay Therapeutics Inc,Healthcare,Biotechnology,USA
+905,RLI,RLI Corp,Financial,Insurance - Property & Casualty,USA
+906,RNG,RingCentral Inc,Technology,Software - Application,USA
+907,RNST,Renasant Corp,Financial,Banks - Regional,USA
+908,RNW,ReNew Energy Global plc,Utilities,Utilities - Renewable,India
+909,ROAD,Construction Partners Inc,Industrials,Engineering & Construction,USA
+910,ROG,Rogers Corp,Technology,Electronic Components,USA
+911,RRC,Range Resources Corp,Energy,Oil & Gas E&P,USA
+912,RRR,Red Rock Resorts Inc,Consumer Cyclical,Resorts & Casinos,USA
+913,RSI,Rush Street Interactive Inc,Consumer Cyclical,Gambling,USA
+914,RUM,RUM Group Inc,Communication Services,Internet Content & Information,USA
+915,RUN,Sunrun Inc,Technology,Solar,USA
+916,RUSHA,Rush Enterprises Inc,Consumer Cyclical,Auto & Truck Dealerships,USA
+917,RVT,Royce Small Cap Trust Inc,Financial,Closed-End Fund - Equity,USA
+918,RXO,RXO Inc,Industrials,Trucking,USA
+919,RYN,Rayonier Inc,Real Estate,REIT - Specialty,USA
+920,RYTM,Rhythm Pharmaceuticals Inc,Healthcare,Biotechnology,USA
+921,S,SentinelOne Inc,Technology,Software - Infrastructure,USA
+922,SA,Seabridge Gold Inc,Basic Materials,Gold,Canada
+923,SAH,Sonic Automotive Inc,Consumer Cyclical,Auto & Truck Dealerships,USA
+924,SAIC,Science Applications International Corp,Technology,Information Technology Services,USA
+925,SARO,StandardAero Inc,Industrials,Aerospace & Defense,USA
+926,SBCF,Seacoast Banking Corp Of Florida,Financial,Banks - Regional,USA
+927,SBLK,Star Bulk Carriers Corp,Industrials,Marine Shipping,Greece
+928,SBRA,Sabra Healthcare REIT Inc,Real Estate,REIT - Healthcare Facilities,USA
+929,SBSW,Sibanye Stillwater Limited ADR,Basic Materials,Other Precious Metals & Mining,South Africa
+930,SDRL,Seadrill Ltd,Energy,Oil & Gas Drilling,Bermuda
+931,SEB,Seaboard Corp,Industrials,Conglomerates,USA
+932,SEI,Solaris Energy Infrastructure Inc,Energy,Oil & Gas Equipment & Services,USA
+933,SEPN,Septerna Inc,Healthcare,Biotechnology,USA
+934,SEZL,Sezzle Inc,Financial,Credit Services,USA
+935,SFBS,ServisFirst Bancshares Inc,Financial,Banks - Regional,USA
+936,SFD,Smithfield Foods Inc,Consumer Defensive,Packaged Foods,USA
+937,SFM,Sprouts Farmers Market Inc,Consumer Defensive,Grocery Stores,USA
+938,SFNC,Simmons First National Corp,Financial,Banks - Regional,USA
+939,SGHC,Super Group (SGHC) Limited,Consumer Cyclical,Gambling,United Kingdom
+940,SHAK,Shake Shack Inc,Consumer Cyclical,Restaurants,USA
+941,SHAZ,SharonAI Holdings Inc,Technology,Information Technology Services,USA
+942,SHC,Sotera Health Co,Healthcare,Diagnostics & Research,USA
+943,SHO,Sunstone Hotel Investors Inc,Real Estate,REIT - Hotel & Motel,USA
+944,SHOO,Steven Madden Ltd,Consumer Cyclical,Footwear & Accessories,USA
+945,SIG,Signet Jewelers Ltd,Consumer Cyclical,Luxury Goods,Bermuda
+946,SIGI,Selective Insurance Group Inc,Financial,Insurance - Property & Casualty,USA
+947,SII,Sprott Inc,Financial,Asset Management,Canada
+948,SIM,Grupo Simec SAB de CV ADR,Basic Materials,Steel,Mexico
+949,SIMO,Silicon Motion Technology Corp ADR,Technology,Semiconductors,Hong Kong
+950,SIND,Sinda Ltd,Basic Materials,Other Precious Metals & Mining,Mexico
+951,SIRI,Sirius XM Holdings Inc,Communication Services,Entertainment,USA
+952,SITE,SiteOne Landscape Supply Inc,Industrials,Industrial Distribution,USA
+953,SKE,Skeena Resources Ltd,Basic Materials,Other Industrial Metals & Mining,Canada
+954,SKT,Tanger Inc,Real Estate,REIT - Retail,USA
+955,SKWD,Skyward Specialty Insurance Group Inc,Financial,Insurance - Property & Casualty,USA
+956,SKY,Champion Homes Inc,Consumer Cyclical,Residential Construction,USA
+957,SKYW,Skywest Inc,Industrials,Airlines,USA
+958,SLAB,Silicon Laboratories Inc,Technology,Semiconductors,USA
+959,SLDE,Slide Insurance Holdings Inc,Financial,Insurance - Property & Casualty,USA
+960,SLG,SL Green Realty Corp,Real Estate,REIT - Office,USA
+961,SLGN,Silgan Holdings Inc,Consumer Cyclical,Packaging & Containers,USA
+962,SLM,SLM Corp,Financial,Credit Services,USA
+963,SLS,SELLAS Life Sciences Group Inc,Healthcare,Biotechnology,USA
+964,SM,SM Energy Co,Energy,Oil & Gas E&P,USA
+965,SMA,Smartstop Self Storage REIT Inc,Real Estate,REIT - Industrial,USA
+966,SMG,Scotts Miracle-Gro Company,Basic Materials,Agricultural Inputs,USA
+967,SMR,NuScale Power Corp,Industrials,Specialty Industrial Machinery,USA
+968,SNAP,Snap Inc,Communication Services,Internet Content & Information,USA
+969,SNDR,Schneider National Inc,Industrials,Trucking,USA
+970,SNEX,StoneX Group Inc,Financial,Capital Markets,USA
+971,SOBO,South Bow Corp,Energy,Oil & Gas Midstream,Canada
+972,SOLS,Solstice Advanced Materials Inc,Basic Materials,Specialty Chemicals,USA
+973,SON,Sonoco Products Co,Consumer Cyclical,Packaging & Containers,USA
+974,SOUN,SoundHound AI Inc,Technology,Software - Application,USA
+975,SPB,Spectrum Brands Holdings Inc,Consumer Defensive,Household & Personal Products,USA
+976,SPHR,Sphere Entertainment Co,Communication Services,Entertainment,USA
+977,SPNT,SiriusPoint Ltd,Financial,Insurance - Reinsurance,Bermuda
+978,SPSC,SPS Commerce Inc,Technology,Software - Application,USA
+979,SR,Spire Inc,Utilities,Utilities - Regulated Gas,USA
+980,SRAD,Sportradar Group AG,Technology,Software - Application,Switzerland
+981,SRCE,1st Source Corp,Financial,Banks - Regional,USA
+982,SRRK,Scholar Rock Holding Corp,Healthcare,Biotechnology,USA
+983,SSD,Simpson Manufacturing Co Inc,Basic Materials,Lumber & Wood Production,USA
+984,SSL,Sasol Ltd ADR,Basic Materials,Specialty Chemicals,South Africa
+985,SSMR,Sunshine Silver Mining & Refining Co,Basic Materials,Other Industrial Metals & Mining,USA
+986,SSRM,SSR Mining Inc,Basic Materials,Gold,USA
+987,ST,Sensata Technologies Holding Plc,Technology,Scientific & Technical Instruments,USA
+988,STAG,STAG Industrial Inc,Real Estate,REIT - Industrial,USA
+989,STC,Stewart Information Services Corp,Financial,Insurance - Property & Casualty,USA
+990,STEP,StepStone Group Inc,Financial,Asset Management,USA
+991,STGW,Stagwell Inc,Communication Services,Advertising Agencies,USA
+992,STN,Stantec Inc,Industrials,Engineering & Construction,Canada
+993,STNE,StoneCo Ltd,Technology,Software - Infrastructure,Brazil
+994,STNG,Scorpio Tankers Inc,Energy,Oil & Gas Midstream,Monaco
+995,STOK,Stoke Therapeutics Inc,Healthcare,Biotechnology,USA
+996,STUB,Stubhub Holdings Inc,Communication Services,Internet Content & Information,USA
+997,STVN,Stevanato Group Spa,Healthcare,Medical Instruments & Supplies,Italy
+998,STWD,Starwood Property Trust Inc,Real Estate,REIT - Mortgage,USA
+999,SUNC,SunocoCorp LLC,Energy,Oil & Gas Midstream,USA
+1000,SUPN,Supernus Pharmaceuticals Inc,Healthcare,Drug Manufacturers - Specialty & Generic,USA
+1001,SUZ,Suzano SA ADR,Basic Materials,Paper & Paper Products,Brazil
+1002,SVM,Silvercorp Metals Inc,Basic Materials,Silver,Canada
+1003,SWKS,Skyworks Solutions Inc,Technology,Semiconductors,USA
+1004,SWX,Southwest Gas Holdings Inc,Utilities,Utilities - Regulated Gas,USA
+1005,SXI,Standex International Corp,Industrials,Specialty Industrial Machinery,USA
+1006,SXT,Sensient Technologies Corp,Basic Materials,Specialty Chemicals,USA
+1007,SYBT,Stock Yards Bancorp Inc,Financial,Banks - Regional,USA
+1008,SYNA,Synaptics Inc,Technology,Semiconductors,USA
+1009,SYRE,Spyre Therapeutics Inc,Healthcare,Biotechnology,USA
+1010,TAC,Transalta Corp,Utilities,Utilities - Independent Power Producers,Canada
+1011,TAL,TAL Education Group ADR,Consumer Defensive,Education & Training Services,China
+1012,TALO,Talos Energy Inc,Energy,Oil & Gas E&P,USA
+1013,TAP,Molson Coors Beverage Company,Consumer Defensive,Beverages - Brewers,USA
+1014,TARS,Tarsus Pharmaceuticals Inc,Healthcare,Biotechnology,USA
+1015,TBBB,BBB Foods Inc,Consumer Defensive,Discount Stores,Mexico
+1016,TBBK,Bancorp Inc,Financial,Banks - Regional,USA
+1017,TCBI,Texas Capital Bancshares Inc,Financial,Banks - Regional,USA
+1018,TDC,Teradata Corp,Technology,Software - Infrastructure,USA
+1019,TDS,Telephone And Data Systems Inc,Communication Services,Telecom Services,USA
+1020,TDW,Tidewater Inc,Energy,Oil & Gas Equipment & Services,USA
+1021,TEM,Tempus AI Inc,Healthcare,Health Information Services,USA
+1022,TENB,Tenable Holdings Inc,Technology,Software - Infrastructure,USA
+1023,TEX,Terex Corp,Industrials,Farm & Heavy Construction Machinery,USA
+1024,TFPM,Triple Flag Precious Metals Corp,Basic Materials,Other Precious Metals & Mining,Canada
+1025,TFSL,TFS Financial Corp,Financial,Banks - Regional,USA
+1026,TFX,Teleflex Incorporated,Healthcare,Medical Instruments & Supplies,USA
+1027,TGB,Trekor Metals Ltd,Basic Materials,Copper,Canada
+1028,TGTX,TG Therapeutics Inc,Healthcare,Biotechnology,USA
+1029,THG,Hanover Insurance Group Inc,Financial,Insurance - Property & Casualty,USA
+1030,THO,Thor Industries Inc,Consumer Cyclical,Recreational Vehicles,USA
+1031,TIC,TIC Solutions Inc,Industrials,Specialty Business Services,USA
+1032,TILE,Interface Inc,Consumer Cyclical,"Furnishings, Fixtures & Appliances",USA
+1033,TIMB,TIM SA ADR,Communication Services,Telecom Services,Brazil
+1034,TKC,Turkcell Iletisim Hizmetleri A.S ADR,Communication Services,Telecom Services,Turkey
+1035,TKR,Timken Co,Industrials,Tools & Accessories,USA
+1036,TLX,Telix Pharmaceuticals Ltd ADR,Healthcare,Biotechnology,Australia
+1037,TMDX,Transmedics Group Inc,Healthcare,Medical Devices,USA
+1038,TME,Tencent Music Entertainment Group ADR,Communication Services,Internet Content & Information,China
+1039,TNET,TriNet Group Inc,Industrials,Staffing & Employment Services,USA
+1040,TNGX,Tango Therapeutics Inc,Healthcare,Biotechnology,USA
+1041,TNK,Teekay Tankers Ltd,Energy,Oil & Gas Midstream,Bermuda
+1042,TNL,Travel+Leisure Co,Consumer Cyclical,Travel Services,USA
+1043,TOWN,Townebank Portsmouth VA,Financial,Banks - Regional,USA
+1044,TPC,Tutor Perini Corp,Industrials,Engineering & Construction,USA
+1045,TR,Tootsie Roll Industries Inc,Consumer Defensive,Confectioners,USA
+1046,TREX,TREX Co Inc,Industrials,Building Products & Equipment,USA
+1047,TRMD,Torm Plc,Energy,Oil & Gas Midstream,United Kingdom
+1048,TRMK,Trustmark Corp,Financial,Banks - Regional,USA
+1049,TRN,Trinity Industries Inc,Industrials,Railroads,USA
+1050,TRNO,Terreno Realty Corp,Real Estate,REIT - Industrial,USA
+1051,TRVI,Trevi Therapeutics Inc,Healthcare,Biotechnology,USA
+1052,TTAM,Titan America SA,Basic Materials,Building Materials,Belgium
+1053,TTAN,ServiceTitan Inc,Technology,Software - Application,USA
+1054,TTC,Toro Co,Industrials,Tools & Accessories,USA
+1055,TTD,Trade Desk Inc,Communication Services,Advertising Agencies,USA
+1056,TTEK,Tetra Tech Inc,Industrials,Engineering & Construction,USA
+1057,TVTX,Travere Therapeutics Inc,Healthcare,Biotechnology,USA
+1058,TWST,Twist Bioscience Corp,Healthcare,Diagnostics & Research,USA
+1059,TXG,10x Genomics Inc,Healthcare,Health Information Services,USA
+1060,TXNM,TXNM Energy Inc,Utilities,Utilities - Regulated Electric,USA
+1061,UA,Under Armour Inc,Consumer Cyclical,Apparel Manufacturing,USA
+1062,UAA,Under Armour Inc,Consumer Cyclical,Apparel Manufacturing,USA
+1063,UBSI,United Bankshares Inc,Financial,Banks - Regional,USA
+1064,UCB,United Community Banks Inc,Financial,Banks - Regional,USA
+1065,UCTT,Ultra Clean Hldgs Inc,Technology,Semiconductor Equipment & Materials,USA
+1066,UE,Urban Edge Properties,Real Estate,REIT - Retail,USA
+1067,UEC,Uranium Energy Corp,Energy,Uranium,USA
+1068,UFPI,UFP Industries Inc,Basic Materials,Lumber & Wood Production,USA
+1069,UFPT,UFP Technologies Inc,Healthcare,Medical Devices,USA
+1070,UGI,UGI Corp,Utilities,Utilities - Regulated Gas,USA
+1071,UGP,Ultrapar Participacoes SA ADR,Energy,Oil & Gas Refining & Marketing,Brazil
+1072,UNF,Unifirst Corp,Industrials,Specialty Business Services,USA
+1073,UNFI,United Natural Foods Inc,Consumer Defensive,Food Distribution,USA
+1074,UNIT,Uniti Group Inc,Real Estate,REIT - Specialty,USA
+1075,UPST,Upstart Holdings Inc,Financial,Credit Services,USA
+1076,URBN,Urban Outfitters Inc,Consumer Cyclical,Apparel Retail,USA
+1077,URGN,UroGen Pharma Ltd,Healthcare,Biotechnology,USA
+1078,USAC,USA Compression Partners LP,Energy,Oil & Gas Equipment & Services,USA
+1079,USAR,USA Rare Earth Inc,Basic Materials,Other Industrial Metals & Mining,USA
+1080,USLM,United States Lime & Minerals Inc,Basic Materials,Building Materials,USA
+1081,UTF,Cohen & Steers Infrastructure Fund Inc,Financial,Closed-End Fund - Equity,USA
+1082,UTG,Reaves Utility Income Fund,Financial,Closed-End Fund - Equity,USA
+1083,UTZ,Utz Brands Inc,Consumer Defensive,Packaged Foods,USA
+1084,UUUU,Energy Fuels Inc,Energy,Uranium,USA
+1085,UWMC,UWM Holdings Corp,Financial,Mortgage Finance,USA
+1086,VAC,Marriott Vacations Worldwide Corp,Consumer Cyclical,Resorts & Casinos,USA
+1087,VAL,Valaris Ltd,Energy,Oil & Gas Drilling,Bermuda
+1088,VC,Visteon Corp,Consumer Cyclical,Auto Parts,USA
+1089,VCEL,Vericel Corp,Healthcare,Biotechnology,USA
+1090,VCTR,Victory Capital Holdings Inc,Financial,Asset Management,USA
+1091,VCYT,Veracyte Inc,Healthcare,Diagnostics & Research,USA
+1092,VECO,Veeco Instruments Inc,Technology,Semiconductor Equipment & Materials,USA
+1093,VEON,VEON Ltd ADR,Communication Services,Telecom Services,United Arab Emirates
+1094,VERA,Vera Therapeutics Inc,Healthcare,Biotechnology,USA
+1095,VERX,Vertex Inc,Technology,Software - Application,USA
+1096,VFC,VF Corp,Consumer Cyclical,Apparel Manufacturing,USA
+1097,VFS,VinFast Auto Ltd,Consumer Cyclical,Auto Manufacturers,Vietnam
+1098,VGNT,Versigent Plc,Consumer Cyclical,Auto Parts,Switzerland
+1099,VIA,Via Transportation Inc,Technology,Software - Application,USA
+1100,VIPS,Vipshop Holdings Ltd ADR,Consumer Cyclical,Internet Retail,China
+1101,VIRT,Virtu Financial Inc,Financial,Capital Markets,USA
+1102,VISN,Vistance Networks Inc,Technology,Communication Equipment,USA
+1103,VIST,Vista Energy SAB de CV ADR,Energy,Oil & Gas E&P,Mexico
+1104,VKTX,Viking Therapeutics Inc,Healthcare,Biotechnology,USA
+1105,VLY,Valley National Bancorp,Financial,Banks - Regional,USA
+1106,VMI,Valmont Industries Inc,Industrials,Conglomerates,USA
+1107,VNO,Vornado Realty Trust,Real Estate,REIT - Office,USA
+1108,VNT,Vontier Corp,Technology,Scientific & Technical Instruments,USA
+1109,VOYA,Voya Financial Inc,Financial,Financial Conglomerates,USA
+1110,VOYG,Voyager Technologies Inc,Industrials,Aerospace & Defense,USA
+1111,VRDN,Viridian Therapeutics Inc,Healthcare,Biotechnology,USA
+1112,VRNS,Varonis Systems Inc,Technology,Software - Infrastructure,USA
+1113,VSEC,VSE Corp,Industrials,Aerospace & Defense,USA
+1114,VSH,Vishay Intertechnology Inc,Technology,Semiconductors,USA
+1115,VSNT,Versant Media Group Inc,Communication Services,Entertainment,USA
+1116,VSXY,Victoria's Secret & Co,Consumer Cyclical,Apparel Retail,USA
+1117,VTMX,Corporacion Inmobiliaria Vesta Sab ADR,Real Estate,Real Estate - Development,Mexico
+1118,VVV,Valvoline Inc,Consumer Cyclical,Auto & Truck Dealerships,USA
+1119,VVX,V2X Inc,Industrials,Aerospace & Defense,USA
+1120,WAFD,WaFd Inc,Financial,Banks - Regional,USA
+1121,WAL,Western Alliance Bancorp,Financial,Banks - Regional,USA
+1122,WAY,Waystar Holding Corp,Healthcare,Health Information Services,USA
+1123,WBI,WaterBridge Infrastructure LLC,Energy,Oil & Gas Equipment & Services,USA
+1124,WDFC,WD-40 Co,Basic Materials,Specialty Chemicals,USA
+1125,WERN,Werner Enterprises Inc,Industrials,Trucking,USA
+1126,WEX,WEX Inc,Technology,Software - Infrastructure,USA
+1127,WFG,West Fraser Timber Co Ltd,Basic Materials,Lumber & Wood Production,Canada
+1128,WFRD,Weatherford International plc,Energy,Oil & Gas Equipment & Services,USA
+1129,WGS,GeneDx Holdings Corp,Healthcare,Diagnostics & Research,USA
+1130,WH,Wyndham Hotels & Resorts Inc,Consumer Cyclical,Lodging,USA
+1131,WHD,Cactus Inc,Energy,Oil & Gas Equipment & Services,USA
+1132,WHR,Whirlpool Corp,Consumer Cyclical,"Furnishings, Fixtures & Appliances",USA
+1133,WING,Wingstop Inc,Consumer Cyclical,Restaurants,USA
+1134,WIX,Wix.com Ltd,Technology,Software - Infrastructure,Israel
+1135,WK,Workiva Inc,Technology,Software - Application,USA
+1136,WLK,Westlake Corp,Basic Materials,Specialty Chemicals,USA
+1137,WLY,John Wiley & Sons Inc,Communication Services,Publishing,USA
+1138,WOR,Worthington Enterprises Inc,Industrials,Metal Fabrication,USA
+1139,WPP,WPP Plc ADR,Communication Services,Advertising Agencies,United Kingdom
+1140,WRBY,Warby Parker Inc,Healthcare,Medical Instruments & Supplies,USA
+1141,WSBC,Wesbanco Inc,Financial,Banks - Regional,USA
+1142,WSC,WillScot Holdings Corp,Industrials,Rental & Leasing Services,USA
+1143,WSFS,WSFS Financial Corp,Financial,Banks - Regional,USA
+1144,WT,WisdomTree Inc,Financial,Asset Management,USA
+1145,WTM,White Mountains Insurance Group Ltd,Financial,Insurance - Property & Casualty,USA
+1146,WTTR,Select Water Solutions Inc,Energy,Oil & Gas Equipment & Services,USA
+1147,WU,Western Union Company,Financial,Credit Services,USA
+1148,WULF,TeraWulf Inc,Financial,Capital Markets,USA
+1149,XE,X-Energy Inc,Industrials,Specialty Industrial Machinery,USA
+1150,XENE,Xenon Pharmaceuticals Inc,Healthcare,Biotechnology,Canada
+1151,XIFR,XPLR Infrastructure LP,Utilities,Utilities - Renewable,USA
+1152,XMTR,Xometry Inc,Industrials,Industrial Distribution,USA
+1153,XNDU,Xanadu Quantum Technologies Ltd,Technology,Software - Infrastructure,Canada
+1154,XP,XP Inc,Financial,Capital Markets,Brazil
+1155,XPEV,XPeng Inc ADR,Consumer Cyclical,Auto Manufacturers,China
+1156,XPRO,Expro Ltd,Energy,Oil & Gas Equipment & Services,USA
+1157,XRAY,DENTSPLY Sirona Inc,Healthcare,Medical Instruments & Supplies,USA
+1158,XXI,Twenty One Capital Inc,Consumer Defensive,Education & Training Services,USA
+1159,YETI,YETI Holdings Inc,Consumer Cyclical,Leisure,USA
+1160,YMM,Full Truck Alliance Co Ltd ADR,Technology,Software - Application,China
+1161,YOU,Clear Secure Inc,Technology,Software - Application,USA
+1162,Z,Zillow Group Inc,Communication Services,Internet Content & Information,USA
+1163,ZBIO,Zenas Biopharma Inc,Healthcare,Biotechnology,USA
+1164,ZETA,Zeta Global Holdings Corp,Technology,Software - Infrastructure,USA
+1165,ZG,Zillow Group Inc,Communication Services,Internet Content & Information,USA
+1166,ZGN,Ermenegildo Zegna NV,Consumer Cyclical,Apparel Manufacturing,Italy
+1167,ZIM,Zim Integrated Shipping Services Ltd,Industrials,Marine Shipping,Israel
+1168,ZLAB,Zai Lab Limited ADR,Healthcare,Biotechnology,China
+1169,ZWS,Zurn Elkay Water Solutions Corp,Industrials,Pollution & Treatment Controls,USA
